@@ -190,7 +190,11 @@ def generate_tgz(version: str):
     # Create dist/KoboRoot.tgz
     with tarfile.open(dist_path / 'KoboRoot.tgz', 'w:gz') as tar:
         for pth in KOBOROOT_DIR.rglob('*'):
-            tar.add(pth, arcname=KOBOROOT_DIR)
+            arcname = str(pth).replace(str(KOBOROOT_DIR), '')
+            if '.DS_Store' in arcname:
+                continue
+
+            tar.add(pth, arcname=arcname)
 
     # Create dist/VERSION
     with open(dist_path / 'VERSION', 'w') as fp:
