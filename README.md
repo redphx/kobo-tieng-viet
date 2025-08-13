@@ -25,8 +25,8 @@ Xin cảm ơn ♥️
 | Trang chủ | Hoạt động | Mục lục |
 |:---------:|:---------:|:-------:|
 | [![Trang chủ](docs/images/screenshot-home.png)](docs/images/screenshot-home.png) | [![Hoạt động](docs/images/screenshot-activity.png)](docs/images/screenshot-activity.png) | [![Hoạt động](docs/images/screenshot-toc.png)](docs/images/screenshot-toc.png) |
-| [redphx/tudien](https://github.com/redphx/tudien) | Font monospace | |
-| [![Từ điển](docs/images/screenshot-dict.png)](docs/images/screenshot-dict.png) | [![Font monospace](docs/images/screenshot-monospace.png)](docs/images/screenshot-monospace.png) | |
+| [redphx/tudien](https://github.com/redphx/tudien) | Font monospace | Chọn ngôn ngữ |
+| [![Từ điển](docs/images/screenshot-dict.png)](docs/images/screenshot-dict.png) | [![Font monospace](docs/images/screenshot-monospace.png)](docs/images/screenshot-monospace.png) | [![Chọn ngôn ngữ](docs/images/screenshot-language.png)](docs/images/screenshot-language.png) |
 
 ## 🤓 2. Hướng dẫn cài đặt
 
