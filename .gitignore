@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# uv-specific
+uv.lock
+.pytest_cache/
+.uv/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# dotenv
+.env
+
+# Project
+dist/
+KoboRoot/mnt/
+KoboRoot/usr/
+translation/*.ts
+translation/*.qm
