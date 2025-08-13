@@ -1,0 +1,27 @@
+<context>
+    <name>IInkRenameNoteController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Create a name for your notebook e.g. "Ideas".</source>
+        <translation>Tạo tên cho sổ tay, ví dụ: "Ý tưởng".</translation>
+    </message>
+    <message>
+        <source>Rename Notebook</source>
+        <translation>Đổi tên sổ tay</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+    <message>
+        <source>Sorry. A filename cannot use any of the following characters: &lt; &gt; : ? " * \ | / ! . ( ) $</source>
+        <translation>Rất tiếc. Tên file không được chứa ký tự sau đây: &lt; &gt; : ? " * \ | / ! . ( ) $</translation>
+    </message>
+    <message>
+        <source>Sorry. A notebook with this name already exists.</source>
+        <translation>Rất tiếc. Sổ tay này đã tồn tại.</translation>
+    </message>
+</context>

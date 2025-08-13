@@ -1,0 +1,33 @@
+<context>
+    <name>Scribble</name>
+    <message>
+        <source>Are you sure you want to save
+%1?</source>
+        <translation>Bạn có chắc muốn lưu
+%1?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Image saved</source>
+        <translation>Đã lưu ảnh</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Reset image</source>
+        <translation>Đặt lại ảnh</translation>
+    </message>
+    <message>
+        <source>Save image</source>
+        <translation>Lưu ảnh</translation>
+    </message>
+    <message>
+        <source>Would you like to start a new drawing?</source>
+        <translation>Bạn có muốn bắt đầu một bản vẽ mới?</translation>
+    </message>
+</context>

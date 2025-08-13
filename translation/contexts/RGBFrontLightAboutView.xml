@@ -1,0 +1,87 @@
+<context>
+    <name>RGBFrontLightAboutView</name>
+    <message>
+        <source>%1 can automatically adjust the colour of the light to create a more natural nighttime reading experience.</source>
+        <translation>%1 có thể tự động điều chỉnh màu sắc ánh sáng để tạo trải nghiệm đọc ban đêm tự nhiên hơn.</translation>
+    </message>
+    <message>
+        <source>Candlelight</source>
+        <translation>Ánh nến</translation>
+    </message>
+    <message>
+        <source>Exposure to blue light during the day is actually a good thing! It helps to keep you awake, alert, and focused. With the auto setting on, we’ll make sure you get lots of blue light while the sun is up.</source>
+        <translation>Tiếp xúc với ánh sáng xanh vào ban ngày là điều tốt! Nó giúp bạn tỉnh táo, minh mẫn và tập trung. Khi bật cài đặt tự động, chúng tôi đảm bảo bạn nhận đủ ánh sáng xanh trong suốt ban ngày.</translation>
+    </message>
+    <message>
+        <source>How does auto brightness work?</source>
+        <translation>Độ sáng tự động hoạt động như thế nào?</translation>
+    </message>
+    <message>
+        <source>If you enjoy reading in bed, setting your bedtime tells your %1 what time you’ll need orange candlelight the most, so you can fall asleep more easily.</source>
+        <translation>Nếu bạn thích đọc sách trên giường, việc đặt giờ đi ngủ sẽ giúp %1 biết thời điểm bạn cần ánh nến cam nhất để dễ dàng chìm vào giấc ngủ hơn.</translation>
+    </message>
+    <message>
+        <source>Kobo Aura ONE senses how much light is available, and can automatically adjust the brightness level for you. It can also change the colour of the light to create a more natural night-time reading experience.</source>
+        <translation>Kobo Aura ONE cảm nhận lượng ánh sáng môi trường và tự động điều chỉnh độ sáng cho bạn. Nó cũng thay đổi màu ánh sáng để tạo trải nghiệm đọc ban đêm tự nhiên hơn.</translation>
+    </message>
+    <message>
+        <source>Read with the perfect light colour – any time of day or night.</source>
+        <translation>Đọc với màu ánh sáng hoàn hảo – bất kỳ lúc nào dù ngày hay đêm.</translation>
+    </message>
+    <message>
+        <source>Reducing your exposure to blue light at night can help you relax and sleep better, but during the day, blue light is actually a good thing! It helps to keep you awake, alert, and focused. With the Auto switch turned on, we’ll make sure you get the perfect amount of blue light no matter the time of day.</source>
+        <translation>Giảm tiếp xúc với ánh sáng xanh vào ban đêm có thể giúp bạn thư giãn và ngủ ngon hơn, nhưng vào ban ngày, ánh sáng xanh thực sự có lợi! Nó giúp bạn tỉnh táo, minh mẫn và tập trung. Khi bật công tắc tự động, chúng tôi sẽ đảm bảo bạn nhận đủ lượng ánh sáng xanh phù hợp bất kể thời gian trong ngày.</translation>
+    </message>
+    <message>
+        <source>Sunlight</source>
+        <translation>Ánh nắng</translation>
+    </message>
+    <message>
+        <source>The auto brightness setting uses an ambient light sensor to determine how bright your screen should be. You can customize the automatic setting by adjusting the brightness with the auto setting on. We’ll then maintain your preferred level as your surrounding light changes.</source>
+        <translation>Cài đặt độ sáng tự động sử dụng cảm biến ánh sáng xung quanh để xác định độ sáng màn hình. Bạn có thể tùy chỉnh bằng cách điều chỉnh độ sáng khi bật cài đặt tự động, và chúng tôi sẽ duy trì mức ưa thích khi ánh sáng môi trường thay đổi.</translation>
+    </message>
+    <message>
+        <source>The best way to understand the difference is to start reading and see it how it feels.</source>
+        <translation>Cách tốt nhất để hiểu sự khác biệt là bắt đầu đọc và cảm nhận.</translation>
+    </message>
+    <message>
+        <source>The Natural Light setting controls the colour of the light, which ranges from an orange candlelight for nighttime reading to a very white sunlight for daytime reading. As the slider moves towards the nighttime setting, the light contains less blue light.</source>
+        <translation>Cài đặt Ánh sáng tự nhiên kiểm soát màu sắc của ánh sáng, từ ánh nến màu cam để đọc vào ban đêm đến ánh sáng mặt trời trắng sáng cho ban ngày. Khi thanh trượt di chuyển về phía cài đặt ban đêm, ánh sáng chứa ít tia xanh hơn.</translation>
+    </message>
+    <message>
+        <source>The natural light setting controls the colour of the light. It ranges from an orange candlelight for night-time reading to a very white sunlight for daytime reading. As the slider moves towards the candlelight setting, the light contains less blue light. Reducing your exposure to blue light at night can help you relax and sleep better. With the auto setting on, we’ll gradually adjust the light colour based on the time of day. You may not even notice it changing.</source>
+        <translation>Cài đặt Ánh sáng tự nhiên kiểm soát màu sắc ánh sáng, từ ánh nến màu cam cho đọc ban đêm đến ánh sáng mặt trời trắng sáng cho ban ngày. Khi thanh trượt tiến về phía ánh nến, ánh sáng chứa ít tia xanh hơn. Giảm tiếp xúc với ánh sáng xanh vào ban đêm giúp bạn thư giãn và ngủ ngon hơn. Khi bật cài đặt tự động, chúng tôi sẽ dần điều chỉnh màu ánh sáng theo thời gian trong ngày, có thể bạn không nhận thấy sự thay đổi.</translation>
+    </message>
+    <message>
+        <source>What about blue light during the day?</source>
+        <translation>Còn ánh sáng xanh vào ban ngày thì sao?</translation>
+    </message>
+    <message>
+        <source>What does the natural light setting do?</source>
+        <translation>Cài đặt ánh sáng tự nhiên làm gì?</translation>
+    </message>
+    <message>
+        <source>What does the Natural Light setting do?</source>
+        <translation>Cài đặt Ánh sáng tự nhiên làm gì?</translation>
+    </message>
+    <message>
+        <source>What is the Auto switch for?</source>
+        <translation>Công tắc tự động để làm gì?</translation>
+    </message>
+    <message>
+        <source>Why does blue light matter?</source>
+        <translation>Tại sao ánh sáng xanh quan trọng?</translation>
+    </message>
+    <message>
+        <source>Why should I set my bedtime?</source>
+        <translation>Tại sao tôi nên đặt giờ đi ngủ?</translation>
+    </message>
+    <message>
+        <source>With Kobo Aura ONE, we’ll give you the perfect light – any time of day or night.</source>
+        <translation>Với Kobo Aura ONE, chúng tôi sẽ mang đến cho bạn ánh sáng hoàn hảo – bất kỳ lúc nào dù ngày hay đêm.</translation>
+    </message>
+    <message>
+        <source>With the Auto switch turned on, we’ll gradually adjust the light colour for you based on the time of day. You may not even notice it changing.</source>
+        <translation>Khi bật công tắc Tự động, chúng tôi sẽ từ từ điều chỉnh màu ánh sáng dựa trên thời gian trong ngày, có thể bạn không nhận thấy sự thay đổi.</translation>
+    </message>
+</context>

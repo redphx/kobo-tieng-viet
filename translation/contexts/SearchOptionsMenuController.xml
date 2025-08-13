@@ -1,0 +1,23 @@
+<context>
+    <name>SearchOptionsMenuController</name>
+    <message>
+        <source>Annotations</source>
+        <translation>Chú thích</translation>
+    </message>
+    <message>
+        <source>Current notebook</source>
+        <translation>Sổ tay hiện tại</translation>
+    </message>
+    <message>
+        <source>Current read</source>
+        <translation>Đang đọc</translation>
+    </message>
+    <message>
+        <source>Dictionary</source>
+        <translation>Từ điển</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+</context>

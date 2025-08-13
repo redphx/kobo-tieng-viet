@@ -1,0 +1,19 @@
+<context>
+    <name>BookInfoReviewView</name>
+    <message>
+        <source>Name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation>Đánh giá:</translation>
+    </message>
+    <message>
+        <source>Review title</source>
+        <translation>Tiêu đề đánh giá</translation>
+    </message>
+    <message>
+        <source>Tell us what you thought. Try to be clear and helpful to other readers and please avoid spoilers.</source>
+        <translation>Hãy cho chúng tôi biết suy nghĩ của bạn. Cố gắng viết rõ ràng và hữu ích cho những độc giả khác, và vui lòng tránh tiết lộ nội dung.</translation>
+    </message>
+</context>

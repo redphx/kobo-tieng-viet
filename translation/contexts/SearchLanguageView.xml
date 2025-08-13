@@ -1,0 +1,17 @@
+<context>
+    <name>SearchLanguageView</name>
+    <message numerus="yes">
+        <source>%n language(s) selected</source>
+        <translation>
+            <numerusform>Đã chọn %n ngôn ngữ</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Add to filters</source>
+        <translation>Thêm vào bộ lọc</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+</context>

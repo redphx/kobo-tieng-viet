@@ -1,0 +1,11 @@
+<context>
+    <name>ReadingFooter</name>
+    <message>
+        <source>Page %1</source>
+        <translation>Trang %1</translation>
+    </message>
+    <message>
+        <source>Page %1 &lt;i&gt;of&lt;/i&gt; %2</source>
+        <translation>Trang %1 &lt;i&gt; của &lt;/i&gt; %2</translation>
+    </message>
+</context>

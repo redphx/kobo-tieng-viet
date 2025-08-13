@@ -1,0 +1,31 @@
+<context>
+    <name>NotebookEditPageContent</name>
+    <message>
+        <source>Circle words to highlight them</source>
+        <translation>Khoanh tròn các từ để đánh dấu chúng</translation>
+    </message>
+    <message>
+        <source>Double tap to convert or toggle the text size for easier editing</source>
+        <translation>Nhấn đúp để chuyển đổi hoặc thay đổi cỡ chữ giúp chỉnh sửa dễ dàng hơn</translation>
+    </message>
+    <message>
+        <source>Scribble to delete words or characters</source>
+        <translation>Viết nguệch ngoạc để xóa từ hoặc ký tự</translation>
+    </message>
+    <message>
+        <source>Swipe down with the %1 Stylus to create a space between characters or a new line</source>
+        <translation>Vuốt xuống bằng stylus %1 để tạo khoảng cách giữa các ký tự hoặc dòng mới</translation>
+    </message>
+    <message>
+        <source>Swipe down with the Kobo Stylus to create a space between characters or a new line</source>
+        <translation>Vuốt xuống bằng stylus Kobo để tạo khoảng cách giữa các ký tự hoặc dòng mới</translation>
+    </message>
+    <message>
+        <source>Swipe up with the Kobo Stylus to join a space between characters or join two separate lines</source>
+        <translation>Vuốt lên bằng stylus Kobo để kết nối khoảng trắng giữa các ký tự hoặc nối hai dòng riêng biệt</translation>
+    </message>
+    <message>
+        <source>Underline to create a heading style</source>
+        <translation>Gạch chân để tạo kiểu tiêu đề</translation>
+    </message>
+</context>

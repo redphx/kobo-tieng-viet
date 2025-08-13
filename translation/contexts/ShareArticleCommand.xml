@@ -1,0 +1,15 @@
+<context>
+    <name>ShareArticleCommand</name>
+    <message>
+        <source>%1 - %2</source>
+        <translation>%1 - %2</translation>
+    </message>
+    <message>
+        <source>Reading this on my %1.</source>
+        <translation>Đang đọc trên %1 của tôi.</translation>
+    </message>
+    <message>
+        <source>Try Kobo</source>
+        <translation>Thử Kobo</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>RedeemActionProxy</name>
+    <message>
+        <source>Redeem %0 Kobo Super Points</source>
+        <translation>Đổi thưởng %0 Kobo Super Points</translation>
+    </message>
+    <message>
+        <source>Redeem %0 pts</source>
+        <translation>Đổi thưởng %0 điểm</translation>
+    </message>
+</context>

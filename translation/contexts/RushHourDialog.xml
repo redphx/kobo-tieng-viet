@@ -1,0 +1,43 @@
+<context>
+    <name>RushHourDialog</name>
+    <message>
+        <source>Difficult</source>
+        <translation>Khó</translation>
+    </message>
+    <message>
+        <source>Easy</source>
+        <translation>Dễ</translation>
+    </message>
+    <message>
+        <source>I suppose you can give it a shot - just as long as you'll permit me to chuckle when you fail.</source>
+        <translation>Tôi nghĩ bạn có thể thử - miễn bạn cho tôi cười khi bạn thua.</translation>
+    </message>
+    <message>
+        <source>Impossible</source>
+        <translation>Bất khả thi</translation>
+    </message>
+    <message>
+        <source>Intermediate</source>
+        <translation>Trung bình</translation>
+    </message>
+    <message>
+        <source>Let's play</source>
+        <translation>Chơi thôi</translation>
+    </message>
+    <message>
+        <source>Level:</source>
+        <translation>Cấp độ:</translation>
+    </message>
+    <message>
+        <source>Play as:</source>
+        <translation>Chơi với tên:</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
+    </message>
+    <message>
+        <source>Think you can Unblock It?</source>
+        <translation>Nghĩ bạn có thể mở chặn nó?</translation>
+    </message>
+</context>

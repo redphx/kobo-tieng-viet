@@ -1,0 +1,11 @@
+<context>
+    <name>PinCodeVerifyWidget</name>
+    <message>
+        <source>Please enter your current &lt;br/&gt; 4-digit PIN.</source>
+        <translation>Vui lòng nhập &lt;br/&gt; mã PIN 4 chữ số của bạn.</translation>
+    </message>
+    <message>
+        <source>Sorry, incorrect PIN.&lt;br/&gt;Please try again.</source>
+        <translation>Rất tiếc, mã PIN sai.&lt;br/&gt;Vui lòng thử lại.</translation>
+    </message>
+</context>

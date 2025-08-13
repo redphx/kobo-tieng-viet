@@ -1,0 +1,11 @@
+<context>
+    <name>AdvancedFontSettingsController</name>
+    <message>
+        <source>Advanced</source>
+        <translation>Nâng cao</translation>
+    </message>
+    <message>
+        <source>Font Settings</source>
+        <translation>Cài đặt font</translation>
+    </message>
+</context>

@@ -1,0 +1,63 @@
+<context>
+    <name>IInkMenuController</name>
+    <message>
+        <source>Change page background</source>
+        <translation>Thay đổi nền trang</translation>
+    </message>
+    <message>
+        <source>Clear notebook</source>
+        <translation>Xóa sạch sổ tay</translation>
+    </message>
+    <message>
+        <source>Clear page</source>
+        <translation>Xóa sạch trang</translation>
+    </message>
+    <message>
+        <source>Convert all</source>
+        <translation>Chuyển đổi tất cả</translation>
+    </message>
+    <message>
+        <source>Delete page</source>
+        <translation>Xóa trang</translation>
+    </message>
+    <message>
+        <source>Delete selection</source>
+        <translation>Xóa lựa chọn</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Xuất</translation>
+    </message>
+    <message>
+        <source>Export notebook</source>
+        <translation>Xuất sổ tay</translation>
+    </message>
+    <message>
+        <source>Hints and Tips</source>
+        <translation>Mẹo và gợi ý</translation>
+    </message>
+    <message>
+        <source>Insert Diagram</source>
+        <translation>Chèn sơ đồ</translation>
+    </message>
+    <message>
+        <source>Insert Drawing</source>
+        <translation>Chèn bản vẽ</translation>
+    </message>
+    <message>
+        <source>Insert Free-form Section</source>
+        <translation>Chèn phần tự do</translation>
+    </message>
+    <message>
+        <source>Insert Math Equation</source>
+        <translation>Chèn phương trình toán học</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>Khoảng cách dòng</translation>
+    </message>
+    <message>
+        <source>Refresh page</source>
+        <translation>Làm mới trang</translation>
+    </message>
+</context>

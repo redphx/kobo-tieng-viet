@@ -1,0 +1,9 @@
+<context>
+    <name>FolderItemListWidget</name>
+    <message numerus="yes">
+        <source>%n notebook(s)</source>
+        <translation>
+            <numerusform>%n sổ tay</numerusform>
+        </translation>
+    </message>
+</context>

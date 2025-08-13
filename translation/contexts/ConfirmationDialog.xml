@@ -1,0 +1,75 @@
+<context>
+    <name>ConfirmationDialog</name>
+    <message>
+        <source>Auto natural light</source>
+        <translation>Ánh sáng tự nhiên tự động</translation>
+    </message>
+    <message>
+        <source>Demo Mode</source>
+        <translation>Chế độ Demo</translation>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>Hộp thoại</translation>
+    </message>
+    <message>
+        <source>Don't forget to keep your PIN safe. If you forget it, you'll need to sign out, and may lose your recent bookmarks or annotations.</source>
+        <translation>Đừng quên giữ mã PIN an toàn. Nếu quên, bạn phải đăng xuất và có thể mất các dấu trang hoặc chú thích gần đây.</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Kích hoạt</translation>
+    </message>
+    <message>
+        <source>Get the best natural light throughout the day and enjoy a more comfortable night-time reading experience.</source>
+        <translation>Đón ánh sáng tự nhiên tốt nhất suốt ngày và tận hưởng trải nghiệm đọc ban đêm thoải mái hơn.</translation>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Not now</source>
+        <translation>Không phải bây giờ</translation>
+    </message>
+    <message>
+        <source>PIN changed</source>
+        <translation>Đã thay đổi mã PIN</translation>
+    </message>
+    <message>
+        <source>PIN lock enabled</source>
+        <translation>Đã kích hoạt khoá mã PIN</translation>
+    </message>
+    <message>
+        <source>Please note: books cannot be purchased, downloaded, moved to the cloud or deleted when in Demo Mode.</source>
+        <translation>Lưu ý: không thể mua, tải, chuyển lên cloud hoặc xóa sách khi ở Chế độ Demo.</translation>
+    </message>
+    <message>
+        <source>Please note: Markups aren't saved in Demo mode.</source>
+        <translation>Lưu ý: Chú giải không được lưu trong Chế độ Demo.</translation>
+    </message>
+    <message>
+        <source>Please note: Notebooks aren't saved in Demo mode.</source>
+        <translation>Lưu ý: Ghi chú không được lưu trong Chế độ Demo.</translation>
+    </message>
+    <message>
+        <source>Please note: this feature is not accessible when in Demo Mode.</source>
+        <translation>Lưu ý: tính năng này không dùng được khi ở Chế độ Demo.</translation>
+    </message>
+    <message>
+        <source>Please note: you cannot share on Facebook when in Demo Mode.</source>
+        <translation>Lưu ý: bạn không thể chia sẻ trên Facebook khi ở Chế độ Demo.</translation>
+    </message>
+    <message>
+        <source>Quick Tip</source>
+        <translation>Mẹo nhanh</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+</context>

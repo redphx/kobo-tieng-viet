@@ -1,0 +1,19 @@
+<context>
+    <name>RecommendationsListWidget</name>
+    <message>
+        <source>Included with Kobo Plus</source>
+        <translation>Đi kèm với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>Gia hạn</translation>
+    </message>
+    <message>
+        <source>Start free trial</source>
+        <translation>Bắt đầu dùng thử miễn phí</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Nâng cấp</translation>
+    </message>
+</context>

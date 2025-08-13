@@ -1,0 +1,11 @@
+<context>
+    <name>N3HotspotController</name>
+    <message>
+        <source>Connected to: &lt;b&gt;%1&lt;/b&gt;</source>
+        <translation>Đã kết nối với: &lt;b&gt;%1&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>Hotspot login successful</source>
+        <translation>Đăng nhập thành công vào điểm phát sóng</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>LibrarySubNavView</name>
+    <message>
+        <source>Authors</source>
+        <translation>Tác giả</translation>
+    </message>
+    <message>
+        <source>Books</source>
+        <translation>Sách</translation>
+    </message>
+    <message>
+        <source>Collections</source>
+        <translation>Bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>Bộ sách</translation>
+    </message>
+</context>

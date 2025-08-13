@@ -1,0 +1,11 @@
+<context>
+    <name>ReadABookAutoSyncPage</name>
+    <message>
+        <source>Auto syncing</source>
+        <translation>Tự động đồng bộ</translation>
+    </message>
+    <message>
+        <source>You can continue reading on any %1 app or device. We'll automatically sync your progress over your Wi Fi network.</source>
+        <translation>Bạn có thể tiếp tục đọc trên bất kỳ ứng dụng hoặc thiết bị %1 nào. Chúng tôi sẽ tự động đồng bộ tiến trình của bạn qua mạng Wi-Fi.</translation>
+    </message>
+</context>

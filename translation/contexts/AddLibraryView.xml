@@ -1,0 +1,23 @@
+<context>
+    <name>AddLibraryView</name>
+    <message>
+        <source>Add a library card</source>
+        <translation>Thêm thẻ thư viện</translation>
+    </message>
+    <message>
+        <source>Need a library card?</source>
+        <translation>Cần thẻ thư viện?</translation>
+    </message>
+    <message>
+        <source>Not now</source>
+        <translation>Không phải bây giờ</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Đăng nhập</translation>
+    </message>
+    <message>
+        <source>To borrow books from %1 on your eReader, sign in with a valid library card.</source>
+        <translation>Để mượn sách từ %1 trên máy đọc sách của bạn, hãy đăng nhập bằng thẻ thư viện còn hiệu lực.</translation>
+    </message>
+</context>

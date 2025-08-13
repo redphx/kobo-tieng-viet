@@ -1,0 +1,19 @@
+<context>
+    <name>SearchDialogView</name>
+    <message>
+        <source>%1 OFF YOUR FIRST BOOK</source>
+        <translation>GIẢM GIÁ %1 SÁCH ĐẦU TIÊN CỦA BẠN</translation>
+    </message>
+    <message>
+        <source>RECENT SEARCHES</source>
+        <translation>TÌM KIẾM GẦN ĐÂY</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>SUGGESTIONS</source>
+        <translation>GỢI Ý</translation>
+    </message>
+</context>

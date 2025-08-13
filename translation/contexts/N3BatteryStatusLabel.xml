@@ -1,0 +1,27 @@
+<context>
+    <name>N3BatteryStatusLabel</name>
+    <message>
+        <source>Battery: %1%</source>
+        <translation>Pin: %1%</translation>
+    </message>
+    <message>
+        <source>Charged: %1%</source>
+        <translation>Đã sạc: %1%</translation>
+    </message>
+    <message>
+        <source>Charging: %1%</source>
+        <translation>Đang sạc: %1%</translation>
+    </message>
+    <message>
+        <source>eReader Battery: %1%</source>
+        <translation>Pin máy đọc sách: %1%</translation>
+    </message>
+    <message>
+        <source>eReader Charged: %1%</source>
+        <translation>Máy đọc sách đã đầy: %1%</translation>
+    </message>
+    <message>
+        <source>eReader Charging: %1%</source>
+        <translation>Máy đọc sách đang sạc: %1%</translation>
+    </message>
+</context>

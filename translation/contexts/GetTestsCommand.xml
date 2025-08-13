@@ -1,0 +1,15 @@
+<context>
+    <name>GetTestsCommand</name>
+    <message>
+        <source>Biography</source>
+        <translation>Tiểu sử</translation>
+    </message>
+    <message>
+        <source>Fiction</source>
+        <translation>Viễn tưởng</translation>
+    </message>
+    <message>
+        <source>Romance</source>
+        <translation>Lãng mạn</translation>
+    </message>
+</context>

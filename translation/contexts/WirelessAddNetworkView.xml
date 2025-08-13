@@ -1,0 +1,35 @@
+<context>
+    <name>WirelessAddNetworkView</name>
+    <message>
+        <source> Show password</source>
+        <translation> Hiện mật khẩu</translation>
+    </message>
+    <message>
+        <source>%1 password</source>
+        <translation>Mật khẩu %1</translation>
+    </message>
+    <message>
+        <source>Enter the name and password (if required) of the network.</source>
+        <translation>Nhập tên và mật khẩu (nếu cần) của mạng.</translation>
+    </message>
+    <message>
+        <source>Identity</source>
+        <translation>Nhận diện</translation>
+    </message>
+    <message>
+        <source>Network name</source>
+        <translation>Tên mạng</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Mật khẩu</translation>
+    </message>
+    <message>
+        <source>The network "%1" had trouble connecting, please try again.</source>
+        <translation>Mạng "%1" gặp sự cố khi kết nối, vui lòng thử lại.</translation>
+    </message>
+    <message>
+        <source>The network "%1" requires a password.</source>
+        <translation>Mạng "%1" yêu cầu mật khẩu.</translation>
+    </message>
+</context>

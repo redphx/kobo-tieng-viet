@@ -1,0 +1,19 @@
+<context>
+    <name>GDriveController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Download anyway</source>
+        <translation>Vẫn tải xuống</translation>
+    </message>
+    <message>
+        <source>Sorry, we can't read this type of file.</source>
+        <translation>Rất tiếc, chúng tôi không thể đọc loại file này.</translation>
+    </message>
+    <message>
+        <source>Unsupported format</source>
+        <translation>Định dạng không được hỗ trợ</translation>
+    </message>
+</context>

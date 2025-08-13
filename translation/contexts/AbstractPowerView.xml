@@ -1,0 +1,15 @@
+<context>
+    <name>AbstractPowerView</name>
+    <message>
+        <source>%1 · %2</source>
+        <translation>%1 · %2</translation>
+    </message>
+    <message>
+        <source>Added %1</source>
+        <translation>Đã thêm %1</translation>
+    </message>
+    <message>
+        <source>Please charge your eReader</source>
+        <translation>Hãy sạc pin thiết bị của bạn</translation>
+    </message>
+</context>

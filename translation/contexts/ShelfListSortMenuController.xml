@@ -1,0 +1,15 @@
+<context>
+    <name>ShelfListSortMenuController</name>
+    <message>
+        <source>Collection name</source>
+        <translation>Tên bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation>Ngày tạo</translation>
+    </message>
+    <message>
+        <source>Number of books</source>
+        <translation>Số cuốn sách</translation>
+    </message>
+</context>

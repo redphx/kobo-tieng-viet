@@ -1,0 +1,7 @@
+<context>
+    <name>AboutStylusDialogController</name>
+    <message>
+        <source>About %1</source>
+        <translation>Về %1</translation>
+    </message>
+</context>

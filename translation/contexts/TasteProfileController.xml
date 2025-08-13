@@ -1,0 +1,39 @@
+<context>
+    <name>TasteProfileController</name>
+    <message>
+        <source>AllTimeFavourite</source>
+        <translation>AllTimeFavourite</translation>
+    </message>
+    <message>
+        <source>FavouriteAuthorBook</source>
+        <translation>FavouriteAuthorBook</translation>
+    </message>
+    <message>
+        <source>HaventRead</source>
+        <translation>HaventRead</translation>
+    </message>
+    <message>
+        <source>LastGoodBook</source>
+        <translation>LastGoodBook</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>Khuyến khích</translation>
+    </message>
+    <message>
+        <source>What's a great book by your favourite author?</source>
+        <translation>Một cuốn sách tuyệt vời của tác giả yêu thích của bạn là gì?</translation>
+    </message>
+    <message>
+        <source>What's the last book you couldn't put down?</source>
+        <translation>Cuốn sách cuối cùng bạn không thể đặt xuống là gì?</translation>
+    </message>
+    <message>
+        <source>What's your favourite book of all time?</source>
+        <translation>Cuốn sách yêu thích nhất mọi thời đại của bạn là gì?</translation>
+    </message>
+    <message>
+        <source>Which book would you like to read, but haven't?</source>
+        <translation>Cuốn sách nào bạn muốn đọc nhưng chưa có?</translation>
+    </message>
+</context>

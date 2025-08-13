@@ -1,0 +1,11 @@
+<context>
+    <name>SubscriptionUpgradeBanner</name>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>Upgrade your Kobo Plus subscription</source>
+        <translation>Nâng cấp gói Kobo Plus của bạn</translation>
+    </message>
+</context>

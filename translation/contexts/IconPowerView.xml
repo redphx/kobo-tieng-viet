@@ -1,0 +1,11 @@
+<context>
+    <name>IconPowerView</name>
+    <message>
+        <source>Powered off</source>
+        <translation>Đã tắt nguồn</translation>
+    </message>
+    <message>
+        <source>Sleeping</source>
+        <translation>Đang ngủ</translation>
+    </message>
+</context>

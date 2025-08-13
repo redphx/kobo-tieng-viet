@@ -1,0 +1,27 @@
+<context>
+    <name>OverDriveSearchSortMenuController</name>
+    <message>
+        <source>Author</source>
+        <translation>Tác giả</translation>
+    </message>
+    <message>
+        <source>Most Popular</source>
+        <translation>Phổ biến nhất</translation>
+    </message>
+    <message>
+        <source>Newly Added</source>
+        <translation>Mới thêm</translation>
+    </message>
+    <message>
+        <source>Release Date</source>
+        <translation>Ngày phát hành</translation>
+    </message>
+    <message>
+        <source>Relevance</source>
+        <translation>Mức độ liên quan</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Tiêu đề</translation>
+    </message>
+</context>

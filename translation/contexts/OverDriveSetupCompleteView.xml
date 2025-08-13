@@ -1,0 +1,27 @@
+<context>
+    <name>OverDriveSetupCompleteView</name>
+    <message>
+        <source>Browse</source>
+        <translation>Duyệt</translation>
+    </message>
+    <message>
+        <source>Learn more about OverDrive</source>
+        <translation>Tìm hiểu thêm về OverDrive</translation>
+    </message>
+    <message>
+        <source>or  </source>
+        <translation>hoặc  </translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>You can now browse or search the Kobo catalogue to find books to borrow, buy, or preview.</source>
+        <translation>Bây giờ bạn có thể duyệt hoặc tìm kiếm danh mục Kobo để tìm sách mượn, mua hoặc xem trước.</translation>
+    </message>
+    <message>
+        <source>You're all set to start borrowing</source>
+        <translation>Bạn đã sẵn sàng để bắt đầu mượn</translation>
+    </message>
+</context>

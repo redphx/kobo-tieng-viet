@@ -1,0 +1,15 @@
+<context>
+    <name>BluetoothAliasView</name>
+    <message>
+        <source>Your %1 eReader will be discoverable over Bluetooth using this name:</source>
+        <translation>Máy đọc sách %1 của bạn sẽ có thể được tìm thấy qua Bluetooth bằng tên này:</translation>
+    </message>
+    <message>
+        <source>Your device name</source>
+        <translation>Tên thiết bị của bạn</translation>
+    </message>
+    <message>
+        <source>Your Kobo eReader will be discoverable over Bluetooth using this name:</source>
+        <translation>Thiết bị Kobo của bạn sẽ được tìm thấy qua Bluetooth dưới tên này:</translation>
+    </message>
+</context>

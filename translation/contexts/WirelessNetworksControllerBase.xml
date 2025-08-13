@@ -1,0 +1,15 @@
+<context>
+    <name>WirelessNetworksControllerBase</name>
+    <message>
+        <source>Error</source>
+        <translation>Lỗi</translation>
+    </message>
+    <message>
+        <source>Network info</source>
+        <translation>Thông tin mạng</translation>
+    </message>
+    <message>
+        <source>Unable to join "%1". Please try another network.</source>
+        <translation>Không thể kết nối với "%1". Hãy thử một mạng khác.</translation>
+    </message>
+</context>

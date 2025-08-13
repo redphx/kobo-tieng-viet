@@ -1,0 +1,39 @@
+<context>
+    <name>N3BrowserControllerBase</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Đóng lại</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Download Complete</source>
+        <translation>Tải xuống thành công</translation>
+    </message>
+    <message>
+        <source>Downloading...</source>
+        <translation>Đang tải xuống...</translation>
+    </message>
+    <message>
+        <source>Enter</source>
+        <translation>Vào</translation>
+    </message>
+    <message>
+        <source>File Download</source>
+        <translation>File tải xuống</translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation>Mở file</translation>
+    </message>
+    <message>
+        <source>Would you like to download %1?</source>
+        <translation>Bạn có muốn tải xuống %1?</translation>
+    </message>
+</context>

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ts": "xml",
+    },
+    "flake8.enabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+    }
+}

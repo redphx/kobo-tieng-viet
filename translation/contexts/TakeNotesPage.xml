@@ -1,0 +1,19 @@
+<context>
+    <name>TakeNotesPage</name>
+    <message>
+        <source>%1 is compatible with the %2 Stylus</source>
+        <translation>%1 tương thích với stylus %2</translation>
+    </message>
+    <message>
+        <source>Enhance your experience and annotate as you read. With the %1 Stylus, you can write notes in the margins, highlight, underline, and even create your own notebooks to capture all of your ideas.</source>
+        <translation>Nâng cao trải nghiệm của bạn và chú thích khi bạn đọc. Với stylus %1, bạn có thể viết ghi chú ở lề, đánh dấu, gạch chân và thậm chí tạo sổ tay của riêng mình để ghi lại tất cả ý tưởng của bạn.</translation>
+    </message>
+    <message>
+        <source>Take notes in your eBooks and PDFs</source>
+        <translation>Ghi chú trong eBook và PDF của bạn</translation>
+    </message>
+    <message>
+        <source>Underline, circle, or highlight with the %1 Stylus. When an idea sparks, write it down in the margins.</source>
+        <translation>Gạch chân, khoanh tròn hoặc đánh dấu bằng stylus %1. Khi một ý tưởng nảy ra, hãy viết nó ra bên lề.</translation>
+    </message>
+</context>

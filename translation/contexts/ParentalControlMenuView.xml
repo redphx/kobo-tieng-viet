@@ -1,0 +1,11 @@
+<context>
+    <name>ParentalControlMenuView</name>
+    <message>
+        <source>Account settings</source>
+        <translation>Cài đặt tài khoản</translation>
+    </message>
+    <message>
+        <source>Parental Controls ON</source>
+        <translation>Kiểm soát của phụ huynh BẬT</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>QuickTourFinishPage</name>
+    <message>
+        <source>Done</source>
+        <translation>Xong</translation>
+    </message>
+    <message>
+        <source>It's time to do some reading. If you'd like to learn more about your eReader, please visit us online at &lt;i&gt;%1&lt;/i&gt;</source>
+        <translation>Đã đến lúc đọc sách. Nếu bạn muốn tìm hiểu thêm về máy đọc sách của mình, vui lòng truy cập trang web của chúng tôi tại &lt;i&gt;%1&lt;/i&gt;</translation>
+    </message>
+    <message>
+        <source>We're all done</source>
+        <translation>Hoàn tất</translation>
+    </message>
+</context>

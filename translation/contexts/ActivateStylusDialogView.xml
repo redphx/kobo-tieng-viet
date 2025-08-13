@@ -1,0 +1,11 @@
+<context>
+    <name>ActivateStylusDialogView</name>
+    <message>
+        <source>Already have %1?</source>
+        <translation>Đã có %1 chưa?</translation>
+    </message>
+    <message>
+        <source>Connect it to a USB power outlet for at least 5 seconds. Then, touch your eReader's screen with the stylus tip. You'll then have full access to My Notebooks.</source>
+        <translation>Kết nối nó với nguồn điện USB ít nhất 5 giây. Sau đó, chạm đầu stylus lên màn hình máy đọc sách của bạn. Bạn sẽ có quyền truy cập đầy đủ vào Sổ tay của tôi.</translation>
+    </message>
+</context>

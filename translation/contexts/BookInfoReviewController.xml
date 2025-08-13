@@ -1,0 +1,55 @@
+<context>
+    <name>BookInfoReviewController</name>
+    <message>
+        <source>Close screen</source>
+        <translation>Đóng màn hình</translation>
+    </message>
+    <message>
+        <source>Finish your review?</source>
+        <translation>Hoàn tất đánh giá?</translation>
+    </message>
+    <message>
+        <source>Keep writing</source>
+        <translation>Tiếp tục viết</translation>
+    </message>
+    <message>
+        <source>Names must be at least 2 characters long.</source>
+        <translation>Tên phải có ít nhất 2 ký tự.</translation>
+    </message>
+    <message>
+        <source>Please enter your name.</source>
+        <translation>Vui lòng nhập tên của bạn.</translation>
+    </message>
+    <message>
+        <source>Please provide a star rating for this book.</source>
+        <translation>Vui lòng đánh giá số sao cho cuốn sách này.</translation>
+    </message>
+    <message>
+        <source>Please provide a title for your review.</source>
+        <translation>Vui lòng nhập tiêu đề cho bài đánh giá.</translation>
+    </message>
+    <message>
+        <source>Review Incomplete</source>
+        <translation>Đánh giá chưa hoàn chỉnh</translation>
+    </message>
+    <message>
+        <source>Reviews must be at least 50 characters long.</source>
+        <translation>Đánh giá phải dài ít nhất 50 ký tự.</translation>
+    </message>
+    <message>
+        <source>Submit</source>
+        <translation>Gửi</translation>
+    </message>
+    <message>
+        <source>Write your review</source>
+        <translation>Viết đánh giá của bạn</translation>
+    </message>
+    <message>
+        <source>Your review title must be at least 4 characters long.</source>
+        <translation>Tiêu đề đánh giá phải dài ít nhất 4 ký tự.</translation>
+    </message>
+    <message>
+        <source>You’ve started reviewing a book. If you close this screen, your review will be lost. Are you sure you want to do this?</source>
+        <translation>Bạn đang viết đánh giá cho một cuốn sách. Nếu bạn đóng màn hình này, đánh giá sẽ bị mất. Bạn có chắc làm điều này?</translation>
+    </message>
+</context>

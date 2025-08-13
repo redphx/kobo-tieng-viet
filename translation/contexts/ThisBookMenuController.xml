@@ -1,0 +1,55 @@
+<context>
+    <name>ThisBookMenuController</name>
+    <message>
+        <source>Annotations</source>
+        <translation>Chú thích</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation>Lưu trữ</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa bỏ</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Chỉnh sửa</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Xuất</translation>
+    </message>
+    <message>
+        <source>Export Annotations</source>
+        <translation>Xuất chú thích</translation>
+    </message>
+    <message>
+        <source>Favourite</source>
+        <translation>Yêu thích</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>Di chuyển</translation>
+    </message>
+    <message>
+        <source>Re-add to list</source>
+        <translation>Thêm lại vào danh sách</translation>
+    </message>
+    <message>
+        <source>Reading stats</source>
+        <translation>Thống kê đọc</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Đổi tên</translation>
+    </message>
+    <message>
+        <source>Unfavourite</source>
+        <translation>Bỏ yêu thích</translation>
+    </message>
+</context>

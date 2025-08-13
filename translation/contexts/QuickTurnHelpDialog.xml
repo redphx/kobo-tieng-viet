@@ -1,0 +1,19 @@
+<context>
+    <name>QuickTurnHelpDialog</name>
+    <message>
+        <source>Enhanced page-turn speed</source>
+        <translation>Tăng tốc độ lật trang</translation>
+    </message>
+    <message>
+        <source>Hold the bottom corner of your screen or a page-turn button to quickly flip through pages in either direction.</source>
+        <translation>Giữ góc dưới màn hình hoặc nút lật trang để lật nhanh trang theo cả hai hướng.</translation>
+    </message>
+    <message>
+        <source>Hold the bottom corner of your screen to quickly flip through pages in either direction.</source>
+        <translation>Giữ góc dưới màn hình để lật nhanh trang theo cả hai hướng.</translation>
+    </message>
+    <message>
+        <source>OK, got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+</context>

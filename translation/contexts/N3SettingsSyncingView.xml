@@ -1,0 +1,63 @@
+<context>
+    <name>N3SettingsSyncingView</name>
+    <message>
+        <source>Afternoon</source>
+        <translation>Buổi chiều</translation>
+    </message>
+    <message>
+        <source>Automatic sync:</source>
+        <translation>Đồng bộ tự động:</translation>
+    </message>
+    <message>
+        <source>Automatically backup your notes to %1 during sync so you don't lose them if your device gets lost.</source>
+        <translation>Tự động sao lưu ghi chú của bạn vào %1 trong quá trình đồng bộ để bạn không bị mất chúng nếu thiết bị của bạn bị mất.</translation>
+    </message>
+    <message>
+        <source>Automatically backup your notes to Kobo during sync so you don't lose them if your device gets lost.</source>
+        <translation>Tự động sao lưu ghi chú của bạn vào Kobo trong quá trình đồng bộ để bạn không bị mất chúng nếu thiết bị của bạn bị mất.</translation>
+    </message>
+    <message>
+        <source>BACKGROUND SYNC</source>
+        <translation>ĐỒNG BỘ TRONG NỀN</translation>
+    </message>
+    <message>
+        <source>Evening</source>
+        <translation>Buổi tối</translation>
+    </message>
+    <message>
+        <source>Morning</source>
+        <translation>Buổi sáng</translation>
+    </message>
+    <message>
+        <source>Night</source>
+        <translation>Ban đêm</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>OTHER CONTENT</source>
+        <translation>NỘI DUNG KHÁC</translation>
+    </message>
+    <message>
+        <source>Reading Settings</source>
+        <translation>Cài đặt đọc</translation>
+    </message>
+    <message>
+        <source>Sync My Notebooks:</source>
+        <translation>Đồng bộ sổ tay của tôi:</translation>
+    </message>
+    <message>
+        <source>Sync time:</source>
+        <translation>Thời gian đồng bộ:</translation>
+    </message>
+    <message>
+        <source>When daily Automatic Sync is on, your books, articles, and software will remain up to date, and you’ll avoid running into Kobo Plus offline reading limits.</source>
+        <translation>Khi Đồng bộ tự động hàng ngày được bật, sách, bài viết và phần mềm của bạn sẽ vẫn được cập nhật và bạn sẽ tránh gặp phải giới hạn đọc offline của Kobo Plus.</translation>
+    </message>
+    <message>
+        <source>When daily Automatic Sync is on, your books, articles, and software will remain up to date.</source>
+        <translation>Khi Đồng bộ tự động hàng ngày được bật, sách, bài viết và phần mềm của bạn sẽ vẫn được cập nhật.</translation>
+    </message>
+</context>

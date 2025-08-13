@@ -1,0 +1,15 @@
+<context>
+    <name>KoboLoveAboutWidget</name>
+    <message>
+        <source>or </source>
+        <translation>hoặc </translation>
+    </message>
+    <message>
+        <source>Redeem %0 Kobo Super Points</source>
+        <translation>Lấy thưởng %0 Kobo Super Points</translation>
+    </message>
+    <message>
+        <source>Upgrade %0/year</source>
+        <translation>Nâng cấp %0/năm</translation>
+    </message>
+</context>

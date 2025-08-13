@@ -1,0 +1,19 @@
+<context>
+    <name>OverDriveEmailController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Edit your email</source>
+        <translation>Chỉnh sửa email của bạn</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation>Vui lòng nhập địa chỉ email hợp lệ.</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu lại</translation>
+    </message>
+</context>

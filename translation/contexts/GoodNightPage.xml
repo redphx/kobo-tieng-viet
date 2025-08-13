@@ -1,0 +1,23 @@
+<context>
+    <name>GoodNightPage</name>
+    <message>
+        <source>Keep your battery charged</source>
+        <translation>Tiếp tục giữ sạc pin</translation>
+    </message>
+    <message>
+        <source>Sleep and power off</source>
+        <translation>Ngủ và tắt nguồn</translation>
+    </message>
+    <message>
+        <source>To put your eReader to sleep temporarily, press the power button. To power off for a longer period, press and hold for a few seconds.</source>
+        <translation>Để thiết bị của bạn vào trạng thái ngủ, nhấn nút nguồn. Để tắt nguồn trong thời gian dài hơn, nhấn và giữ trong vài giây.</translation>
+    </message>
+    <message>
+        <source>To put your eReader to sleep temporarily, pull the power slider to the right and release it quickly. To power off for a longer period, slide and hold for a few seconds.</source>
+        <translation>Để thiết bị của bạn vào trạng thái ngủ, kéo nút gạt nguồn sang phải và thả nhanh. Để tắt nguồn trong thời gian dài hơn, kéo và giữ trong vài giây.</translation>
+    </message>
+    <message>
+        <source>While you're not using your eReader, press the power button to put it to sleep. To turn it off completely, press and hold the button until you see "Powered off" on the screen. To charge the battery, insert your USB cable and connect to a power source.</source>
+        <translation>Khi không sử dụng, nhấn nút nguồn để đưa về trạng thái ngủ. Để tắt hoàn toàn, nhấn và giữ nút nguồn đến khi bạn thấy chữ "Tắt nguồn" trên màn hình. Để sạc pin, kết nối dây cáp USB với bộ nguồn.</translation>
+    </message>
+</context>

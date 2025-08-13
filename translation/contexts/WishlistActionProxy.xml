@@ -1,0 +1,31 @@
+<context>
+    <name>WishlistActionProxy</name>
+    <message>
+        <source>Added to Wishlist</source>
+        <translation>Thêm vào Danh sách mong muốn</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>Start free trial</source>
+        <translation>Bắt đầu dùng thử miễn phí</translation>
+    </message>
+    <message>
+        <source>To read the full version of this book, start your free trial subscription to Kobo Plus today!</source>
+        <translation>Để đọc phiên bản đầy đủ của cuốn sách này, hãy bắt đầu đăng ký dùng thử miễn phí Kobo Plus ngay hôm nay!</translation>
+    </message>
+    <message>
+        <source>We've added this book to your Wishlist.</source>
+        <translation>Chúng tôi đã thêm cuốn sách này vào Danh sách mong muốn của bạn.</translation>
+    </message>
+    <message>
+        <source>We've removed this book from your Wishlist.</source>
+        <translation>Chúng tôi đã loại bỏ cuốn sachs này khỏi Danh sách mong muốn của bạn.</translation>
+    </message>
+    <message>
+        <source>Wishlist</source>
+        <translation>Danh sách mong muốn</translation>
+    </message>
+</context>

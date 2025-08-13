@@ -1,0 +1,47 @@
+<context>
+    <name>StoreSearchViewMenuController</name>
+    <message>
+        <source>Add language +</source>
+        <translation>Thêm ngôn ngữ +</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Tất cả</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>Bất kỳ</translation>
+    </message>
+    <message>
+        <source>Audiobook</source>
+        <translation>Sách nói</translation>
+    </message>
+    <message>
+        <source>Book Language</source>
+        <translation>Ngôn ngữ sách</translation>
+    </message>
+    <message>
+        <source>Buying Options</source>
+        <translation>Tùy chọn mua</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>eBook</source>
+        <translation>Sách điện tử</translation>
+    </message>
+    <message>
+        <source>Eligible for promo code</source>
+        <translation>Đủ điều kiện nhận mã khuyến mãi</translation>
+    </message>
+    <message>
+        <source>Media Type</source>
+        <translation>Loại phương tiện</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+</context>

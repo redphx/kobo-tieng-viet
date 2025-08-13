@@ -1,0 +1,7 @@
+<context>
+    <name>FinishedReadingDialogController</name>
+    <message>
+        <source>Do not show this message again for this book</source>
+        <translation>Không hiển thị lại thông báo này cho cuốn sách</translation>
+    </message>
+</context>

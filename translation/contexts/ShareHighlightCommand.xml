@@ -1,0 +1,15 @@
+<context>
+    <name>ShareHighlightCommand</name>
+    <message>
+        <source>%1 by %2</source>
+        <translation>%1 bởi %2</translation>
+    </message>
+    <message>
+        <source>Reading this on my %1.</source>
+        <translation>Đang đọc nó trên %1 của tôi.</translation>
+    </message>
+    <message>
+        <source>Try %1</source>
+        <translation>Thử %1</translation>
+    </message>
+</context>

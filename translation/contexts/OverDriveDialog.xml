@@ -1,0 +1,59 @@
+<context>
+    <name>OverDriveDialog</name>
+    <message>
+        <source>&lt;div style="line-height: %1px;"&gt;Tap the &lt;img style="vertical-align: middle" src=":/images/fte/overflow_small.png" /&gt; More Icon on the item details page of any title available from your public library for the option to Borrow or Place a hold with OverDrive.&lt;/div&gt;</source>
+        <translation>&lt;div style="line-height: %1px;"&gt;Nhấn vào &lt;img style="vertical-align: middle" src=":/images/fte/overflow_small.png" /&gt; Biểu tượng Thêm trên trang chi tiết mục của bất kỳ đầu sách nào có sẵn từ thư viện công cộng của bạn để chọn Mượn hoặc Đặt chỗ qua OverDrive.&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>Borrow any Kobo eBook that's also available from your public library, or buy a copy of your own to read at your leisure.</source>
+        <translation>Mượn bất kỳ eBook Kobo nào cũng có sẵn tại thư viện công cộng hoặc mua bản sao riêng để đọc khi rảnh.</translation>
+    </message>
+    <message>
+        <source>Browse lists of popular titles chosen by your public library. You'll find them in the Top Picks section.</source>
+        <translation>Duyệt danh sách đầu sách phổ biến do thư viện công cộng chọn. Bạn sẽ thấy trong phần Lựa chọn hàng đầu.</translation>
+    </message>
+    <message>
+        <source>Browse now</source>
+        <translation>Duyệt ngay</translation>
+    </message>
+    <message>
+        <source>Discover your public library's top picks.</source>
+        <translation>Khám phá lựa chọn hàng đầu trong thư viện công cộng của bạn.</translation>
+    </message>
+    <message>
+        <source>Don't worry, we've saved your reading progress and any notes or bookmarks you've made. You can continue reading where you left off by requesting to borrow it again, or buying your own copy.</source>
+        <translation>Đừng lo, chúng tôi đã lưu tiến trình đọc và mọi ghi chú hoặc dấu trang bạn tạo. Bạn có thể tiếp tục đọc từ phần đã dừng nếu mượn lại hoặc mua bản sao riêng.</translation>
+    </message>
+    <message>
+        <source>Don’t worry, we’ve saved your reading progress and any notes or bookmarks you’ve made. You can continue reading where you left off if you borrow it again or buy your own copy.</source>
+        <translation>Đừng lo, chúng tôi đã lưu tiến trình đọc cùng ghi chú và dấu trang của bạn. Bạn có thể tiếp tục đọc từ phần đã dừng nếu mượn lại hoặc mua bản sao riêng.</translation>
+    </message>
+    <message>
+        <source>Expired items are returned to your library automatically. We'll save your progress so you can continue reading where you left off by requesting to borrow it again, or buying your own copy.</source>
+        <translation>Các mục hết hạn sẽ tự động được trả lại thư viện của bạn. Chúng tôi sẽ lưu tiến trình của bạn để bạn có thể tiếp tục đọc từ phần đã dừng lại bằng cách mượn lại hoặc mua bản sao riêng.</translation>
+    </message>
+    <message>
+        <source>Expired items are returned to your library automatically. We’ll save your progress so you can continue reading where you left off if you borrow it again or buy your own copy.</source>
+        <translation>Các mục hết hạn sẽ tự động được trả lại thư viện của bạn. Chúng tôi sẽ lưu tiến trình để bạn có thể tiếp tục đọc từ phần đã dừng nếu mượn lại hoặc mua bản sao riêng.</translation>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation>Hiểu rồi</translation>
+    </message>
+    <message>
+        <source>How do I borrow this book?</source>
+        <translation>Làm thế nào để mượn cuốn sách này?</translation>
+    </message>
+    <message>
+        <source>One catalogue. Two great ways to read.</source>
+        <translation>Một danh mục. Hai cách tuyệt vời để đọc.</translation>
+    </message>
+    <message>
+        <source>One of your OverDrive books has expired</source>
+        <translation>Một trong những cuốn sách OverDrive của bạn đã hết hạn</translation>
+    </message>
+    <message>
+        <source>One of your OverDrive books is expiring soon</source>
+        <translation>Một trong những cuốn sách OverDrive của bạn sắp hết hạn</translation>
+    </message>
+</context>

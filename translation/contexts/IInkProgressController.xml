@@ -1,0 +1,7 @@
+<context>
+    <name>IInkProgressController</name>
+    <message>
+        <source>%1 OF %2</source>
+        <translation>%1 CỦA %2</translation>
+    </message>
+</context>

@@ -1,0 +1,71 @@
+<context>
+    <name>LibrarySubFilters</name>
+    <message>
+        <source>All</source>
+        <translation>Tất cả</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation>Lưu trữ</translation>
+    </message>
+    <message>
+        <source>Audiobooks</source>
+        <translation>Sách nói</translation>
+    </message>
+    <message>
+        <source>Downloaded</source>
+        <translation>Đã tải về</translation>
+    </message>
+    <message>
+        <source>eBooks</source>
+        <translation>eBook</translation>
+    </message>
+    <message>
+        <source>Favourites</source>
+        <translation>Yêu thích</translation>
+    </message>
+    <message>
+        <source>Filter: %0</source>
+        <translation>Lọc: %0</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation>Đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Google Drive</source>
+        <translation>Google Drive</translation>
+    </message>
+    <message>
+        <source>Imported</source>
+        <translation>Đã nhập</translation>
+    </message>
+    <message>
+        <source>My List</source>
+        <translation>Danh sách của tôi</translation>
+    </message>
+    <message>
+        <source>Not Downloaded</source>
+        <translation>Chưa tải về</translation>
+    </message>
+    <message>
+        <source>On Sale</source>
+        <translation>Đang giảm giá</translation>
+    </message>
+    <message>
+        <source>Previews</source>
+        <translation>Xem trước</translation>
+    </message>
+    <message>
+        <source>Purchased</source>
+        <translation>Đã mua</translation>
+    </message>
+    <message>
+        <source>Reading</source>
+        <translation>Đang đọc</translation>
+    </message>
+    <message>
+        <source>Unread</source>
+        <translation>Chưa đọc</translation>
+    </message>
+</context>

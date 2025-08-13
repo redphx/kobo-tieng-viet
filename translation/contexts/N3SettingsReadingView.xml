@@ -1,0 +1,149 @@
+<context>
+    <name>N3SettingsReadingView</name>
+    <message numerus="yes">
+        <source>%n page(s)</source>
+        <translation>
+            <numerusform>%n trang</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Auto rotate</source>
+        <translation>Tự động xoay</translation>
+    </message>
+    <message>
+        <source>Automatically detect water droplets:</source>
+        <translation>Tự động phát hiện dính nước:</translation>
+    </message>
+    <message>
+        <source>BUTTON CONTROLS</source>
+        <translation>CÁC NÚT ĐIỀU KHIỂN</translation>
+    </message>
+    <message>
+        <source>Chapter</source>
+        <translation>Chương</translation>
+    </message>
+    <message>
+        <source>Choose where you prefer to tap your screen in order to page forward, page back, and bring up the Reading Menu.</source>
+        <translation>Chọn nơi bạn muốn nhấn vào màn hình để chuyển tiếp trang, quay lại trang và hiển thị Menu Đọc.</translation>
+    </message>
+    <message>
+        <source>Dark Mode:</source>
+        <translation>Chế độ nền đen:</translation>
+    </message>
+    <message>
+        <source>Disabling this feature may allow droplets on your screen to cause unexpected actions while reading.</source>
+        <translation>Việc tắt tính năng này có thể khiến các giọt nước trên màn hình của bạn gây ra các hành động không mong muốn trong khi đọc.</translation>
+    </message>
+    <message>
+        <source>Footer:</source>
+        <translation>Chân trang:</translation>
+    </message>
+    <message>
+        <source>Header:</source>
+        <translation>Đầu trang:</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation>Dạng ngang</translation>
+    </message>
+    <message>
+        <source>Note: some books will not be able to display chapter progress. Book progress will be used instead.</source>
+        <translation>Lưu ý: một số sách sẽ không thể hiển thị tiến trình của chương. Tiến trình sách sẽ được sử dụng thay thế.</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation>Tắt</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>ONSCREEN CONTROLS</source>
+        <translation>CÁC ĐIỀU KHIỂN TRÊN MÀN HÌNH</translation>
+    </message>
+    <message>
+        <source>PAGE APPEARANCE</source>
+        <translation>DIỆN MẠO TRANG</translation>
+    </message>
+    <message>
+        <source>Page forward and back by:</source>
+        <translation>Lật trang tới và lui bằng:</translation>
+    </message>
+    <message>
+        <source>Pages left in book</source>
+        <translation>Số trang còn lại trong sách</translation>
+    </message>
+    <message>
+        <source>Pages left in chapter</source>
+        <translation>Các trang còn lại trong chương</translation>
+    </message>
+    <message>
+        <source>Percent of book read</source>
+        <translation>Phần trăm sách đã đọc</translation>
+    </message>
+    <message>
+        <source>Percent of chapter read</source>
+        <translation>Phần trăm số chương đã đọc</translation>
+    </message>
+    <message>
+        <source>Pinch to adjust font size:</source>
+        <translation>Chụm tay để điều chỉnh kích thước font:</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation>Dạng dọc</translation>
+    </message>
+    <message>
+        <source>Reading orientation:</source>
+        <translation>Hướng đọc:</translation>
+    </message>
+    <message>
+        <source>READING PROGRESS</source>
+        <translation>TIẾN TRÌNH ĐỌC</translation>
+    </message>
+    <message>
+        <source>Reading Settings</source>
+        <translation>Cài đặt lúc đọc</translation>
+    </message>
+    <message>
+        <source>Refresh the screen every:</source>
+        <translation>Làm mới màn hình mỗi:</translation>
+    </message>
+    <message>
+        <source>Show Adobe EPUB page numbers:</source>
+        <translation>Hiển thị số trang Adobe EPUB:</translation>
+    </message>
+    <message>
+        <source>Show book progress bar:</source>
+        <translation>Hiển thị thanh tiến trình đọc:</translation>
+    </message>
+    <message>
+        <source>Swipe left edge to adjust brightness:</source>
+        <translation>Vuốt cạnh trái để điều chỉnh độ sáng:</translation>
+    </message>
+    <message>
+        <source>Swiping only</source>
+        <translation>Chỉ vuốt</translation>
+    </message>
+    <message>
+        <source>Tapping or swiping</source>
+        <translation>Chạm hoặc vuốt</translation>
+    </message>
+    <message>
+        <source>Time remaining in book</source>
+        <translation>Ước tính thời gian còn lại của cuốn sách</translation>
+    </message>
+    <message>
+        <source>Time remaining in chapter</source>
+        <translation>Ước tính thời gian còn lại của chương</translation>
+    </message>
+    <message>
+        <source>Try to exclude end matter from progress:</source>
+        <translation>Cố gắng loại bỏ phần cuối sách khỏi tiến trình:</translation>
+    </message>
+    <message>
+        <source>WATER DETECTION</source>
+        <translation>PHÁT HIỆN NƯỚC</translation>
+    </message>
+</context>

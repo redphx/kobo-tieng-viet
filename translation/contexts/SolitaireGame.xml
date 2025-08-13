@@ -1,0 +1,47 @@
+<context>
+    <name>SolitaireGame</name>
+    <message>
+        <source>Congratulations, you won!</source>
+        <translation>Chúc mừng bạn đã chiến thắng!</translation>
+    </message>
+    <message>
+        <source>Demon</source>
+        <translation>Demon</translation>
+    </message>
+    <message>
+        <source>Double Klondike</source>
+        <translation>Double Klondike</translation>
+    </message>
+    <message>
+        <source>Freecell</source>
+        <translation>Freecell</translation>
+    </message>
+    <message>
+        <source>Klondike</source>
+        <translation>Klondike</translation>
+    </message>
+    <message>
+        <source>New Game</source>
+        <translation>Trò chơi mới</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
+    </message>
+    <message>
+        <source>Solitaire</source>
+        <translation>Solitaire</translation>
+    </message>
+    <message>
+        <source>Spider</source>
+        <translation>Spider</translation>
+    </message>
+    <message>
+        <source>Spiderette</source>
+        <translation>Spiderette</translation>
+    </message>
+    <message>
+        <source>Winner!</source>
+        <translation>Người chiến thắng!</translation>
+    </message>
+</context>

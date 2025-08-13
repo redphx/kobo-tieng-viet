@@ -1,0 +1,7 @@
+<context>
+    <name>EditShelfBookWidget</name>
+    <message>
+        <source>Unknown Author</source>
+        <translation>Tác giả khuyết danh</translation>
+    </message>
+</context>

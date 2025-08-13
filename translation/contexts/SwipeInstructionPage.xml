@@ -1,0 +1,15 @@
+<context>
+    <name>SwipeInstructionPage</name>
+    <message>
+        <source>Here we'll show you the basic concepts you'll need to get the most out of your eReader. To continue, swipe from right to left. Swipe left to right at any time to go back a page.</source>
+        <translation>Chúng tôi sẽ giới thiệu các khái niệm cơ bản cần thiết để tận dụng tối đa máy đọc sách. Để tiếp tục, vuốt từ phải sang trái. Vuốt từ trái sang phải bất kỳ lúc nào để quay lại trang trước.</translation>
+    </message>
+    <message>
+        <source>Here we'll show you the basic concepts you'll need to get the most out of your eReader. To continue, tap the page turn button or swipe the screen from right to left.</source>
+        <translation>Chúng tôi sẽ giới thiệu các khái niệm cơ bản cần thiết để bạn tận dụng tối đa máy đọc sách. Để tiếp tục, chạm nút lật trang hoặc vuốt màn hình từ phải sang trái.</translation>
+    </message>
+    <message>
+        <source>Let's take a quick tour</source>
+        <translation>Hãy tham quan nhanh</translation>
+    </message>
+</context>

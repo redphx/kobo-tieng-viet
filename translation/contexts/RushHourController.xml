@@ -1,0 +1,35 @@
+<context>
+    <name>RushHourController</name>
+    <message>
+        <source>Got it!</source>
+        <translation>Hiểu rồi!</translation>
+    </message>
+    <message>
+        <source>Next level</source>
+        <translation>Cấp độ tiếp theo</translation>
+    </message>
+    <message>
+        <source>The black block is blocked. Slide the non-black blocks out of the black block's way to get the black block out of the box of blocks.</source>
+        <translation>Khối đen bị chặn. Trượt các khối không phải đen ra khỏi đường đi của khối đen để lấy khối đen ra khỏi hộp.</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation>Thử lại</translation>
+    </message>
+    <message>
+        <source>Unblock the black block</source>
+        <translation>Bỏ chặn khối đen</translation>
+    </message>
+    <message>
+        <source>Unblocked in %1 moves. Not terrible. But when I play, I can do it in %2 moves.</source>
+        <translation>Được bỏ chặn trong %1 lượt di chuyển. Không tệ. Nhưng khi tôi chơi, tôi có thể làm trong %2 lượt.</translation>
+    </message>
+    <message>
+        <source>Unblocked in %1 moves? Gah! You must have cheated. That's my best score too.</source>
+        <translation>Bỏ chặn trong %1 lượt? Hả! Bạn chắc chắn đã gian lận. Đó cũng là điểm tốt nhất của tôi.</translation>
+    </message>
+    <message>
+        <source>Unblocked!</source>
+        <translation>Đã được bỏ chặn!</translation>
+    </message>
+</context>

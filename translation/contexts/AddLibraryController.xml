@@ -1,0 +1,19 @@
+<context>
+    <name>AddLibraryController</name>
+    <message>
+        <source>Got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>Need a library card?</source>
+        <translation>Cần thẻ thư viện?</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+    <message>
+        <source>Please contact your library in person or online to find out how to sign up for a library card, renew an expired card, or manage your library account.</source>
+        <translation>Vui lòng liên hệ thư viện trực tiếp hoặc trực tuyến để biết cách đăng ký thẻ, gia hạn thẻ hết hạn hoặc quản lý tài khoản thư viện của bạn.</translation>
+    </message>
+</context>

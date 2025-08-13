@@ -1,0 +1,11 @@
+<context>
+    <name>SubscriptionCancelledDialogWidget</name>
+    <message>
+        <source>Buy now</source>
+        <translation>Mua ngay</translation>
+    </message>
+    <message>
+        <source>Redeem points</source>
+        <translation>Đổi điểm</translation>
+    </message>
+</context>

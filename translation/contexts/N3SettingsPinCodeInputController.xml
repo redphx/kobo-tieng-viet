@@ -1,0 +1,11 @@
+<context>
+    <name>N3SettingsPinCodeInputController</name>
+    <message>
+        <source>Please enter a 4-digit PIN&lt;br/&gt;you'll easily remember.</source>
+        <translation>Vui lòng nhập mã PIN 4 chữ số&lt;br/&gt;mà bạn dễ nhớ.</translation>
+    </message>
+    <message>
+        <source>Please enter a new 4-digit PIN&lt;br/&gt;you'll easily remember.</source>
+        <translation>Vui lòng nhập mã PIN 4 chữ số mới&lt;br/&gt;mà bạn dễ nhớ.</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>WirelessQuickSettingsPopup</name>
+    <message>
+        <source>DISABLED</source>
+        <translation>ĐANG TẮT</translation>
+    </message>
+    <message>
+        <source>ENABLED</source>
+        <translation>ĐANG BẬT</translation>
+    </message>
+    <message>
+        <source>Wi Fi Settings</source>
+        <translation>Cài đặt Wi-Fi</translation>
+    </message>
+    <message>
+        <source>WI FI: %1</source>
+        <translation>WI-FI: %1</translation>
+    </message>
+</context>

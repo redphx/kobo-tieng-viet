@@ -1,0 +1,23 @@
+<context>
+    <name>AllReviewsView</name>
+    <message>
+        <source>Loading reviews...</source>
+        <translation>Đang tải đánh giá...</translation>
+    </message>
+    <message>
+        <source>Sort: Highest rated</source>
+        <translation>Sắp xếp: Đánh giá cao nhất</translation>
+    </message>
+    <message>
+        <source>Sort: Lowest rated</source>
+        <translation>Sắp xếp: Đánh giá thấp nhất</translation>
+    </message>
+    <message>
+        <source>Sort: Most helpful</source>
+        <translation>Sắp xếp: Hữu ích nhất</translation>
+    </message>
+    <message>
+        <source>Sort: Recent</source>
+        <translation>Sắp xếp: Gần đây</translation>
+    </message>
+</context>

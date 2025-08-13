@@ -1,0 +1,59 @@
+<context>
+    <name>BookInfoView</name>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>DETAILS</source>
+        <translation>CHI TIẾT</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation>Đang tải...</translation>
+    </message>
+    <message>
+        <source>People who read this also enjoyed...</source>
+        <translation>Người đọc cuốn này cũng thích...</translation>
+    </message>
+    <message>
+        <source>Please connect to Wi Fi to discover related books</source>
+        <translation>Vui lòng kết nối Wi-Fi để khám phá sách liên quan</translation>
+    </message>
+    <message>
+        <source>See all</source>
+        <translation>Xem tất cả</translation>
+    </message>
+    <message>
+        <source>See all reviews</source>
+        <translation>Xem tất cả đánh giá</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Chia sẻ</translation>
+    </message>
+    <message>
+        <source>Thank you for your review</source>
+        <translation>Cám ơn đánh giá của bạn</translation>
+    </message>
+    <message>
+        <source>There are no reviews yet. Be the first to review this item.</source>
+        <translation>Chưa có đánh giá nào. Hãy là người đầu tiên đánh giá mục này.</translation>
+    </message>
+    <message>
+        <source>View all</source>
+        <translation>Xem tất cả</translation>
+    </message>
+    <message>
+        <source>We didn't find any related reads.</source>
+        <translation>Chúng tôi không tìm thấy sách liên quan nào.</translation>
+    </message>
+    <message>
+        <source>We'll email you once your review is published, and you will be able to share it with friends.</source>
+        <translation>Chúng tôi sẽ gửi email khi đánh giá của bạn được đăng, và bạn sẽ có thể chia sẻ nó với bạn bè.</translation>
+    </message>
+    <message>
+        <source>Write a review</source>
+        <translation>Viết đánh giá</translation>
+    </message>
+</context>

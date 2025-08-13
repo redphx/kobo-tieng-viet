@@ -1,0 +1,283 @@
+<context>
+    <name>AchievementText</name>
+    <message>
+        <source>"The harder the battle the sweet of jah victory." - Bob Marley</source>
+        <translation>"Cuộc chiến càng khó, chiến thắng càng ngọt ngào." - Bob Marley</translation>
+    </message>
+    <message>
+        <source>10 shares to Facebook will earn you the social butterfly award!</source>
+        <translation>Chia sẻ 10 lần lên Facebook sẽ giúp bạn nhận giải thưởng bướm xã hội!</translation>
+    </message>
+    <message>
+        <source>Afternoon Rush Hour</source>
+        <translation>Giờ cao điểm buổi chiều</translation>
+    </message>
+    <message>
+        <source>All You Can Eat</source>
+        <translation>Ăn thỏa thích</translation>
+    </message>
+    <message>
+        <source>Better in Bed</source>
+        <translation>Tốt hơn trên giường</translation>
+    </message>
+    <message>
+        <source>BookLover</source>
+        <translation>Người Yêu Sách</translation>
+    </message>
+    <message>
+        <source>Bottoms up! You read five times during the cocktail hour: 6pm - 8pm.</source>
+        <translation>Chén chúc mừng! Bạn đọc năm lần trong giờ cocktail: 6 giờ chiều - 8 giờ tối.</translation>
+    </message>
+    <message>
+        <source>Clearly you couldn't put that book down! You read for two hours straight!</source>
+        <translation>Rõ ràng là bạn không thể đặt cuốn sách đó xuống! Bạn đọc suốt hai tiếng đồng hồ!</translation>
+    </message>
+    <message>
+        <source>Connect Facebook to your Reading Life to unlock the Facebook award.</source>
+        <translation>Kết nối Facebook với Reading Life của bạn để nhận giải thưởng Facebook.</translation>
+    </message>
+    <message>
+        <source>Consume mass quantities to earn this award.</source>
+        <translation>Tiêu thụ với số lượng lớn để nhận giải thưởng này.</translation>
+    </message>
+    <message>
+        <source>Eat It</source>
+        <translation>Ăn nó đi</translation>
+    </message>
+    <message>
+        <source>Either you love zombies or you have insomnia - you just read five times during the Graveyard Shift: 1am - 5am.</source>
+        <translation>Hoặc bạn thích thây ma hoặc bị mất ngủ - bạn đọc năm lần trong ca đêm: 1 giờ sáng - 5 giờ sáng.</translation>
+    </message>
+    <message>
+        <source>Everything is better in bed, including reading. You read five times during bedtime: 10pm - 12am.</source>
+        <translation>Mọi thứ đều tốt hơn trên giường, kể cả việc đọc sách. Bạn đọc năm lần trong giờ đi ngủ: 10 giờ tối - 12 giờ sáng.</translation>
+    </message>
+    <message>
+        <source>Facebook</source>
+        <translation>Facebook</translation>
+    </message>
+    <message>
+        <source>Finished reading? Close a book to earn this award. (No cheating please, real Booklovers read to the very end)</source>
+        <translation>Đã đọc xong? Đóng một cuốn sách để kiếm được giải thưởng này. (Xin đừng gian lận, những người mê sách thực sự sẽ đọc đến cuối)</translation>
+    </message>
+    <message>
+        <source>Go big or go home! You've turned 10,000 pages with %1.</source>
+        <translation>Chơi lớn hoặc về nhà! Bạn đã lật 10.000 trang với %1.</translation>
+    </message>
+    <message>
+        <source>Graveyard Shift</source>
+        <translation>Ca đêm</translation>
+    </message>
+    <message>
+        <source>Happy Hour</source>
+        <translation>Giờ hạnh phúc</translation>
+    </message>
+    <message>
+        <source>Highly Decorated</source>
+        <translation>Được trang trí nhiều</translation>
+    </message>
+    <message>
+        <source>How do you get to be a Juggernaut? Hint: go big, or go home. Try War &amp; Peace. Or maybe a couple of volumes of Proust.</source>
+        <translation>Làm sao để trở thành Juggernaut? Gợi ý: chơi lớn hoặc về nhà. Hãy thử Chiến tranh &amp; Hòa bình. Hoặc vài tập Proust.</translation>
+    </message>
+    <message>
+        <source>I &lt;3 My Library </source>
+        <translation>Tôi &lt;3 Thư viện của tôi </translation>
+    </message>
+    <message>
+        <source>I Eat Books for Lunch</source>
+        <translation>Tôi ăn sách vào bữa trưa</translation>
+    </message>
+    <message>
+        <source>Inverted Comma</source>
+        <translation>Dấu phẩy đảo ngược</translation>
+    </message>
+    <message>
+        <source>It was a dark and stormy night… start a new book to earn the Once Upon a Time Award.</source>
+        <translation>Đó là một đêm tối tăm và giông bão… bắt đầu một cuốn sách mới để giành được Giải thưởng Ngày xửa ngày xưa.</translation>
+    </message>
+    <message>
+        <source>Juggernaut</source>
+        <translation>Juggernaut</translation>
+    </message>
+    <message>
+        <source>Kill the Commute</source>
+        <translation>Kill the Commute</translation>
+    </message>
+    <message>
+        <source>Love your library - add a book or newspaper and we'll give you some loving with our Heart Award!</source>
+        <translation>Hãy yêu thích thư viện của bạn - thêm một cuốn sách hoặc tờ báo và chúng tôi sẽ dành tặng bạn Giải thưởng Trái tim!</translation>
+    </message>
+    <message>
+        <source>Make eReading more fun, social and meaningful by building your Reading Life with %1.&lt;br/&gt;&lt;br/&gt;You can track your reading life with interesting statistics and celebrate reading milestones with fun and surprising awards.</source>
+        <translation>Làm cho việc đọc eBook thú vị, xã hội và ý nghĩa hơn bằng cách xây dựng Cuộc sống đọc sách với %1.&lt;br/&gt;&lt;br/&gt;Bạn có thể theo dõi quá trình đọc với các số liệu thú vị và kỷ niệm các cột mốc đọc sách bằng các giải thưởng bất ngờ và vui nhộn.</translation>
+    </message>
+    <message>
+        <source>Night owl? Read during this "scary" hour to earn this award.</source>
+        <translation>Cú đêm? Đọc trong giờ “đáng sợ” này để nhận giải thưởng.</translation>
+    </message>
+    <message>
+        <source>Night Rider</source>
+        <translation>Kỵ Sĩ Đêm</translation>
+    </message>
+    <message>
+        <source>Not an Open Book</source>
+        <translation>Không phải sách mở</translation>
+    </message>
+    <message>
+        <source>Once Upon a Time</source>
+        <translation>Ngày xửa ngày xưa</translation>
+    </message>
+    <message>
+        <source>Page Turner</source>
+        <translation>Người lật trang</translation>
+    </message>
+    <message>
+        <source>Papillon</source>
+        <translation>Papillon</translation>
+    </message>
+    <message>
+        <source>Playing Hooky</source>
+        <translation>Chơi hooky</translation>
+    </message>
+    <message>
+        <source>Press and hold on a book in your library to earn this award.</source>
+        <translation>Nhấn giữ một cuốn sách trong thư viện để nhận giải thưởng này.</translation>
+    </message>
+    <message>
+        <source>Pressed for Details</source>
+        <translation>Nhấn để xem chi tiết</translation>
+    </message>
+    <message>
+        <source>Primetime</source>
+        <translation>Giờ vàng</translation>
+    </message>
+    <message>
+        <source>Read at the same time on 5 different days to unlock the award for your favourite reading time.</source>
+        <translation>Đọc cùng lúc trong 5 ngày khác nhau để nhận giải thưởng cho thời gian đọc yêu thích của bạn.</translation>
+    </message>
+    <message>
+        <source>Scout Leader</source>
+        <translation>Người Dẫn Đầu</translation>
+    </message>
+    <message>
+        <source>Sleeping In</source>
+        <translation>Ngủ nướng</translation>
+    </message>
+    <message>
+        <source>Something wicked this way comes... you read five times during the Witching Hour: 12am - 1am.</source>
+        <translation>Có điều gì đó xấu sắp đến... bạn đọc năm lần trong Giờ phù thủy: 12 giờ sáng - 1 giờ sáng.</translation>
+    </message>
+    <message>
+        <source>That's 10 new definitions for you. Now, maybe it's time to go outside?</source>
+        <translation>Đó là 10 định nghĩa mới cho bạn. Có lẽ đã đến lúc ra ngoài?</translation>
+    </message>
+    <message>
+        <source>Try satisfying two cravings at once.</source>
+        <translation>Thử thỏa mãn hai cơn thèm cùng lúc.</translation>
+    </message>
+    <message>
+        <source>Use your built-in %1 dictionary to get the Word Up! Award!</source>
+        <translation>Dùng từ điển %1 tích hợp để nhận Giải thưởng Chuẩn rồi!</translation>
+    </message>
+    <message>
+        <source>Want some coffee with that? You read five times during breakfast: 5am - 7am.</source>
+        <translation>Muốn cà phê kèm theo không? Bạn đọc năm lần trong giờ ăn sáng: 5 giờ sáng - 7 giờ sáng.</translation>
+    </message>
+    <message>
+        <source>Want the Inverted Comma award? Select your favourite passages using our highlighting feature.</source>
+        <translation>Muốn nhận giải Dấu phẩy đảo ngược? Chọn đoạn văn yêu thích bằng tính năng đánh dấu của chúng tôi.</translation>
+    </message>
+    <message>
+        <source>Want to become a %1 BookLover? Sign in to your account, or create a new one today.</source>
+        <translation>Bạn muốn trở thành Người yêu sách %1? Đăng nhập tài khoản hoặc tạo mới hôm nay.</translation>
+    </message>
+    <message>
+        <source>We know you didn't hit the snooze button! You read 5 times between 9am and 12pm.</source>
+        <translation>Chúng tôi biết bạn đã không nhấn nút báo lại! Bạn đọc 5 lần trong khoảng thời gian từ 9 giờ sáng đến 12 giờ trưa.</translation>
+    </message>
+    <message>
+        <source>Welcome to Reading Life</source>
+        <translation>Chào mừng đến với Reading Life</translation>
+    </message>
+    <message>
+        <source>Well, you're quite the social butterfly! You've shared on Facebook 10 times.</source>
+        <translation>Chà, bạn là bướm xã hội! Bạn đã chia sẻ trên Facebook 10 lần.</translation>
+    </message>
+    <message>
+        <source>Witching Hour</source>
+        <translation>Giờ phù thủy</translation>
+    </message>
+    <message>
+        <source>Word Up!</source>
+        <translation>Chuẩn rồi!</translation>
+    </message>
+    <message>
+        <source>You crushed the morning commute! You read five times between 7am and 9am.</source>
+        <translation>Bạn đã chiến thắng chuyến đi làm sáng! Bạn đọc 5 lần từ 7 giờ sáng đến 9 giờ sáng.</translation>
+    </message>
+    <message>
+        <source>You have 10 %1 Achievements. Clearly you've got what it takes to survive the literary wilds.</source>
+        <translation>Bạn có 10 %1 Thành tích. Rõ ràng bạn có đủ khả năng để sống sót trong thế giới văn học hoang dã.</translation>
+    </message>
+    <message>
+        <source>You have endured all of the trials and earned the spoils of victory.</source>
+        <translation>Bạn đã vượt qua mọi thử thách và giành chiến thắng.</translation>
+    </message>
+    <message>
+        <source>You have so many eBooks your virtual bookshelf is creaking!</source>
+        <translation>Bạn có quá nhiều eBook, giá sách ảo của bạn đang kêu cót két!</translation>
+    </message>
+    <message>
+        <source>You highlighted your first passage.</source>
+        <translation>Bạn đã đánh dấu đoạn văn đầu tiên của mình.</translation>
+    </message>
+    <message>
+        <source>You just satisfied two cravings at once - you read during lunchtime: 12pm - 2pm.</source>
+        <translation>Bạn vừa thỏa mãn hai cơn thèm cùng lúc - bạn đọc trong giờ ăn trưa: 12 giờ trưa - 2 giờ chiều.</translation>
+    </message>
+    <message>
+        <source>You need 10 %1 Reading Life Awards to earn the honor of Scout Leader!</source>
+        <translation>Bạn cần 10 %1 Giải thưởng Cuộc sống Đọc sách để giành được danh hiệu Trưởng Hướng đạo!</translation>
+    </message>
+    <message>
+        <source>You read all night long - congratulations from KITT - and %1!</source>
+        <translation>Bạn đã đọc suốt đêm - xin chúc mừng từ KITT - và %1!</translation>
+    </message>
+    <message>
+        <source>You read five times between 4pm and 6pm - and escaped the afternoon rush hour.</source>
+        <translation>Bạn đọc năm lần từ 4 giờ chiều đến 6 giờ chiều - thoát khỏi giờ cao điểm buổi chiều.</translation>
+    </message>
+    <message>
+        <source>You started reading a new book.</source>
+        <translation>Bạn bắt đầu đọc một cuốn sách mới.</translation>
+    </message>
+    <message>
+        <source>You're now part of %1, and an official Booklover!</source>
+        <translation>Bạn đã trở thành thành viên của %1, và là Người yêu sách chính thức!</translation>
+    </message>
+    <message>
+        <source>You're totally off the hook - you read 5 times between 2pm and 4pm.</source>
+        <translation>Bạn hoàn toàn rảnh rang - bạn đọc 5 lần từ 2 giờ chiều đến 4 giờ chiều.</translation>
+    </message>
+    <message>
+        <source>You've connected to your social network.</source>
+        <translation>Bạn đã kết nối với mạng xã hội của mình.</translation>
+    </message>
+    <message>
+        <source>You've finished a book. Is it true that "the good ended happily, and the bad unhappily"? (Thanks to Oscar Wilde for the quote!)</source>
+        <translation>Bạn đã hoàn thành một cuốn sách. Có đúng là “người tốt kết thúc có hậu, người xấu kết thúc không vui”? (Cảm ơn Oscar Wilde đã trích dẫn!)</translation>
+    </message>
+    <message>
+        <source>You've mastered the art of the long press - the best way to manage your library and dive into the details of a book.</source>
+        <translation>Bạn đã thành thạo nghệ thuật nhấn giữ lâu - cách tốt nhất để quản lý thư viện và xem chi tiết cuốn sách.</translation>
+    </message>
+    <message>
+        <source>You've started to build a digital library with %1. </source>
+        <translation>Bạn đã bắt đầu xây dựng thư viện số với %1. </translation>
+    </message>
+    <message>
+        <source>Your TV is probably feeling lonely! You read five times during Primetime: 8pm - 10pm.</source>
+        <translation>TV của bạn có lẽ đang cô đơn! Bạn đọc 5 lần trong giờ vàng: 8 giờ tối - 10 giờ tối.</translation>
+    </message>
+</context>

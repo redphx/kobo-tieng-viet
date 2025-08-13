@@ -1,0 +1,31 @@
+<context>
+    <name>ManageBooksView</name>
+    <message>
+        <source>%1 SELECTED</source>
+        <translation>%1 ĐÃ CHỌN</translation>
+    </message>
+    <message>
+        <source>Add to...</source>
+        <translation>Thêm vào...</translation>
+    </message>
+    <message>
+        <source>Filter: %0</source>
+        <translation>Lọc: %0</translation>
+    </message>
+    <message>
+        <source>Mark as...</source>
+        <translation>Đánh dấu là...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>SELECT BOOKS TO MANAGE</source>
+        <translation>CHỌN SÁCH ĐỂ QUẢN LÝ</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+</context>

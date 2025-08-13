@@ -1,0 +1,11 @@
+<context>
+    <name>OverDriveHoldsCarouselWidget</name>
+    <message>
+        <source>%0 BOOKS</source>
+        <translation>%0 SÁCH</translation>
+    </message>
+    <message>
+        <source>Your holds</source>
+        <translation>Các mục giữ của bạn</translation>
+    </message>
+</context>

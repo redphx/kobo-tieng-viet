@@ -1,0 +1,19 @@
+<context>
+    <name>BookInfoWidget</name>
+    <message>
+        <source>DETAILS</source>
+        <translation>CHI TIẾT</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>Xem trước</translation>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation>Đánh giá:</translation>
+    </message>
+    <message>
+        <source>Redeem Kobo Super Points</source>
+        <translation>Đổi thưởng Kobo Super Points</translation>
+    </message>
+</context>

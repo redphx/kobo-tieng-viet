@@ -1,0 +1,39 @@
+<context>
+    <name>ShelfListView</name>
+    <message>
+        <source>Create a collection</source>
+        <translation>Tạo bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Create and name collections to organize your books. For example, you could put all books in a favourite genre into one collection.</source>
+        <translation>Tạo và đặt tên các bộ sưu tập để sắp xếp sách của bạn. Ví dụ: bạn có thể cho tất cả sách thuộc thể loại yêu thích vào một bộ sưu tập.</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>Manage your books</source>
+        <translation>Quản lý sách của bạn</translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+    <message>
+        <source>Sort: Collection name</source>
+        <translation>Sắp xếp: Tên bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Sort: Date created</source>
+        <translation>Sắp xếp: Ngày tạo</translation>
+    </message>
+    <message>
+        <source>Sort: Number of books</source>
+        <translation>Sắp xếp: Số cuốn sách</translation>
+    </message>
+    <message>
+        <source>Sort: Recent</source>
+        <translation>Sắp xếp: Gần đây</translation>
+    </message>
+</context>

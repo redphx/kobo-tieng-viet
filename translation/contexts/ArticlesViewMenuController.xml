@@ -1,0 +1,27 @@
+<context>
+    <name>ArticlesViewMenuController</name>
+    <message>
+        <source>Cancel all downloads</source>
+        <translation>Hủy tất cả tải xuống</translation>
+    </message>
+    <message>
+        <source>Download all</source>
+        <translation>Tải xuống tất cả</translation>
+    </message>
+    <message>
+        <source>List view</source>
+        <translation>Xem dạng danh sách</translation>
+    </message>
+    <message>
+        <source>Manage downloads</source>
+        <translation>Quản lý tải xuống</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Làm mới</translation>
+    </message>
+    <message>
+        <source>Tile view</source>
+        <translation>Xem dạng ô</translation>
+    </message>
+</context>

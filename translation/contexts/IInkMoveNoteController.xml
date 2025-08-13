@@ -1,0 +1,15 @@
+<context>
+    <name>IInkMoveNoteController</name>
+    <message>
+        <source>Moved to %1.</source>
+        <translation>Đã chuyển đến %1.</translation>
+    </message>
+    <message>
+        <source>Notebook Error</source>
+        <translation>Lỗi sổ tay</translation>
+    </message>
+    <message>
+        <source>Sorry. A notebook with this name already exists in this folder.</source>
+        <translation>Rất tiếc. Sổ tay với tên này đã tồn tại trong thư mục này.</translation>
+    </message>
+</context>

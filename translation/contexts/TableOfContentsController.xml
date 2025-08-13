@@ -1,0 +1,15 @@
+<context>
+    <name>TableOfContentsController</name>
+    <message>
+        <source>Back</source>
+        <translation>Trở về</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>Đã đọc</translation>
+    </message>
+    <message>
+        <source>Sections</source>
+        <translation>Phần</translation>
+    </message>
+</context>

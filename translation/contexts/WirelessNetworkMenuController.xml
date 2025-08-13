@@ -1,0 +1,11 @@
+<context>
+    <name>WirelessNetworkMenuController</name>
+    <message>
+        <source>Connect</source>
+        <translation>Kết nối</translation>
+    </message>
+    <message>
+        <source>Network info</source>
+        <translation>Thông tin mạng</translation>
+    </message>
+</context>

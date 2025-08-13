@@ -1,0 +1,11 @@
+<context>
+    <name>ManageDictionariesView</name>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+</context>

@@ -1,0 +1,37 @@
+<context>
+    <name>SingleBookHomeWidget</name>
+    <message>
+        <source>%0h %1m left</source>
+        <translation>Còn %0g %1ph</translation>
+    </message>
+    <message>
+        <source>%1% Played</source>
+        <translation>Đã nghe %1%</translation>
+    </message>
+    <message>
+        <source>%1% Read</source>
+        <translation>Đã đọc %1%</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) to go</source>
+        <translation>
+            <numerusform>Còn %n giờ nữa</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n min(s) to go</source>
+        <translation>
+            <numerusform>Còn %n phút nữa</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%nm left</source>
+        <translation>
+            <numerusform>Còn %nph</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>Xem trước</translation>
+    </message>
+</context>

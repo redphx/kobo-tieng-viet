@@ -1,0 +1,47 @@
+<context>
+    <name>N3SettingsLanguageView</name>
+    <message numerus="yes">
+        <source>%n Dictionaries Installed:</source>
+        <translation>
+            <numerusform>%n từ điển được cài:</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n dictionary downloads pending; sync to install</source>
+        <translation>
+            <numerusform>%n từ điển đang chờ tải xuống; đồng bộ để cài đặt</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>DEMO SCREENSAVER</source>
+        <translation>MÀN HÌNH CHỜ DEMO</translation>
+    </message>
+    <message>
+        <source>DICTIONARY</source>
+        <translation>TỪ ĐIỂN</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Thay đổi</translation>
+    </message>
+    <message>
+        <source>LANGUAGE</source>
+        <translation>NGÔN NGỮ</translation>
+    </message>
+    <message>
+        <source>Select your Language:</source>
+        <translation>Chọn ngôn ngữ của bạn:</translation>
+    </message>
+    <message>
+        <source>Select your Region:</source>
+        <translation>Chọn vùng của bạn:</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>Total size:</source>
+        <translation>Tổng kích thước:</translation>
+    </message>
+</context>

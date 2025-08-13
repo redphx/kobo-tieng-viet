@@ -1,0 +1,19 @@
+<context>
+    <name>ActivitySubNavView</name>
+    <message>
+        <source>Activity</source>
+        <translation>Hoạt động</translation>
+    </message>
+    <message>
+        <source>Awards</source>
+        <translation>Giải thưởng</translation>
+    </message>
+    <message>
+        <source>My Words</source>
+        <translation>Từ Vựng Của Tôi</translation>
+    </message>
+    <message>
+        <source>Reading Stats</source>
+        <translation>Số liệu đọc</translation>
+    </message>
+</context>

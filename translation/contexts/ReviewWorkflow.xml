@@ -1,0 +1,27 @@
+<context>
+    <name>ReviewWorkflow</name>
+    <message>
+        <source>Are you sure you want to delete your review?</source>
+        <translation>Bạn có chắc muốn xóa bài đánh giá của mình không?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Deleting a review also clears the related star rating.</source>
+        <translation>Xóa bài đánh giá cũng sẽ xóa xếp hạng sao liên quan.</translation>
+    </message>
+    <message>
+        <source>You need to be online to delete a review.</source>
+        <translation>Bạn cần kết nối mạng để xóa bài đánh giá.</translation>
+    </message>
+    <message>
+        <source>Your review has been deleted</source>
+        <translation>Bài đánh giá của bạn đã được xóa</translation>
+    </message>
+</context>

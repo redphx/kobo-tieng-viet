@@ -1,0 +1,35 @@
+<context>
+    <name>SortMenuController</name>
+    <message>
+        <source>Author</source>
+        <translation>Tác giả</translation>
+    </message>
+    <message>
+        <source>Date added</source>
+        <translation>Ngày thêm</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation>Hết hạn</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation>Kích thước file</translation>
+    </message>
+    <message>
+        <source>File type</source>
+        <translation>Loại file</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>Bộ sách</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Tựa đề</translation>
+    </message>
+</context>

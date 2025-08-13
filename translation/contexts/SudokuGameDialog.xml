@@ -1,0 +1,43 @@
+<context>
+    <name>SudokuGameDialog</name>
+    <message>
+        <source>Easy</source>
+        <translation>Dễ</translation>
+    </message>
+    <message>
+        <source>Frankly, I don't think you have what it takes. But go ahead and try. I suggest starting with a simple one.</source>
+        <translation>Thành thật mà nói, tôi không nghĩ bạn đủ khả năng. Nhưng cứ thử đi. Tôi đề nghị bắt đầu với cái đơn giản.</translation>
+    </message>
+    <message>
+        <source>Hard</source>
+        <translation>Khó</translation>
+    </message>
+    <message>
+        <source>LET'S PLAY</source>
+        <translation>CHƠI NGAY</translation>
+    </message>
+    <message>
+        <source>Let's play</source>
+        <translation>Chơi ngay</translation>
+    </message>
+    <message>
+        <source>Level:</source>
+        <translation>Cấp độ:</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>Trung bình</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
+    </message>
+    <message>
+        <source>Simple</source>
+        <translation>Đơn giản</translation>
+    </message>
+    <message>
+        <source>You'd like to play Sudoku?</source>
+        <translation>Bạn muốn chơi Sudoku?</translation>
+    </message>
+</context>

@@ -1,0 +1,27 @@
+<context>
+    <name>ChooseSetupTypeView</name>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Let's begin by setting up your eReader. The first thing we need to do is connect to your Wi&amp;nbsp;Fi network.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bắt đầu bằng cách thiết lập máy đọc sách của bạn. Việc đầu tiên là kết nối với mạng Wi-Fi của bạn.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Don't have a Wi Fi network?</source>
+        <translation>Không có mạng Wi-Fi?</translation>
+    </message>
+    <message>
+        <source>No Wi-Fi? Set up eReader later.</source>
+        <translation>Không có Wi-Fi? Thiết lập máy đọc sách sau.</translation>
+    </message>
+    <message>
+        <source>Set up over Wi Fi</source>
+        <translation>Cài đặt qua Wi-Fi</translation>
+    </message>
+    <message>
+        <source>Welcome to %1</source>
+        <translation>Chào mừng đến với %1</translation>
+    </message>
+    <message>
+        <source>Welcome to Kobo!</source>
+        <translation>Chào mừng bạn đến với Kobo!</translation>
+    </message>
+</context>

@@ -1,0 +1,51 @@
+<context>
+    <name>StylusToolMenuController</name>
+    <message>
+        <source>Brush Color</source>
+        <translation>Màu cọ vẽ</translation>
+    </message>
+    <message>
+        <source>Brush Colour</source>
+        <translation>Màu cọ vẽ</translation>
+    </message>
+    <message>
+        <source>Brush Shade</source>
+        <translation>Độ đậm cọ vẽ</translation>
+    </message>
+    <message>
+        <source>Brush Size</source>
+        <translation>Kích thước cọ vẽ</translation>
+    </message>
+    <message>
+        <source>Highlighter Color</source>
+        <translation>Màu bút đánh dấu</translation>
+    </message>
+    <message>
+        <source>Highlighter Colour</source>
+        <translation>Màu bút đánh dấu</translation>
+    </message>
+    <message>
+        <source>Highlighter Shade</source>
+        <translation>Độ đậm bút đánh dấu</translation>
+    </message>
+    <message>
+        <source>Highlighter Size</source>
+        <translation>Kích thước bút đánh dấu</translation>
+    </message>
+    <message>
+        <source>Pen Color</source>
+        <translation>Màu bút</translation>
+    </message>
+    <message>
+        <source>Pen Colour</source>
+        <translation>Màu bút</translation>
+    </message>
+    <message>
+        <source>Pen Shade</source>
+        <translation>Độ đậm bút</translation>
+    </message>
+    <message>
+        <source>Pen Size</source>
+        <translation>Kích thước bút</translation>
+    </message>
+</context>

@@ -1,0 +1,17 @@
+<context>
+    <name>NotebookCoverWidget</name>
+    <message numerus="yes">
+        <source>%n Page(s)</source>
+        <translation>
+            <numerusform>%n Trang</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>FOLDER</source>
+        <translation>THƯ MỤC</translation>
+    </message>
+    <message>
+        <source>NEW</source>
+        <translation>MỚI</translation>
+    </message>
+</context>

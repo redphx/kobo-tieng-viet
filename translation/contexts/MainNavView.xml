@@ -1,0 +1,27 @@
+<context>
+    <name>MainNavView</name>
+    <message>
+        <source>Activity</source>
+        <translation>Hoạt động</translation>
+    </message>
+    <message>
+        <source>Discover</source>
+        <translation>Khám phá</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Trang chủ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Thêm</translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+    <message>
+        <source>My Notebooks</source>
+        <translation>Sổ tay của tôi</translation>
+    </message>
+</context>

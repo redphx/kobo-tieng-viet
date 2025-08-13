@@ -1,0 +1,31 @@
+<context>
+    <name>HoldActionProxy</name>
+    <message>
+        <source>&lt;i&gt;%0&lt;/i&gt; is currently unavailable to borrow from your library. Place a hold to join the waitlist.</source>
+        <translation>&lt;i&gt;%0&lt;/i&gt; hiện không có để mượn từ thư viện. Đặt chỗ để đợi.</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Place a hold</source>
+        <translation>Đặt chỗ</translation>
+    </message>
+    <message>
+        <source>Place a hold with OverDrive</source>
+        <translation>Đặt chỗ với OverDrive</translation>
+    </message>
+    <message>
+        <source>Place a hold?</source>
+        <translation>Đặt chỗ?</translation>
+    </message>
+    <message>
+        <source>Request again</source>
+        <translation>Yêu cầu lại</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+</context>

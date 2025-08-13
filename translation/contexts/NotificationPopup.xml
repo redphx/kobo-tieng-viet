@@ -1,0 +1,7 @@
+<context>
+    <name>NotificationPopup</name>
+    <message>
+        <source>No new notifications.</source>
+        <translation>Không có thông báo mới.</translation>
+    </message>
+</context>

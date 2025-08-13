@@ -1,0 +1,15 @@
+<context>
+    <name>MissingBooksAccountPage</name>
+    <message>
+        <source>Change account</source>
+        <translation>Thay đổi tài khoản</translation>
+    </message>
+    <message>
+        <source>If syncing didn't help, you might have more than one account. Please confirm that %1 is the account you used to purchase the missing books.</source>
+        <translation>Nếu đồng bộ hoá không giúp được, bạn có thể có nhiều tài khoản. Hãy xác nhận %1 là tài khoản bạn đã dùng để mua sách bị thiếu.</translation>
+    </message>
+    <message>
+        <source>Step 2. Check your account</source>
+        <translation>Bước 2. Kiểm tra tài khoản của bạn</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>CreateNotebooksPage</name>
+    <message>
+        <source>%1’s built-in notebook feature has room for all your notes, ideas, and to-do lists.</source>
+        <translation>Tính năng sổ tay tích hợp của %1 có đủ chỗ cho mọi ghi chú, ý tưởng và danh sách việc cần làm của bạn.</translation>
+    </message>
+    <message>
+        <source>Create notebooks that do more</source>
+        <translation>Tạo sổ tay đa năng hơn</translation>
+    </message>
+</context>

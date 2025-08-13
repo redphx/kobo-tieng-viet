@@ -1,0 +1,71 @@
+<context>
+    <name>SyncMenuView</name>
+    <message>
+        <source>%0 %1.</source>
+        <translation>%0 %1.</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n article(s) added.</source>
+        <translation>
+            <numerusform>%n bài viết đã được thêm.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n book(s) added.</source>
+        <translation>
+            <numerusform>%n cuốn sách đã được thêm.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Cancel repair</source>
+        <translation>Hủy sửa chữa</translation>
+    </message>
+    <message>
+        <source>Cancel sync</source>
+        <translation>Hủy đồng bộ</translation>
+    </message>
+    <message>
+        <source>LAST SYNC: %1</source>
+        <translation>LẦN ĐỒNG BỘ CUỐI: %1</translation>
+    </message>
+    <message>
+        <source>Repair complete. Hopefully this solved the issue.</source>
+        <translation>Sửa chữa hoàn tất. Hy vọng điều này đã giải quyết được vấn đề.</translation>
+    </message>
+    <message>
+        <source>Retry sync</source>
+        <translation>Thử đồng bộ lại</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Đăng nhập</translation>
+    </message>
+    <message>
+        <source>Sync complete.</source>
+        <translation>Đồng bộ hoàn tất.</translation>
+    </message>
+    <message>
+        <source>Sync complete. Sign in for extra features.</source>
+        <translation>Đồng bộ hoàn tất. Đăng nhập để có thêm tính năng.</translation>
+    </message>
+    <message>
+        <source>Sync Failed. No internet access.&lt;br&gt;&lt;br&gt;Please check your Wi Fi and try again.</source>
+        <translation>Đồng bộ không thành công. Không có kết nối Internet.&lt;br&gt;&lt;br&gt;Kiểm tra Wi-Fi và thử lại.</translation>
+    </message>
+    <message>
+        <source>Sync Failed. Please try again.</source>
+        <translation>Đồng bộ không thành công. Vui lòng thử lại.</translation>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation>Đồng bộ ngay</translation>
+    </message>
+    <message>
+        <source>Sync to download new items and software updates.</source>
+        <translation>Đồng bộ để tải mục mới và cập nhật phần mềm.</translation>
+    </message>
+    <message>
+        <source>Unable to connect to Kobo services.&lt;br&gt;&lt;br&gt;Sync may not currently be available in your region</source>
+        <translation>Không thể kết nối với dịch vụ Kobo.&lt;br&gt;&lt;br&gt;Đồng bộ có thể không dùng được tại khu vực của bạn</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>ThisWordMenuController</name>
+    <message>
+        <source>Read definition</source>
+        <translation>Đọc định nghĩa</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>View in book</source>
+        <translation>Xem trong sách</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>DictionaryEmptyState</name>
+    <message>
+        <source>Manage Dictionaries</source>
+        <translation>Quản lý từ điển</translation>
+    </message>
+    <message>
+        <source>You don't have the %1 dictionary installed. To add one to your eReader, tap Manage Dictionaries.</source>
+        <translation>Bạn chưa có từ điển %1. Để thêm vào thiết bị, chọn Quản lý Từ điển.</translation>
+    </message>
+</context>

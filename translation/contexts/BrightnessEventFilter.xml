@@ -1,0 +1,7 @@
+<context>
+    <name>BrightnessEventFilter</name>
+    <message>
+        <source>Brightness: %1%</source>
+        <translation>Độ sáng: %1%</translation>
+    </message>
+</context>

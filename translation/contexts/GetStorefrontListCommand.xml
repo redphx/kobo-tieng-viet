@@ -1,0 +1,11 @@
+<context>
+    <name>GetStorefrontListCommand</name>
+    <message>
+        <source>eBook Categories</source>
+        <translation>Danh mục eBook</translation>
+    </message>
+    <message>
+        <source>Recently Viewed</source>
+        <translation>Đã xem gần đây</translation>
+    </message>
+</context>

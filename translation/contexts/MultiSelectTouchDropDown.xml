@@ -1,0 +1,11 @@
+<context>
+    <name>MultiSelectTouchDropDown</name>
+    <message>
+        <source>%1 selected</source>
+        <translation>Đã chọn %1</translation>
+    </message>
+    <message>
+        <source>None selected</source>
+        <translation>Không có lựa chọn nào</translation>
+    </message>
+</context>

@@ -1,0 +1,23 @@
+<context>
+    <name>HorizontalBookStrip</name>
+    <message>
+        <source>Buy now</source>
+        <translation>Mua ngay</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation>Miễn phí</translation>
+    </message>
+    <message>
+        <source>PLAY NOW</source>
+        <translation>NGHE NGAY</translation>
+    </message>
+    <message>
+        <source>READ NOW</source>
+        <translation>ĐỌC NGAY</translation>
+    </message>
+    <message>
+        <source>RESTORE</source>
+        <translation>PHỤC HỒI</translation>
+    </message>
+</context>

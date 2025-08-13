@@ -1,0 +1,43 @@
+<context>
+    <name>StoreVolumeListView</name>
+    <message>
+        <source>Filter: All books</source>
+        <translation>Bộ lọc: Tất cả sách</translation>
+    </message>
+    <message>
+        <source>Filter: Eligible for promo code</source>
+        <translation>Bộ lọc: Đủ điều kiện nhận mã khuyến mãi</translation>
+    </message>
+    <message>
+        <source>Filter: Kobo Plus</source>
+        <translation>Bộ lọc: Kobo Plus</translation>
+    </message>
+    <message>
+        <source>No Kobo Plus books available</source>
+        <translation>Không sẵn có sách trong Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Remove filter</source>
+        <translation>Bỏ bộ lọc</translation>
+    </message>
+    <message>
+        <source>Renew subscription</source>
+        <translation>Gia hạn đăng ký</translation>
+    </message>
+    <message>
+        <source>Similar to %1</source>
+        <translation>Tương tự %1</translation>
+    </message>
+    <message>
+        <source>Start free trial</source>
+        <translation>Bắt đầu dùng thử miễn phí</translation>
+    </message>
+    <message>
+        <source>Sub-categories</source>
+        <translation>Danh mục phụ</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Nâng cấp</translation>
+    </message>
+</context>

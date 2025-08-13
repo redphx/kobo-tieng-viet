@@ -1,0 +1,151 @@
+<context>
+    <name>BackgroundOptionsWidget</name>
+    <message>
+        <source>Calligraphy</source>
+        <translation>Thư pháp</translation>
+    </message>
+    <message>
+        <source>Calligraphy Narrow</source>
+        <translation>Thư pháp hẹp</translation>
+    </message>
+    <message>
+        <source>Calligraphy Wide</source>
+        <translation>Thư pháp rộng</translation>
+    </message>
+    <message>
+        <source>Columns x3</source>
+        <translation>Cột x3</translation>
+    </message>
+    <message>
+        <source>Columns x4</source>
+        <translation>Cột x4</translation>
+    </message>
+    <message>
+        <source>Columns x5</source>
+        <translation>Cột x5</translation>
+    </message>
+    <message>
+        <source>Cornell</source>
+        <translation>Cornell</translation>
+    </message>
+    <message>
+        <source>Cornell Narrow</source>
+        <translation>Cornell hẹp</translation>
+    </message>
+    <message>
+        <source>Cornell Wide</source>
+        <translation>Cornell rộng</translation>
+    </message>
+    <message>
+        <source>Dots</source>
+        <translation>Chấm</translation>
+    </message>
+    <message>
+        <source>Dots Narrow</source>
+        <translation>Chấm hẹp</translation>
+    </message>
+    <message>
+        <source>Dots Wide</source>
+        <translation>Chấm rộng</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>Lưới</translation>
+    </message>
+    <message>
+        <source>Grid Wide</source>
+        <translation>Lưới rộng</translation>
+    </message>
+    <message>
+        <source>Guitar Tabs</source>
+        <translation>Tab guitar</translation>
+    </message>
+    <message>
+        <source>Handwriting Mi Zi</source>
+        <translation>Chữ viết tay Mi Zi</translation>
+    </message>
+    <message>
+        <source>Handwriting Tian Zi</source>
+        <translation>Chữ viết tay Tian Zi</translation>
+    </message>
+    <message>
+        <source>Isometric Dot</source>
+        <translation>Chấm đẳng cự</translation>
+    </message>
+    <message>
+        <source>Isometric Grid</source>
+        <translation>Lưới đẳng cự</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation>Lề</translation>
+    </message>
+    <message>
+        <source>Margin Narrow</source>
+        <translation>Lề hẹp</translation>
+    </message>
+    <message>
+        <source>Margin Wide</source>
+        <translation>Lề rộng</translation>
+    </message>
+    <message>
+        <source>Meal Planner</source>
+        <translation>Kế hoạch bữa ăn</translation>
+    </message>
+    <message>
+        <source>Music</source>
+        <translation>Âm nhạc</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Trống</translation>
+    </message>
+    <message>
+        <source>Plan Daily</source>
+        <translation>Lập kế hoạch hàng ngày</translation>
+    </message>
+    <message>
+        <source>Plan Monthly</source>
+        <translation>Lập kế hoạch hàng tháng</translation>
+    </message>
+    <message>
+        <source>Plan Weekly</source>
+        <translation>Lập kế hoạch hàng tuần</translation>
+    </message>
+    <message>
+        <source>Ruled</source>
+        <translation>Đường kẻ</translation>
+    </message>
+    <message>
+        <source>Ruled Narrow</source>
+        <translation>Đường kẻ hẹp</translation>
+    </message>
+    <message>
+        <source>Ruled Wide</source>
+        <translation>Đường kẻ rộng</translation>
+    </message>
+    <message>
+        <source>Seyes</source>
+        <translation>Seyes</translation>
+    </message>
+    <message>
+        <source>Storyboard App</source>
+        <translation>Ứng dụng bảng phân cảnh</translation>
+    </message>
+    <message>
+        <source>Storyboard x1</source>
+        <translation>Kịch bản x1</translation>
+    </message>
+    <message>
+        <source>Storyboard x2</source>
+        <translation>Kịch bản x2</translation>
+    </message>
+    <message>
+        <source>Storyboard x4</source>
+        <translation>Kịch bản x4</translation>
+    </message>
+    <message>
+        <source>To Do</source>
+        <translation>Việc cần làm</translation>
+    </message>
+</context>

@@ -1,0 +1,45 @@
+<context>
+    <name>DropboxWorkflowManager</name>
+    <message>
+        <source> A filename cannot use any of the following characters: &lt; &gt; : ? " * \ | /</source>
+        <translation> Tên file không thể chứa bất kỳ ký tự nào sau đây: &lt; &gt; : ? " * \ | /</translation>
+    </message>
+    <message>
+        <source>A problem with your network connection prevented Dropbox from being updated.
+
+Please check your connection and try again.</source>
+        <translation>Sự cố kết nối mạng đã ngăn Dropbox cập nhật.
+
+Vui lòng kiểm tra kết nối và thử lại.</translation>
+    </message>
+    <message>
+        <source>Dropbox Error</source>
+        <translation>Lỗi Dropbox</translation>
+    </message>
+    <message>
+        <source>Dropbox Update Error</source>
+        <translation>Lỗi cập nhật Dropbox</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation>Đang tải</translation>
+    </message>
+    <message>
+        <source>No Network Connection</source>
+        <translation>Không có kết nối mạng</translation>
+    </message>
+    <message numerus="yes">
+        <source>Sorry, %n Dropbox items could not be synced.</source>
+        <translation>
+            <numerusform>Rất tiếc, không thể đồng bộ %n mục trên Dropbox.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Sorry, something is preventing Dropbox from being updated right now. Please try again later.</source>
+        <translation>Rất tiếc, hiện tại có sự cố khiến Dropbox không thể cập nhật. Vui lòng thử lại sau.</translation>
+    </message>
+    <message>
+        <source>Sorry, the file "%1" could not be synced.</source>
+        <translation>Rất tiếc, không thể đồng bộ file "%1".</translation>
+    </message>
+</context>

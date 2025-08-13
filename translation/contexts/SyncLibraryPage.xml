@@ -1,0 +1,11 @@
+<context>
+    <name>SyncLibraryPage</name>
+    <message>
+        <source>Sync and never lose your spot</source>
+        <translation>Đồng bộ để không bao giờ mất vị trí đọc</translation>
+    </message>
+    <message>
+        <source>Syncing saves your reading progress so you can pick up where you left off, using any %1 app. It also downloads new purchases and software updates. We’ll automatically sync over your Wi Fi network.</source>
+        <translation>Đồng bộ lưu tiến trình đọc để bạn tiếp tục từ nơi đã dừng trên bất kỳ ứng dụng %1 nào. Đồng thời tải về các mua hàng mới và cập nhật phần mềm. Chúng tôi sẽ tự động đồng bộ qua mạng Wi-Fi của bạn.</translation>
+    </message>
+</context>

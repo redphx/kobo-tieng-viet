@@ -1,0 +1,19 @@
+<context>
+    <name>WirelessNetworkWidget</name>
+    <message>
+        <source>CONNECTED</source>
+        <translation>ĐÃ KẾT NỐI</translation>
+    </message>
+    <message>
+        <source>Connecting</source>
+        <translation>Đang kết nối</translation>
+    </message>
+    <message>
+        <source>SAVED</source>
+        <translation>ĐÃ LƯU</translation>
+    </message>
+    <message>
+        <source>Success!</source>
+        <translation>Thành công!</translation>
+    </message>
+</context>

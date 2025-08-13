@@ -1,0 +1,11 @@
+<context>
+    <name>RelatedReadsHomeWidget</name>
+    <message>
+        <source>BASED ON %1</source>
+        <translation>DỰA TRÊN %1</translation>
+    </message>
+    <message>
+        <source>Related Reads</source>
+        <translation>Các cuốn sách liên quan</translation>
+    </message>
+</context>

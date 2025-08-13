@@ -1,0 +1,23 @@
+<context>
+    <name>N3BrowserSettingsMenuController</name>
+    <message>
+        <source>Add to Favourites</source>
+        <translation>Thêm vào yêu thích</translation>
+    </message>
+    <message>
+        <source>Favourites</source>
+        <translation>Yêu thích</translation>
+    </message>
+    <message>
+        <source>Go Home</source>
+        <translation>Về trang chủ</translation>
+    </message>
+    <message>
+        <source>Keyboard</source>
+        <translation>Bàn phím</translation>
+    </message>
+    <message>
+        <source>Set Page as Home</source>
+        <translation>Đặt trang này làm trang chủ</translation>
+    </message>
+</context>

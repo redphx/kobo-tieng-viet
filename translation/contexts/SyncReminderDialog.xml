@@ -1,0 +1,19 @@
+<context>
+    <name>SyncReminderDialog</name>
+    <message>
+        <source>Close</source>
+        <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Got time to sync?</source>
+        <translation>Có thời gian để đồng bộ không?</translation>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation>Đồng bộ ngay</translation>
+    </message>
+    <message>
+        <source>Syncing saves your bookmarks, gets you new recommendations, and keeps your eReader up to date.</source>
+        <translation>Đồng bộ lưu dấu trang của bạn, cung cấp đề xuất mới và giữ máy đọc sách của bạn luôn cập nhật.</translation>
+    </message>
+</context>

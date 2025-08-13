@@ -1,0 +1,31 @@
+<context>
+    <name>DragonSimilarLibraryView</name>
+    <message>
+        <source>Connect</source>
+        <translation>Kết nối</translation>
+    </message>
+    <message>
+        <source>Here's where you'll find recommendations based on books you're reading. Looking for something to read?</source>
+        <translation>Ở đây bạn sẽ tìm thấy những gợi ý dựa trên những cuốn sách bạn đã đọc. Tìm kiếm thứ gì đó để đọc?</translation>
+    </message>
+    <message>
+        <source>INCLUDED WITH KOBO PLUS</source>
+        <translation>BAO GỒM VỚI KOBO PLUS</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation>Đang tải...</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>Được đề xuất</translation>
+    </message>
+    <message>
+        <source>Related Reads</source>
+        <translation>Các cuốn sách liên quan</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+</context>

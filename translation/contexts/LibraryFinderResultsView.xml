@@ -1,0 +1,15 @@
+<context>
+    <name>LibraryFinderResultsView</name>
+    <message>
+        <source>0 results found.&lt;br&gt;Please try a different search term.</source>
+        <translation>Không tìm thấy kết quả.&lt;br&gt;Vui lòng thử từ khóa khác.</translation>
+    </message>
+    <message>
+        <source>City, region, or library</source>
+        <translation>Thành phố, vùng hoặc thư viện</translation>
+    </message>
+    <message>
+        <source>Searching...</source>
+        <translation>Đang tìm kiếm...</translation>
+    </message>
+</context>

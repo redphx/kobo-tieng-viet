@@ -1,0 +1,15 @@
+<context>
+    <name>FootnotePreviewDialog</name>
+    <message>
+        <source>Close</source>
+        <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Footnote preview</source>
+        <translation>Xem trước chú thích</translation>
+    </message>
+    <message>
+        <source>See more</source>
+        <translation>Xem thêm</translation>
+    </message>
+</context>

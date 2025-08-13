@@ -1,0 +1,57 @@
+<context>
+    <name>AudioMenuStatsView</name>
+    <message>
+        <source>%1%</source>
+        <translation>%1%</translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation>--</translation>
+    </message>
+    <message>
+        <source>hours</source>
+        <translation>giờ</translation>
+    </message>
+    <message>
+        <source>hours
+to go</source>
+        <translation>giờ
+còn lại</translation>
+    </message>
+    <message>
+        <source>listened</source>
+        <translation>đã nghe</translation>
+    </message>
+    <message>
+        <source>minutes</source>
+        <translation>phút</translation>
+    </message>
+    <message>
+        <source>minutes
+to go</source>
+        <translation>phút
+còn lại</translation>
+    </message>
+    <message>
+        <source>Next Chapter</source>
+        <translation>Chương tiếp theo</translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>giây</translation>
+    </message>
+    <message>
+        <source>seconds
+to go</source>
+        <translation>giây
+còn lại</translation>
+    </message>
+    <message>
+        <source>This Book</source>
+        <translation>Cuốn sách này</translation>
+    </message>
+    <message>
+        <source>This Chapter</source>
+        <translation>Chương này</translation>
+    </message>
+</context>

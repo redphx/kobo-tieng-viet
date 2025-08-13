@@ -1,0 +1,11 @@
+<context>
+    <name>AnnotationsSortMenuController</name>
+    <message>
+        <source>Location</source>
+        <translation>Vị trí</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+</context>

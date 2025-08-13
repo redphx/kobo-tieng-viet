@@ -1,0 +1,19 @@
+<context>
+    <name>BookInfoNavWidget</name>
+    <message>
+        <source>Details</source>
+        <translation>Chi tiết</translation>
+    </message>
+    <message>
+        <source>Related</source>
+        <translation>Liên quan</translation>
+    </message>
+    <message>
+        <source>Reviews</source>
+        <translation>Đánh giá</translation>
+    </message>
+    <message>
+        <source>Synopsis</source>
+        <translation>Tóm tắt</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>StylusIntroJitController</name>
+    <message>
+        <source>Create Notebooks with the %1 Stylus</source>
+        <translation>Tạo sổ tay với stylus %1</translation>
+    </message>
+    <message>
+        <source>OK, got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>The %1 Stylus allows you to handwrite in notebooks and export as needed. Try the Advanced Notebook to convert to typed text, edit, calculate and more.</source>
+        <translation>Stylus %1 cho phép bạn viết tay trong sổ tay và xuất khi cần. Thử Sổ tay nâng cao để chuyển thành văn bản đánh máy, chỉnh sửa, tính toán và hơn thế nữa.</translation>
+    </message>
+</context>

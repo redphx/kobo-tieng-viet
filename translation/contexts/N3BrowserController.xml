@@ -1,0 +1,19 @@
+<context>
+    <name>N3BrowserController</name>
+    <message>
+        <source>Adding to Pocket</source>
+        <translation>Đang thêm vào Pocket</translation>
+    </message>
+    <message>
+        <source>Enter</source>
+        <translation>Nhập</translation>
+    </message>
+    <message>
+        <source>Failed to add to Pocket</source>
+        <translation>Không thể thêm vào Pocket</translation>
+    </message>
+    <message>
+        <source>Go</source>
+        <translation>Đi</translation>
+    </message>
+</context>

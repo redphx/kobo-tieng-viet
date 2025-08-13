@@ -1,0 +1,11 @@
+<context>
+    <name>KoboPlusAboutController</name>
+    <message>
+        <source>Kobo Plus FAQ</source>
+        <translation>Kobo Plus FAQ</translation>
+    </message>
+    <message>
+        <source>Kobo Plus Subscription</source>
+        <translation>Gói Kobo Plus</translation>
+    </message>
+</context>

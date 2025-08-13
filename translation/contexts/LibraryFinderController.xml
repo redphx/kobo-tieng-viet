@@ -1,0 +1,11 @@
+<context>
+    <name>LibraryFinderController</name>
+    <message>
+        <source>Find a public library</source>
+        <translation>Tìm một thư viện công cộng</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>CategoriesListWidget</name>
+    <message>
+        <source> (%1)</source>
+        <translation> (%1)</translation>
+    </message>
+    <message>
+        <source>All %1</source>
+        <translation>Tất cả %1</translation>
+    </message>
+</context>

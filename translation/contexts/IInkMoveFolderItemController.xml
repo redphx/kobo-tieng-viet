@@ -1,0 +1,15 @@
+<context>
+    <name>IInkMoveFolderItemController</name>
+    <message>
+        <source>Folder Error</source>
+        <translation>Lỗi thư mục</translation>
+    </message>
+    <message>
+        <source>Moved to %1.</source>
+        <translation>Đã chuyển đến %1.</translation>
+    </message>
+    <message>
+        <source>Sorry. A folder with this name already exists.</source>
+        <translation>Rất tiếc. Một thư mục có tên này đã tồn tại.</translation>
+    </message>
+</context>

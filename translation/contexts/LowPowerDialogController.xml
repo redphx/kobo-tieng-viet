@@ -1,0 +1,11 @@
+<context>
+    <name>LowPowerDialogController</name>
+    <message>
+        <source>%1% remaining. To recharge your eReader, connect it to a power source.</source>
+        <translation>Pin còn lại %1%. Để sạc lại máy đọc sách, hãy kết nối với nguồn điện.</translation>
+    </message>
+    <message>
+        <source>Your battery is low</source>
+        <translation>Pin yếu</translation>
+    </message>
+</context>

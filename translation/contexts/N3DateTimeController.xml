@@ -1,0 +1,19 @@
+<context>
+    <name>N3DateTimeController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Edit current time</source>
+        <translation>Chỉnh giờ hiện tại</translation>
+    </message>
+    <message>
+        <source>Edit today's date</source>
+        <translation>Chỉnh ngày hôm nay</translation>
+    </message>
+    <message>
+        <source>Set</source>
+        <translation>Cài đặt</translation>
+    </message>
+</context>

@@ -1,0 +1,63 @@
+<context>
+    <name>DropboxView</name>
+    <message>
+        <source>Add eBooks and documents to your eReader with a free Dropbox account.</source>
+        <translation>Thêm eBook và tài liệu vào máy đọc sách của bạn bằng tài khoản Dropbox miễn phí.</translation>
+    </message>
+    <message>
+        <source>Date added</source>
+        <translation>Ngày thêm</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation>Kích thước file</translation>
+    </message>
+    <message>
+        <source>File type</source>
+        <translation>Loại file</translation>
+    </message>
+    <message>
+        <source>Files in My Dropbox</source>
+        <translation>Các file trong Dropbox của tôi</translation>
+    </message>
+    <message>
+        <source>Get Started</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>My Dropbox</source>
+        <translation>Dropbox của tôi</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Làm mới</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message>
+        <source>Sync eBooks and documents to your eReader with a free Dropbox account.</source>
+        <translation>Đồng bộ eBook và tài liệu với máy đọc sách của bạn bằng tài khoản Dropbox miễn phí.</translation>
+    </message>
+    <message>
+        <source>There are currently no files in your Dropbox folder.</source>
+        <translation>Bạn không có file nào trong thư mục Dropbox.</translation>
+    </message>
+    <message>
+        <source>To add eBooks or documents to Dropbox, visit dropbox.com on your phone or computer and drag items into Dropbox &gt; Apps &gt; Rakuten Kobo.</source>
+        <translation>Để thêm eBook hoặc tài liệu vào Dropbox, truy cập dropbox.com trên điện thoại hoặc máy tính và kéo file vào Dropbox &gt; Apps &gt; Rakuten Kobo.</translation>
+    </message>
+    <message>
+        <source>You have no files in this folder.</source>
+        <translation>Bạn không có file nào trong thư mục này.</translation>
+    </message>
+</context>

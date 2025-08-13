@@ -1,0 +1,19 @@
+<context>
+    <name>ReadBookActionProxyWorker</name>
+    <message>
+        <source>Download failed</source>
+        <translation>Tải xuống không thành công</translation>
+    </message>
+    <message>
+        <source>Loading book</source>
+        <translation>Đang tải sách</translation>
+    </message>
+    <message>
+        <source>Loading preview</source>
+        <translation>Đang tải xem trước</translation>
+    </message>
+    <message>
+        <source>Please try again.</source>
+        <translation>Xin hãy thử lại.</translation>
+    </message>
+</context>

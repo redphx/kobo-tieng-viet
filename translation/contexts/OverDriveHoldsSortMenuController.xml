@@ -1,0 +1,19 @@
+<context>
+    <name>OverDriveHoldsSortMenuController</name>
+    <message>
+        <source>Author</source>
+        <translation>Tác giả</translation>
+    </message>
+    <message>
+        <source>Date added</source>
+        <translation>Ngày thêm</translation>
+    </message>
+    <message>
+        <source>Estimated wait</source>
+        <translation>Thời gian chờ dự kiến</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Tiêu đề</translation>
+    </message>
+</context>

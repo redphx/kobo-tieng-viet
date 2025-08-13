@@ -1,0 +1,67 @@
+<context>
+    <name>WishlistView</name>
+    <message numerus="yes">
+        <source>%n book(s)</source>
+        <translation>
+            <numerusform>%n cuốn sách</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation>Duyệt</translation>
+    </message>
+    <message>
+        <source>Filter: %0</source>
+        <translation>Bộ lọc: %0</translation>
+    </message>
+    <message>
+        <source>Good news!</source>
+        <translation>Tin tốt!</translation>
+    </message>
+    <message>
+        <source>My Wishlist</source>
+        <translation>Danh sách mong muốn của tôi</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>On Sale</source>
+        <translation>Đang giảm giá</translation>
+    </message>
+    <message>
+        <source>Sorry, this item is no longer available.</source>
+        <translation>Rất tiếc, mục này không còn tồn tại.</translation>
+    </message>
+    <message>
+        <source>Sorry, we can't find any books with those filters.</source>
+        <translation>Rất tiếc, chúng tôi không thể tìm thấy cuốn sách nào với các bộ lọc đó.</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message numerus="yes">
+        <source>There are %n books in your Wishlist that are included with your Kobo Plus subscription. Add them to your books to get full access.</source>
+        <translation>
+            <numerusform>Có %n cuốn sách trong Danh sách mong muốn của bạn đi kèm với đăng ký Kobo Plus. Thêm chúng vào sách của bạn để truy cập đầy đủ.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>To pre-order this book, visit www.kobo.com.</source>
+        <translation>Để đặt trước cuốn sách này, hãy truy cập www.kobo.com.</translation>
+    </message>
+    <message>
+        <source>You can add items to it from the catalogue any time.</source>
+        <translation>Bạn có thể thêm mục vào đó từ danh mục bất cứ lúc nào.</translation>
+    </message>
+    <message>
+        <source>You can add items to it from the Kobo catalogue any time.</source>
+        <translation>Bạn có thể thêm mục vào đó từ danh mục Kobo bất cứ lúc nào.</translation>
+    </message>
+    <message>
+        <source>Your Wishlist is empty</source>
+        <translation>Danh sách mong muốn của bạn đang trống</translation>
+    </message>
+</context>

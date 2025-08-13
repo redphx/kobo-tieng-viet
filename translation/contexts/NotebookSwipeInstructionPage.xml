@@ -1,0 +1,11 @@
+<context>
+    <name>NotebookSwipeInstructionPage</name>
+    <message>
+        <source>Swipe left to go forward a page, or swipe right to go backward.&lt;br&gt;New pages are created automatically as you write.</source>
+        <translation>Vuốt sang trái để lật trang sau, vuốt sang phải để lật trang trước.&lt;br&gt;Trang mới được tạo tự động khi bạn viết.</translation>
+    </message>
+    <message>
+        <source>Swipe to turn pages</source>
+        <translation>Vuốt để lật trang</translation>
+    </message>
+</context>

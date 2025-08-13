@@ -1,0 +1,7 @@
+<context>
+    <name>BookmarkControllerBase</name>
+    <message>
+        <source>Chapter %1</source>
+        <translation>Chương %1</translation>
+    </message>
+</context>

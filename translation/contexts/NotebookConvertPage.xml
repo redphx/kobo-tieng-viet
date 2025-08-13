@@ -1,0 +1,11 @@
+<context>
+    <name>NotebookConvertPage</name>
+    <message>
+        <source>Advanced notebooks recognize your handwriting and turn it into typed text with a double tap.</source>
+        <translation>Sổ tay nâng cao nhận dạng chữ viết tay của bạn và biến nó thành văn bản đánh máy bằng cách nhấn đúp.</translation>
+    </message>
+    <message>
+        <source>Convert your handwriting to text in the Advanced Notebook</source>
+        <translation>Chuyển đổi chữ viết tay của bạn thành văn bản trong Sổ tay nâng cao</translation>
+    </message>
+</context>

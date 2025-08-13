@@ -1,0 +1,43 @@
+<context>
+    <name>IInkNewNoteDialogController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Create a name for your folder e.g. "Ideas".</source>
+        <translation>Tạo tên cho thư mục của bạn, ví dụ: "Ý tưởng".</translation>
+    </message>
+    <message>
+        <source>Create a name for your notebook e.g. "Ideas".</source>
+        <translation>Tạo tên cho sổ tay của bạn, ví dụ: "Ý tưởng".</translation>
+    </message>
+    <message>
+        <source>New Notebook</source>
+        <translation>Sổ tay mới</translation>
+    </message>
+    <message>
+        <source>Notebook Name e.g. Ideas</source>
+        <translation>Tên sổ tay, ví dụ: Ý tưởng</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+    <message>
+        <source>Sorry. A filename cannot use any of the following characters: &lt; &gt; : ? " * \ | / ! . ( ) $</source>
+        <translation>Rất tiếc. Tên file không thể chứa các ký tự sau đây: &lt; &gt; : ? " * \ | / ! . ( ) $</translation>
+    </message>
+    <message>
+        <source>Sorry. A folder cannot use any of the following characters: &lt; &gt; : ? " * \ | / ! . ( ) $</source>
+        <translation>Rất tiếc. Thư mục không thể chứa các ký tự sau đây: &lt; &gt; : ? " * \ | / ! . ( ) $</translation>
+    </message>
+    <message>
+        <source>Sorry. A folder or file with this name already exists.</source>
+        <translation>Rất tiếc. Thư mục hoặc file với tên này đã tồn tại.</translation>
+    </message>
+    <message>
+        <source>Sorry. A notebook with this name already exists.</source>
+        <translation>Rất tiếc. Sổ tay với tên này đã tồn tại.</translation>
+    </message>
+</context>

@@ -1,0 +1,31 @@
+<context>
+    <name>ReadingMenuController</name>
+    <message>
+        <source>Back</source>
+        <translation>Quay lại</translation>
+    </message>
+    <message>
+        <source>Back to %1</source>
+        <translation>Quay về %1</translation>
+    </message>
+    <message>
+        <source>Back to Home</source>
+        <translation>Quay về trang chủ</translation>
+    </message>
+    <message>
+        <source>Back to My Articles</source>
+        <translation>Quay về Bài viết của tôi</translation>
+    </message>
+    <message>
+        <source>Back to My Books</source>
+        <translation>Quay về Sách của tôi</translation>
+    </message>
+    <message>
+        <source>Hints and Tips</source>
+        <translation>Mẹo và gợi ý</translation>
+    </message>
+    <message>
+        <source>Related Books</source>
+        <translation>Sách liên quan</translation>
+    </message>
+</context>

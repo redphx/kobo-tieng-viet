@@ -1,0 +1,155 @@
+<context>
+    <name>N3SettingsAccountController</name>
+    <message>
+        <source>%1 eReader</source>
+        <translation>Máy đọc eBook %1</translation>
+    </message>
+    <message>
+        <source>Accounts</source>
+        <translation>Tài khoản</translation>
+    </message>
+    <message>
+        <source>All books, documents and custom settings will be deleted from this device.</source>
+        <translation>Tất cả sách, tài liệu và cài đặt tùy chỉnh sẽ bị xóa khỏi thiết bị này.</translation>
+    </message>
+    <message>
+        <source>All books, documents and custom settings will be deleted from this device.&lt;br/&gt;&lt;br/&gt;Your software version will remain up to date.</source>
+        <translation>Tất cả sách, tài liệu và cài đặt tùy chỉnh sẽ bị xóa khỏi thiết bị.&lt;br/&gt;&lt;br/&gt;Phiên bản phần mềm sẽ vẫn được cập nhật.</translation>
+    </message>
+    <message>
+        <source>All of your Pocket articles will be removed from your eReader, but they’ll remain in your Pocket account.</source>
+        <translation>Tất cả bài viết Pocket sẽ bị xóa khỏi máy đọc sách, nhưng vẫn còn trên tài khoản Pocket của bạn.</translation>
+    </message>
+    <message>
+        <source>Any reading progress, highlights, or notes since your last sync on %1 will be lost.</source>
+        <translation>Mọi tiến trình đọc, đánh dấu, ghi chú từ lần đồng bộ cuối cùng trên %1 sẽ mất.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to sign out?</source>
+        <translation>Bạn chắc chắn muốn đăng xuất?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Ended %1</source>
+        <translation>Kết thúc %1</translation>
+    </message>
+    <message>
+        <source>Expires on %1</source>
+        <translation>Hết hạn vào %1</translation>
+    </message>
+    <message>
+        <source>Factory reset your eReader?</source>
+        <translation>Khôi phục cài đặt gốc máy đọc sách?</translation>
+    </message>
+    <message>
+        <source>Factory resetting...</source>
+        <translation>Đang khôi phục cài đặt gốc...</translation>
+    </message>
+    <message>
+        <source>Got a Digital Card as a gift? To redeem, go to www.kobo.com/redeem.</source>
+        <translation>Nhận được quà là thẻ nạp? Đổi quà tại www.kobo.com/redeem.</translation>
+    </message>
+    <message>
+        <source>Kobo Plus Listen</source>
+        <translation>Kobo Plus Nghe</translation>
+    </message>
+    <message>
+        <source>Kobo Plus Read</source>
+        <translation>Kobo Plus Đọc</translation>
+    </message>
+    <message>
+        <source>Kobo Plus Read &amp; Listen</source>
+        <translation>Kobo Plus đọc và nghe</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation>Đang tải...</translation>
+    </message>
+    <message>
+        <source>Next billing date %1</source>
+        <translation>Ngày thanh toán tiếp theo %1</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Redeem a Digital Card</source>
+        <translation>Nhập thẻ nạp</translation>
+    </message>
+    <message>
+        <source>Removing Pocket content. This may take a minute.</source>
+        <translation>Đang xóa nội dung Pocket. Có thể mất một chút thời gian.</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>Gia hạn</translation>
+    </message>
+    <message>
+        <source>Reset now</source>
+        <translation>Reset ngay</translation>
+    </message>
+    <message>
+        <source>Resetting device...</source>
+        <translation>Đang reset lại thiết bị...</translation>
+    </message>
+    <message>
+        <source>Resetting your eReader to its factory default state erases your books, documents and custom settings.</source>
+        <translation>Đặt lại máy đọc sách về trạng thái gốc sẽ xóa sách, tài liệu và cài đặt tùy chỉnh.</translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation>Đăng xuất</translation>
+    </message>
+    <message>
+        <source>Sign out of Dropbox?</source>
+        <translation>Đăng xuất khỏi Dropbox?</translation>
+    </message>
+    <message>
+        <source>Sign out of Google Drive?</source>
+        <translation>Đăng xuất khỏi Google Drive?</translation>
+    </message>
+    <message>
+        <source>Signing out</source>
+        <translation>Đang đăng xuất</translation>
+    </message>
+    <message>
+        <source>Signing out...</source>
+        <translation>Đang đăng xuất...</translation>
+    </message>
+    <message>
+        <source>unlimited reading</source>
+        <translation>đọc không giới hạn</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Nâng cấp</translation>
+    </message>
+    <message>
+        <source>You haven't synced your eReader. Any reading progress, highlights, or notes you've made will be lost.</source>
+        <translation>Bạn chưa đồng bộ máy đọc sách. Mọi tiến trình đọc, điểm nổi bật hoặc ghi chú sẽ bị mất.</translation>
+    </message>
+    <message>
+        <source>You will no longer be able to read any books protected by Adobe Digital Rights Management (DRM) that you imported using Adobe Digital Editions (ADE). Please visit %1 for more information.</source>
+        <translation>Bạn sẽ không thể đọc sách được bảo vệ bởi Adobe DRM mà bạn đã nhập qua Adobe Digital Editions (ADE). Vui lòng truy cập %1 để biết thêm chi tiết.</translation>
+    </message>
+    <message>
+        <source>Your downloaded Dropbox items will remain on your eReader.</source>
+        <translation>Mục Dropbox đã tải xuống vẫn còn trên máy đọc sách.</translation>
+    </message>
+    <message>
+        <source>Your downloaded Google Drive items will remain on your eReader.</source>
+        <translation>Mục Google Drive đã tải xuống sẽ vẫn có trên máy đọc sách.</translation>
+    </message>
+    <message>
+        <source>Your eReader has been deauthorized</source>
+        <translation>Máy đọc sách của bạn đã bị hủy cấp phép</translation>
+    </message>
+</context>

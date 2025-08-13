@@ -1,0 +1,11 @@
+<context>
+    <name>N3ConfirmationTextEditField</name>
+    <message>
+        <source> Show password</source>
+        <translation> Hiện mật khẩu</translation>
+    </message>
+    <message>
+        <source>Show password</source>
+        <translation>Hiện mật khẩu</translation>
+    </message>
+</context>

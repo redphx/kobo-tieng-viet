@@ -1,0 +1,19 @@
+<context>
+    <name>StoreListWidget</name>
+    <message>
+        <source>Form</source>
+        <translation>Biểu mẫu</translation>
+    </message>
+    <message>
+        <source>No Results</source>
+        <translation>Không có kết quả</translation>
+    </message>
+    <message>
+        <source>Similar to %1</source>
+        <translation>Tương tự %1</translation>
+    </message>
+    <message>
+        <source>View all</source>
+        <translation>Xem tất cả</translation>
+    </message>
+</context>

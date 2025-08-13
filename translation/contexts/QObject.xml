@@ -1,0 +1,305 @@
+<context>
+    <name>QObject</name>
+    <message>
+        <source>%1 PREVIEW</source>
+        <translation>XEM TRƯỚC %1</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n day(s) ago</source>
+        <translation>
+            <numerusform>%n ngày trước</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Access denied</source>
+        <translation>Truy cập bị từ chối</translation>
+    </message>
+    <message>
+        <source>Accounts and Store are not yet available in your region</source>
+        <translation>Tài khoản và Cửa hàng chưa dùng được ở khu vực của bạn</translation>
+    </message>
+    <message>
+        <source>Activity</source>
+        <translation>Hoạt động</translation>
+    </message>
+    <message>
+        <source>ADVANCED NOTEBOOK</source>
+        <translation>SỔ TAY NÂNG CAO</translation>
+    </message>
+    <message>
+        <source>AUDIOBOOK</source>
+        <translation>SÁCH NÓI</translation>
+    </message>
+    <message>
+        <source>Available devices</source>
+        <translation>Thiết bị khả dụng</translation>
+    </message>
+    <message>
+        <source>Background request not allowed</source>
+        <translation>Yêu cầu nền không được phép</translation>
+    </message>
+    <message>
+        <source>BASIC NOTEBOOK</source>
+        <translation>SỔ TAY CƠ BẢN</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation>Danh mục</translation>
+    </message>
+    <message>
+        <source>Connection closed</source>
+        <translation>Kết nối đã ngắt</translation>
+    </message>
+    <message>
+        <source>Connection refused</source>
+        <translation>Kết nối bị từ chối</translation>
+    </message>
+    <message>
+        <source>Connection to proxy timed out</source>
+        <translation>Kết nối với proxy đã hết thời gian chờ</translation>
+    </message>
+    <message>
+        <source>Content resend error</source>
+        <translation>Lỗi gửi lại nội dung</translation>
+    </message>
+    <message>
+        <source>Currently unavailable in your region</source>
+        <translation>Hiện không có sẵn trong khu vực của bạn</translation>
+    </message>
+    <message>
+        <source>File not found</source>
+        <translation>Không tìm thấy file</translation>
+    </message>
+    <message>
+        <source>Finished Listening?</source>
+        <translation>Đã nghe xong?</translation>
+    </message>
+    <message>
+        <source>Finished Reading?</source>
+        <translation>Đã đọc xong?</translation>
+    </message>
+    <message>
+        <source>Finished this book?</source>
+        <translation>Đọc xong cuốn sách này?</translation>
+    </message>
+    <message>
+        <source>From %1</source>
+        <translation>Từ %1</translation>
+    </message>
+    <message>
+        <source>Highlight on page %1</source>
+        <translation>Đánh dấu trong trang %1</translation>
+    </message>
+    <message>
+        <source>Host not found</source>
+        <translation>Không tìm thấy máy chủ</translation>
+    </message>
+    <message>
+        <source>Host requires authentication</source>
+        <translation>Máy chủ yêu cầu xác thực</translation>
+    </message>
+    <message>
+        <source>If the previous steps did not solve your issue, please visit &lt;b&gt;%1&lt;/b&gt; for more suggestions or contact %2 Customer Care.</source>
+        <translation>Nếu các bước trước đó không giải quyết được sự cố của bạn, vui lòng truy cập &lt;b&gt;%1&lt;/b&gt; để xem thêm hướng dẫn hoặc liên hệ bộ phận Chăm sóc khách hàng %2.</translation>
+    </message>
+    <message>
+        <source>If the previous steps did not solve your issue, please visit &lt;b&gt;%1&lt;/b&gt; for more suggestions or contact Customer Care.</source>
+        <translation>Nếu các bước trước đó không giải quyết được vấn đề của bạn, vui lòng truy cập &lt;b&gt;%1&lt;/b&gt; để có thêm đề xuất hoặc liên hệ với bộ phận Chăm sóc khách hàng.</translation>
+    </message>
+    <message>
+        <source>Invalid protocol operation</source>
+        <translation>Giao thức hoạt động không hợp lệ</translation>
+    </message>
+    <message>
+        <source>It looks like you've been listening on another device. Would you like to resume and continue where you left off at that time?</source>
+        <translation>Có vẻ bạn đã nghe trên thiết bị khác. Bạn có muốn tiếp tục nghe từ điểm đã dừng trước đó không?</translation>
+    </message>
+    <message>
+        <source>It looks like you've finished reading this book on another device. Would you like to close it and mark it as finished?</source>
+        <translation>Có vẻ bạn đã đọc xong cuốn sách này trên thiết bị khác. Bạn có muốn đóng và đánh dấu là đã hoàn thành không?</translation>
+    </message>
+    <message>
+        <source>It looks like you’ve been reading on another device. Would you like to resume on the page you most recently opened?</source>
+        <translation>Có vẻ bạn đã đọc trên thiết bị khác. Bạn có muốn tiếp tục từ trang bạn mở gần đây nhất không?</translation>
+    </message>
+    <message>
+        <source>KOBO PREVIEW</source>
+        <translation>XEM TRƯỚC KOBO</translation>
+    </message>
+    <message>
+        <source>Kobo Store</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+    <message>
+        <source>Mark as finished</source>
+        <translation>Đánh dấu đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Mark as Finished</source>
+        <translation>Đánh dấu Đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>My Articles</source>
+        <translation>Bài viết của tôi</translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+    <message>
+        <source>Network session error</source>
+        <translation>Lỗi phiên mạng</translation>
+    </message>
+    <message>
+        <source>No, Still Listening</source>
+        <translation>Không, vẫn đang nghe</translation>
+    </message>
+    <message>
+        <source>No, Still Reading</source>
+        <translation>Không, vẫn đang đọc</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Older</source>
+        <translation>Cũ hơn</translation>
+    </message>
+    <message>
+        <source>Operation canceled</source>
+        <translation>Thao tác đã bị hủy</translation>
+    </message>
+    <message>
+        <source>Operation not permitted</source>
+        <translation>Thao khác không được phép</translation>
+    </message>
+    <message>
+        <source>POCKET ARTICLE</source>
+        <translation>BÀI VIẾT POCKET</translation>
+    </message>
+    <message>
+        <source>Protocol failure</source>
+        <translation>Giao thức thất bại</translation>
+    </message>
+    <message>
+        <source>Proxy connection closed prematurely</source>
+        <translation>Kết nối proxy đã bị đóng sớm</translation>
+    </message>
+    <message>
+        <source>Proxy connection refused</source>
+        <translation>Kết nối proxy bị từ chối</translation>
+    </message>
+    <message>
+        <source>Proxy requires authentication</source>
+        <translation>Proxy yêu cầu xác thực</translation>
+    </message>
+    <message>
+        <source>Proxy server not found</source>
+        <translation>Máy chủ proxy không được tìm thấy</translation>
+    </message>
+    <message>
+        <source>Saved devices</source>
+        <translation>Các thiết bị đã lưu</translation>
+    </message>
+    <message>
+        <source>Shop</source>
+        <translation>Mua sắm</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+    <message>
+        <source>Socket operation timed out</source>
+        <translation>Thao tác socket hết thời gian chờ</translation>
+    </message>
+    <message>
+        <source>SSL handshake failed</source>
+        <translation>Bắt tay SSL không thành công</translation>
+    </message>
+    <message>
+        <source>Store</source>
+        <translation>Cửa hàng</translation>
+    </message>
+    <message>
+        <source>Sync to last page read?</source>
+        <translation>Đồng bộ với trang cuối cùng đã đọc?</translation>
+    </message>
+    <message>
+        <source>Sync to where you left off?</source>
+        <translation>Đồng bộ đến nơi bạn đã dừng lại?</translation>
+    </message>
+    <message>
+        <source>Temporary network failure</source>
+        <translation>Lỗi mạng tạm thời</translation>
+    </message>
+    <message>
+        <source>There might be a problem with the file. Try syncing your eReader. If you still can't open it please contact %1 Customer Care at %2</source>
+        <translation>Có thể có vấn đề với file. Hãy thử đồng bộ máy đọc sách của bạn. Nếu bạn vẫn không mở được, vui lòng liên hệ bộ phận Chăm sóc khách hàng %1 theo số %2</translation>
+    </message>
+    <message>
+        <source>There might be a problem with the file. Try syncing your eReader. If you still can't open it please contact Customer Care at %1</source>
+        <translation>Có thể có vấn đề với file. Thử đồng bộ máy đọc sách của bạn. Nếu vẫn không mở được, vui lòng liên hệ với bộ phận Chăm sóc khách hàng tại %1</translation>
+    </message>
+    <message>
+        <source>This Week</source>
+        <translation>Tuần này</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Hôm nay</translation>
+    </message>
+    <message>
+        <source>Top Picks</source>
+        <translation>Lựa chọn hàng đầu</translation>
+    </message>
+    <message>
+        <source>Unknown content error</source>
+        <translation>Lỗi nội dung không xác định</translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation>Lỗi không xác định</translation>
+    </message>
+    <message>
+        <source>Unknown protocol specified</source>
+        <translation>Giao thức được chỉ định không xác định</translation>
+    </message>
+    <message>
+        <source>Unknown proxy error</source>
+        <translation>Lỗi proxy không xác định</translation>
+    </message>
+    <message>
+        <source>Unknown session error</source>
+        <translation>Lỗi phiên không xác định</translation>
+    </message>
+    <message>
+        <source>Visit %1 if you need more help, or contact %2 Customer Care.</source>
+        <translation>Truy cập %1 nếu bạn cần thêm trợ giúp hoặc liên hệ bộ phận Chăm sóc khách hàng của %2.</translation>
+    </message>
+    <message>
+        <source>Visit %1 if you need more help, or contact Customer Care.</source>
+        <translation>Truy cập %1 nếu bạn cần thêm trợ giúp hoặc liên hệ với bộ phận Chăm sóc khách hàng.</translation>
+    </message>
+    <message>
+        <source>Would you like to mark this audiobook as finished? When you re-open the audiobook, you’ll start over at the beginning.</source>
+        <translation>Bạn có muốn đánh dấu sách nói này là hoàn thành không? Khi mở lại, bạn sẽ nghe từ đầu.</translation>
+    </message>
+    <message>
+        <source>Would you like to mark this book as finished? When you re-open the book, you'll start over at the beginning.</source>
+        <translation>Bạn có muốn đánh dấu cuốn sách này là hoàn thành không? Khi mở lại, bạn sẽ bắt đầu từ đầu.</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Hôm qua</translation>
+    </message>
+</context>

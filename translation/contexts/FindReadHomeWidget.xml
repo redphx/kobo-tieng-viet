@@ -1,0 +1,11 @@
+<context>
+    <name>FindReadHomeWidget</name>
+    <message>
+        <source>GET %1 OFF YOUR FIRST eBOOK</source>
+        <translation>NHẬN %1 GIẢM GIÁ CHO eBOOK ĐẦU TIÊN CỦA BẠN</translation>
+    </message>
+    <message>
+        <source>Need something to read?</source>
+        <translation>Cần thứ gì đó để đọc?</translation>
+    </message>
+</context>

@@ -1,0 +1,31 @@
+<context>
+    <name>NotebookConflictWidget</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Keep cloud version</source>
+        <translation>Giữ phiên bản trên cloud</translation>
+    </message>
+    <message>
+        <source>Keep local version</source>
+        <translation>Giữ phiên bản trong máy</translation>
+    </message>
+    <message>
+        <source>LAST EDITED: </source>
+        <translation>CHỈNH SỬA LẦN CUỐI: </translation>
+    </message>
+    <message>
+        <source>Open anyway</source>
+        <translation>Vẫn mở</translation>
+    </message>
+    <message>
+        <source>This notebook was also edited on another device. Choose which version you want to keep across devices.</source>
+        <translation>Sổ tay này cũng đã được chỉnh sửa trên một thiết bị khác. Chọn phiên bản bạn muốn giữ trên các thiết bị.</translation>
+    </message>
+    <message>
+        <source>Two versions of this notebook</source>
+        <translation>Hai phiên bản của sổ tay</translation>
+    </message>
+</context>

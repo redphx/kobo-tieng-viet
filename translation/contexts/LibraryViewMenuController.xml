@@ -1,0 +1,31 @@
+<context>
+    <name>LibraryViewMenuController</name>
+    <message>
+        <source>Cancel all downloads</source>
+        <translation>Hủy tất cả tải xuống</translation>
+    </message>
+    <message>
+        <source>Cover view</source>
+        <translation>Xem dạng bìa</translation>
+    </message>
+    <message>
+        <source>Download all</source>
+        <translation>Tải tất cả</translation>
+    </message>
+    <message>
+        <source>List view</source>
+        <translation>Xem dạng danh sách</translation>
+    </message>
+    <message>
+        <source>Manage books</source>
+        <translation>Quản lý sách</translation>
+    </message>
+    <message>
+        <source>Manage collection</source>
+        <translation>Quản lý bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Manage downloads</source>
+        <translation>Quản lý tải về</translation>
+    </message>
+</context>

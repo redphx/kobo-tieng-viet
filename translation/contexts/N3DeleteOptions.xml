@@ -1,0 +1,83 @@
+<context>
+    <name>N3DeleteOptions</name>
+    <message>
+        <source>Are you sure you want to permanently delete the notebook named "%1"?</source>
+        <translation>Bạn có chắc muốn xóa vĩnh viễn sổ tay tên "%1" không?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Delete Notebook?</source>
+        <translation>Xóa sổ tay?</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>Remove download</source>
+        <translation>Loại bỏ tải xuống</translation>
+    </message>
+    <message>
+        <source>Remove from apps and devices</source>
+        <translation>Loại khỏi ứng dụng và thiết bị</translation>
+    </message>
+    <message>
+        <source>Remove from collection</source>
+        <translation>Loại khỏi bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Remove from Home</source>
+        <translation>Loại khỏi trang chủ</translation>
+    </message>
+    <message>
+        <source>Remove from My Books</source>
+        <translation>Loại khỏi Sách của tôi</translation>
+    </message>
+    <message>
+        <source>Remove from Pocket</source>
+        <translation>Loại khỏi Pocket</translation>
+    </message>
+    <message>
+        <source>You can re-download this item any time.</source>
+        <translation>Bạn có thể tải lại mục này bất cứ lúc nào.</translation>
+    </message>
+    <message>
+        <source>You can restore this item by changing its sync setting on the Rakuten website.</source>
+        <translation>Bạn có thể khôi phục mục này bằng cách thay đổi cài đặt đồng bộ của nó trên trang web Rakuten.</translation>
+    </message>
+    <message>
+        <source>You can restore this item on kobo.com from your Archive.</source>
+        <translation>Bạn có thể khôi phục mục này từ Kho lưu trữ trên kobo.com.</translation>
+    </message>
+    <message>
+        <source>You'll need to re-import this item to your eReader to read it again.</source>
+        <translation>Bạn cần nhập lại mục này vào máy đọc sách để đọc lại.</translation>
+    </message>
+    <message>
+        <source>You'll no longer see this item anywhere you use Pocket.</source>
+        <translation>Bạn sẽ không còn thấy mục này khi sử dụng Pocket ở bất cứ đâu.</translation>
+    </message>
+    <message>
+        <source>You'll no longer see this item on any of your devices.</source>
+        <translation>Bạn sẽ không thấy mục này trên bất kỳ thiết bị nào nữa.</translation>
+    </message>
+    <message>
+        <source>You'll still be able to download this item from My Dropbox.</source>
+        <translation>Bạn vẫn có thể tải mục này từ Dropbox của tôi.</translation>
+    </message>
+    <message>
+        <source>You'll still be able to download this item from My Google Drive.</source>
+        <translation>Bạn vẫn có thể tải mục này từ Google Drive của tôi.</translation>
+    </message>
+    <message>
+        <source>You'll still see this item in My Books.</source>
+        <translation>Bạn vẫn sẽ thấy mục này trong Sách của tôi.</translation>
+    </message>
+</context>

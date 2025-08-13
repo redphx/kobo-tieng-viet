@@ -1,0 +1,11 @@
+<context>
+    <name>VolumeSearchResultsView</name>
+    <message>
+        <source>Sorry, we can’t suggest anything. &lt;br&gt;Remove filters or try different search term.</source>
+        <translation>Rất tiếc, chúng tôi không thể đề xuất gì. &lt;br&gt;Hãy xóa bộ lọc hoặc thử cụm từ tìm kiếm khác.</translation>
+    </message>
+    <message>
+        <source>We didn't find any results.&lt;br&gt;Try a new search term.</source>
+        <translation>Chúng tôi không tìm thấy kết quả nào.&lt;br&gt;Hãy thử cụm từ tìm kiếm mới.</translation>
+    </message>
+</context>

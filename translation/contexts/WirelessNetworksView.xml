@@ -1,0 +1,27 @@
+<context>
+    <name>WirelessNetworksView</name>
+    <message>
+        <source>Add network</source>
+        <translation>Thêm mạng</translation>
+    </message>
+    <message>
+        <source>Connecting...</source>
+        <translation>Đang kết nối...</translation>
+    </message>
+    <message>
+        <source>No Wi Fi networks found.</source>
+        <translation>Không tìm thấy mạng Wi-Fi nào.</translation>
+    </message>
+    <message>
+        <source>Re-scan</source>
+        <translation>Quét lại</translation>
+    </message>
+    <message>
+        <source>Scanning for networks...</source>
+        <translation>Đang quét...</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation>Bỏ qua</translation>
+    </message>
+</context>

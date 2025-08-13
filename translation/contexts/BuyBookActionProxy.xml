@@ -1,0 +1,39 @@
+<context>
+    <name>BuyBookActionProxy</name>
+    <message>
+        <source>%1 or FREE&lt;br/&gt;with Kobo Plus</source>
+        <translation>%1 hoặc MIỄN PHÍ&lt;br/&gt;với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>%1 or Listen&lt;br/&gt;with Kobo Plus</source>
+        <translation>%1 hoặc nghe&lt;br/&gt;với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>%1 or Read&lt;br/&gt;with Kobo Plus</source>
+        <translation>%1 hoặc đọc&lt;br/&gt;với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>&lt;div style='color:#555555;text-decoration:line-through;'&gt;%2&lt;/div&gt;&lt;br/&gt;Buy %1</source>
+        <translation>&lt;div style='color:#555555;text-decoration:line-through;'&gt;%2&lt;/div&gt;&lt;br/&gt;Mua %1</translation>
+    </message>
+    <message>
+        <source>Buy %1</source>
+        <translation>Mua %1</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Mua ngay</translation>
+    </message>
+    <message>
+        <source>Buy now or FREE&lt;br/&gt;with Kobo Plus</source>
+        <translation>Mua ngay hoặc MIỄN PHÍ&lt;br/&gt;với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Buy now or Listen&lt;br/&gt;with Kobo Plus</source>
+        <translation>Mua ngay hoặc nghe&lt;br/&gt;với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Buy now or Read&lt;br/&gt;with Kobo Plus</source>
+        <translation>Mua ngay hoặc đọc&lt;br/&gt;với Kobo Plus</translation>
+    </message>
+</context>

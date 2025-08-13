@@ -1,0 +1,19 @@
+<context>
+    <name>MarkAsUnreadActionProxy</name>
+    <message>
+        <source>Mark as unplayed</source>
+        <translation>Đánh dấu là chưa nghe</translation>
+    </message>
+    <message>
+        <source>Mark as unread</source>
+        <translation>Đánh dấu là chưa đọc</translation>
+    </message>
+    <message>
+        <source>Marked as unplayed</source>
+        <translation>Đã đánh dấu là chưa nghe</translation>
+    </message>
+    <message>
+        <source>Marked as unread</source>
+        <translation>Đã đánh dấu là chưa đọc</translation>
+    </message>
+</context>

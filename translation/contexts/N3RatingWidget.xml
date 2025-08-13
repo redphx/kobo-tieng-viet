@@ -1,0 +1,29 @@
+<context>
+    <name>N3RatingWidget</name>
+    <message numerus="yes">
+        <source>%n rating(s)</source>
+        <translation>
+            <numerusform>%n đánh giá</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>I didn’t like it.</source>
+        <translation>Tôi không thích nó.</translation>
+    </message>
+    <message>
+        <source>I hated it!</source>
+        <translation>Tôi ghét nó!</translation>
+    </message>
+    <message>
+        <source>I liked it.</source>
+        <translation>Tôi thích nó.</translation>
+    </message>
+    <message>
+        <source>I loved it!</source>
+        <translation>Tôi yêu nó!</translation>
+    </message>
+    <message>
+        <source>It was OK.</source>
+        <translation>Nó ổn.</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>MoveNotebookFolderItemDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>Di chuyển</translation>
+    </message>
+    <message>
+        <source>Move to Folder</source>
+        <translation>Di chuyển tới thư mục</translation>
+    </message>
+    <message>
+        <source>New folder</source>
+        <translation>Thư mục mới</translation>
+    </message>
+</context>

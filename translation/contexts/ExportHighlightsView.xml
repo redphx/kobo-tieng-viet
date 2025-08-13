@@ -1,0 +1,11 @@
+<context>
+    <name>ExportHighlightsView</name>
+    <message>
+        <source>Export Highlights</source>
+        <translation>Xuất đánh dấu</translation>
+    </message>
+    <message>
+        <source>Please specify the file that you would like to save your highlights to.</source>
+        <translation>Vui lòng chỉ định file mà bạn muốn lưu các đánh dấu của mình.</translation>
+    </message>
+</context>

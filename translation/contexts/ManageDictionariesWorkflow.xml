@@ -1,0 +1,23 @@
+<context>
+    <name>ManageDictionariesWorkflow</name>
+    <message>
+        <source>Cancel Update?</source>
+        <translation>Hủy cập nhật?</translation>
+    </message>
+    <message>
+        <source>If you cancel now, we'll update your dictionaries the next time you sync.</source>
+        <translation>Nếu bạn hủy bây giờ, chúng tôi sẽ cập nhật từ điển vào lần đồng bộ tiếp theo.</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Updating...</source>
+        <translation>Đang cập nhật...</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+</context>

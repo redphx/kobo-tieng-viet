@@ -1,0 +1,11 @@
+<context>
+    <name>WishlistSortMenuController</name>
+    <message>
+        <source>Price: Low to High</source>
+        <translation>Giá: Tăng dần</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Mới nhất</translation>
+    </message>
+</context>

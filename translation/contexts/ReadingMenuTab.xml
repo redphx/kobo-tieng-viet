@@ -1,0 +1,11 @@
+<context>
+    <name>ReadingMenuTab</name>
+    <message>
+        <source>Annotations</source>
+        <translation>Chú thích</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <translation>Mục lục</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>NotebookStylusPage</name>
+    <message>
+        <source>Highlight and erase with %1 Stylus shortcuts</source>
+        <translation>Đánh dấu và xóa với phím tắt stylus %1</translation>
+    </message>
+    <message>
+        <source>Hold down the button near the stylus tip to quickly switch to highlighter mode, and the button towards the back to erase.</source>
+        <translation>Giữ nút gần đầu stylus để chuyển nhanh sang chế độ bút đánh dấu, giữ nút phía sau để xóa.</translation>
+    </message>
+</context>

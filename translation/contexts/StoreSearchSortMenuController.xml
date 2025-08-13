@@ -1,0 +1,31 @@
+<context>
+    <name>StoreSearchSortMenuController</name>
+    <message>
+        <source>Bestsellers</source>
+        <translation>Bán chạy</translation>
+    </message>
+    <message>
+        <source>Date: Newest to Oldest</source>
+        <translation>Ngày: Mới đến Cũ</translation>
+    </message>
+    <message>
+        <source>Date: Oldest to Newest</source>
+        <translation>Ngày: Cũ đến Mới</translation>
+    </message>
+    <message>
+        <source>Highest Rated</source>
+        <translation>Xếp hạng cao nhất</translation>
+    </message>
+    <message>
+        <source>Price: Low to High</source>
+        <translation>Giá: Thấp đến Cao</translation>
+    </message>
+    <message>
+        <source>Title: A to Z</source>
+        <translation>Tựa đề: A tới Z</translation>
+    </message>
+    <message>
+        <source>Title: Z to A</source>
+        <translation>Tựa đề: Z về A</translation>
+    </message>
+</context>

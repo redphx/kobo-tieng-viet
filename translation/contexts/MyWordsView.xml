@@ -1,0 +1,27 @@
+<context>
+    <name>MyWordsView</name>
+    <message>
+        <source>Build your own vocabulary list</source>
+        <translation>Xây dựng danh sách từ vựng của bạn</translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+    <message>
+        <source>MyWordsView</source>
+        <translation>MyWordsView</translation>
+    </message>
+    <message>
+        <source>Sort: A-Z</source>
+        <translation>Sắp xếp: A-Z</translation>
+    </message>
+    <message>
+        <source>Sort: Recently added</source>
+        <translation>Sắp xếp: Thêm gần đây</translation>
+    </message>
+    <message>
+        <source>While reading, you can press and hold on unfamiliar words to read their definitions and add them to this list (so you don't forget them).</source>
+        <translation>Trong khi đọc, bạn có thể nhấn và giữ các từ không quen để đọc định nghĩa và thêm chúng vào danh sách này (để không quên).</translation>
+    </message>
+</context>

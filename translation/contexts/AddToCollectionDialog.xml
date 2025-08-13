@@ -1,0 +1,11 @@
+<context>
+    <name>AddToCollectionDialog</name>
+    <message>
+        <source>Add to collection</source>
+        <translation>Thêm thẻ thư viện</translation>
+    </message>
+    <message>
+        <source>New collection</source>
+        <translation>Bộ sưu tập mới</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>FindABookPage</name>
+    <message>
+        <source>&lt;img src=":/images/fte/quicktour_texticon_search.png" /&gt; Search or browse our eBook catalogue from your eReader. Purchase books right away with a credit card or add them to your Wishlist. You can also browse and purchase books on kobo.com, bol.com, or in one of our apps.</source>
+        <translation>&lt;img src=":/images/fte/quicktour_texticon_search.png" /&gt; Tìm kiếm hoặc duyệt danh mục eBook của chúng tôi từ máy đọc sách của bạn. Mua sách ngay bằng thẻ tín dụng hoặc thêm vào Danh sách mong muốn. Bạn cũng có thể duyệt và mua sách trên kobo.com, bol.com hoặc trong ứng dụng của chúng tôi.</translation>
+    </message>
+    <message>
+        <source>&lt;img src=":/images/fte/quicktour_texticon_search.png" /&gt; Search or browse our eBook catalogue from your eReader. Purchase books right away with a credit card or add them to your Wishlist. You can also browse and purchase books on walmart.com or in one of our apps.</source>
+        <translation>&lt;img src=":/images/fte/quicktour_texticon_search.png" /&gt; Tìm kiếm hoặc duyệt danh mục eBook của chúng tôi từ máy đọc sách của bạn. Mua sách ngay bằng thẻ tín dụng hoặc thêm vào Danh sách mong muốn. Bạn cũng có thể duyệt và mua sách trên walmart.com hoặc trong ứng dụng của chúng tôi.</translation>
+    </message>
+    <message>
+        <source>&lt;img src=":/images/fte/quicktour_texticon_search.png" /&gt; Search or browse the Kobo catalogue from your eReader. Purchase books right away with a credit card or add them to your Wishlist. You can also browse and purchase books on kobo.com or in one of our apps.</source>
+        <translation>&lt;img src=":/images/fte/quicktour_texticon_search.png" /&gt; Tìm kiếm hoặc duyệt danh mục Kobo từ máy đọc sách của bạn. Mua sách ngay bằng thẻ tín dụng hoặc thêm vào Danh sách mong muốn. Bạn cũng có thể duyệt và mua sách trên kobo.com hoặc trong ứng dụng của chúng tôi.</translation>
+    </message>
+    <message>
+        <source>Find your next great read</source>
+        <translation>Tìm cuốn sách hay tiếp theo</translation>
+    </message>
+</context>

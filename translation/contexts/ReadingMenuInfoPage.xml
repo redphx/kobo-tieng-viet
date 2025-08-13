@@ -1,0 +1,47 @@
+<context>
+    <name>ReadingMenuInfoPage</name>
+    <message>
+        <source>Access other tools and settings</source>
+        <translation>Truy cập các công cụ và cài đặt khác</translation>
+    </message>
+    <message>
+        <source>Annotations</source>
+        <translation>Chú thích</translation>
+    </message>
+    <message>
+        <source>Brightness</source>
+        <translation>Độ sáng</translation>
+    </message>
+    <message>
+        <source>Change the font size or style</source>
+        <translation>Thay đổi kích thước hoặc kiểu font</translation>
+    </message>
+    <message>
+        <source>Chapter Skip</source>
+        <translation>Bỏ qua chương</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>Hoàn tất</translation>
+    </message>
+    <message>
+        <source>Just in case you're not familiar with the menu icons, here's a quick overview.</source>
+        <translation>Phòng khi bạn chưa quen với biểu tượng menu, đây là tổng quan nhanh.</translation>
+    </message>
+    <message>
+        <source>Reading menu</source>
+        <translation>Menu đọc</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Cài đặt</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <translation>Mục lục</translation>
+    </message>
+    <message>
+        <source>Zoom in and out of images</source>
+        <translation>Phóng to hoặc thu nhỏ hình ảnh</translation>
+    </message>
+</context>

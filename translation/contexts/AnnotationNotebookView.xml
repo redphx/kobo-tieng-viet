@@ -1,0 +1,11 @@
+<context>
+    <name>AnnotationNotebookView</name>
+    <message>
+        <source>%1 · %2% into chapter · %3</source>
+        <translation>%1 · %2% trong chương · %3</translation>
+    </message>
+    <message>
+        <source>%1% into chapter</source>
+        <translation>%1% trong chương</translation>
+    </message>
+</context>

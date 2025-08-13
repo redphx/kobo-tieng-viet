@@ -1,0 +1,11 @@
+<context>
+    <name>RecommendationsSubNavView</name>
+    <message>
+        <source>Just For You</source>
+        <translation>Dành riêng cho bạn</translation>
+    </message>
+    <message>
+        <source>Related Reads</source>
+        <translation>Các sách liên quan</translation>
+    </message>
+</context>

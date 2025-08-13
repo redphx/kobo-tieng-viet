@@ -1,0 +1,31 @@
+<context>
+    <name>BasicNoteMenuInfoPage</name>
+    <message>
+        <source>Adjust thickness and shading, and try different pen types, from ballpoint to calligraphy.</source>
+        <translation>Điều chỉnh độ dày và độ sáng tối, thử các loại bút khác nhau, từ bút bi đến thư pháp.</translation>
+    </message>
+    <message>
+        <source>Change the page background, export your notebook and more.</source>
+        <translation>Thay đổi nền trang, xuất sổ tay và các tính năng khác.</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>Hoàn tất</translation>
+    </message>
+    <message>
+        <source>Hide the menu.</source>
+        <translation>Ẩn menu.</translation>
+    </message>
+    <message>
+        <source>Notebook menu</source>
+        <translation>Menu sổ tay</translation>
+    </message>
+    <message>
+        <source>Switch between object eraser to erase entire strokes, or the brush eraser for more precision.</source>
+        <translation>Chuyển đổi giữa tẩy đối tượng để xóa toàn bộ nét hoặc tẩy cọ để xóa chính xác hơn.</translation>
+    </message>
+    <message>
+        <source>Undo or redo actions.</source>
+        <translation>Hoàn tác hoặc làm lại thao tác.</translation>
+    </message>
+</context>

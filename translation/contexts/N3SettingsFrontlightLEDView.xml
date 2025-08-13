@@ -1,0 +1,23 @@
+<context>
+    <name>N3SettingsFrontlightLEDView</name>
+    <message>
+        <source>Blue</source>
+        <translation>Xanh dương</translation>
+    </message>
+    <message>
+        <source>FRONTLIGHTLED</source>
+        <translation>ĐÈN NỀN</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation>Xanh lá</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation>Đỏ</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation>Trắng</translation>
+    </message>
+</context>

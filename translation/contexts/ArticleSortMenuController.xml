@@ -1,0 +1,19 @@
+<context>
+    <name>ArticleSortMenuController</name>
+    <message>
+        <source>Newest</source>
+        <translation>Mới nhất</translation>
+    </message>
+    <message>
+        <source>Oldest</source>
+        <translation>Cũ nhất</translation>
+    </message>
+    <message>
+        <source>Source</source>
+        <translation>Nguồn</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Tiêu đề</translation>
+    </message>
+</context>

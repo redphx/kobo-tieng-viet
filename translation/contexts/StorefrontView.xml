@@ -1,0 +1,23 @@
+<context>
+    <name>StorefrontView</name>
+    <message>
+        <source>Categories</source>
+        <translation>Danh mục</translation>
+    </message>
+    <message>
+        <source>Kobo Store</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+    <message>
+        <source>Search the %1 by title, author, series, or ISBN</source>
+        <translation>Tìm kiếm %1 theo tiêu đề, tác giả, bộ sách hoặc ISBN</translation>
+    </message>
+    <message>
+        <source>Search the Kobo Store by title, author, series, or ISBN</source>
+        <translation>Tìm kiếm trong Kobo Store theo tên sách, tác giả, bộ truyện hoặc ISBN</translation>
+    </message>
+    <message>
+        <source>Top Picks</source>
+        <translation>Lựa chọn hàng đầu</translation>
+    </message>
+</context>

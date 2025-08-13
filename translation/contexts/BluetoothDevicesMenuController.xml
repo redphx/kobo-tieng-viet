@@ -1,0 +1,39 @@
+<context>
+    <name>BluetoothDevicesMenuController</name>
+    <message>
+        <source>Block</source>
+        <translation>Chặn</translation>
+    </message>
+    <message>
+        <source>Connect</source>
+        <translation>Kết nối</translation>
+    </message>
+    <message>
+        <source>Disable Software Volume</source>
+        <translation>Tắt âm lượng phần mềm</translation>
+    </message>
+    <message>
+        <source>Disconnect</source>
+        <translation>Ngắt kết nối</translation>
+    </message>
+    <message>
+        <source>Enable Software Volume</source>
+        <translation>Bật âm lượng phần mềm</translation>
+    </message>
+    <message>
+        <source>Forget</source>
+        <translation>Quên</translation>
+    </message>
+    <message>
+        <source>Remove As Default</source>
+        <translation>Loại bỏ mặc định</translation>
+    </message>
+    <message>
+        <source>Set As Default</source>
+        <translation>Thiết lập mặc định</translation>
+    </message>
+    <message>
+        <source>Unblock</source>
+        <translation>Gỡ chặn</translation>
+    </message>
+</context>

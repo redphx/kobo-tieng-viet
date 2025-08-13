@@ -1,0 +1,11 @@
+<context>
+    <name>OverDrivePage</name>
+    <message>
+        <source>Borrow public library books</source>
+        <translation>Mượn sách thư viện công cộng</translation>
+    </message>
+    <message>
+        <source>With OverDrive on your %1, all you need is a library card and a Wi Fi connection to borrow eBooks from your public library. Browse, borrow, and place holds on library books directly from your eReader.</source>
+        <translation>Với OverDrive trên %1, tất cả những gì bạn cần là thẻ thư viện và kết nối Wi-Fi để mượn eBook từ thư viện công cộng của bạn. Duyệt, mượn và giữ sách thư viện trực tiếp từ máy đọc sách của bạn.</translation>
+    </message>
+</context>

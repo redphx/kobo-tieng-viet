@@ -1,0 +1,43 @@
+<context>
+    <name>N3SettingsBluetoothView</name>
+    <message>
+        <source>:/images/spinner/spinner_sml_black.mng</source>
+        <translation>:/images/spinner/spinner_sml_black.mng</translation>
+    </message>
+    <message>
+        <source>Bluetooth</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>Bluetooth device alias: </source>
+        <translation>Bí danh thiết bị Bluetooth: </translation>
+    </message>
+    <message>
+        <source>Bluetooth Help</source>
+        <translation>Trợ giúp Bluetooth</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation>Các thiết bị</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Chỉnh sửa</translation>
+    </message>
+    <message>
+        <source>OPTIONS</source>
+        <translation>TÙY CHỌN</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Đang quét...</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>Turn on Bluetooth to connect to nearby devices.</source>
+        <translation>Bật Bluetooth để kết nối với thiết bị gần đó.</translation>
+    </message>
+</context>

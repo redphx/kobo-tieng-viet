@@ -1,0 +1,11 @@
+<context>
+    <name>AudiobookPlayer</name>
+    <message>
+        <source>Connecting...</source>
+        <translation>Đang kết nối...</translation>
+    </message>
+    <message>
+        <source>No Bluetooth Connected</source>
+        <translation>Không có kết nối Bluetooth</translation>
+    </message>
+</context>

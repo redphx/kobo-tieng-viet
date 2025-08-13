@@ -1,0 +1,15 @@
+<context>
+    <name>CategoryFeaturedListsMenuController</name>
+    <message>
+        <source>All books</source>
+        <translation>Tất cả sách</translation>
+    </message>
+    <message>
+        <source>Eligible for promo code</source>
+        <translation>Đủ điều kiện nhận khuyến mãi</translation>
+    </message>
+    <message>
+        <source>Top Picks</source>
+        <translation>Gợi ý hàng đầu</translation>
+    </message>
+</context>

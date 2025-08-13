@@ -1,0 +1,43 @@
+<context>
+    <name>MeetReaderPage</name>
+    <message>
+        <source>Locate the controls</source>
+        <translation>Xác định vị trí điều khiển</translation>
+    </message>
+    <message>
+        <source>Meet your eReader</source>
+        <translation>Gặp gỡ máy đọc sách của bạn</translation>
+    </message>
+    <message>
+        <source>Welcome to %1! We'd like to show you the basics of your new eReader so that you can get the most out of your reading experience. Let's get started...</source>
+        <translation>Chào mừng đến với %1! Chúng tôi muốn giới thiệu cho bạn những thông tin cơ bản về máy đọc sách mới của bạn để bạn có thể tận dụng tối đa trải nghiệm đọc của mình. Bắt đầu nào...</translation>
+    </message>
+    <message>
+        <source>You'll find a home button on the front of your eReader. The power slider is on the top, and slots for the USB cable and a Micro SD card are at the bottom and left.</source>
+        <translation>Bạn sẽ tìm thấy nút home ở mặt trước máy đọc sách của mình. Thanh trượt nguồn ở phía trên và các khe cắm cáp USB và thẻ Micro SD ở phía dưới và bên trái.</translation>
+    </message>
+    <message>
+        <source>You'll find controls for the light and power at the top of your eReader. Slots for the USB cable and a Micro SD card can be found along the bottom and left edges.</source>
+        <translation>Bạn sẽ tìm thấy các nút điều khiển ánh sáng và nguồn ở đầu máy đọc sách của mình. Các khe cắm cáp USB và thẻ Micro SD có thể được tìm thấy dọc theo cạnh dưới và cạnh trái.</translation>
+    </message>
+    <message>
+        <source>You'll find controls for the light and power at the top of your eReader. Slots for the USB cable and a Micro SD card can be found along the bottom edge.</source>
+        <translation>Bạn sẽ tìm thấy các nút điều khiển ánh sáng và nguồn ở đầu máy đọc sách của mình. Các khe cắm cáp USB và thẻ Micro SD có thể được tìm thấy dọc theo cạnh dưới.</translation>
+    </message>
+    <message>
+        <source>You'll find the power button at the top of your eReader. Slots for the USB cable and a Micro SD card can be found at the bottom, behind the port cover.</source>
+        <translation>Bạn sẽ tìm thấy nút nguồn ở đầu máy đọc sách của mình. Các khe cắm cáp USB và thẻ Micro SD có thể được tìm thấy ở phía dưới, phía sau nắp cổng.</translation>
+    </message>
+    <message>
+        <source>You'll find the power slider at the top of your eReader. The slot for the USB cable can be found along the bottom edge.</source>
+        <translation>Bạn sẽ tìm thấy thanh trượt nguồn ở đầu máy đọc sách của mình. Khe cắm cáp USB có thể được tìm thấy dọc theo cạnh dưới.</translation>
+    </message>
+    <message>
+        <source>You’ll find the power button at the back of your eReader. The port for the USB cable can be found along the bottom edge.</source>
+        <translation>Bạn sẽ tìm thấy nút nguồn ở phía sau máy đọc sách của mình. Cổng kết nối cáp USB có thể được tìm thấy dọc theo cạnh dưới.</translation>
+    </message>
+    <message>
+        <source>You’ll find the power button at the top of your eReader. The port for the USB cable can be found along the bottom edge.</source>
+        <translation>Bạn sẽ tìm thấy nút nguồn ở đầu máy đọc sách của mình. Cổng kết nối cáp USB có thể được tìm thấy dọc theo cạnh dưới.</translation>
+    </message>
+</context>

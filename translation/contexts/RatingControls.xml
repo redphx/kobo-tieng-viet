@@ -1,0 +1,19 @@
+<context>
+    <name>RatingControls</name>
+    <message>
+        <source>Already read it</source>
+        <translation>Đã đọc nó</translation>
+    </message>
+    <message>
+        <source>Not interested</source>
+        <translation>Không quan tâm</translation>
+    </message>
+    <message>
+        <source>Rate it:</source>
+        <translation>Đánh giá nó:</translation>
+    </message>
+    <message>
+        <source>Thanks for letting us know more about your reading preferences!</source>
+        <translation>Cảm ơn bạn đã cho chúng tôi biết thêm về sở thích đọc của bạn!</translation>
+    </message>
+</context>

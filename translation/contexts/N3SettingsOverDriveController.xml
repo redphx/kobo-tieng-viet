@@ -1,0 +1,27 @@
+<context>
+    <name>N3SettingsOverDriveController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation>Đăng xuất</translation>
+    </message>
+    <message>
+        <source>Sign out of OverDrive?</source>
+        <translation>Đăng xuất khỏi OverDrive?</translation>
+    </message>
+    <message>
+        <source>You'll be able to continue reading the books you currently have checked out - until their loan periods expire.</source>
+        <translation>Bạn sẽ có thể tiếp tục đọc những cuốn sách bạn đang mượn - cho đến khi hết hạn mượn.</translation>
+    </message>
+    <message>
+        <source>Your email has been updated.</source>
+        <translation>Email của bạn đã được cập nhật.</translation>
+    </message>
+</context>

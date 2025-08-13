@@ -1,0 +1,43 @@
+<context>
+    <name>SeriesListViewBase</name>
+    <message>
+        <source>Add eBooks from your computer by connecting with the USB cable.</source>
+        <translation>Thêm eBook từ máy tính bằng cách kết nối với cáp USB.</translation>
+    </message>
+    <message>
+        <source>Here's where you'll find all your Series. Looking for something to read?</source>
+        <translation>Đây là nơi bạn sẽ tìm thấy tất cả bộ sách của mình. Đang tìm gì đó để đọc?</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+    <message>
+        <source>Number of books</source>
+        <translation>Số cuốn sách</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Series Title</source>
+        <translation>Tựa đề bộ sách</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message>
+        <source>You have no series yet</source>
+        <translation>Bạn chưa có bộ sách nào</translation>
+    </message>
+</context>

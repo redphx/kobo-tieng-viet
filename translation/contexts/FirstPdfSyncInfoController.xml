@@ -1,0 +1,27 @@
+<context>
+    <name>FirstPdfSyncInfoController</name>
+    <message>
+        <source>Syncing your PDF annotations to Dropbox</source>
+        <translation>Đang đồng bộ chú thích PDF của bạn với Dropbox</translation>
+    </message>
+    <message>
+        <source>Syncing your PDF annotations to Google Drive</source>
+        <translation>Đang đồng bộ chú thích PDF của bạn với Google Drive</translation>
+    </message>
+    <message>
+        <source>We’ll automatically sync the annotations you make to PDF files to Dropbox. You can also manually sync by tapping here.
+
+You can check version history and restore previous versions on Dropbox.</source>
+        <translation>Chúng tôi sẽ tự động đồng bộ các chú thích bạn tạo trong PDF với Dropbox. Bạn cũng có thể đồng bộ thủ công bằng cách nhấn vào đây.
+
+Bạn có thể kiểm tra lịch sử phiên bản và khôi phục các phiên bản trước trên Dropbox.</translation>
+    </message>
+    <message>
+        <source>We’ll automatically sync the annotations you make to PDF files to Google Drive. You can also manually sync by tapping here.
+
+You can check version history and download previous versions on Google Drive.</source>
+        <translation>Chúng tôi sẽ tự động đồng bộ các chú thích bạn tạo trong PDF với Google Drive. Bạn cũng có thể đồng bộ thủ công bằng cách nhấn vào đây.
+
+Bạn có thể kiểm tra lịch sử phiên bản và tải các phiên bản trước trên Google Drive.</translation>
+    </message>
+</context>

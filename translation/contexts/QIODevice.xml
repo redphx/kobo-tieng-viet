@@ -1,0 +1,7 @@
+<context>
+    <name>QIODevice</name>
+    <message>
+        <source>Unknown error</source>
+        <translation>Lỗi không xác định</translation>
+    </message>
+</context>

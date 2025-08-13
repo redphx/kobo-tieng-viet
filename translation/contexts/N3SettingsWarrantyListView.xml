@@ -1,0 +1,15 @@
+<context>
+    <name>N3SettingsWarrantyListView</name>
+    <message>
+        <source>For further warranty details, please visit the Kobo site for the latest information: www.kobo.com/userguides</source>
+        <translation>Để biết thêm chi tiết bảo hành, vui lòng truy cập trang Kobo để biết thông tin mới nhất: www.kobo.com/userguides</translation>
+    </message>
+    <message>
+        <source>For further warranty details, please visit the tolino site for the latest information: mytolino.com/legal</source>
+        <translation>Để biết thêm chi tiết bảo hành, vui lòng truy cập trang web tolino để biết thông tin mới nhất: mytolino.com/legal</translation>
+    </message>
+    <message>
+        <source>WARRANTY</source>
+        <translation>BẢO HÀNH</translation>
+    </message>
+</context>

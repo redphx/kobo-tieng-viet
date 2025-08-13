@@ -1,0 +1,67 @@
+<context>
+    <name>BatteryMenuView</name>
+    <message>
+        <source>Charging from PowerCover</source>
+        <translation>Sạc từ PowerCover</translation>
+    </message>
+    <message>
+        <source>Charging from PowerCover · %1 hours until full</source>
+        <translation>Sạc từ PowerCover · %1 giờ đến khi đầy</translation>
+    </message>
+    <message numerus="yes">
+        <source>Charging from PowerCover · %n min(s) until full</source>
+        <translation>
+            <numerusform>Sạc từ PowerCover · %n phút đến khi đầy</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Charging from USB</source>
+        <translation>Sạc từ USB</translation>
+    </message>
+    <message>
+        <source>Charging from USB · %1 hours until full</source>
+        <translation>Sạc từ USB · %1 giờ đến khi đầy</translation>
+    </message>
+<message numerus="yes">
+        <source>Charging from USB · %n min(s) until full</source>
+        <translation>
+            <numerusform>Sạc từ USB · %n phút đến khi đầy</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Connect your eReader to a power source with the PowerCover attached</source>
+        <translation>Kết nối máy đọc sách của bạn với nguồn điện có gắn PowerCover</translation>
+    </message>
+    <message>
+        <source>Energy saving settings</source>
+        <translation>Thiết lập tiết kiệm điện</translation>
+    </message>
+    <message>
+        <source>eReader: %1%</source>
+        <translation>Máy đọc sách: %1%</translation>
+    </message>
+    <message>
+        <source>Fully charged</source>
+        <translation>Đã sạc đầy</translation>
+    </message>
+    <message>
+        <source>Fully Charged</source>
+        <translation>Đã sạc đầy</translation>
+    </message>
+    <message>
+        <source>Please recharge/replace the stylus battery soon.</source>
+        <translation>Hãy sạc/thay pin stylus sớm.</translation>
+    </message>
+    <message>
+        <source>PowerCover: %1%</source>
+        <translation>PowerCover: %1%</translation>
+    </message>
+    <message>
+        <source>Stylus: Battery Low</source>
+        <translation>Stylus: Pin yếu</translation>
+    </message>
+    <message>
+        <source>Stylus: Battery OK</source>
+        <translation>Stylus: Pin ổn</translation>
+    </message>
+</context>

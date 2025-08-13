@@ -1,0 +1,7 @@
+<context>
+    <name>HtmlArticleFormatter</name>
+    <message>
+        <source>&lt;p&gt;&lt;i&gt;Video content is not supported on your eReader&lt;/i&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;&lt;i&gt;Nội dung video không được hỗ trợ trên máy đọc sách của bạn&lt;/i&gt;&lt;/p&gt;</translation>
+    </message>
+</context>

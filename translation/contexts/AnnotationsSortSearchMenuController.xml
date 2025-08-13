@@ -1,0 +1,15 @@
+<context>
+    <name>AnnotationsSortSearchMenuController</name>
+    <message>
+        <source>Location A-Z</source>
+        <translation>Vị trí A-Z</translation>
+    </message>
+    <message>
+        <source>Location Z-A</source>
+        <translation>Vị trí Z-A</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+</context>

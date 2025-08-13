@@ -1,0 +1,51 @@
+<context>
+    <name>SelectionMenuController</name>
+    <message>
+        <source>Add Note</source>
+        <translation>Thêm ghi chú</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Quay lại</translation>
+    </message>
+    <message>
+        <source>Delete Annotation</source>
+        <translation>Xóa chú thích</translation>
+    </message>
+    <message>
+        <source>Edit Note</source>
+        <translation>Sửa ghi chú</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>Đánh dấu</translation>
+    </message>
+    <message>
+        <source>Remove Highlight</source>
+        <translation>Loại bỏ đánh dấu</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>Search Baidu</source>
+        <translation>Tìm kiếm Baidu</translation>
+    </message>
+    <message>
+        <source>Search Google</source>
+        <translation>Tìm kiếm Google</translation>
+    </message>
+    <message>
+        <source>Search in book</source>
+        <translation>Tìm kiếm trong sách</translation>
+    </message>
+    <message>
+        <source>Search Wikipedia</source>
+        <translation>Tìm kiếm Wikipedia</translation>
+    </message>
+    <message>
+        <source>Undo Highlight</source>
+        <translation>Hoàn tác đánh dấu</translation>
+    </message>
+</context>

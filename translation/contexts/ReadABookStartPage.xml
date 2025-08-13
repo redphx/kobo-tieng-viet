@@ -1,0 +1,15 @@
+<context>
+    <name>ReadABookStartPage</name>
+    <message>
+        <source>Start reading</source>
+        <translation>Bắt đầu đọc</translation>
+    </message>
+    <message>
+        <source>To turn pages, tap or swipe the sides of the screen. Tap the center of the screen to bring up the reading menu.</source>
+        <translation>Để lật trang, chạm hoặc vuốt cạnh màn hình. Chạm vào giữa màn hình để mở menu đọc.</translation>
+    </message>
+    <message>
+        <source>To turn pages, tap the page turn buttons or swipe the sides of the screen. Tap the center of the screen to bring up the reading menu.</source>
+        <translation>Để lật trang, chạm vào nút lật trang hoặc vuốt cạnh màn hình. Chạm vào giữa màn hình để mở menu đọc.</translation>
+    </message>
+</context>

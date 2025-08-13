@@ -1,0 +1,11 @@
+<context>
+    <name>ExportPathManager</name>
+    <message>
+        <source>Exported Annotations</source>
+        <translation>Chú thích đã xuất</translation>
+    </message>
+    <message>
+        <source>Exported Notebooks</source>
+        <translation>Sổ tay đã xuất</translation>
+    </message>
+</context>

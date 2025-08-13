@@ -1,0 +1,23 @@
+<context>
+    <name>WirelessNetworkInfoWidget</name>
+    <message>
+        <source>Authentication:</source>
+        <translation>Xác thực:</translation>
+    </message>
+    <message>
+        <source>Encryption:</source>
+        <translation>Mã hóa:</translation>
+    </message>
+    <message>
+        <source>Security Mode:</source>
+        <translation>Chế độ bảo mật:</translation>
+    </message>
+    <message>
+        <source>Service Set:</source>
+        <translation>Bộ dịch vụ:</translation>
+    </message>
+    <message>
+        <source>SSID:</source>
+        <translation>SSID:</translation>
+    </message>
+</context>

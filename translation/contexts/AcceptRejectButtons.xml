@@ -1,0 +1,11 @@
+<context>
+    <name>AcceptRejectButtons</name>
+    <message>
+        <source>Accept</source>
+        <translation>Đồng ý</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+</context>

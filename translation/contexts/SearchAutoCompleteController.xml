@@ -1,0 +1,27 @@
+<context>
+    <name>SearchAutoCompleteController</name>
+    <message>
+        <source>look up a term</source>
+        <translation>Tra cứu thuật ngữ</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>title, author, or series</source>
+        <translation>tựa đề, tác giả hoặc bộ sách</translation>
+    </message>
+    <message>
+        <source>title, author, series, or ISBN</source>
+        <translation>tựa đề, tác giả, bộ sách hoặc mã ISBN</translation>
+    </message>
+    <message>
+        <source>title, website, or tag</source>
+        <translation>tựa đề, trang web hoặc nhãn</translation>
+    </message>
+    <message>
+        <source>word or phrase</source>
+        <translation>từ hoặc cụm từ</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>TouchTextEdit</name>
+    <message>
+        <source>%1/%2</source>
+        <translation>%1/%2</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n MORE CHARACTER(S) REQUIRED</source>
+        <translation>
+            <numerusform>CẦN THÊM %n KÝ TỰ</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>MINIMUM %n CHARACTER(S)</source>
+        <translation>
+            <numerusform>TỐI THIỂU %n KÝ TỰ</numerusform>
+        </translation>
+    </message>
+</context>

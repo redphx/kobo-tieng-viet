@@ -1,0 +1,31 @@
+<context>
+    <name>N3SettingsWirelessController</name>
+    <message>
+        <source>Disabling Wi Fi will cancel the sync currently in progress. Are you sure you want to turn Wi-Fi off?</source>
+        <translation>Tắt Wi-Fi sẽ hủy quá trình đồng bộ hiện đang diễn ra. Bạn có chắc muốn tắt Wi-Fi không?</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Sync in Progress</source>
+        <translation>Đang đồng bộ</translation>
+    </message>
+    <message>
+        <source>Wi Fi connection</source>
+        <translation>Kết nối Wi-Fi</translation>
+    </message>
+    <message>
+        <source>Wi Fi Connection</source>
+        <translation>Kết nối Wi-Fi</translation>
+    </message>
+    <message>
+        <source>Wi Fi is disabled. Would you like to enable it and connect to the internet?</source>
+        <translation>Kết nối Wi-Fi đang tắt. Bạn có muốn kích hoạt để kết nối với internet?</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+</context>

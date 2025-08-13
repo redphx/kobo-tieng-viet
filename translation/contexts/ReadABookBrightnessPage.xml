@@ -1,0 +1,15 @@
+<context>
+    <name>ReadABookBrightnessPage</name>
+    <message>
+        <source>Adjust brightness by swiping up or down along the left edge of the screen.</source>
+        <translation>Điều chỉnh độ sáng bằng cách vuốt lên hoặc xuống dọc theo mép trái màn hình.</translation>
+    </message>
+    <message>
+        <source>Read at night</source>
+        <translation>Đọc vào ban đêm</translation>
+    </message>
+    <message>
+        <source>To turn the light on or off, press the button next to the power slider. Adjust brightness by swiping up or down along the left edge of the screen.</source>
+        <translation>Để bật hoặc tắt đèn, nhấn nút cạnh thanh trượt nguồn. Điều chỉnh độ sáng bằng cách vuốt lên hoặc xuống dọc theo mép trái màn hình.</translation>
+    </message>
+</context>

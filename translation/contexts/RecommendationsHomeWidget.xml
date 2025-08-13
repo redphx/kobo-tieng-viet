@@ -1,0 +1,11 @@
+<context>
+    <name>RecommendationsHomeWidget</name>
+    <message>
+        <source>BASED ON YOUR BOOKS</source>
+        <translation>DỰA TRÊN SÁCH CỦA BẠN</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>Được đề xuất</translation>
+    </message>
+</context>

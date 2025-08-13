@@ -1,0 +1,11 @@
+<context>
+    <name>ReadABookAnnotationsPage</name>
+    <message>
+        <source>Add annotations</source>
+        <translation>Thêm chú thích</translation>
+    </message>
+    <message>
+        <source>To select a passage, press and hold on the beginning and drag your finger to the end. You can then highlight it and add notes.</source>
+        <translation>Để chọn một đoạn văn, nhấn giữ từ đầu đoạn và kéo đến cuối. Sau đó bạn có thể đánh dấu và thêm ghi chú.</translation>
+    </message>
+</context>

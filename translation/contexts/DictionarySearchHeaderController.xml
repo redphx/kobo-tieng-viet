@@ -1,0 +1,7 @@
+<context>
+    <name>DictionarySearchHeaderController</name>
+    <message>
+        <source>Language: %1</source>
+        <translation>Ngôn ngữ: %1</translation>
+    </message>
+</context>

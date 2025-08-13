@@ -1,0 +1,7 @@
+<context>
+    <name>DeleteBookActionProxy</name>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+</context>

@@ -1,0 +1,43 @@
+<context>
+    <name>BluetoothDevicesView</name>
+    <message>
+        <source>Bluetooth</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation>Thiết bị</translation>
+    </message>
+    <message>
+        <source>First name</source>
+        <translation>Tên riêng</translation>
+    </message>
+    <message>
+        <source>Last name</source>
+        <translation>Họ</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Number of books</source>
+        <translation>Số lượng sách</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Scanning...&lt;br/&gt;&lt;br/&gt;Please ensure your bluetooth device is in pairing mode.</source>
+        <translation>Đang quét...&lt;br/&gt;&lt;br/&gt;Hãy đảm bảo thiết bị bluetooth của bạn đang ở chế độ ghép đôi.</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+</context>

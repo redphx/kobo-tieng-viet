@@ -1,0 +1,11 @@
+<context>
+    <name>DetailedReviewController</name>
+    <message>
+        <source>Review</source>
+        <translation>Đánh giá</translation>
+    </message>
+    <message>
+        <source>Your review</source>
+        <translation>Đánh giá của bạn</translation>
+    </message>
+</context>

@@ -1,0 +1,27 @@
+<context>
+    <name>DragonAnnotationItem</name>
+    <message>
+        <source>%1% into chapter</source>
+        <translation>%1% trong chương</translation>
+    </message>
+    <message>
+        <source>%2 · %1% INTO CHAPTER</source>
+        <translation>%2 · %1% TRONG CHƯƠNG</translation>
+    </message>
+    <message>
+        <source>BOOKMARK</source>
+        <translation>DẤU TRANG</translation>
+    </message>
+    <message>
+        <source>HIGHLIGHT</source>
+        <translation>ĐÁNH DẤU</translation>
+    </message>
+    <message>
+        <source>NOTE</source>
+        <translation>GHI CHÚ</translation>
+    </message>
+    <message>
+        <source>PAGE</source>
+        <translation>TRANG</translation>
+    </message>
+</context>

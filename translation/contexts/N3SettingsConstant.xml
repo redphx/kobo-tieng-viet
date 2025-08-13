@@ -1,0 +1,11 @@
+<context>
+    <name>N3SettingsConstant</name>
+    <message>
+        <source>Energy saving</source>
+        <translation>Tiết kiệm pin</translation>
+    </message>
+    <message>
+        <source>Energy saving and privacy</source>
+        <translation>Tiết kiệm pin và riêng tư</translation>
+    </message>
+</context>

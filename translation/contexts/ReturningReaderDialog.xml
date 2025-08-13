@@ -1,0 +1,35 @@
+<context>
+    <name>ReturningReaderDialog</name>
+    <message>
+        <source>Flip back and forth between pages without losing your place</source>
+        <translation>Lật qua lại giữa các trang mà không mất vị trí</translation>
+    </message>
+    <message>
+        <source>Navigate and see where you are in the book using the progress bar.</source>
+        <translation>Điều hướng và xem vị trí của bạn trong sách bằng thanh tiến trình.</translation>
+    </message>
+    <message>
+        <source>OK, got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>Previous location</source>
+        <translation>Vị trí trước đó</translation>
+    </message>
+    <message>
+        <source>Search for keywords and characters</source>
+        <translation>Tìm kiếm từ khóa và ký tự</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <translation>Mục lục</translation>
+    </message>
+    <message>
+        <source>Your annotations</source>
+        <translation>Chú thích của bạn</translation>
+    </message>
+    <message>
+        <source>Your current location</source>
+        <translation>Vị trí hiện tại của bạn</translation>
+    </message>
+</context>

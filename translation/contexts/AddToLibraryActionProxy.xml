@@ -1,0 +1,27 @@
+<context>
+    <name>AddToLibraryActionProxy</name>
+    <message>
+        <source>Free</source>
+        <translation>Miễn phí</translation>
+    </message>
+    <message>
+        <source>Kobo Plus</source>
+        <translation>Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Listen with Kobo Plus</source>
+        <translation>Nghe với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Read with Kobo Plus</source>
+        <translation>Đọc với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation>Khôi phục</translation>
+    </message>
+    <message>
+        <source>Save preview</source>
+        <translation>Lưu bản xem trước</translation>
+    </message>
+</context>

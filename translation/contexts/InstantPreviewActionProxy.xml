@@ -1,0 +1,11 @@
+<context>
+    <name>InstantPreviewActionProxy</name>
+    <message>
+        <source>Preview now</source>
+        <translation>Xem trước bây giờ</translation>
+    </message>
+    <message>
+        <source>Read now</source>
+        <translation>Đọc bây giờ</translation>
+    </message>
+</context>

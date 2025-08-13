@@ -1,0 +1,11 @@
+<context>
+    <name>N3Dialog</name>
+    <message>
+        <source>Connecting to</source>
+        <translation>Đang kết nối tới</translation>
+    </message>
+    <message>
+        <source>Success!</source>
+        <translation>Thành công!</translation>
+    </message>
+</context>

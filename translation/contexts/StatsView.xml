@@ -1,0 +1,67 @@
+<context>
+    <name>StatsView</name>
+    <message numerus="yes">
+        <source>%n hour(s) to go</source>
+        <translation>
+            <numerusform>Còn %n giờ nữa</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n min(s) to go</source>
+        <translation>
+            <numerusform>Còn %n phút nữa</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n second(s) to go</source>
+        <translation>
+            <numerusform>Còn %n giây nữa</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>ALL ITEMS</source>
+        <translation>TẤT CẢ MỤC</translation>
+    </message>
+    <message>
+        <source>Avg. minutes per session</source>
+        <translation>Trung bình số phút/phiên</translation>
+    </message>
+    <message>
+        <source>Avg. pages per minute</source>
+        <translation>Trung bình số trang/phút</translation>
+    </message>
+    <message>
+        <source>Book progress: %1%</source>
+        <translation>Tiến độ sách: %1%</translation>
+    </message>
+    <message>
+        <source>Book(s) finished</source>
+        <translation>Sách đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Current chapter: %1%</source>
+        <translation>Chương hiện tại: %1%</translation>
+    </message>
+    <message>
+        <source>Extras</source>
+        <translation>Phần bổ sung</translation>
+    </message>
+    <message>
+        <source>Hours of reading</source>
+        <translation>Số giờ đọc</translation>
+    </message>
+    <message>
+        <source>of your books are finished</source>
+        <translation>% sách đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Start reading a book
+to track progress!</source>
+        <translation>Bắt đầu đọc sách
+để theo dõi tiến độ!</translation>
+    </message>
+    <message>
+        <source>Total hours of reading</source>
+        <translation>Tổng số giờ đọc</translation>
+    </message>
+</context>

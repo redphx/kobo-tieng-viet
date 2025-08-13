@@ -1,0 +1,23 @@
+<context>
+    <name>PreviewActionWidget</name>
+    <message>
+        <source>Add to Wishlist</source>
+        <translation>Thêm vào danh sách mong muốn</translation>
+    </message>
+    <message>
+        <source>Borrow</source>
+        <translation>Mượn</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Mua ngay</translation>
+    </message>
+    <message>
+        <source>Close Preview</source>
+        <translation>Đóng xem trước</translation>
+    </message>
+    <message>
+        <source>View details</source>
+        <translation>Xem chi tiết</translation>
+    </message>
+</context>

@@ -1,0 +1,23 @@
+<context>
+    <name>ArchiveProxy</name>
+    <message>
+        <source>Cancel Download?</source>
+        <translation>Hủy tải xuống?</translation>
+    </message>
+    <message>
+        <source>If you cancel downloading "%1", you won't be able to listen to it on your eReader.</source>
+        <translation>Nếu bạn hủy tải xuống "%1", bạn sẽ không thể nghe nó trên máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>If you cancel downloading "%1", you won't be able to read it on your eReader.</source>
+        <translation>Nếu bạn hủy tải xuống "%1", bạn sẽ không thể đọc nó trên máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+</context>

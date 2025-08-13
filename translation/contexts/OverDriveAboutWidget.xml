@@ -1,0 +1,11 @@
+<context>
+    <name>OverDriveAboutWidget</name>
+    <message>
+        <source>Add Library</source>
+        <translation>Thêm thư viện</translation>
+    </message>
+    <message>
+        <source>Learn More</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+</context>

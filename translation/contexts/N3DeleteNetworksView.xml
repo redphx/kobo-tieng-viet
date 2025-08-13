@@ -1,0 +1,19 @@
+<context>
+    <name>N3DeleteNetworksView</name>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Retrieving known networks...</source>
+        <translation>Đang truy xuất các mạng đã lưu...</translation>
+    </message>
+    <message>
+        <source>Your %1 eReader has no known networks</source>
+        <translation>Máy đọc sách %1 của bạn không có mạng nào đã lưu</translation>
+    </message>
+    <message>
+        <source>Your Kobo eReader has no known networks.</source>
+        <translation>Máy đọc sách Kobo của bạn không có mạng nào đã lưu.</translation>
+    </message>
+</context>

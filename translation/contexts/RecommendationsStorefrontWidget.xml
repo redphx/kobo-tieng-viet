@@ -1,0 +1,15 @@
+<context>
+    <name>RecommendationsStorefrontWidget</name>
+    <message>
+        <source>Get started</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>Help us get to know you</source>
+        <translation>Giúp chúng tôi hiểu bạn hơn</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>Được đề xuất</translation>
+    </message>
+</context>

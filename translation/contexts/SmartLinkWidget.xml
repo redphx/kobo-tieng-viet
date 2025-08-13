@@ -1,0 +1,161 @@
+<context>
+    <name>SmartLinkWidget</name>
+    <message numerus="yes">
+        <source>%n book(s)</source>
+        <translation>
+            <numerusform>%n cuốn sách</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s)</source>
+        <translation>
+            <numerusform>%n giờ</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>AUDIOBOOKS</source>
+        <translation>SÁCH NÓI</translation>
+    </message>
+    <message>
+        <source>Borrow eBooks from your public library</source>
+        <translation>Mượn eBook từ thư viện công cộng</translation>
+    </message>
+    <message>
+        <source>Browse fiction, romance, biography and more</source>
+        <translation>Duyệt tiểu thuyết, lãng mạn, tiểu sử và nhiều thể loại khác</translation>
+    </message>
+    <message>
+        <source>Browse Kobo Plus books</source>
+        <translation>Duyệt sách Kobo Plus</translation>
+    </message>
+    <message numerus="yes">
+        <source>Catch up on the %n article(s) you added recently</source>
+        <translation>
+            <numerusform>Cập nhật %n bài viết bạn đã thêm gần đây</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>CATEGORIES</source>
+        <translation>THỂ LOẠI</translation>
+    </message>
+    <message>
+        <source>Create a Wishlist of books you're interested in</source>
+        <translation>Tạo danh sách mong muốn gồm các cuốn sách bạn quan tâm</translation>
+    </message>
+    <message>
+        <source>Customize the way you read a book</source>
+        <translation>Tùy chỉnh cách bạn đọc sách</translation>
+    </message>
+    <message>
+        <source>Discover books related to the ones you're reading</source>
+        <translation>Khám phá sách liên quan đến những cuốn bạn đang đọc</translation>
+    </message>
+    <message>
+        <source>Find out what's new in this software update</source>
+        <translation>Tìm hiểu các tính năng mới trong bản cập nhật phần mềm này</translation>
+    </message>
+    <message>
+        <source>Get quick tips about reading on your eReader</source>
+        <translation>Nhận các mẹo nhanh về cách đọc trên máy đọc sách của bạn</translation>
+    </message>
+    <message>
+        <source>Get recommendations by telling us what you like</source>
+        <translation>Nhận đề xuất bằng cách cho chúng tôi biết sở thích của bạn</translation>
+    </message>
+    <message>
+        <source>Get started with Audiobooks on your eReader</source>
+        <translation>Bắt đầu với sách nói trên máy đọc sách của bạn</translation>
+    </message>
+    <message>
+        <source>Get to know your %0</source>
+        <translation>Tìm hiểu về %0 của bạn</translation>
+    </message>
+    <message>
+        <source>GETTING STARTED</source>
+        <translation>BẮT ĐẦU</translation>
+    </message>
+    <message>
+        <source>KOBO PLUS</source>
+        <translation>KOBO PLUS</translation>
+    </message>
+    <message>
+        <source>KOBO SUPER POINTS</source>
+        <translation>KOBO SUPER POINTS</translation>
+    </message>
+    <message>
+        <source>Learn about the Natural Light feature</source>
+        <translation>Tìm hiểu về tính năng Ánh sáng tự nhiên</translation>
+    </message>
+    <message>
+        <source>Learn how to borrow eBooks from your public library</source>
+        <translation>Tìm hiểu cách mượn eBook từ thư viện công cộng</translation>
+    </message>
+    <message>
+        <source>OVERDRIVE</source>
+        <translation>OVERDRIVE</translation>
+    </message>
+    <message>
+        <source>POCKET</source>
+        <translation>POCKET</translation>
+    </message>
+    <message>
+        <source>Read articles from the web on your eReader</source>
+        <translation>Đọc các bài viết từ web trên máy đọc sách của bạn</translation>
+    </message>
+    <message>
+        <source>Read as much as you want with a Kobo Plus subscription</source>
+        <translation>Đọc tùy thích với đăng ký Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Read the user guide for your %0</source>
+        <translation>Đọc hướng dẫn sử dụng cho %0 của bạn</translation>
+    </message>
+    <message>
+        <source>READING A BOOK</source>
+        <translation>ĐỌC MỘT CUỐN SÁCH</translation>
+    </message>
+    <message>
+        <source>READING SETTINGS</source>
+        <translation>CÀI ĐẶT LÚC ĐỌC</translation>
+    </message>
+    <message>
+        <source>READING STATS</source>
+        <translation>SỐ LIỆU THỐNG KÊ</translation>
+    </message>
+    <message>
+        <source>RECOMMENDED</source>
+        <translation>ĐƯỢC ĐỀ XUẤT</translation>
+    </message>
+    <message>
+        <source>RELATED READS</source>
+        <translation>SÁCH LIÊN QUAN</translation>
+    </message>
+    <message>
+        <source>RELEASE NOTES</source>
+        <translation>GHI CHÚ CẬP NHẬT</translation>
+    </message>
+    <message>
+        <source>Upgrade to a Kobo Plus Read &amp; Listen subscription</source>
+        <translation>Nâng cấp lên gói Kobo Plus Đọc &amp; Nghe</translation>
+    </message>
+    <message>
+        <source>USER GUIDE</source>
+        <translation>HƯỚNG DẪN NGƯỜI DÙNG</translation>
+    </message>
+    <message>
+        <source>View your public library holds</source>
+        <translation>Xem các đặt chỗ thư viện công cộng của bạn</translation>
+    </message>
+    <message>
+        <source>WISHLIST</source>
+        <translation>DANH SÁCH MONG MUỐN</translation>
+    </message>
+    <message>
+        <source>You have %0 Super Points to redeem</source>
+        <translation>Bạn có %0 Super Points để đổi</translation>
+    </message>
+    <message>
+        <source>You've finished %0 and read for %1</source>
+        <translation>Bạn đã hoàn thành %0 và đã đọc trong %1</translation>
+    </message>
+</context>

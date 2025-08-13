@@ -1,0 +1,15 @@
+<context>
+    <name>FirstPurchaseCreditPage</name>
+    <message>
+        <source>Get %1 off your first eBook</source>
+        <translation>Nhận giảm giá %1 cho eBook đầu tiên của bạn</translation>
+    </message>
+    <message>
+        <source>Ok, got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>To get your discount, your first eBook must be worth more than %1.</source>
+        <translation>Để nhận giảm giá, eBook đầu tiên của bạn phải có giá trị hơn %1.</translation>
+    </message>
+</context>

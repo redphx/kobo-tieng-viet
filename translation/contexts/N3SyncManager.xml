@@ -1,0 +1,79 @@
+<context>
+    <name>N3SyncManager</name>
+    <message>
+        <source>"%1" was too large to sync (larger than 100MB). To continue syncing, try to make space by deleting pages.</source>
+        <translation>"%1" quá lớn để đồng bộ (lớn hơn 100MB). Để tiếp tục đồng bộ, hãy giải phóng dung lượng bằng cách xóa trang.</translation>
+    </message>
+    <message>
+        <source>Cannot complete Sync</source>
+        <translation>Không thể hoàn tất đồng bộ</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Để sau</translation>
+    </message>
+    <message>
+        <source>Low Battery</source>
+        <translation>Pin yếu</translation>
+    </message>
+    <message>
+        <source>Manage books</source>
+        <translation>Quản lý sách</translation>
+    </message>
+    <message>
+        <source>Micro SD Detected</source>
+        <translation>Đã phát hiện thẻ Micro SD</translation>
+    </message>
+    <message>
+        <source>NO</source>
+        <translation>KHÔNG</translation>
+    </message>
+    <message>
+        <source>Notebook sync limit reached</source>
+        <translation>Đã đạt giới hạn đồng bộ sổ tay</translation>
+    </message>
+    <message>
+        <source>Notebook too large to sync</source>
+        <translation>Sổ tay quá lớn để đồng bộ</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Please reinsert the Micro SD card and tap Sync to continue downloading your items.</source>
+        <translation>Vui lòng lắp lại thẻ Micro SD và nhấn Đồng bộ để tiếp tục tải các mục của bạn.</translation>
+    </message>
+    <message>
+        <source>When your eReader gets full, we will store content on your Micro SD card.</source>
+        <translation>Khi máy đọc sách đầy, chúng tôi sẽ lưu nội dung vào thẻ Micro SD của bạn.</translation>
+    </message>
+    <message>
+        <source>YES</source>
+        <translation>CÓ</translation>
+    </message>
+    <message>
+        <source>You've reached the 10GB limit for notebook syncing. To continue syncing notebooks, try make space by deleting unused notebooks.</source>
+        <translation>Bạn đã đạt giới hạn 10GB cho việc đồng bộ sổ tay. Để tiếp tục, hãy giải phóng dung lượng bằng cách xóa sổ tay không dùng.</translation>
+    </message>
+    <message>
+        <source>You've used up all of your eReader's storage space. You'll need to insert a Micro SD card - or remove some downloads or imported books - to add more.</source>
+        <translation>Bạn đã sử dụng hết dung lượng lưu trữ của máy đọc sách. Hãy lắp thẻ Micro SD hoặc xóa một số sách đã tải hoặc nhập để thêm sách mới.</translation>
+    </message>
+    <message>
+        <source>You've used up all of your eReader's storage space. You'll need to remove some downloads or imported books to add more.</source>
+        <translation>Bạn đã sử dụng hết dung lượng lưu trữ của máy đọc sách. Hãy xóa một số sách đã tải hoặc nhập để thêm sách mới.</translation>
+    </message>
+    <message>
+        <source>Your eReader is Full</source>
+        <translation>Máy đọc sách của bạn đã đầy</translation>
+    </message>
+    <message>
+        <source>Your eReader is low on power and can't finish updating. Please try again after you've recharged your eReader.</source>
+        <translation>Máy đọc sách của bạn sắp hết pin và không thể hoàn tất cập nhật. Vui lòng thử lại sau khi đã sạc.</translation>
+    </message>
+    <message>
+        <source>Your eReader is low on power. If you start an update it may not be able to finish. Do you want to try anyway?</source>
+        <translation>Máy đọc sách của bạn sắp hết pin. Nếu bắt đầu cập nhật, quá trình có thể không hoàn tất. Bạn vẫn muốn thử?</translation>
+    </message>
+</context>

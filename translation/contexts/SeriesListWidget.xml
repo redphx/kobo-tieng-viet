@@ -1,0 +1,19 @@
+<context>
+    <name>SeriesListWidget</name>
+    <message>
+        <source>%1, %2</source>
+        <translation>%1, %2</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n audiobook(s)</source>
+        <translation>
+            <numerusform>%n sách nói</numerusform>
+        </translation>
+    </message>
+<message numerus="yes">
+        <source>%n book(s)</source>
+        <translation>
+            <numerusform>%n sách</numerusform>
+        </translation>
+    </message>
+</context>

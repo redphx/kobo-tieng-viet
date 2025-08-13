@@ -1,0 +1,7 @@
+<context>
+    <name>ParentalControlPinCodeVerifyWidget</name>
+    <message>
+        <source>Please enter your Parental Controls PIN to continue.</source>
+        <translation>Vui lòng nhập mã PIN Kiểm soát của phụ huynh để tiếp tục.</translation>
+    </message>
+</context>

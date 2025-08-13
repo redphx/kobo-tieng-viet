@@ -1,0 +1,11 @@
+<context>
+    <name>ComicsReaderParser</name>
+    <message>
+        <source>Page %1</source>
+        <translation>Trang %1</translation>
+    </message>
+    <message>
+        <source>Unknown Author</source>
+        <translation>Tác giả khuyết danh</translation>
+    </message>
+</context>

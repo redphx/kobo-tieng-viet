@@ -1,0 +1,11 @@
+<context>
+    <name>NotebookAddBlockPage</name>
+    <message>
+        <source>Add diagrams and equations</source>
+        <translation>Thêm sơ đồ và phương trình</translation>
+    </message>
+    <message>
+        <source>Tap the more options menu &lt;img src=":/images/fte/quicktour_texticon_overflow.png" /&gt; to insert diagrams, freeform drawing sections, or equations.</source>
+        <translation>Nhấn vào menu tùy chọn khác &lt;img src=":/images/fte/quicktour_texticon_overflow.png" /&gt; để chèn sơ đồ, phần vẽ tự do hoặc phương trình.</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>DragonAnnotationDetailsView</name>
+    <message>
+        <source>Bookmark</source>
+        <translation>Dấu trang</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>Đánh dấu</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation>Ghi chú</translation>
+    </message>
+    <message>
+        <source>Page %1 &lt;i&gt;of&lt;/i&gt; %2</source>
+        <translation>Trang %1 &lt;i&gt;của&lt;/i&gt; %2</translation>
+    </message>
+</context>

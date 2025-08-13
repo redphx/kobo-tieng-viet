@@ -1,0 +1,11 @@
+<context>
+    <name>SearchLanguageWidget</name>
+    <message>
+        <source>%1 (Added)</source>
+        <translation>%1 (Đã thêm)</translation>
+    </message>
+    <message>
+        <source>-</source>
+        <translation>-</translation>
+    </message>
+</context>

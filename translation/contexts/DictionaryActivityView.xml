@@ -1,0 +1,27 @@
+<context>
+    <name>DictionaryActivityView</name>
+    <message>
+        <source>&lt;div class="btnViewInBook"&gt;&lt;a style="text-decoration: none; color: black;" href="%1"&gt;&lt;i&gt;View in book&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;</source>
+        <translation>&lt;div class="btnViewInBook"&gt;&lt;a style="text-decoration: none; color: black;" href="%1"&gt;&lt;i&gt;Xem trong sách&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;div class="dividerLine"&gt;&lt;/div&gt;&lt;div class="btnAddedFrom"&gt;&lt;span style="color: #666666;"&gt;Added from &lt;/span&gt;%1&lt;/div&gt;</source>
+        <translation>&lt;div class="dividerLine"&gt;&lt;/div&gt;&lt;div class="btnAddedFrom"&gt;&lt;span style="color: #666666;"&gt;Được thêm từ&lt;/span&gt;%1&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>Activity</source>
+        <translation>Hoạt động</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Tiếp theo</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Trước đó</translation>
+    </message>
+    <message>
+        <source>Random</source>
+        <translation>Ngẫu nhiên</translation>
+    </message>
+</context>

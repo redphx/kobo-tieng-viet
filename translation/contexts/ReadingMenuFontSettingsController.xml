@@ -1,0 +1,47 @@
+<context>
+    <name>ReadingMenuFontSettingsController</name>
+    <message>
+        <source>A maximum of %1 supplementary fonts can be selected</source>
+        <translation>Tối đa %1 font bổ sung được chọn</translation>
+    </message>
+    <message>
+        <source>AR Ming</source>
+        <translation>AR Ming</translation>
+    </message>
+    <message>
+        <source>AR ShuYuanSongG30 BD</source>
+        <translation>AR ShuYuanSongG30 BD</translation>
+    </message>
+    <message>
+        <source>AR UDJingxihei</source>
+        <translation>AR UDJingxihei</translation>
+    </message>
+    <message>
+        <source>Avenir Next</source>
+        <translation>Avenir Next</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation>mặc định</translation>
+    </message>
+    <message>
+        <source>If a character cannot be rendered by the main font selected for the book, we try to render it using the supplemental font.&lt;br&gt;&lt;br&gt;If you are seeing some blank characters in your book, try a different font.</source>
+        <translation>Nếu font chính được chọn cho sách không thể hiển thị một ký tự, chúng tôi sẽ cố gắng dùng font bổ sung để hiển thị.&lt;br&gt;&lt;br&gt;Nếu bạn thấy một số ký tự trống trong sách, hãy thử font khác.</translation>
+    </message>
+    <message>
+        <source>KBJ-TsukuMin Pr6N RB</source>
+        <translation>Kobo Tsukushi Mincho</translation>
+    </message>
+    <message>
+        <source>KBJ-UDKakugo Pr6N M</source>
+        <translation>KBJ-UDKakugo Pr6N M</translation>
+    </message>
+    <message>
+        <source>Open Dyslexic</source>
+        <translation>OpenDyslexic</translation>
+    </message>
+    <message>
+        <source>Supplemental font face</source>
+        <translation>Font bổ sung</translation>
+    </message>
+</context>

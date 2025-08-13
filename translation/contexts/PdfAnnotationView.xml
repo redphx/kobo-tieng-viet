@@ -1,0 +1,7 @@
+<context>
+    <name>PdfAnnotationView</name>
+    <message>
+        <source>Loading Annotations...</source>
+        <translation>Đang tải chú thích...</translation>
+    </message>
+</context>

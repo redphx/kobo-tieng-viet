@@ -1,0 +1,51 @@
+<context>
+    <name>AuthorsListView</name>
+    <message>
+        <source>Add eBooks from your computer by connecting with the USB cable.</source>
+        <translation>Thêm eBook từ máy tính của bạn bằng cách kết nối qua cáp USB.</translation>
+    </message>
+    <message>
+        <source>First name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Here's where you'll find all your authors. Looking for something to read?</source>
+        <translation>Tại đây bạn sẽ tìm thấy tất cả các tác giả của mình. Bạn đang tìm gì để đọc?</translation>
+    </message>
+    <message>
+        <source>Last name</source>
+        <translation>Họ</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Number of books</source>
+        <translation>Số cuốn sách</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message>
+        <source>You have no authors yet</source>
+        <translation>Bạn chưa có tác giả nào</translation>
+    </message>
+</context>

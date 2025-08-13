@@ -1,0 +1,39 @@
+<context>
+    <name>ReadingMenuSpeedSettingsView</name>
+    <message>
+        <source>0.75 x</source>
+        <translation>0.75 x</translation>
+    </message>
+    <message>
+        <source>1 x</source>
+        <translation>1 x</translation>
+    </message>
+    <message>
+        <source>1.25 x</source>
+        <translation>1.25 x</translation>
+    </message>
+    <message>
+        <source>1.5 x</source>
+        <translation>1.5 x</translation>
+    </message>
+    <message>
+        <source>1.75 x</source>
+        <translation>1.75 x</translation>
+    </message>
+    <message>
+        <source>2 x</source>
+        <translation>2 x</translation>
+    </message>
+    <message>
+        <source>2.25 x</source>
+        <translation>2.25 x</translation>
+    </message>
+    <message>
+        <source>2.5 x</source>
+        <translation>2.5 x</translation>
+    </message>
+    <message>
+        <source>2.75 x</source>
+        <translation>2.75 x</translation>
+    </message>
+</context>

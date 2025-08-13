@@ -1,0 +1,81 @@
+<context>
+    <name>BookWidget</name>
+    <message>
+        <source>%1 B</source>
+        <translation>%1 B</translation>
+    </message>
+    <message>
+        <source>%1 EB</source>
+        <translation>%1 EB</translation>
+    </message>
+    <message>
+        <source>%1 GB</source>
+        <translation>%1 GB</translation>
+    </message>
+    <message>
+        <source>%1 KB</source>
+        <translation>%1 kB</translation>
+    </message>
+    <message>
+        <source>%1 MB</source>
+        <translation>%1 MB</translation>
+    </message>
+    <message>
+        <source>%1 PB</source>
+        <translation>%1 PB</translation>
+    </message>
+    <message>
+        <source>%1 TB</source>
+        <translation>%1 TB</translation>
+    </message>
+    <message>
+        <source>%1% Played</source>
+        <translation>Đã nghe %1%</translation>
+    </message>
+    <message>
+        <source>%1% Read</source>
+        <translation>Đã đọc %1%</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n MIN READ</source>
+        <translation>
+            <numerusform>%n PHÚT ĐỌC</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Added %1</source>
+        <translation>Đã thêm %1</translation>
+    </message>
+    <message>
+        <source>Closed</source>
+        <translation>Đã đóng</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation>Đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>IN DOWNLOAD QUEUE</source>
+        <translation>TRONG HÀNG CHỜ TẢI</translation>
+    </message>
+    <message>
+        <source>Reading</source>
+        <translation>Đang đọc</translation>
+    </message>
+    <message>
+        <source>TAP TO DOWNLOAD</source>
+        <translation>CHẠM ĐỂ TẢI</translation>
+    </message>
+    <message>
+        <source>Unknown Author</source>
+        <translation>Tác giả khuyết danh</translation>
+    </message>
+    <message>
+        <source>Unplayed</source>
+        <translation>Chưa nghe</translation>
+    </message>
+    <message>
+        <source>Unread</source>
+        <translation>Chưa đọc</translation>
+    </message>
+</context>

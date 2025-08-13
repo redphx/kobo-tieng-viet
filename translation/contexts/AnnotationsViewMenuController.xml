@@ -1,0 +1,23 @@
+<context>
+    <name>AnnotationsViewMenuController</name>
+    <message>
+        <source>Export Annotations</source>
+        <translation>Xuất ghi chú</translation>
+    </message>
+    <message>
+        <source>List view</source>
+        <translation>Xem dạng danh sách</translation>
+    </message>
+    <message>
+        <source>Notebook (beta)</source>
+        <translation>Sổ tay (beta)</translation>
+    </message>
+    <message>
+        <source>Notebook view</source>
+        <translation>Xem dạng sổ tay</translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation>Loại bỏ tất cả</translation>
+    </message>
+</context>

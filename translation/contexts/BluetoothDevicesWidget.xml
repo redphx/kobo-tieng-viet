@@ -1,0 +1,51 @@
+<context>
+    <name>BluetoothDevicesWidget</name>
+    <message>
+        <source>:/images/spinner/spinner_medium.mng</source>
+        <translation>:/images/spinner/spinner_medium.mng</translation>
+    </message>
+    <message>
+        <source>Authentication Failed</source>
+        <translation>Xác thực thất bại</translation>
+    </message>
+    <message>
+        <source>Connected</source>
+        <translation>Đã kết nối</translation>
+    </message>
+    <message>
+        <source>Connected As Audio</source>
+        <translation>Đã kết nối âm thanh</translation>
+    </message>
+    <message>
+        <source>Connecting To Audio...</source>
+        <translation>Đang kết nối âm thanh...</translation>
+    </message>
+    <message>
+        <source>Connecting...</source>
+        <translation>Đang kết nối...</translation>
+    </message>
+    <message>
+        <source>Connection Failed</source>
+        <translation>Kết nối thất bại</translation>
+    </message>
+    <message>
+        <source>Could Not Connect To Audio</source>
+        <translation>Không thể kết nối với âm thanh</translation>
+    </message>
+    <message>
+        <source>Disconnecting...</source>
+        <translation>Đang ngắt kết nối...</translation>
+    </message>
+    <message>
+        <source>Forgetting...</source>
+        <translation>Đang quên...</translation>
+    </message>
+    <message>
+        <source>Saved</source>
+        <translation>Đã lưu</translation>
+    </message>
+    <message>
+        <source>Saved, Available</source>
+        <translation>Đã lưu, Khả dụng</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>GoToPageMenuView</name>
+    <message>
+        <source>&lt;i&gt;of&lt;/i&gt; %1</source>
+        <translation>&lt;i&gt;của&lt;/i&gt; %1</translation>
+    </message>
+    <message>
+        <source>Go to page</source>
+        <translation>Đi tới trang</translation>
+    </message>
+</context>

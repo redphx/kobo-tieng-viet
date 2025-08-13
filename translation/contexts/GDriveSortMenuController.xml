@@ -1,0 +1,19 @@
+<context>
+    <name>GDriveSortMenuController</name>
+    <message>
+        <source>Date added</source>
+        <translation>Ngày thêm</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation>Kích thước file</translation>
+    </message>
+    <message>
+        <source>File type</source>
+        <translation>Loại file</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Tên</translation>
+    </message>
+</context>

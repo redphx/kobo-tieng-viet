@@ -1,0 +1,15 @@
+<context>
+    <name>LongPressHelpDialog</name>
+    <message>
+        <source>Got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>Press and hold for options</source>
+        <translation>Nhấn và giữ để hiện tuỳ chọn</translation>
+    </message>
+    <message>
+        <source>To view more options for a book or collection, press and hold on the item for a few seconds.</source>
+        <translation>Để xem thêm tuỳ chọn cho sách hoặc bộ sưu tập, nhấn và giữ mục đó trong vài giây.</translation>
+    </message>
+</context>

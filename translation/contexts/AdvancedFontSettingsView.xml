@@ -1,0 +1,47 @@
+<context>
+    <name>AdvancedFontSettingsView</name>
+    <message>
+        <source>Adjust the weight and sharpness of the currently selected font face.</source>
+        <translation>Điều chỉnh độ đậm và độ sắc nét của font đang chọn.</translation>
+    </message>
+    <message>
+        <source>AFTER</source>
+        <translation>SAU</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Áp dụng</translation>
+    </message>
+    <message>
+        <source>BEFORE</source>
+        <translation>TRƯỚC</translation>
+    </message>
+    <message>
+        <source>Font Face:</source>
+        <translation>Kiểu font:</translation>
+    </message>
+    <message>
+        <source>Font Size:</source>
+        <translation>Kích cỡ font:</translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation>Kiểu</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation>Tắt</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation>Khôi phục</translation>
+    </message>
+    <message>
+        <source>TYPEGENIUS</source>
+        <translation>TYPEGENIUS</translation>
+    </message>
+    <message>
+        <source>Weight:</source>
+        <translation>Độ đậm:</translation>
+    </message>
+</context>

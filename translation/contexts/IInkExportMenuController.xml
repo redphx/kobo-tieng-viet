@@ -1,0 +1,15 @@
+<context>
+    <name>IInkExportMenuController</name>
+    <message>
+        <source>Back</source>
+        <translation>Trở lại</translation>
+    </message>
+    <message>
+        <source>Export full notebook</source>
+        <translation>Xuất toàn bộ sổ tay</translation>
+    </message>
+    <message>
+        <source>Export this page</source>
+        <translation>Xuất trang này</translation>
+    </message>
+</context>

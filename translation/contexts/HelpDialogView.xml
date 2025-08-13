@@ -1,0 +1,59 @@
+<context>
+    <name>HelpDialogView</name>
+    <message>
+        <source>Bluetooth Help</source>
+        <translation>Trợ giúp Bluetooth</translation>
+    </message>
+    <message>
+        <source>Find articles about your eReader here.</source>
+        <translation>Tìm kiếm bài viết về thiết bị của bạn tại đây.</translation>
+    </message>
+    <message>
+        <source>Getting started</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Trợ giúp</translation>
+    </message>
+    <message>
+        <source>HELP TOPICS</source>
+        <translation>CÁC CHỦ ĐỀ TRỢ GIÚP</translation>
+    </message>
+    <message>
+        <source>Kobo Plus FAQ</source>
+        <translation>Kobo Plus FAQ</translation>
+    </message>
+    <message>
+        <source>Need help?</source>
+        <translation>Cần hỗ trợ?</translation>
+    </message>
+    <message>
+        <source>OTHER RESOURCES</source>
+        <translation>CÁC TÀI NGUYÊN KHÁC</translation>
+    </message>
+    <message>
+        <source>OverDrive FAQ</source>
+        <translation>OverDrive FAQ</translation>
+    </message>
+    <message>
+        <source>Reading a book</source>
+        <translation>Đọc một cuốn sách</translation>
+    </message>
+    <message>
+        <source>Troubleshooting missing books</source>
+        <translation>Xử lý sự cố mất sách</translation>
+    </message>
+    <message>
+        <source>User Guide</source>
+        <translation>Hướng dẫn người dùng</translation>
+    </message>
+    <message>
+        <source>Using the Advanced Notebook</source>
+        <translation>Sử dụng Sổ tay nâng cao</translation>
+    </message>
+    <message>
+        <source>Using the Basic Notebook</source>
+        <translation>Sử dụng Sổ tay cơ bản</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>ReadBookActionProxy</name>
+    <message>
+        <source>Play now</source>
+        <translation>Bắt đầu chơi</translation>
+    </message>
+    <message>
+        <source>Read now</source>
+        <translation>Đọc bây giờ</translation>
+    </message>
+    <message>
+        <source>Read preview</source>
+        <translation>Đọc xem trước</translation>
+    </message>
+</context>

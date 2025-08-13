@@ -1,0 +1,25 @@
+<context>
+    <name>DragonPowerView</name>
+    <message>
+        <source>%1 min to go</source>
+        <translation>Còn khoảng %1 phút</translation>
+    </message>
+    <message>
+        <source>%1% read</source>
+        <translation>Đã đọc %1%</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) to go</source>
+        <translation>
+            <numerusform>Còn %n giờ nữa</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Powered off</source>
+        <translation>Đã tắt nguồn</translation>
+    </message>
+    <message>
+        <source>Sleeping</source>
+        <translation>Đang ngủ</translation>
+    </message>
+</context>

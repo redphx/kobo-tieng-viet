@@ -1,0 +1,11 @@
+<context>
+    <name>SearchLanguageController</name>
+    <message>
+        <source>Book language</source>
+        <translation>Ngôn ngữ sách</translation>
+    </message>
+    <message>
+        <source>Select preferred languages to add</source>
+        <translation>Chọn ngôn ngữ ưa thích để thêm</translation>
+    </message>
+</context>

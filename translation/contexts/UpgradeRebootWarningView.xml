@@ -1,0 +1,11 @@
+<context>
+    <name>UpgradeRebootWarningView</name>
+    <message>
+        <source>Do not turn off your eReader.</source>
+        <translation>Đừng tắt máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>Updating...</source>
+        <translation>Đang cập nhật...</translation>
+    </message>
+</context>

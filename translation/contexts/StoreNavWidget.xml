@@ -1,0 +1,19 @@
+<context>
+    <name>StoreNavWidget</name>
+    <message>
+        <source>Audiobooks</source>
+        <translation>Sách nói</translation>
+    </message>
+    <message>
+        <source>eBooks</source>
+        <translation>eBook</translation>
+    </message>
+    <message>
+        <source>Kobo Plus</source>
+        <translation>Kobo Plus</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+</context>

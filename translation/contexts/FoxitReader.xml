@@ -1,0 +1,27 @@
+<context>
+    <name>FoxitReader</name>
+    <message>
+        <source>This book is protected by Adobe Digital Rights Management (DRM). Because you previously deauthorized your eReader, you need to re-import the book using Adobe Digital Editions (ADE). Please visit %1 for more information.</source>
+        <translation>Sách này được bảo vệ bởi Adobe Digital Rights Management (DRM). Vì trước đây bạn đã hủy cấp phép máy đọc sách của mình, bạn cần nhập lại sách bằng Adobe Digital Editions (ADE). Vui lòng truy cập %1 để biết thêm thông tin.</translation>
+    </message>
+    <message>
+        <source>This book is protected by Adobe Digital Rights Management (DRM). To continue reading, you need to renew your access to the book and re-import it using Adobe Digital Editions (ADE). Please visit %1 for more information.</source>
+        <translation>Sách này được bảo vệ bởi Adobe Digital Rights Management (DRM). Để tiếp tục đọc, bạn cần gia hạn quyền truy cập vào sách và nhập lại sách bằng Adobe Digital Editions (ADE). Vui lòng truy cập %1 để biết thêm thông tin.</translation>
+    </message>
+    <message>
+        <source>This book is protected by Adobe Digital Rights Management (DRM). You need to re-authorize your eReader with your Adobe ID and re-import the book using Adobe Digital Editions (ADE). Please visit %1 for more information.</source>
+        <translation>Sách này được bảo vệ bởi Adobe Digital Rights Management (DRM). Bạn cần ủy quyền lại máy đọc sách bằng Adobe ID của mình và nhập lại sách bằng Adobe Digital Editions (ADE). Vui lòng truy cập %1 để biết thêm thông tin.</translation>
+    </message>
+    <message>
+        <source>This book is protected by Adobe Digital Rights Management (DRM). You need to re-authorize your eReader with your Adobe ID using Adobe Digital Editions (ADE). Please visit %1 for more information.</source>
+        <translation>Sách này được bảo vệ bởi Adobe Digital Rights Management (DRM). Bạn cần ủy quyền lại máy đọc sách bằng Adobe ID của mình thông qua Adobe Digital Editions (ADE). Vui lòng truy cập %1 để biết thêm thông tin.</translation>
+    </message>
+    <message>
+        <source>Your access to this book has expired</source>
+        <translation>Quyền truy cập của bạn vào cuốn sách này đã hết hạn</translation>
+    </message>
+    <message>
+        <source>Your eReader is not authorized to open this book</source>
+        <translation>Máy đọc sách của bạn không được phép mở sách này</translation>
+    </message>
+</context>

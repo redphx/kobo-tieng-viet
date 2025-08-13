@@ -1,0 +1,25 @@
+<context>
+    <name>MarkAsFinishedDialogController</name>
+    <message numerus="yes">
+        <source>%n book(s) marked as finished.</source>
+        <translation>
+            <numerusform>%n cuốn sách được đánh dấu đã hoàn thành.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>It looks like you've finished reading these books. They're all over 95% read and haven't been read in over a month. Uncheck any you'd like to keep your bookmark for. </source>
+        <translation>Có vẻ bạn đã hoàn thành những cuốn sách này. Chúng đều đã được đọc hơn 95% và chưa được đọc lại trong hơn một tháng qua. Bỏ chọn bất kỳ cuốn nào bạn muốn giữ dấu trang. </translation>
+    </message>
+    <message>
+        <source>Manage Books</source>
+        <translation>Quản lý sách</translation>
+    </message>
+    <message>
+        <source>Mark as finished</source>
+        <translation>Đánh dấu là đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Mark as finished?</source>
+        <translation>Đánh dấu là đã hoàn thành?</translation>
+    </message>
+</context>

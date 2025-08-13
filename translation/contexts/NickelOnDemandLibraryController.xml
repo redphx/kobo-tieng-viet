@@ -1,0 +1,11 @@
+<context>
+    <name>NickelOnDemandLibraryController</name>
+    <message>
+        <source>Please wait...</source>
+        <translation>Vui lòng chờ...</translation>
+    </message>
+    <message>
+        <source>We're currently loading this list.</source>
+        <translation>Chúng tôi hiện đang tải danh sách này.</translation>
+    </message>
+</context>

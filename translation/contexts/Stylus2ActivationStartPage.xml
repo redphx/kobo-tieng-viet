@@ -1,0 +1,11 @@
+<context>
+    <name>Stylus2ActivationStartPage</name>
+    <message>
+        <source>1. To wake up your %1 Stylus 2 for the first time, connect it to a USB power outlet for at least 5 seconds.&lt;br&gt;&lt;br&gt;2. Test by scribbling anywhere on this screen.</source>
+        <translation>1. Để đánh thức %1 Stylus 2 lần đầu, kết nối với cổng USB ít nhất 5 giây.&lt;br&gt;&lt;br&gt;2. Thử viết nguệch ngoạc bất kỳ chỗ nào trên màn hình này.</translation>
+    </message>
+    <message>
+        <source>Activate your %1 Stylus</source>
+        <translation>Kích hoạt stylus %1 của bạn</translation>
+    </message>
+</context>

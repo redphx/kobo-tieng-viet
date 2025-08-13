@@ -1,0 +1,11 @@
+<context>
+    <name>ParentalControlPinCodeInputWidget</name>
+    <message>
+        <source>Please create a 4-digit PIN for Parental Controls</source>
+        <translation>Vui lòng tạo mã PIN 4 chữ số cho Kiểm soát của phụ huynh</translation>
+    </message>
+    <message>
+        <source>Thank you. Please re-enter your Parental Controls PIN to confirm.</source>
+        <translation>Cảm ơn. Vui lòng nhập lại mã PIN Kiểm soát của phụ huynh để xác nhận.</translation>
+    </message>
+</context>

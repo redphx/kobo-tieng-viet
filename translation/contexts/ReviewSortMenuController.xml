@@ -1,0 +1,19 @@
+<context>
+    <name>ReviewSortMenuController</name>
+    <message>
+        <source>Highest rated</source>
+        <translation>Đánh giá cao nhất</translation>
+    </message>
+    <message>
+        <source>Lowest rated</source>
+        <translation>Đánh giá thấp nhất</translation>
+    </message>
+    <message>
+        <source>Most helpful</source>
+        <translation>Hữu ích nhất</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+</context>

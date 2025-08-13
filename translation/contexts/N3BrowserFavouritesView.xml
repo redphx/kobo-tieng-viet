@@ -1,0 +1,27 @@
+<context>
+    <name>N3BrowserFavouritesView</name>
+    <message>
+        <source>Are you sure you want to remove %1?</source>
+        <translation>Bạn có chắc muốn loại bỏ %1?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Favourites</source>
+        <translation>Yêu thích</translation>
+    </message>
+    <message>
+        <source>Page %1 &lt;i&gt;of&lt;/i&gt; %2</source>
+        <translation>Trang %1 &lt;i&gt;của&lt;/i&gt; %2</translation>
+    </message>
+    <message>
+        <source>Remove favourite</source>
+        <translation>Loại bỏ yêu thích</translation>
+    </message>
+</context>

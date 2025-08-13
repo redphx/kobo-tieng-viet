@@ -1,0 +1,61 @@
+<context>
+    <name>SubscriptionWorkflowManager</name>
+    <message>
+        <source>It looks like you've been reading offline for a while. If you see sync warnings next to your Kobo Plus books, you'll soon need to sync over Wi Fi to read your Kobo Plus books without interruption.</source>
+        <translation>Có vẻ bạn đã đọc offline một thời gian. Nếu thấy cảnh báo đồng bộ bên cạnh sách Kobo Plus, bạn sẽ sớm phải đồng bộ qua Wi-Fi để tiếp tục đọc không gián đoạn.</translation>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation>Đồng bộ ngay</translation>
+    </message>
+    <message>
+        <source>Sync required</source>
+        <translation>Cần đồng bộ</translation>
+    </message>
+    <message>
+        <source>Sync required soon</source>
+        <translation>Cần đồng bộ sớm</translation>
+    </message>
+    <message numerus="yes">
+        <source>Sync within %n days</source>
+        <translation>
+            <numerusform>Đồng bộ trong vòng %n ngày</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>To continue where you left off, renew your Kobo Plus subscription or purchase this book.</source>
+        <translation>Để tiếp tục từ nơi bạn đã dừng, hãy gia hạn gói Kobo Plus hoặc mua cuốn sách này.</translation>
+    </message>
+    <message>
+        <source>Want to keep listening?</source>
+        <translation>Muốn tiếp tục nghe?</translation>
+    </message>
+    <message>
+        <source>Want to keep reading?</source>
+        <translation>Muốn tiếp tục đọc?</translation>
+    </message>
+    <message>
+        <source>We’ve noticed that your date and time settings have been changed. If you wish to continue reading your Kobo Plus items, please sync your eReader over Wi Fi. </source>
+        <translation>Chúng tôi nhận thấy cài đặt ngày giờ của bạn đã thay đổi. Nếu muốn tiếp tục đọc nội dung Kobo Plus, vui lòng đồng bộ máy đọc sách qua Wi-Fi. </translation>
+    </message>
+    <message>
+        <source>You no longer have a Kobo Plus subscription</source>
+        <translation>Bạn không còn đăng ký Kobo Plus</translation>
+    </message>
+    <message>
+        <source>You won't be able to keep reading your Kobo Plus books. But we'll keep your bookmarks, so if you buy the books, or renew your subscription, you can pick up where you left off.</source>
+        <translation>Bạn sẽ không thể tiếp tục đọc sách Kobo Plus. Nhưng dấu trang vẫn sẽ được lưu, nên nếu mua sách hoặc gia hạn gói Kobo Plus, bạn có thể tiếp tục từ nơi đã dừng.</translation>
+    </message>
+    <message>
+        <source>You've reached the maximum number of %0 Kobo Plus books you can read offline. Please sync over Wi Fi to continue reading.</source>
+        <translation>Bạn đã đạt giới hạn %0 sách Kobo Plus đọc offline. Vui lòng đồng bộ qua Wi-Fi để tiếp tục đọc.</translation>
+    </message>
+    <message>
+        <source>You've read offline for over %0 days. To keep reading your Kobo Plus books, please sync over Wi Fi.</source>
+        <translation>Bạn đã đọc offline hơn %0 ngày. Để tiếp tục đọc sách Kobo Plus, vui lòng đồng bộ qua Wi-Fi.</translation>
+    </message>
+    <message>
+        <source>You've read offline for over %0 hours. To keep reading your Kobo Plus books, please sync over Wi Fi.</source>
+        <translation>Bạn đã đọc offline hơn %0 giờ. Để tiếp tục đọc sách Kobo Plus, vui lòng đồng bộ qua Wi-Fi.</translation>
+    </message>
+</context>

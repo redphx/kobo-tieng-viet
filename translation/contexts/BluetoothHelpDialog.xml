@@ -1,0 +1,35 @@
+<context>
+    <name>BluetoothHelpDialog</name>
+    <message>
+        <source>1.</source>
+        <translation>1.</translation>
+    </message>
+    <message>
+        <source>2.</source>
+        <translation>2.</translation>
+    </message>
+    <message>
+        <source>3.</source>
+        <translation>3.</translation>
+    </message>
+    <message>
+        <source>Bluetooth Help</source>
+        <translation>Trợ giúp Bluetooth</translation>
+    </message>
+    <message>
+        <source>Can’t connect to your Bluetooth device?</source>
+        <translation>Không thể kết nối với thiết bị Bluetooth của bạn?</translation>
+    </message>
+    <message>
+        <source>Check that the device is nearby, turned on, and fully charged.</source>
+        <translation>Kiểm tra xem thiết bị có ở gần, đã bật nguồn và sạc đầy không.</translation>
+    </message>
+    <message>
+        <source>If your Bluetooth device was previously connected with another device, for example your laptop or phone, try disconnecting it from those other devices. </source>
+        <translation>Nếu thiết bị Bluetooth của bạn đã từng kết nối với thiết bị khác, ví dụ như laptop hoặc điện thoại, hãy thử ngắt kết nối nó khỏi các thiết bị đó. </translation>
+    </message>
+    <message>
+        <source>Put your Bluetooth device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</source>
+        <translation>Đặt thiết bị Bluetooth của bạn vào chế độ ghép đôi. Để biết cách đặt thiết bị vào chế độ ghép đôi, hãy làm theo hướng dẫn đi kèm thiết bị đó.</translation>
+    </message>
+</context>

@@ -1,0 +1,23 @@
+<context>
+    <name>NotebookListMenuController</name>
+    <message>
+        <source>Cancel all downloads</source>
+        <translation>Hủy tất cả các lượt tải xuống</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Download all</source>
+        <translation>Tải xuống tất cả</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>Di chuyển</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Đổi tên</translation>
+    </message>
+</context>

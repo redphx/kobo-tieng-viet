@@ -1,0 +1,67 @@
+<context>
+    <name>IInkExportNoteController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Export failed.</source>
+        <translation>Xuất thất bại.</translation>
+    </message>
+    <message>
+        <source>Export Notebook Page</source>
+        <translation>Xuất trang sổ tay</translation>
+    </message>
+    <message>
+        <source>Exported Notebooks</source>
+        <translation>Các sổ tay đã xuất</translation>
+    </message>
+    <message>
+        <source>Exporting Notebook...</source>
+        <translation>Đang xuất sổ tay...</translation>
+    </message>
+    <message>
+        <source>Not enough space.</source>
+        <translation>Không đủ dung lượng.</translation>
+    </message>
+    <message>
+        <source>Notebook exported.</source>
+        <translation>Đã xuất sổ tay.</translation>
+    </message>
+    <message>
+        <source>Overwrite</source>
+        <translation>Ghi đè</translation>
+    </message>
+    <message>
+        <source>Overwrite notebook?</source>
+        <translation>Ghi đè sổ tay?</translation>
+    </message>
+    <message>
+        <source>To export this file, you'll need to free up some space on your Dropbox account.&lt;br&gt;&lt;br&gt;Go to Dropbox on your phone or computer to add space or remove files.</source>
+        <translation>Để xuất file này, bạn cần giải phóng dung lượng trên tài khoản Dropbox của mình.&lt;br&gt;&lt;br&gt;Truy cập Dropbox trên điện thoại hoặc máy tính để thêm dung lượng hoặc xóa file.</translation>
+    </message>
+    <message>
+        <source>To export this file, you'll need to free up some space on your Google Drive account.&lt;br&gt;&lt;br&gt;Go to Google Drive on your phone or computer to add space or remove files.</source>
+        <translation>Để xuất file này, bạn cần giải phóng dung lượng trên tài khoản Google Drive.&lt;br&gt;&lt;br&gt;Truy cập Google Drive trên điện thoại hoặc máy tính để thêm dung lượng hoặc xóa file.</translation>
+    </message>
+    <message>
+        <source>You already have a notebook called "%1" in this folder.</source>
+        <translation>Bạn đã có sổ tay tên "%1" trong thư mục này.</translation>
+    </message>
+    <message>
+        <source>You can access this file by connecting your eReader to your computer with a USB cable.</source>
+        <translation>Bạn có thể truy cập file này bằng cách kết nối máy đọc sách với máy tính bằng cáp USB.</translation>
+    </message>
+    <message>
+        <source>You can access this file in the Rakuten Kobo folder of your Dropbox account</source>
+        <translation>Bạn có thể truy cập file này trong thư mục Rakuten Kobo của tài khoản Dropbox</translation>
+    </message>
+    <message>
+        <source>You can access this file in the Rakuten Kobo folder of your Google Drive account</source>
+        <translation>Bạn có thể truy cập file này trong thư mục Rakuten Kobo của tài khoản Google Drive</translation>
+    </message>
+    <message>
+        <source>Your notebook couldn't be exported</source>
+        <translation>Không thể xuất sổ tay của bạn</translation>
+    </message>
+</context>

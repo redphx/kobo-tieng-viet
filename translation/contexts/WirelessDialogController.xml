@@ -1,0 +1,15 @@
+<context>
+    <name>WirelessDialogController</name>
+    <message>
+        <source>Connecting...</source>
+        <translation>Đang kết nối...</translation>
+    </message>
+    <message>
+        <source>Locating known networks</source>
+        <translation>Đang xác định các mạng đã lưu</translation>
+    </message>
+    <message>
+        <source>Scanning for networks...</source>
+        <translation>Đang quét các mạng...</translation>
+    </message>
+</context>

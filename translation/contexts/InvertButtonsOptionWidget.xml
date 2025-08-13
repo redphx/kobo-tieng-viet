@@ -1,0 +1,19 @@
+<context>
+    <name>InvertButtonsOptionWidget</name>
+    <message>
+        <source>Default</source>
+        <translation>Mặc định</translation>
+    </message>
+    <message>
+        <source>Inverted</source>
+        <translation>Đảo ngược</translation>
+    </message>
+    <message>
+        <source>NEXT</source>
+        <translation>TIẾP THEO</translation>
+    </message>
+    <message>
+        <source>PREVIOUS</source>
+        <translation>TRƯỚC ĐÓ</translation>
+    </message>
+</context>

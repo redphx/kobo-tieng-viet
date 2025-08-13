@@ -1,0 +1,11 @@
+<context>
+    <name>ShelfSearchAutoCompleteController</name>
+    <message>
+        <source>Search Library</source>
+        <translation>Tìm kiếm trong thư viện</translation>
+    </message>
+    <message>
+        <source>title, author, or series</source>
+        <translation>tựa đề, tác giả hoặc bộ sách</translation>
+    </message>
+</context>

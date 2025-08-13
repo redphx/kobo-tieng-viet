@@ -1,0 +1,47 @@
+<context>
+    <name>IInkNotePadWidget</name>
+    <message>
+        <source>Converting...</source>
+        <translation>Đang chuyển đổi...</translation>
+    </message>
+    <message>
+        <source>Double-tap to edit.</source>
+        <translation>Nhấn đúp để chỉnh sửa.</translation>
+    </message>
+    <message>
+        <source>Editing...</source>
+        <translation>Đang chỉnh sửa...</translation>
+    </message>
+    <message>
+        <source>Processing...</source>
+        <translation>Đang xử lý...</translation>
+    </message>
+    <message>
+        <source>Try double-tapping a block instead.</source>
+        <translation>Thử nhấn đúp vào một khối xem sao.</translation>
+    </message>
+    <message>
+        <source>Try making your writing larger.</source>
+        <translation>Hãy thử viết chữ lớn hơn.</translation>
+    </message>
+    <message>
+        <source>Try making your writing smaller.</source>
+        <translation>Hãy thử viết chữ nhỏ hơn.</translation>
+    </message>
+    <message>
+        <source>Try writing within the lines.</source>
+        <translation>Hãy thử viết trong phạm vi các dòng.</translation>
+    </message>
+    <message>
+        <source>Update Later</source>
+        <translation>Cập nhật sau</translation>
+    </message>
+    <message>
+        <source>Updating notebook</source>
+        <translation>Đang cập nhật sổ tay</translation>
+    </message>
+    <message>
+        <source>We’re updating your notebook to add new features like Search and Lasso. You can also choose to update later and keep using the older version without these features.</source>
+        <translation>Chúng tôi đang cập nhật sổ tay của bạn để thêm các tính năng mới như Tìm kiếm và Vùng chọn. Bạn cũng có thể chọn cập nhật sau và tiếp tục dùng phiên bản cũ không có các tính năng này.</translation>
+    </message>
+</context>

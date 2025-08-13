@@ -1,0 +1,11 @@
+<context>
+    <name>DesktopSetupView</name>
+    <message>
+        <source>Connect your eReader</source>
+        <translation>Kết nối thiết bị của bạn</translation>
+    </message>
+    <message>
+        <source>Use the USB cable, that was included in the box, to connect your eReader to your computer.</source>
+        <translation>Sử dụng cáp USB trong hộp để kết nối thiết bị của bạn với máy tính.</translation>
+    </message>
+</context>

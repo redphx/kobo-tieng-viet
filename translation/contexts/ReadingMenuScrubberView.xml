@@ -1,0 +1,19 @@
+<context>
+    <name>ReadingMenuScrubberView</name>
+    <message>
+        <source>Archive</source>
+        <translation>Lưu trữ</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Favourite</source>
+        <translation>Yêu thích</translation>
+    </message>
+    <message>
+        <source>Re-add to list</source>
+        <translation>Thêm lại vào danh sách</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>ExportHighlightsController</name>
+    <message>
+        <source>Export</source>
+        <translation>Xuất</translation>
+    </message>
+    <message>
+        <source>Exported Annotations</source>
+        <translation>Chú thích đã xuất</translation>
+    </message>
+</context>

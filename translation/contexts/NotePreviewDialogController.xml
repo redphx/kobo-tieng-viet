@@ -1,0 +1,19 @@
+<context>
+    <name>NotePreviewDialogController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Delete annotation</source>
+        <translation>Xóa chú thích</translation>
+    </message>
+    <message>
+        <source>The highlight has a note attached to it. Are you sure you want to delete it?</source>
+        <translation>Đoạn đánh dấu có ghi chú đính kèm. Bạn có chắc muốn xóa không?</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>NotePreviewWidget</name>
+    <message>
+        <source>Edit</source>
+        <translation>Chỉnh sửa</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation>Ghi chú</translation>
+    </message>
+</context>

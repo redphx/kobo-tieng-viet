@@ -1,0 +1,23 @@
+<context>
+    <name>StoreSearchBuilder</name>
+    <message>
+        <source>All</source>
+        <translation>Tất cả</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>Bất kỳ</translation>
+    </message>
+    <message>
+        <source>Audiobook</source>
+        <translation>Sách nói</translation>
+    </message>
+    <message>
+        <source>eBook</source>
+        <translation>eBook</translation>
+    </message>
+    <message>
+        <source>Eligible for promo code</source>
+        <translation>Đủ điều kiện nhận mã khuyến mãi</translation>
+    </message>
+</context>

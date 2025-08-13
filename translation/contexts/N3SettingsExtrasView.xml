@@ -1,0 +1,103 @@
+<context>
+    <name>N3SettingsExtrasView</name>
+    <message>
+        <source>ADVANCED:</source>
+        <translation>NÂNG CAO:</translation>
+    </message>
+    <message>
+        <source>Browse the internet directly from your eReader.</source>
+        <translation>Duyệt web trực tiếp từ máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>Discover your inner artist or make notes and then save your creation in your Library.</source>
+        <translation>Khám phá năng khiếu nghệ thuật hoặc ghi chú, sau đó lưu tác phẩm trong Thư viện.</translation>
+    </message>
+    <message>
+        <source>Expand your vocabulary by saving words you've looked up in the dictionary. You'll find words you've added in More &gt; Activity.</source>
+        <translation>Mở rộng vốn từ bằng cách lưu từ bạn tra cứu trong từ điển. Tìm từ đã thêm trong Thêm &gt; Hoạt động.</translation>
+    </message>
+    <message>
+        <source>Find words in a 4x4 grid.</source>
+        <translation>Tìm từ trong lưới 4x4.</translation>
+    </message>
+    <message>
+        <source>Font Scale:</source>
+        <translation>Tỉ lệ font:</translation>
+    </message>
+    <message>
+        <source>LARGE PRINT MODE</source>
+        <translation>CHẾ ĐỘ CHỮ LỚN</translation>
+    </message>
+    <message>
+        <source>Large Print Mode:</source>
+        <translation>Chế độ chữ lớn:</translation>
+    </message>
+    <message>
+        <source>Liberate your block by moving other blocks out of the way.</source>
+        <translation>Giải phóng khối bằng cách di chuyển các khối khác ra khỏi đường đi.</translation>
+    </message>
+    <message>
+        <source>MY WORDS</source>
+        <translation>TỪ VỰNG CỦA TÔI</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>Play classic solitaire games like Klondike, Spider, and Freecell.</source>
+        <translation>Chơi các game solitaire cổ điển như Klondike, Spider và Freecell.</translation>
+    </message>
+    <message>
+        <source>Please note that these bonus features are not officially supported by %1</source>
+        <translation>Lưu ý: các tính năng bổ sung này không được %1 hỗ trợ chính thức</translation>
+    </message>
+    <message>
+        <source>Please note that these bonus features are not officially supported by Kobo.</source>
+        <translation>Lưu ý: các tính năng bổ sung này không được Kobo hỗ trợ chính thức.</translation>
+    </message>
+    <message>
+        <source>SANDBOX</source>
+        <translation>HỘP CÁT</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>SKETCH PAD</source>
+        <translation>BẢN VẼ</translation>
+    </message>
+    <message>
+        <source>SOLITAIRE</source>
+        <translation>SOLITAIRE</translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>SUDOKU</source>
+        <translation>SUDOKU</translation>
+    </message>
+    <message>
+        <source>Try something fun!</source>
+        <translation>Thử điều thú vị nào!</translation>
+    </message>
+    <message>
+        <source>Try your wits with this logic-based number puzzle.</source>
+        <translation>Thử trí thông minh với câu đố số dựa trên logic này.</translation>
+    </message>
+    <message>
+        <source>UNBLOCK IT</source>
+        <translation>GIẢI PHÓNG KHỐI</translation>
+    </message>
+    <message>
+        <source>WEB BROWSER</source>
+        <translation>TRÌNH DUYỆT WEB</translation>
+    </message>
+    <message>
+        <source>WORD SCRAMBLE</source>
+        <translation>XÁO TRỘN TỪ</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>SwipeHelpDialog</name>
+    <message>
+        <source>Got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>Swipe to change pages</source>
+        <translation>Vuốt để chuyển trang</translation>
+    </message>
+    <message>
+        <source>To move to the next or previous page, swipe across the screen with one finger.</source>
+        <translation>Vuốt một ngón tay sang trái hoặc phải để chuyển đến trang tiếp theo hoặc trước đó.</translation>
+    </message>
+</context>

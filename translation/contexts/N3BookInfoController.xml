@@ -1,0 +1,71 @@
+<context>
+    <name>N3BookInfoController</name>
+    <message>
+        <source>%1 - %2 hours to read</source>
+        <translation>%1 - %2 giờ đọc</translation>
+    </message>
+    <message>
+        <source>%1 hours</source>
+        <translation>%1 giờ</translation>
+    </message>
+    <message>
+        <source>%1 pages</source>
+        <translation>%1 trang</translation>
+    </message>
+    <message>
+        <source>%1 total words</source>
+        <translation>Tổng cộng %1 từ</translation>
+    </message>
+    <message>
+        <source>%1k total words</source>
+        <translation>Tổng số %1 nghìn từ</translation>
+    </message>
+    <message>
+        <source>%1m total words</source>
+        <translation>Tổng số %1 triệu từ</translation>
+    </message>
+    <message>
+        <source>Abridged</source>
+        <translation>Rút gọn</translation>
+    </message>
+    <message>
+        <source>File Format: %1</source>
+        <translation>Định dạng file: %1</translation>
+    </message>
+    <message>
+        <source>File format: %1 (%2)</source>
+        <translation>Định dạng file: %1 (%2)</translation>
+    </message>
+    <message>
+        <source>File Name: %1</source>
+        <translation>Tên file: %1</translation>
+    </message>
+    <message>
+        <source>File Size: %1</source>
+        <translation>Kích thước file: %1</translation>
+    </message>
+    <message>
+        <source>ISBN: %1</source>
+        <translation>ISBN: %1</translation>
+    </message>
+    <message>
+        <source>Language: %1</source>
+        <translation>Ngôn ngữ: %1</translation>
+    </message>
+    <message>
+        <source>No synopsis available for this item.</source>
+        <translation>Không có bản tóm tắt cho mục này.</translation>
+    </message>
+    <message>
+        <source>Path: %1</source>
+        <translation>Đường dẫn: %1</translation>
+    </message>
+    <message>
+        <source>Publisher: %1</source>
+        <translation>Nhà xuất bản: %1</translation>
+    </message>
+    <message>
+        <source>Unabridged</source>
+        <translation>Không rút gọn</translation>
+    </message>
+</context>

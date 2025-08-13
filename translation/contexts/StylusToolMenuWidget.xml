@@ -1,0 +1,31 @@
+<context>
+    <name>StylusToolMenuWidget</name>
+    <message>
+        <source>Ballpoint Pen</source>
+        <translation>Bút bi</translation>
+    </message>
+    <message>
+        <source>Brush</source>
+        <translation>Cọ vẽ</translation>
+    </message>
+    <message>
+        <source>Brush Eraser</source>
+        <translation>Bút tẩy</translation>
+    </message>
+    <message>
+        <source>Calligraphy Pen</source>
+        <translation>Bút thư pháp</translation>
+    </message>
+    <message>
+        <source>Fountain Pen</source>
+        <translation>Bút máy</translation>
+    </message>
+    <message>
+        <source>Highlighter</source>
+        <translation>Bút đánh dấu</translation>
+    </message>
+    <message>
+        <source>Object Eraser</source>
+        <translation>Tẩy đối tượng</translation>
+    </message>
+</context>

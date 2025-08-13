@@ -1,0 +1,15 @@
+<context>
+    <name>SeriesListSortMenuController</name>
+    <message>
+        <source>Number of books</source>
+        <translation>Số lượng sách</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Series Title</source>
+        <translation>Tựa đề bộ sách</translation>
+    </message>
+</context>

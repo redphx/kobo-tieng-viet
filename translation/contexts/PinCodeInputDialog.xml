@@ -1,0 +1,15 @@
+<context>
+    <name>PinCodeInputDialog</name>
+    <message>
+        <source>Are you sure you want to sign out?</source>
+        <translation>Bạn có chắc muốn đăng xuất?</translation>
+    </message>
+    <message>
+        <source>Forgot your PIN?</source>
+        <translation>Quên mã PIN?</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Đăng xuất</translation>
+    </message>
+</context>

@@ -1,0 +1,23 @@
+<context>
+    <name>WriteReviewThankYouView</name>
+    <message>
+        <source>Rate other books you’ve read</source>
+        <translation>Đánh giá các cuốn sách khác bạn đã đọc</translation>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation>Đánh giá:</translation>
+    </message>
+    <message>
+        <source>Thank you for your review</source>
+        <translation>Cảm ơn nhận xét của bạn</translation>
+    </message>
+    <message>
+        <source>Write a review</source>
+        <translation>Viết đánh giá</translation>
+    </message>
+    <message>
+        <source>Your review will be submitted the next time you sync. We’ll email you once we’ve published it, and you’ll be able to share it with friends.</source>
+        <translation>Nhận xét của bạn sẽ được gửi vào lần đồng bộ tiếp theo. Chúng tôi sẽ gửi email cho bạn sau khi đăng nó, và bạn sẽ có thể chia sẻ nó với bạn bè.</translation>
+    </message>
+</context>

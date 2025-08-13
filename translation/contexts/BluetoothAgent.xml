@@ -1,0 +1,39 @@
+<context>
+    <name>BluetoothAgent</name>
+    <message>
+        <source>"%0" wants to pair with your eReader.</source>
+        <translation>"%0" muốn ghép đôi với máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>%0 wants to authorize a service (%1)</source>
+        <translation>%0 muốn cấp quyền cho dịch vụ (%1)</translation>
+    </message>
+    <message>
+        <source>Authorize pairing request?</source>
+        <translation>Cho phép yêu cầu ghép đôi?</translation>
+    </message>
+    <message>
+        <source>Authorize?</source>
+        <translation>Cho phép?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Confirm bluetooth connection</source>
+        <translation>Xác nhận kết nối Bluetooth</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Please confirm that %0 is the code shown on "%1".</source>
+        <translation>Vui lòng xác nhận rằng %0 là mã hiển thị trên "%1".</translation>
+    </message>
+    <message>
+        <source>Please type %0 on "%1", followed by the return or enter key.</source>
+        <translation>Vui lòng nhập %0 trên "%1", sau đó nhấn phím trả lời hoặc enter.</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>DictionaryHelpDialog</name>
+    <message>
+        <source>Quick dictionary lookup</source>
+        <translation>Tra nhanh từ điển</translation>
+    </message>
+    <message>
+        <source>While reading, you can press and hold on a word to see its definition.</source>
+        <translation>Trong lúc đọc, bạn có thể nhấn và giữ một từ để xem nghĩa của nó.</translation>
+    </message>
+</context>

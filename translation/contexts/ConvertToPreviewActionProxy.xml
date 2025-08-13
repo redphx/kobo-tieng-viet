@@ -1,0 +1,11 @@
+<context>
+    <name>ConvertToPreviewActionProxy</name>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>Save preview</source>
+        <translation>Lưu xem trước</translation>
+    </message>
+</context>

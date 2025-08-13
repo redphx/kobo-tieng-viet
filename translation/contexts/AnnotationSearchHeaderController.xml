@@ -1,0 +1,27 @@
+<context>
+    <name>AnnotationSearchHeaderController</name>
+    <message>
+        <source>Filter: All</source>
+        <translation>Lọc: Tất cả</translation>
+    </message>
+    <message>
+        <source>Filter: Highlights</source>
+        <translation>Lọc: Đánh dấu</translation>
+    </message>
+    <message>
+        <source>Filter: Notes</source>
+        <translation>Lọc: Ghi chú</translation>
+    </message>
+    <message>
+        <source>Sort: Location A-Z</source>
+        <translation>Sắp xếp: Vị trí A-Z</translation>
+    </message>
+    <message>
+        <source>Sort: Location Z-A</source>
+        <translation>Sắp xếp: Vị trí Z-A</translation>
+    </message>
+    <message>
+        <source>Sort: Recent</source>
+        <translation>Sắp xếp: Gần đây</translation>
+    </message>
+</context>

@@ -1,0 +1,39 @@
+<context>
+    <name>ReadingMenuFontSettingsView</name>
+    <message>
+        <source>Advanced</source>
+        <translation>Nâng cao</translation>
+    </message>
+    <message>
+        <source>Font Face:</source>
+        <translation>Kiểu font:</translation>
+    </message>
+    <message>
+        <source>Font Size:</source>
+        <translation>Cỡ chữ:</translation>
+    </message>
+    <message>
+        <source>Justification:</source>
+        <translation>Căn chỉnh:</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation>Khoảng cách dòng:</translation>
+    </message>
+    <message>
+        <source>Margins:</source>
+        <translation>Lề:</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation>TẮT</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation>Tắt</translation>
+    </message>
+    <message>
+        <source>Supplemental:</source>
+        <translation>Bổ sung:</translation>
+    </message>
+</context>

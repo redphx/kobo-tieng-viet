@@ -1,0 +1,27 @@
+<context>
+    <name>DragonSimilarLibraryController</name>
+    <message>
+        <source>Check for more related reads</source>
+        <translation>Kiểm tra thêm các sách liên quan</translation>
+    </message>
+    <message>
+        <source>Included with Kobo Plus</source>
+        <translation>Đi kèm với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>Gia hạn</translation>
+    </message>
+    <message>
+        <source>Start free trial</source>
+        <translation>Bắt đầu dùng thử miễn phí</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Nâng cấp</translation>
+    </message>
+    <message>
+        <source>We didn't find any related reads.</source>
+        <translation>Chúng tôi không tìm thấy cuốn sách liên quan nào.</translation>
+    </message>
+</context>

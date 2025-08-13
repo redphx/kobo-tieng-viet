@@ -1,0 +1,11 @@
+[project]
+name = "kobo-tieng-viet"
+version = "1.0.0"
+description = "Giao diện tiếng Việt cho Kobo"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fonttools>=4.59.0",
+    "lxml>=6.0.0",
+    "python-dotenv>=1.1.1",
+]

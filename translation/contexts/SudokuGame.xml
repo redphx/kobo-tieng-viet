@@ -1,0 +1,47 @@
+<context>
+    <name>SudokuGame</name>
+    <message>
+        <source>Are you sure you want to abandon this game?</source>
+        <translation>Bạn có chắc muốn bỏ trò chơi này không?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the board?</source>
+        <translation>Bạn có chắc muốn reset bảng không?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Congratulations, you truly have the heart of a champion!</source>
+        <translation>Chúc mừng, bạn thực sự có tinh thần nhà vô địch!</translation>
+    </message>
+    <message>
+        <source>Keep playing</source>
+        <translation>Tiếp tục chơi</translation>
+    </message>
+    <message>
+        <source>New game</source>
+        <translation>Trò chơi mới</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
+    </message>
+    <message>
+        <source>Save and quit</source>
+        <translation>Lưu và thoát</translation>
+    </message>
+    <message>
+        <source>Sudoku</source>
+        <translation>Sudoku</translation>
+    </message>
+    <message>
+        <source>You won!</source>
+        <translation>Bạn đã thắng!</translation>
+    </message>
+</context>

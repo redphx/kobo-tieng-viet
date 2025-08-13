@@ -1,0 +1,23 @@
+<context>
+    <name>RecommendationsListView</name>
+    <message>
+        <source>Answer three questions about your taste in books. Your answers will help us find books we think you’ll love.</source>
+        <translation>Trả lời ba câu hỏi về sở thích đọc sách của bạn. Câu trả lời sẽ giúp chúng tôi tìm sách phù hợp với bạn.</translation>
+    </message>
+    <message>
+        <source>Get started</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>Help us get to know you</source>
+        <translation>Giúp chúng tôi hiểu bạn hơn</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>Được đề xuất</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+</context>

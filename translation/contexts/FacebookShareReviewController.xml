@@ -1,0 +1,11 @@
+<context>
+    <name>FacebookShareReviewController</name>
+    <message>
+        <source>I just wrote a book review on my %1.</source>
+        <translation>Tôi vừa viết một đánh giá sách trên %1 của tôi.</translation>
+    </message>
+    <message>
+        <source>Reading this on my %1.</source>
+        <translation>Đang đọc nó trên %1 của tôi.</translation>
+    </message>
+</context>

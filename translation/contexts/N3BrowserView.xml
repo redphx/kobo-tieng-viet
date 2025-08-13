@@ -1,0 +1,11 @@
+<context>
+    <name>N3BrowserView</name>
+    <message>
+        <source>Kobo Web Browser</source>
+        <translation>Trình duyệt web Kobo</translation>
+    </message>
+    <message>
+        <source>Web Browser</source>
+        <translation>Trình duyệt web</translation>
+    </message>
+</context>

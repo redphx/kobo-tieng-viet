@@ -1,0 +1,15 @@
+<context>
+    <name>DemoRegionSelectionView</name>
+    <message>
+        <source>Form</source>
+        <translation>Biểu mẫu</translation>
+    </message>
+    <message>
+        <source>Select your region</source>
+        <translation>Chọn khu vực của bạn</translation>
+    </message>
+    <message>
+        <source>This will determine which demo screensaver is shown to your customers.</source>
+        <translation>Điều này sẽ xác định trình bảo vệ màn hình demo nào được hiển thị cho khách hàng của bạn.</translation>
+    </message>
+</context>

@@ -1,0 +1,43 @@
+<context>
+    <name>MoreView</name>
+    <message>
+        <source>Activity</source>
+        <translation>Hoạt động</translation>
+    </message>
+    <message>
+        <source>Beta Features</source>
+        <translation>Tính năng thử nghiệm</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Trợ giúp</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Thêm</translation>
+    </message>
+    <message>
+        <source>My Articles</source>
+        <translation>Bài viết của tôi</translation>
+    </message>
+    <message>
+        <source>My Dropbox</source>
+        <translation>Dropbox của tôi</translation>
+    </message>
+    <message>
+        <source>My Google Drive</source>
+        <translation>Google Drive của tôi</translation>
+    </message>
+    <message>
+        <source>My Notebooks</source>
+        <translation>Sổ tay của tôi</translation>
+    </message>
+    <message>
+        <source>My Wishlist</source>
+        <translation>Danh sách mong muốn</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Cài đặt</translation>
+    </message>
+</context>

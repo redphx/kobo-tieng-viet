@@ -1,0 +1,15 @@
+<context>
+    <name>KoboPlusDetailsWidget</name>
+    <message>
+        <source>Available with Kobo Plus Subscription  </source>
+        <translation>Có sẵn với đăng ký Kobo Plus  </translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>See Publisher Price</source>
+        <translation>Xem giá của NXB</translation>
+    </message>
+</context>

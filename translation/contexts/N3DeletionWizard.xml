@@ -1,0 +1,99 @@
+<context>
+    <name>N3DeletionWizard</name>
+    <message>
+        <source>"%1" will be completely removed from your library.</source>
+        <translation>"%1" sẽ bị loại bỏ hoàn toàn khỏi thư viện.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the collection named "%1" from your account?</source>
+        <translation>Bạn có chắc muốn xóa bộ sưu tập "%1" khỏi tài khoản?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this item?</source>
+        <translation>Bạn có chắc muốn xóa mục này?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove all of your annotations for this book? This will remove all notes, highlights, and bookmarks.</source>
+        <translation>Bạn có chắc muốn xóa toàn bộ chú thích cho cuốn sách này? Thao tác sẽ xóa hết ghi chú, đánh dấu và dấu trang.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Delete book from library?</source>
+        <translation>Xóa sách khỏi thư viện?</translation>
+    </message>
+    <message>
+        <source>Delete collection?</source>
+        <translation>Xóa bộ sưu tập?</translation>
+    </message>
+    <message>
+        <source>Delete Notebook</source>
+        <translation>Xóa sổ tay</translation>
+    </message>
+    <message>
+        <source>Delete picture from Library</source>
+        <translation>Xóa hình khỏi thư viện</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>Remove all annotations?</source>
+        <translation>Xóa hết chú thích?</translation>
+    </message>
+    <message>
+        <source>Remove article(s) from eReader?</source>
+        <translation>Xóa bài viết khỏi thiết bị?</translation>
+    </message>
+    <message>
+        <source>Remove book(s) from eReader?</source>
+        <translation>Xóa sách khỏi thiết bị?</translation>
+    </message>
+    <message>
+        <source>Remove Download</source>
+        <translation>Xóa tải xuống</translation>
+    </message>
+    <message>
+        <source>Remove imported item(s) from eReader?</source>
+        <translation>Xóa mục nhập khỏi thiết bị?</translation>
+    </message>
+    <message>
+        <source>Remove preview(s) from eReader?</source>
+        <translation>Xóa bản xem trước khỏi thiết bị?</translation>
+    </message>
+    <message>
+        <source>The item will be permanently deleted.</source>
+        <translation>Mục sẽ bị xóa vĩnh viễn.</translation>
+    </message>
+    <message>
+        <source>This article will be deleted from your Pocket account.</source>
+        <translation>Bài viết sẽ bị xóa khỏi tài khoản Pocket của bạn.</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+    <message>
+        <source>You'll free up %1 on your eReader, and articles in the cloud can be easily re-downloaded.</source>
+        <translation>Bạn sẽ giải phóng %1 trên máy đọc sách và các bài viết trên cloud có thể tải lại dễ dàng.</translation>
+    </message>
+    <message>
+        <source>You'll free up %1 on your eReader, and books in the cloud can be easily re-downloaded.</source>
+        <translation>Bạn sẽ giải phóng %1 trên máy đọc sách và sách trên cloud có thể tải lại dễ dàng.</translation>
+    </message>
+    <message>
+        <source>You'll free up %1 on your eReader.</source>
+        <translation>Bạn sẽ giải phóng %1 trên máy đọc sách.</translation>
+    </message>
+</context>

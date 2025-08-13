@@ -1,0 +1,30 @@
+<context>
+    <name>N3DeleteNetworksController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete All?</source>
+        <translation>Xóa tất cả?</translation>
+    </message>
+    <message>
+        <source>Delete known networks</source>
+        <translation>Xóa các mạng đã lưu</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Select All (%1)</source>
+        <translation>Chọn tất cả (%1)</translation>
+    </message>
+    <message numerus="yes">
+        <source>This will delete all %n known network(s) in your list.</source>
+        <translation>
+            <numerusform>Thao tác này sẽ xóa %n mạng đã lưu.</numerusform>
+            <numerusform>Thao tác này sẽ xóa tất cả %n mạng đã lưu trong danh sách của bạn.</numerusform>
+        </translation>
+    </message>
+</context>

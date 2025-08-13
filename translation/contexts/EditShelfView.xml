@@ -1,0 +1,53 @@
+<context>
+    <name>EditShelfView</name>
+    <message numerus="yes">
+        <source>%n result(s) found for "%1"</source>
+        <translation>
+            <numerusform>%n kết quả tìm thấy cho "%1"</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Add Books</source>
+        <translation>Thêm sách</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>Sort: Author</source>
+        <translation>Sắp xếp: Tác giả</translation>
+    </message>
+    <message>
+        <source>Sort: Date Added</source>
+        <translation>Sắp xếp: Ngày thêm</translation>
+    </message>
+    <message>
+        <source>Sort: File size</source>
+        <translation>Sắp xếp: Kích thước file</translation>
+    </message>
+    <message>
+        <source>Sort: File type</source>
+        <translation>Sắp xếp: Loại file</translation>
+    </message>
+    <message>
+        <source>Sort: Recent</source>
+        <translation>Sắp xếp: Gần đây</translation>
+    </message>
+    <message>
+        <source>Sort: Series</source>
+        <translation>Sắp xếp: Bộ sách</translation>
+    </message>
+    <message>
+        <source>Sort: Title</source>
+        <translation>Sắp xếp: Tiêu đề</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>IntroduceAudiobooksController</name>
+    <message>
+        <source>Introducing Audiobooks</source>
+        <translation>Giới thiệu sách nói</translation>
+    </message>
+    <message>
+        <source>Try audiobooks in the %1 and listen to stories with your headphones, car stereo, or speaker equipped with Bluetooth® wireless technology.</source>
+        <translation>Hãy thử sách nói trong %1 và nghe truyện bằng tai nghe, dàn âm thanh nổi trên ô tô hoặc loa được trang bị công nghệ không dây Bluetooth®.</translation>
+    </message>
+</context>

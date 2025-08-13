@@ -1,0 +1,139 @@
+<context>
+    <name>N3SettingsPowerView</name>
+    <message>
+        <source>"intelligent" protection case</source>
+        <translation>Ốp bảo vệ "thông minh"</translation>
+    </message>
+    <message>
+        <source>10 mins</source>
+        <translation>10 phút</translation>
+    </message>
+    <message>
+        <source>15 mins</source>
+        <translation>15 phút</translation>
+    </message>
+    <message>
+        <source>30 mins</source>
+        <translation>30 phút</translation>
+    </message>
+    <message>
+        <source>45 mins</source>
+        <translation>45 phút</translation>
+    </message>
+    <message>
+        <source>5 mins</source>
+        <translation>5 phút</translation>
+    </message>
+    <message>
+        <source>60 mins</source>
+        <translation>60 phút</translation>
+    </message>
+    <message>
+        <source>Ask for PIN on wake up or power on:</source>
+        <translation>Yêu cầu mã PIN khi thức dậy hoặc mở nguồn:</translation>
+    </message>
+    <message>
+        <source>Automatically go to sleep after:</source>
+        <translation>Tự động vào chế độ ngủ sau:</translation>
+    </message>
+    <message>
+        <source>Automatically power off after:</source>
+        <translation>Tự động tắt nguồn sau:</translation>
+    </message>
+    <message>
+        <source>Automatically share data about the features you use:</source>
+        <translation>Tự động chia sẻ dữ liệu về các tính năng bạn sử dụng:</translation>
+    </message>
+    <message>
+        <source>Automatically sleep and wake up:</source>
+        <translation>Tự động ngủ và thức dậy:</translation>
+    </message>
+    <message>
+        <source>Automatically turn off light in bright sunlight:</source>
+        <translation>Tự động tắt đèn khi dưới ánh nắng:</translation>
+    </message>
+    <message>
+        <source>Change PIN</source>
+        <translation>Thay đổi mã PIN</translation>
+    </message>
+    <message>
+        <source>Change your 4-digit PIN:</source>
+        <translation>Thay đổi mã PIN 4 chữ số của bạn:</translation>
+    </message>
+    <message>
+        <source>Discover Tab</source>
+        <translation>Thẻ khám phá</translation>
+    </message>
+    <message>
+        <source>Enabling PIN lock helps protect your content and information by requiring a 4-digit PIN to use your eReader.</source>
+        <translation>Kích hoạt khóa mã PIN giúp bảo vệ nội dung và thông tin của bạn bằng cách yêu cầu mã PIN 4 chữ số để sử dụng máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>ENERGY SAVING</source>
+        <translation>TIẾT KIỆM PIN</translation>
+    </message>
+    <message>
+        <source>HELP IMPROVE OUR APP</source>
+        <translation>GIÚP CẢI THIỆN ỨNG DỤNG CỦA CHÚNG TÔI</translation>
+    </message>
+    <message>
+        <source>Indicator light while charging:</source>
+        <translation>Đèn báo khi đang sạc:</translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation>Không bao giờ</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>PIN LOCK</source>
+        <translation>KHOÁ PIN</translation>
+    </message>
+    <message>
+        <source>Reading progress will continue to be sent for your Kobo Plus subscription books.</source>
+        <translation>Tiến trình đọc sẽ tiếp tục được gửi cho các sách đăng ký Kobo Plus của bạn.</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>Show book covers full screen:</source>
+        <translation>Hiển thị bìa sách toàn màn hình:</translation>
+    </message>
+    <message>
+        <source>Show current read:</source>
+        <translation>Hiển thị đọc hiện tại:</translation>
+    </message>
+    <message>
+        <source>Show info panel on full screen covers:</source>
+        <translation>Hiển thị bảng thông tin trên bìa toàn màn hình:</translation>
+    </message>
+    <message>
+        <source>Show list of recently viewed ebooks:</source>
+        <translation>Hiển thị danh sách ebook đã xem gần đây:</translation>
+    </message>
+    <message>
+        <source>SLEEP AND POWER OFF</source>
+        <translation>NGỦ VÀ TẮT NGUỒN</translation>
+    </message>
+    <message>
+        <source>SLEEPCOVER</source>
+        <translation>SLEEPCOVER</translation>
+    </message>
+    <message>
+        <source>The "intelligent" protection case (sold separately) automatically puts your eReader to sleep when you close it and wakes it up when you open it.</source>
+        <translation>Ốp bảo vệ "thông minh" (được bán riêng) tự động đặt máy đọc sách của bạn ở chế độ ngủ khi bạn đóng và đánh thức thiết bị khi bạn mở.</translation>
+    </message>
+    <message>
+        <source>The Kobo SleepCover (sold separately) automatically puts your eReader to sleep when you close it and wakes it up when you open it.</source>
+        <translation>Kobo SleepCover (được bán riêng) tự động đặt máy đọc sách của bạn ở chế độ ngủ khi bạn đóng nó và đánh thức nó khi bạn mở nó.</translation>
+    </message>
+    <message>
+        <source>To access your privacy settings, please visit: %1</source>
+        <translation>Để truy cập cài đặt riêng tư của bạn, vui lòng truy cập: %1</translation>
+    </message>
+</context>

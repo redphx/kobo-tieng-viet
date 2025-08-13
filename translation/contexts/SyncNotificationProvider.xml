@@ -1,0 +1,135 @@
+<context>
+    <name>SyncNotificationProvider</name>
+    <message>
+        <source>"%1" at %2 is ready to borrow. Get it while you're still first on the list.</source>
+        <translation>"%1" tại %2 đã sẵn sàng để mượn. Lấy nó khi bạn vẫn ở đầu danh sách.</translation>
+    </message>
+    <message>
+        <source>Article %1 of %2</source>
+        <translation>Bài viết %1 trên %2</translation>
+    </message>
+    <message>
+        <source>Book %1 of %2</source>
+        <translation>Sách %1 trên %2</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Đang kiểm tra cập nhật...</translation>
+    </message>
+    <message>
+        <source>Connecting...</source>
+        <translation>Đang kết nối...</translation>
+    </message>
+    <message>
+        <source>Downloading book covers</source>
+        <translation>Đang tải bìa sách</translation>
+    </message>
+    <message>
+        <source>Downloading Dropbox files</source>
+        <translation>Đang tải file Dropbox</translation>
+    </message>
+    <message>
+        <source>Downloading Google Drive files</source>
+        <translation>Đang tải file Google Drive</translation>
+    </message>
+    <message>
+        <source>Downloading Notebook</source>
+        <translation>Đang tải sổ tay xuống</translation>
+    </message>
+    <message>
+        <source>Downloading...</source>
+        <translation>Đang tải xuống...</translation>
+    </message>
+    <message>
+        <source>Downloading: %1%</source>
+        <translation>Đang tải xuống: %1%</translation>
+    </message>
+    <message>
+        <source>Finished downloading</source>
+        <translation>Đã hoàn thành tải xuống</translation>
+    </message>
+    <message>
+        <source>Finished uploading</source>
+        <translation>Đã tải lên xong</translation>
+    </message>
+    <message>
+        <source>Loading content</source>
+        <translation>Đang tải nội dung</translation>
+    </message>
+    <message>
+        <source>Loading dictionaries</source>
+        <translation>Đang tải từ điển</translation>
+    </message>
+    <message>
+        <source>Notebook %1 of %2</source>
+        <translation>Sổ tay %1 trên %2</translation>
+    </message>
+    <message>
+        <source>Preparing device for sync...</source>
+        <translation>Đang chuẩn bị thiết bị để đồng bộ...</translation>
+    </message>
+    <message>
+        <source>Preparing for installation...</source>
+        <translation>Đang chuẩn bị cài đặt...</translation>
+    </message>
+    <message>
+        <source>Repairing account...</source>
+        <translation>Đang sửa tài khoản...</translation>
+    </message>
+    <message>
+        <source>Starting sync...</source>
+        <translation>Đang bắt đầu đồng bộ...</translation>
+    </message>
+    <message>
+        <source>Syncing articles</source>
+        <translation>Đang đồng bộ bài viết</translation>
+    </message>
+    <message>
+        <source>Syncing Dropbox</source>
+        <translation>Đang đồng bộ Dropbox</translation>
+    </message>
+    <message>
+        <source>Syncing Google Drive</source>
+        <translation>Đang đồng bộ Google Drive</translation>
+    </message>
+    <message>
+        <source>Updating annotations</source>
+        <translation>Đang cập nhật chú thích</translation>
+    </message>
+    <message>
+        <source>Updating books</source>
+        <translation>Đang cập nhật sách</translation>
+    </message>
+    <message>
+        <source>Updating fonts...</source>
+        <translation>Đang cập nhật font...</translation>
+    </message>
+    <message>
+        <source>Updating handwriting recognition...</source>
+        <translation>Đang cập nhật nhận dạng chữ viết tay...</translation>
+    </message>
+    <message>
+        <source>Updating notebooks</source>
+        <translation>Đang cập nhật sổ tay</translation>
+    </message>
+    <message>
+        <source>Uploading Dropbox files</source>
+        <translation>Đang tải file Dropbox lên</translation>
+    </message>
+    <message>
+        <source>Uploading Google Drive files</source>
+        <translation>Đang tải file Google Drive lên</translation>
+    </message>
+    <message>
+        <source>Uploading Notebook</source>
+        <translation>Đang tải sổ tay lên</translation>
+    </message>
+    <message>
+        <source>Uploading notebooks</source>
+        <translation>Đang tải sổ tay lên</translation>
+    </message>
+    <message>
+        <source>Your holds at %1 are ready to borrow. Get them while you're still first on the list.</source>
+        <translation>Khoản giữ chỗ của bạn tại %1 đã sẵn sàng để mượn. Lấy chúng khi bạn vẫn ở đầu danh sách.</translation>
+    </message>
+</context>

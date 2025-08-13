@@ -1,0 +1,19 @@
+<context>
+    <name>IInkDeleteFolderItemController</name>
+    <message>
+        <source>Are you sure you want to delete the folder "%1"?&lt;br&gt;This will also delete the contents of the folder.</source>
+        <translation>Bạn có chắc muốn xóa thư mục "%1"?&lt;br&gt;Thao tác này cũng sẽ xóa nội dung của thư mục.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Delete Folder?</source>
+        <translation>Xóa thư mục?</translation>
+    </message>
+</context>

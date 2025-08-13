@@ -1,0 +1,31 @@
+<context>
+    <name>InlineDictionaryView</name>
+    <message>
+        <source>Add to My Words</source>
+        <translation>Thêm vào Từ vựng của tôi</translation>
+    </message>
+    <message>
+        <source>Added to My Words</source>
+        <translation>Đã thêm vào Từ vựng của tôi</translation>
+    </message>
+    <message>
+        <source>aeiou</source>
+        <translation>aeiou</translation>
+    </message>
+    <message>
+        <source>Manage dictionaries</source>
+        <translation>Quản lý từ điển</translation>
+    </message>
+    <message>
+        <source>No definition found.&lt;br/&gt;Try another dictionary.</source>
+        <translation>Không tìm thấy định nghĩa.&lt;br/&gt;Thử từ điển khác.</translation>
+    </message>
+    <message>
+        <source>You don't have a %1 dictionary installed.</source>
+        <translation>Bạn chưa cài đặt từ điển %1.</translation>
+    </message>
+    <message>
+        <source>You don't have an %1 dictionary installed.</source>
+        <translation>Bạn chưa cài đặt từ điển %1.</translation>
+    </message>
+</context>

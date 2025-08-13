@@ -1,0 +1,19 @@
+<context>
+    <name>NickelWidgetsWebPluginFactory</name>
+    <message>
+        <source>Go to My Dropbox</source>
+        <translation>Tới Dropbox của tôi</translation>
+    </message>
+    <message>
+        <source>Go to My Google Drive</source>
+        <translation>Tới Google Drive của tôi</translation>
+    </message>
+    <message>
+        <source>Go to My Notebooks</source>
+        <translation>Tới Sổ tay của tôi</translation>
+    </message>
+    <message>
+        <source>Try it</source>
+        <translation>Dùng thử</translation>
+    </message>
+</context>

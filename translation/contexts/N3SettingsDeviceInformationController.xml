@@ -1,0 +1,75 @@
+<context>
+    <name>N3SettingsDeviceInformationController</name>
+    <message>
+        <source>&lt;b&gt;Bluetooth Firmware&lt;/b&gt;: %1&lt;br&gt;</source>
+        <translation>&lt;b&gt;Firmware Bluetooth&lt;/b&gt;: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Charger Host Firmware&lt;/b&gt;: %1&lt;br&gt;&lt;b&gt;Charger Accessory Firmware&lt;/b&gt;: %2&lt;br&gt;</source>
+        <translation>&lt;b&gt;Firmware bộ sạc chính&lt;/b&gt;: %1&lt;br&gt;&lt;b&gt;Firmware phụ kiện bộ sạc&lt;/b&gt;: %2&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Status Code: &lt;/b&gt;%1&lt;br&gt;</source>
+        <translation>&lt;b&gt;Mã trạng thái: &lt;/b&gt;%1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Touch Firmware: &lt;/b&gt;%3&lt;br&gt;</source>
+        <translation>&lt;b&gt;Firmware cảm ứng: &lt;/b&gt;%3&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;VCOM&lt;/b&gt;: %1&lt;br&gt;</source>
+        <translation>&lt;b&gt;VCOM&lt;/b&gt;: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Waveform: &lt;/b&gt;%1&lt;br&gt;&lt;b&gt;Kernel Version: &lt;/b&gt;%2&lt;br&gt;%3</source>
+        <translation>&lt;b&gt;Waveform: &lt;/b&gt;%1&lt;br&gt;&lt;b&gt;Phiên bản Kernel: &lt;/b&gt;%2&lt;br&gt;%3</translation>
+    </message>
+    <message>
+        <source>&lt;h1&gt;&lt;span&gt;Regulatory Information&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;For regulation information, please go to:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;www.kobo.com/userguides&lt;/span&gt;&lt;/p&gt;</source>
+        <translation>&lt;h1&gt;&lt;span&gt;Thông tin quy định&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Để biết thông tin quy định, vui lòng truy cập:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;www.kobo.com/userguides&lt;/span&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;h1&gt;&lt;span&gt;Warranty Information&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;For warranty details, please visit the Kobo site for the latest information:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;www.kobo.com/userguides&lt;/span&gt;&lt;/p&gt;</source>
+        <translation>&lt;h1&gt;&lt;span&gt;Thông tin bảo hành&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Để biết chi tiết bảo hành, vui lòng truy cập trang Kobo để cập nhật mới nhất:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;www.kobo.com/userguides&lt;/span&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;h1&gt;&lt;span&gt;Warranty Information&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;For warranty details, please visit the tolino site for the latest information:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;www.mytolino.com/legal&lt;/span&gt;&lt;/p&gt;</source>
+        <translation>&lt;h1&gt;&lt;span&gt;Thông tin bảo hành&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Để biết chi tiết bảo hành, vui lòng truy cập trang tolino để cập nhật mới nhất:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;www.mytolino.com/legal&lt;/span&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Device information</source>
+        <translation>Thông tin thiết bị</translation>
+    </message>
+    <message>
+        <source>Firmware information</source>
+        <translation>Thông tin firmware</translation>
+    </message>
+    <message>
+        <source>Legal</source>
+        <translation>Pháp lý</translation>
+    </message>
+    <message>
+        <source>Repair now</source>
+        <translation>Sửa ngay</translation>
+    </message>
+    <message>
+        <source>Repair your account?</source>
+        <translation>Bạn có muốn sửa tài khoản không?</translation>
+    </message>
+    <message>
+        <source>Repairing your account refreshes all of your books and collections. You should only repair your account if something is missing or not working properly. If you have a lot of books, this may take a while.</source>
+        <translation>Việc sửa tài khoản sẽ làm mới tất cả sách và bộ sưu tập. Chỉ sửa khi có mục bị thiếu hoặc hoạt động không đúng. Nếu có nhiều sách, việc này có thể mất thời gian.</translation>
+    </message>
+    <message>
+        <source>Repairing your Kobo account refreshes all of your books and collections. You should only repair your account if something is missing or not working properly. If you have a lot of books, this may take a while.</source>
+        <translation>Việc sửa tài khoản Kobo của bạn sẽ làm mới tất cả sách và bộ sưu tập. Chỉ sửa khi có mục bị thiếu hoặc hoạt động không đúng. Nếu có nhiều sách, việc này có thể mất thời gian.</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Reset</translation>
+    </message>
+</context>

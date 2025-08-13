@@ -1,0 +1,13 @@
+<context>
+    <name>MyBooksHomeWidget</name>
+    <message numerus="yes">
+        <source>%n BOOK(S)</source>
+        <translation>
+            <numerusform>%n CUỐN SÁCH</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>My Books</source>
+        <translation>Sách của tôi</translation>
+    </message>
+</context>

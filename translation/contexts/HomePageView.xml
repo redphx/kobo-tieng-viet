@@ -1,0 +1,23 @@
+<context>
+    <name>HomePageView</name>
+    <message>
+        <source>Borrow eBooks from your public library</source>
+        <translation>Mượn eBook từ thư viện công cộng của bạn</translation>
+    </message>
+    <message>
+        <source>Find your next book in Kobo Plus or our store</source>
+        <translation>Tìm cuốn sách tiếp theo trên Kobo Plus hoặc cửa hàng của chúng tôi</translation>
+    </message>
+    <message>
+        <source>Find your next great read</source>
+        <translation>Tìm cuốn sách hay tiếp theo</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Trang chủ</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+</context>

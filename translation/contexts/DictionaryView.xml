@@ -1,0 +1,11 @@
+<context>
+    <name>DictionaryView</name>
+    <message>
+        <source>Search results for &amp;ldquo;%1&amp;rdquo;</source>
+        <translation>Tìm kiếm kết quả cho &amp;ldquo;%1&amp;rdquo;</translation>
+    </message>
+    <message>
+        <source>Your search for &amp;ldquo;%1&amp;rdquo; did not match any words in the dictionary. The closest match was &amp;ldquo;%2&amp;rdquo;.</source>
+        <translation>Tìm kiếm của bạn &amp;ldquo;%1&amp;rdquo; không phù hợp với từ nào. Kết quả gần đúng nhất là &amp;ldquo;%2&amp;rdquo;.</translation>
+    </message>
+</context>

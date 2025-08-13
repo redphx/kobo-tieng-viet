@@ -1,0 +1,19 @@
+<context>
+    <name>RelatedReadingWidget</name>
+    <message>
+        <source>Next from the Series</source>
+        <translation>Tiếp theo trong bộ sách</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>Được đề xuất</translation>
+    </message>
+    <message>
+        <source>Related Reads</source>
+        <translation>Các cuốn sách liên quan</translation>
+    </message>
+    <message>
+        <source>View all</source>
+        <translation>Xem tất cả</translation>
+    </message>
+</context>

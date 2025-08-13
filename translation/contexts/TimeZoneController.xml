@@ -1,0 +1,11 @@
+<context>
+    <name>TimeZoneController</name>
+    <message>
+        <source>Set your time zone</source>
+        <translation>Đặt múi giờ của bạn</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Cài đặt</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>MarkupBracketPopupController</name>
+    <message>
+        <source>If you change the font size or margins in your eBook, we’ll keep everything you’ve written intact. Just tap the markup icon to see it.</source>
+        <translation>Nếu bạn thay đổi kích thước font hoặc lề trong eBook, chúng tôi sẽ giữ nguyên tất cả những gì bạn đã ghi. Chỉ cần nhấn biểu tượng đánh dấu để xem.</translation>
+    </message>
+    <message>
+        <source>Tap here to see your original markup</source>
+        <translation>Nhấn vào đây để xem đánh dấu gốc của bạn</translation>
+    </message>
+</context>

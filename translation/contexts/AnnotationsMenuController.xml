@@ -1,0 +1,23 @@
+<context>
+    <name>AnnotationsMenuController</name>
+    <message>
+        <source>All</source>
+        <translation>Tất cả</translation>
+    </message>
+    <message>
+        <source>Bookmarks</source>
+        <translation>Dấu trang</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation>Đánh dấu</translation>
+    </message>
+    <message>
+        <source>Markups</source>
+        <translation>Chú giải</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation>Ghi chú</translation>
+    </message>
+</context>

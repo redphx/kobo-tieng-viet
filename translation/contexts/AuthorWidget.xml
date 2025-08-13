@@ -1,0 +1,9 @@
+<context>
+    <name>AuthorWidget</name>
+    <message numerus="yes">
+        <source>%n UNREAD BOOK(S)</source>
+        <translation>
+            <numerusform>%n CUỐN SÁCH CHƯA ĐỌC</numerusform>
+        </translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>NotebookSortMenuController</name>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Kiểu</translation>
+    </message>
+</context>

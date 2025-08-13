@@ -1,0 +1,61 @@
+<context>
+    <name>OverDriveWorkflowManager</name>
+    <message>
+        <source>Connecting to OverDrive</source>
+        <translation>Đang kết nối với OverDrive</translation>
+    </message>
+    <message>
+        <source>Expired</source>
+        <translation>Đã hết hạn</translation>
+    </message>
+    <message numerus="yes">
+        <source>Expires in %n days</source>
+        <translation>
+            <numerusform>Hết hạn sau %n ngày</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Expiring today</source>
+        <translation>Hết hạn hôm nay</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Để sau</translation>
+    </message>
+    <message>
+        <source>Please try again. If the problem persists, please try using your public library’s website instead, and then sync your eReader.</source>
+        <translation>Vui lòng thử lại. Nếu vẫn gặp sự cố, hãy dùng trang web thư viện công cộng rồi đồng bộ máy đọc sách.</translation>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation>Đồng bộ ngay</translation>
+    </message>
+    <message>
+        <source>Sync required</source>
+        <translation>Cần đồng bộ</translation>
+    </message>
+    <message>
+        <source>There seems to be a problem</source>
+        <translation>Đã xảy ra sự cố</translation>
+    </message>
+    <message>
+        <source>Want to keep reading?</source>
+        <translation>Muốn tiếp tục đọc không?</translation>
+    </message>
+    <message>
+        <source>We've noticed that your date and time settings have been changed. If you wish to continue reading your OverDrive items, please sync your eReader over Wi Fi. </source>
+        <translation>Phát hiện thay đổi ngày giờ. Nếu muốn tiếp tục đọc OverDrive, hãy đồng bộ máy đọc sách qua Wi-Fi. </translation>
+    </message>
+    <message>
+        <source>Your lending period has ended. Request this item again or buy a copy to read at your leisure. </source>
+        <translation>Thời gian mượn đã hết. Hãy mượn lại hoặc mua bản sao để đọc khi rảnh. </translation>
+    </message>
+    <message>
+        <source>Your lending period has ended. Unfortunately this book is no longer available from your Library.</source>
+        <translation>Thời gian mượn đã hết. Cuốn sách không còn có trong thư viện của bạn.</translation>
+    </message>
+    <message>
+        <source>Your lending period has ended. You can buy a copy to continue reading.</source>
+        <translation>Thời gian mượn đã hết. Bạn có thể mua bản sao để tiếp tục đọc.</translation>
+    </message>
+</context>

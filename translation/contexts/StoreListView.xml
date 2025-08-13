@@ -1,0 +1,19 @@
+<context>
+    <name>StoreListView</name>
+    <message>
+        <source>No Results</source>
+        <translation>Không có kết quả</translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>Vui lòng chờ...</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+    <message>
+        <source>Sub-categories</source>
+        <translation>Danh mục phụ</translation>
+    </message>
+</context>

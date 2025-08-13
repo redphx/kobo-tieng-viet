@@ -1,0 +1,19 @@
+<context>
+    <name>WifiReminderDialog</name>
+    <message>
+        <source>Add books directly to your eReader, sync more easily, and get software updates right away when you add a Wi Fi network.</source>
+        <translation>Thêm sách trực tiếp vào máy đọc sách của bạn, đồng bộ dễ dàng hơn và nhận bản cập nhật phần mềm ngay lập tức khi bạn thêm mạng Wi-Fi.</translation>
+    </message>
+    <message>
+        <source>Add Wi Fi network</source>
+        <translation>Thêm mạng Wi-Fi</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Đóng lại</translation>
+    </message>
+    <message>
+        <source>Connect to Wi Fi</source>
+        <translation>Kết nối mạng Wi-Fi</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>MarkupPreviewDialogController</name>
+    <message>
+        <source>Are you sure you want to delete this markup?</source>
+        <translation>Bạn có chắc muốn xóa đánh dấu này không?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Delete markup?</source>
+        <translation>Xóa đánh dấu?</translation>
+    </message>
+</context>

@@ -1,0 +1,27 @@
+<context>
+    <name>BulkMarkAsDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Xác nhận</translation>
+    </message>
+    <message>
+        <source>Mark as finished</source>
+        <translation>Đánh dấu là đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Mark as unread</source>
+        <translation>Đánh dấu là chưa đọc</translation>
+    </message>
+    <message>
+        <source>You haven't read the book and want to remove the current bookmark.</source>
+        <translation>Bạn chưa đọc cuốn sách này và muốn loại bỏ dấu trang.</translation>
+    </message>
+    <message>
+        <source>You've completed this book.</source>
+        <translation>Bạn đã hoàn thành cuốn sách này.</translation>
+    </message>
+</context>

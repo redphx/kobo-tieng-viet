@@ -1,0 +1,31 @@
+<context>
+    <name>OptionalQT6UpgradeDialog</name>
+    <message>
+        <source>Accessibility features</source>
+        <translation>Tính năng Hỗ trợ tiếp cận</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>Enabling these will require a system update. This will delete all files, documents, and custom settings, and some features may be missing at this stage. Find out more at &lt;b&gt;kobo.com/update&lt;/b&gt;.&lt;br&gt;&lt;br&gt;You can revert back later if you change your mind.</source>
+        <translation>Kích hoạt những tính năng này sẽ yêu cầu cập nhật hệ thống. Quá trình này sẽ xóa tất cả file, tài liệu, và cài đặt tùy chỉnh, đồng thời một số tính năng có thể chưa hoàn chỉnh ở giai đoạn này. Tìm hiểu thêm tại &lt;b&gt;kobo.com/update&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Bạn có thể quay lại trạng thái trước nếu thay đổi quyết định.</translation>
+    </message>
+    <message>
+        <source>If you require accessibility support, you now have early access to optional features like Read Aloud (text-to-speech), Display &amp; Text Size (large print), and Screen Reader.&lt;br&gt;&lt;br&gt;Enabling these will require a system update; some features may be missing at this stage. Find out more at &lt;b&gt;kobo.com/update&lt;/b&gt;.&lt;br&gt;&lt;br&gt;You can revert back later if you change your mind.</source>
+        <translation>Nếu bạn cần trợ năng, bạn hiện có quyền truy cập sớm vào các tính năng tùy chọn như Đọc to (chuyển văn bản thành giọng nói), Hiển thị &amp; Kích thước chữ (in to), và Trình đọc màn hình.&lt;br&gt;&lt;br&gt;Kích hoạt các tính năng này sẽ yêu cầu cập nhật hệ thống; một số tính năng có thể chưa hoàn chỉnh ở giai đoạn này. Tìm hiểu thêm tại &lt;b&gt;kobo.com/update&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Bạn có thể quay lại trạng thái trước nếu thay đổi quyết định.</translation>
+    </message>
+    <message>
+        <source>Optional accessibility features</source>
+        <translation>Tính năng Hỗ trợ tiếp cận tùy chọn</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation>Bỏ qua</translation>
+    </message>
+</context>

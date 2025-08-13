@@ -1,0 +1,23 @@
+<context>
+    <name>ChooseSetupTypeController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Network Error</source>
+        <translation>Lỗi mạng</translation>
+    </message>
+    <message>
+        <source>Oops, something happened to your internet connection and we couldn't finish your update. Please check your connection and try again.</source>
+        <translation>Xảy ra vấn đề với kết nối Internet và chúng tôi không thể hoàn thành cập nhật. Hãy kiểm tra kết nối của bạn và thử lại.</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation>Thử lại</translation>
+    </message>
+</context>

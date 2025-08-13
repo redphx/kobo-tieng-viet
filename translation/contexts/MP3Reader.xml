@@ -1,0 +1,15 @@
+<context>
+    <name>MP3Reader</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Oops! This document couldn't be opened.</source>
+        <translation>Úi! Không thể mở tài liệu này.</translation>
+    </message>
+    <message>
+        <source>There might be a problem with the file.</source>
+        <translation>Có thể có vấn đề với file.</translation>
+    </message>
+</context>

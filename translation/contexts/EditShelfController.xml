@@ -1,0 +1,41 @@
+<context>
+    <name>EditShelfController</name>
+    <message numerus="yes">
+        <source>%n book(s) selected</source>
+        <translation>
+            <numerusform>Đã chọn %n cuốn sách</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Add books to collection</source>
+        <translation>Thêm sách vào bộ sưu tập</translation>
+    </message>
+    <message numerus="yes">
+        <source>Adding: %n</source>
+        <translation>
+            <numerusform>Đang thêm: %n</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>Tạo</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>Hoàn tất</translation>
+    </message>
+    <message>
+        <source>Manage collection</source>
+        <translation>Quản lý bộ sưu tập</translation>
+    </message>
+<message numerus="yes">
+        <source>Removing: %n</source>
+        <translation>
+            <numerusform>Đang xóa: %n</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+</context>

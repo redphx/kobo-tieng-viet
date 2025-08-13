@@ -1,0 +1,47 @@
+<context>
+    <name>N3SettingsView</name>
+    <message>
+        <source>About %1</source>
+        <translation>Về %1</translation>
+    </message>
+    <message>
+        <source>Accounts</source>
+        <translation>Tài khoản</translation>
+    </message>
+    <message>
+        <source>Bluetooth connection</source>
+        <translation>Kết nối Bluetooth</translation>
+    </message>
+    <message>
+        <source>Date and time</source>
+        <translation>Ngày và giờ</translation>
+    </message>
+    <message>
+        <source>Device information</source>
+        <translation>Thông tin thiết bị</translation>
+    </message>
+    <message>
+        <source>Language and dictionaries</source>
+        <translation>Ngôn ngữ và từ điển</translation>
+    </message>
+    <message>
+        <source>Manage downloads</source>
+        <translation>Quản lý tải về</translation>
+    </message>
+    <message>
+        <source>OverDrive</source>
+        <translation>OverDrive</translation>
+    </message>
+    <message>
+        <source>Reading settings</source>
+        <translation>Cài đặt lúc đọc</translation>
+    </message>
+    <message>
+        <source>Syncing and updates</source>
+        <translation>Đồng bộ và cập nhật</translation>
+    </message>
+    <message>
+        <source>Wi Fi connection</source>
+        <translation>Kết nối Wi-Fi</translation>
+    </message>
+</context>

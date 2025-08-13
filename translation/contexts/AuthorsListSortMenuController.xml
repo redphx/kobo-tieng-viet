@@ -1,0 +1,23 @@
+<context>
+    <name>AuthorsListSortMenuController</name>
+    <message>
+        <source>First name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Last name</source>
+        <translation>Họ</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Tên</translation>
+    </message>
+    <message>
+        <source>Number of books</source>
+        <translation>Số cuốn sách</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+</context>

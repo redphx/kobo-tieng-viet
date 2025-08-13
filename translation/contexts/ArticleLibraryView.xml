@@ -1,0 +1,43 @@
+<context>
+    <name>ArticleLibraryView</name>
+    <message>
+        <source>Add articles to your Pocket and sync your eReader to start reading.</source>
+        <translation>Thêm bài viết từ tài khoản Pocket của bạn và đồng bộ máy đọc sách để bắt đầu đọc.</translation>
+    </message>
+    <message>
+        <source>Articles from Pocket</source>
+        <translation>Bài viết của tôi từ Pocket</translation>
+    </message>
+    <message>
+        <source>Filter: %0</source>
+        <translation>Lọc: %0</translation>
+    </message>
+    <message>
+        <source>How to add articles</source>
+        <translation>Cách để thêm bài viết</translation>
+    </message>
+    <message>
+        <source>My Articles</source>
+        <translation>Bài viết của tôi</translation>
+    </message>
+    <message>
+        <source>Please wait while we sync your articles...</source>
+        <translation>Xin hãy đợi giây lát, chúng tôi đang đồng bộ bài viết của bạn...</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message>
+        <source>You have no articles in your archive</source>
+        <translation>Bạn không có bài viết lưu trữ nào</translation>
+    </message>
+    <message>
+        <source>You haven’t favourited any articles</source>
+        <translation>Bạn không có bài viết yêu thích nào</translation>
+    </message>
+    <message>
+        <source>Your Pocket is empty</source>
+        <translation>Tài khoản Pocket của bạn đang trống</translation>
+    </message>
+</context>

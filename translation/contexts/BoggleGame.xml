@@ -1,0 +1,39 @@
+<context>
+    <name>BoggleGame</name>
+    <message>
+        <source>GAME OVER</source>
+        <translation>GAME OVER</translation>
+    </message>
+    <message>
+        <source>HIGH SCORES:</source>
+        <translation>ĐIỂM CAO NHẤT:</translation>
+    </message>
+    <message>
+        <source>NO</source>
+        <translation>KHÔNG</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
+    </message>
+    <message>
+        <source>Score: %1 / %2</source>
+        <translation>Điểm: %1 / %2</translation>
+    </message>
+    <message>
+        <source>Want to play again?</source>
+        <translation>Muốn chơi lại không?</translation>
+    </message>
+    <message>
+        <source>Word Scramble</source>
+        <translation>Trộn Từ</translation>
+    </message>
+    <message>
+        <source>Words found: %1 / %2</source>
+        <translation>Số từ tìm được: %1 / %2</translation>
+    </message>
+    <message>
+        <source>YES</source>
+        <translation>CÓ</translation>
+    </message>
+</context>

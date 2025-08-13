@@ -1,0 +1,45 @@
+<context>
+    <name>FacebookWorkflowManager</name>
+    <message>
+        <source>A problem with your network connection
+prevented Facebook from being updated.
+
+Please check your connection and try again.</source>
+        <translation>Lỗi kết nối mạng ngăn Facebook cập nhật.
+
+Vui lòng kiểm tra kết nối và thử lại.</translation>
+    </message>
+    <message>
+        <source>Facebook update
+was successful!</source>
+        <translation>Cập nhật Facebook
+thành công!</translation>
+    </message>
+    <message>
+        <source>Facebook Update Error</source>
+        <translation>Lỗi cập nhật Facebook</translation>
+    </message>
+    <message>
+        <source>No Network Connection</source>
+        <translation>Không có kết nối mạng</translation>
+    </message>
+    <message>
+        <source>Sorry, but there's a limit to how many
+times you can share things on Facebook each
+day, and you've reached your daily limit.
+Feel free to share more tomorrow!</source>
+        <translation>Rất tiếc, bạn có giới hạn số lần chia sẻ
+trên Facebook mỗi ngày và bạn đã đạt giới hạn.
+Hãy chia sẻ thêm vào ngày mai!</translation>
+    </message>
+    <message>
+        <source>Sorry, something is preventing Facebook from
+being updated right now. Please try again later.</source>
+        <translation>Rất tiếc, có sự cố ngăn Facebook
+cập nhật lúc này. Vui lòng thử lại sau.</translation>
+    </message>
+    <message>
+        <source>You've Reached Your Daily Limit</source>
+        <translation>Bạn đã đạt giới hạn hàng ngày</translation>
+    </message>
+</context>

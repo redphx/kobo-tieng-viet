@@ -1,0 +1,11 @@
+<context>
+    <name>PinCodeInputWidget</name>
+    <message>
+        <source>Thank you. Please re-enter&lt;br/&gt;your PIN to confirm.</source>
+        <translation>Cám ơn bạn. Hãy nhập lại&lt;br/&gt;mã PIN để xác nhận.</translation>
+    </message>
+    <message>
+        <source>Your PINs don't match.&lt;br/&gt;Please try again.</source>
+        <translation>Mã PIN không khớp.&lt;br/&gt;Hãy thử lại.</translation>
+    </message>
+</context>

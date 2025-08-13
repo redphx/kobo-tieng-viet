@@ -1,0 +1,11 @@
+<context>
+    <name>ReadingMenuView</name>
+    <message>
+        <source>1x</source>
+        <translation>1x</translation>
+    </message>
+    <message>
+        <source>Back to My Books</source>
+        <translation>Quay về Sách của tôi</translation>
+    </message>
+</context>

@@ -1,0 +1,27 @@
+<context>
+    <name>IInkNoteTypeView</name>
+    <message>
+        <source>A notebook that allows you to write everywhere.</source>
+        <translation>Sổ tay cho phép bạn viết ở mọi nơi.</translation>
+    </message>
+    <message>
+        <source>A notebook that converts handwriting into type, and supports adding free-form sections, diagrams, and equations.</source>
+        <translation>Sổ tay chuyển đổi chữ viết tay thành văn bản và hỗ trợ thêm phần tự do, sơ đồ, và phương trình.</translation>
+    </message>
+    <message>
+        <source>Advanced notebook</source>
+        <translation>Sổ tay nâng cao</translation>
+    </message>
+    <message>
+        <source>Basic notebook</source>
+        <translation>Sổ tay cơ bản</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>Thư mục</translation>
+    </message>
+    <message>
+        <source>Keep your notebooks organized in folders.</source>
+        <translation>Giữ các sổ tay của bạn được sắp xếp trong thư mục.</translation>
+    </message>
+</context>

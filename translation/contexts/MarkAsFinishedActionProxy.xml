@@ -1,0 +1,11 @@
+<context>
+    <name>MarkAsFinishedActionProxy</name>
+    <message>
+        <source>Mark as finished</source>
+        <translation>Đánh dấu là đã hoàn thành</translation>
+    </message>
+    <message>
+        <source>Marked as finished</source>
+        <translation>Đã được đánh dấu là hoàn thành</translation>
+    </message>
+</context>

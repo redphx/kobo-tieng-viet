@@ -1,0 +1,15 @@
+<context>
+    <name>ConvertToPreviewActionProxyWorker</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Please try again. Error:</source>
+        <translation>Please try again. Error:</translation>
+    </message>
+    <message>
+        <source>Something went wrong...</source>
+        <translation>Something went wrong...</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>BluetoothAliasController</name>
+    <message>
+        <source>Bluetooth</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+</context>

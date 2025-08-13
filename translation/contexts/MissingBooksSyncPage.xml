@@ -1,0 +1,15 @@
+<context>
+    <name>MissingBooksSyncPage</name>
+    <message>
+        <source>Step 1. Sync your eReader</source>
+        <translation>Bước 1. Đồng bộ thiết bị của bạn</translation>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation>Đồng bộ ngay</translation>
+    </message>
+    <message>
+        <source>The first step in troubleshooting missing books is to sync. This will download any new purchases or books you’ve recently restored from your Archive on kobo.com.</source>
+        <translation>Bước đầu tiên để khắc phục sự cố sách bị thiếu là đồng bộ. Thao tác này sẽ tải xuống tất cả sách mới hoặc sách bạn vừa khôi phục từ Kho lưu trữ trên kobo.com.</translation>
+    </message>
+</context>

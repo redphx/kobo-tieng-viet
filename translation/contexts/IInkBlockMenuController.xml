@@ -1,0 +1,35 @@
+<context>
+    <name>IInkBlockMenuController</name>
+    <message>
+        <source>Convert</source>
+        <translation>Chuyển đối</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Sao chép</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Sửa</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Hoàn thành</translation>
+    </message>
+    <message>
+        <source>Lasso</source>
+        <translation>Vùng chọn</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Dán</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation>Đổi kích thước</translation>
+    </message>
+</context>

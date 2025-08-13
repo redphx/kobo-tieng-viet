@@ -1,0 +1,39 @@
+<context>
+    <name>RushHourView</name>
+    <message>
+        <source>%1 · Level %2</source>
+        <translation>%1 · Cấp độ %2</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Trợ giúp</translation>
+    </message>
+    <message>
+        <source>Hint</source>
+        <translation>Gợi ý</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Reset</translation>
+    </message>
+    <message>
+        <source>Unblock It</source>
+        <translation>Mở chặn</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>Hoàn tác</translation>
+    </message>
+    <message numerus="yes">
+        <source>You've made
+%n moves</source>
+        <translation>
+            <numerusform>Bạn đã thực hiện
+%n nước đi</numerusform>
+        </translation>
+    </message>
+</context>

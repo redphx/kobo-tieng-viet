@@ -1,0 +1,11 @@
+<context>
+    <name>AudiobooksPage</name>
+    <message>
+        <source>Audiobooks are an easy way to fit more reading into your life. Find audiobooks in the %1, and listen with your headphones, car stereo, or speaker equipped with Bluetooth® wireless technology.</source>
+        <translation>Sách nói là cách dễ dàng để thêm nhiều thời gian đọc hơn vào cuộc sống của bạn. Tìm sách nói trong %1 và nghe qua tai nghe, dàn âm thanh xe hơi hoặc loa có công nghệ Bluetooth® không dây.</translation>
+    </message>
+    <message>
+        <source>Listen to %1 Audiobooks</source>
+        <translation>Nghe %1 sách nói</translation>
+    </message>
+</context>

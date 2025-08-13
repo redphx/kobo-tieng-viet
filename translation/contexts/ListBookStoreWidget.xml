@@ -1,0 +1,19 @@
+<context>
+    <name>ListBookStoreWidget</name>
+    <message>
+        <source>&lt;i&gt;Read more&lt;/i&gt;</source>
+        <translation>&lt;i&gt;Đọc thêm&lt;/i&gt;</translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation>Mẫu</translation>
+    </message>
+    <message>
+        <source>No synopsis available for this item.</source>
+        <translation>Không có tóm tắt cho mục này.</translation>
+    </message>
+    <message>
+        <source>WAS &lt;a style='text-decoration:line-through;'&gt;%1&lt;/a&gt;</source>
+        <translation>ĐÃ LÀ &lt;a style='text-decoration:line-through;'&gt;%1&lt;/a&gt;</translation>
+    </message>
+</context>

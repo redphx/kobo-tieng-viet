@@ -1,0 +1,15 @@
+<context>
+    <name>FTEParentalControlsView</name>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Set parental controls</source>
+        <translation>Thiết lập kiểm soát của phụ huynh</translation>
+    </message>
+    <message>
+        <source>You can also set controls later in &lt;b&gt;More - Settings - Accounts.&lt;/b&gt;</source>
+        <translation>Bạn cũng có thể thiết lập kiểm soát sau tại &lt;b&gt;Thêm - Cài đặt - Tài khoản.&lt;/b&gt;</translation>
+    </message>
+</context>

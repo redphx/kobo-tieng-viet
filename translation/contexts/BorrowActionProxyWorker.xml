@@ -1,0 +1,31 @@
+<context>
+    <name>BorrowActionProxyWorker</name>
+    <message>
+        <source>Please contact %1 directly for more details.</source>
+        <translation>Vui lòng liên hệ trực tiếp với %1 để biết thêm chi tiết.</translation>
+    </message>
+    <message>
+        <source>Sorry, you can't borrow any more books right now</source>
+        <translation>Rất tiếc, bạn không thể mượn thêm sách lúc này</translation>
+    </message>
+    <message>
+        <source>There seems to be a problem with your library card</source>
+        <translation>Thẻ thư viện của bạn có vẻ đang gặp sự cố</translation>
+    </message>
+    <message>
+        <source>This book is not currently available from your library</source>
+        <translation>Cuốn sách này hiện không có sẵn tại thư viện của bạn</translation>
+    </message>
+    <message>
+        <source>You currently have this book checked out from %1.</source>
+        <translation>Hiện bạn đang mượn cuốn sách này từ %1.</translation>
+    </message>
+    <message>
+        <source>You've already checked this book out</source>
+        <translation>Bạn đã mượn cuốn sách này rồi</translation>
+    </message>
+    <message>
+        <source>You've reached the maximum number of items that you can borrow at a time. Please contact %1 directly for more details.</source>
+        <translation>Bạn đã đạt giới hạn số sách có thể mượn cùng lúc. Vui lòng liên hệ trực tiếp với %1 để biết thêm chi tiết.</translation>
+    </message>
+</context>

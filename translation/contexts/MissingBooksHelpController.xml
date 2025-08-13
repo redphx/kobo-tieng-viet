@@ -1,0 +1,11 @@
+<context>
+    <name>MissingBooksHelpController</name>
+    <message>
+        <source>Are you sure you want to sign out?</source>
+        <translation>Bạn có chắc muốn đăng xuất không?</translation>
+    </message>
+    <message>
+        <source>Troubleshooting missing books</source>
+        <translation>Khắc phục sự cố sách bị thiếu</translation>
+    </message>
+</context>

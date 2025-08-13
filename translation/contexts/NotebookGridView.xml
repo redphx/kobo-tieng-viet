@@ -1,0 +1,11 @@
+<context>
+    <name>NotebookGridView</name>
+    <message>
+        <source>My Notebooks</source>
+        <translation>Sổ tay của tôi</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+</context>

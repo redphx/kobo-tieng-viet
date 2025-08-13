@@ -1,0 +1,11 @@
+<context>
+    <name>KepubBookReader</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Oops! This document couldn't be opened</source>
+        <translation>Úi! Không thể mở tài liệu này</translation>
+    </message>
+</context>

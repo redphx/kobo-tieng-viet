@@ -1,0 +1,95 @@
+<context>
+    <name>N3SettingsDeviceInformationView</name>
+    <message>
+        <source>%1 GB of %2 GB available</source>
+        <translation>%1 GB trong tổng %2 GB còn trống</translation>
+    </message>
+    <message>
+        <source>ADVANCED</source>
+        <translation>NÂNG CAO</translation>
+    </message>
+    <message>
+        <source>Check for updates</source>
+        <translation>Kiểm tra cập nhật</translation>
+    </message>
+    <message>
+        <source>Factory reset</source>
+        <translation>Khôi phục cài đặt gốc</translation>
+    </message>
+    <message>
+        <source>Factory reset your eReader:</source>
+        <translation>Khôi phục cài đặt gốc thiết bị của bạn:</translation>
+    </message>
+    <message>
+        <source>Firmware information:</source>
+        <translation>Thông tin về phần mềm cơ sở:</translation>
+    </message>
+    <message>
+        <source>HARDWARE DETAILS</source>
+        <translation>CHI TIẾT PHẦN CỨNG</translation>
+    </message>
+    <message>
+        <source>IP address:</source>
+        <translation>Địa chỉ IP:</translation>
+    </message>
+    <message>
+        <source>Legal:</source>
+        <translation>Pháp lý:</translation>
+    </message>
+    <message>
+        <source>MAC address:</source>
+        <translation>Địa chỉ MAC:</translation>
+    </message>
+    <message>
+        <source>Onboard storage:</source>
+        <translation>Bộ nhớ trong:</translation>
+    </message>
+    <message>
+        <source>Repair</source>
+        <translation>Sửa</translation>
+    </message>
+    <message>
+        <source>Repair your account</source>
+        <translation>Sửa tài khoản của bạn</translation>
+    </message>
+    <message>
+        <source>Repair your Kobo account:</source>
+        <translation>Sửa tài khoản Kobo của bạn:</translation>
+    </message>
+    <message>
+        <source>Serial number:</source>
+        <translation>Số sê-ri:</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>SOFTWARE DETAILS</source>
+        <translation>CHI TIẾT PHẦN MỀM</translation>
+    </message>
+    <message>
+        <source>Software version:</source>
+        <translation>Phiên bản phần mềm:</translation>
+    </message>
+    <message>
+        <source>Update check:</source>
+        <translation>Kiểm tra cập nhật:</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Xem</translation>
+    </message>
+    <message>
+        <source>View release notes</source>
+        <translation>Xem ghi chú phát hành</translation>
+    </message>
+    <message>
+        <source>Warranty:</source>
+        <translation>Bảo hành:</translation>
+    </message>
+    <message>
+        <source>What's new:</source>
+        <translation>Có gì mới:</translation>
+    </message>
+</context>

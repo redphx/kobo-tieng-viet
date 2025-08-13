@@ -1,0 +1,73 @@
+<context>
+    <name>FTEUpgradeController</name>
+    <message>
+        <source>%1% complete</source>
+        <translation>%1% hoàn thành</translation>
+    </message>
+    <message>
+        <source>0% complete</source>
+        <translation>0% hoàn thành</translation>
+    </message>
+    <message>
+        <source>Applying update</source>
+        <translation>Đang áp dụng bản cập nhật</translation>
+    </message>
+    <message>
+        <source>Cancel Wi Fi setup?</source>
+        <translation>Hủy thiết lập Wi-Fi?</translation>
+    </message>
+    <message>
+        <source>Checking for updates</source>
+        <translation>Đang kiểm tra các bản cập nhật</translation>
+    </message>
+    <message>
+        <source>Connecting...</source>
+        <translation>Đang kết nối...</translation>
+    </message>
+    <message>
+        <source>Downloading update</source>
+        <translation>Đang tải xuống cập nhật</translation>
+    </message>
+    <message>
+        <source>If you choose to cancel, you'll return to the beginning of the setup process.</source>
+        <translation>Nếu bạn chọn hủy bỏ, bạn sẽ quay trở lại đầu quá trình cài đặt.</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message numerus="yes">
+        <source>Please be patient. About %n minute(s) remaining.</source>
+        <translation>
+            <numerusform>Xin hãy chờ. Còn khoảng %n phút nữa.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Please be patient. Less than a minute remaining.</source>
+        <translation>Gần xong rồi. Còn chưa đầy một phút nữa.</translation>
+    </message>
+    <message>
+        <source>Please be patient. This may take a moment.</source>
+        <translation>Xin hãy kiên nhẫn. Quá trình có thể mất một chút thời gian.</translation>
+    </message>
+    <message>
+        <source>Preparing update</source>
+        <translation>Đang chuẩn bị cập nhật</translation>
+    </message>
+    <message>
+        <source>Processing...</source>
+        <translation>Đang thực hiện...</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+    <message>
+        <source>Your eReader is up to date!</source>
+        <translation>Thiết bị của bạn đã được cập nhật!</translation>
+    </message>
+    <message>
+        <source>Your eReader will restart momentarily.</source>
+        <translation>Thiết bị của bạn sẽ khởi động lại trong giây lát.</translation>
+    </message>
+</context>

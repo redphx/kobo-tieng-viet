@@ -1,0 +1,35 @@
+<context>
+    <name>OverDriveBorrowThankYouView</name>
+    <message>
+        <source>&lt;i&gt;%0&lt;/i&gt; will be downloaded to your eReader. Your loan of this item expires on %1.</source>
+        <translation>&lt;i&gt;%0&lt;/i&gt; sẽ được tải xuống máy đọc sách của bạn. Thời hạn mượn mục này kết thúc vào %1.</translation>
+    </message>
+    <message>
+        <source>Go to Books</source>
+        <translation>Đi tới Sách</translation>
+    </message>
+    <message>
+        <source>Go to Holds</source>
+        <translation>Đi tới phần Đặt chỗ</translation>
+    </message>
+    <message>
+        <source>Need to change email?</source>
+        <translation>Cần thay đổi email?</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+    <message>
+        <source>You've checked out an item!</source>
+        <translation>Bạn đã mượn một mục!</translation>
+    </message>
+    <message>
+        <source>You've placed &lt;i&gt;%0&lt;/i&gt; on hold with your library. We'll send an email to &lt;b&gt;%1&lt;/b&gt; when it becomes available.</source>
+        <translation>Bạn đã đặt chỗ &lt;i&gt;%0&lt;/i&gt; tại thư viện. Chúng tôi sẽ gửi email tới &lt;b&gt;%1&lt;/b&gt; khi sẵn sàng.</translation>
+    </message>
+    <message>
+        <source>You've placed an item on hold</source>
+        <translation>Bạn đã đặt chỗ cho một mục</translation>
+    </message>
+</context>

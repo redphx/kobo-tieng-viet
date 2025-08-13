@@ -1,0 +1,47 @@
+<context>
+    <name>N3SettingsWirelessView</name>
+    <message>
+        <source>Connect</source>
+        <translation>Kết nối</translation>
+    </message>
+    <message>
+        <source>Disabling Wi Fi prevents your eReader from connecting to the Internet automatically.</source>
+        <translation>Việc tắt Wi-Fi sẽ ngăn máy đọc sách của bạn tự động kết nối với Internet.</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Chỉnh sửa</translation>
+    </message>
+    <message>
+        <source>Edit Wi Fi networks:</source>
+        <translation>Chỉnh sửa mạng Wi-Fi:</translation>
+    </message>
+    <message>
+        <source>Join a Wi Fi network:</source>
+        <translation>Kết nối một mạng Wi-Fi:</translation>
+    </message>
+    <message>
+        <source>NETWORKS</source>
+        <translation>MẠNG</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>OPTIONS</source>
+        <translation>TUỲ CHỌN</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>Whenever you connect to a network, it becomes a known network. These networks are automatically used to connect to the Internet when they are in range.</source>
+        <translation>Bất cứ khi nào bạn kết nối với một mạng, nó sẽ trở thành một mạng đã biết. Các mạng này tự động được sử dụng để kết nối Internet khi chúng ở trong phạm vi phủ sóng.</translation>
+    </message>
+    <message>
+        <source>Wi Fi:</source>
+        <translation>Wi-Fi:</translation>
+    </message>
+</context>

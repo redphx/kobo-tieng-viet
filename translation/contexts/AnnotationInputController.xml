@@ -1,0 +1,19 @@
+<context>
+    <name>AnnotationInputController</name>
+    <message>
+        <source>Bookmark: %1% into chapter</source>
+        <translation>Dấu trang: %1% trong chương</translation>
+    </message>
+    <message>
+        <source>Edit Note</source>
+        <translation>Chỉnh sửa ghi chú</translation>
+    </message>
+    <message>
+        <source>Note saved successfully</source>
+        <translation>Đã lưu ghi chú</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+</context>

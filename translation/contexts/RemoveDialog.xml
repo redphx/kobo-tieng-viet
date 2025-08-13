@@ -1,0 +1,39 @@
+<context>
+    <name>RemoveDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Loại bỏ</translation>
+    </message>
+    <message>
+        <source>Remove downloads</source>
+        <translation>Xóa các mục tải về</translation>
+    </message>
+    <message>
+        <source>Remove from My Books</source>
+        <translation>Loại bỏ khỏi Sách của tôi</translation>
+    </message>
+    <message>
+        <source>You can re-download these items any time.</source>
+        <translation>Bạn có thể tải lại các mục này bất kỳ lúc nào.</translation>
+    </message>
+    <message>
+        <source>You can re-download these items at any time.</source>
+        <translation>Bạn có thể tải lại các mục này bất kỳ lúc nào.</translation>
+    </message>
+    <message>
+        <source>You can restore these items by changing their sync setting on the Rakuten website.</source>
+        <translation>Bạn có thể khôi phục các mục này bằng cách thay đổi cài đặt đồng bộ của chúng trên trang web Rakuten.</translation>
+    </message>
+    <message>
+        <source>You can restore these items on kobo.com from your Archive.</source>
+        <translation>Bạn có thể khôi phục các mục này trên kobo.com từ kho lưu trữ của mình.</translation>
+    </message>
+    <message>
+        <source>You'll need to re-import this item to your eReader to read it again.</source>
+        <translation>Bạn sẽ cần nhập lại mục này vào máy đọc sách của mình để đọc lại.</translation>
+    </message>
+</context>

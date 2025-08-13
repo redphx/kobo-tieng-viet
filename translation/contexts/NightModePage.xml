@@ -1,0 +1,31 @@
+<context>
+    <name>NightModePage</name>
+    <message>
+        <source>%1 adjusts the screen’s light colour according to the time of day, which can help you fall asleep more easily if you read before bed.</source>
+        <translation>%1 điều chỉnh màu ánh sáng của màn hình theo thời gian trong ngày, điều này có thể giúp bạn dễ ngủ hơn nếu đọc trước khi đi ngủ.</translation>
+    </message>
+    <message>
+        <source>Go easy on your eyes</source>
+        <translation>Giúp mắt bạn dễ nhìn</translation>
+    </message>
+    <message>
+        <source>Read at night</source>
+        <translation>Đọc vào ban đêm</translation>
+    </message>
+    <message>
+        <source>Tap the center of the screen, then the light icon, to adjust the brightness to your preferred level.</source>
+        <translation>Nhấn vào giữa màn hình, sau đó nhấn vào biểu tượng ánh sáng, để điều chỉnh độ sáng đến mức bạn muốn.</translation>
+    </message>
+    <message>
+        <source>To turn on the light, press the button next to the power slider. Tap the &lt;img src="%1" /&gt; light icon on the screen to adjust brightness. Press the button again to turn the light off.</source>
+        <translation>Để bật đèn, nhấn nút bên cạnh thanh trượt nguồn. Nhấn vào biểu tượng đèn &lt;img src="%1" /&gt; trên màn hình để điều chỉnh độ sáng. Nhấn nút một lần nữa để tắt đèn.</translation>
+    </message>
+    <message>
+        <source>While reading, scroll up or down on the left side of the screen to adjust the brightness to your preferred level.</source>
+        <translation>Trong khi đọc, vuốt lên hoặc xuống ở phía bên trái của màn hình để điều chỉnh độ sáng ở mức bạn muốn.</translation>
+    </message>
+    <message>
+        <source>Your eReader senses how much light is available, and will automatically adjust the brightness level for you. %1 also adjusts the screen's light colour according to the time of day, which can help you fall asleep more easily if you read before bed.</source>
+        <translation>Máy đọc sách của bạn cảm nhận được lượng ánh sáng hiện có và sẽ tự động điều chỉnh mức độ sáng cho bạn. %1 cũng điều chỉnh màu sáng của màn hình theo thời gian trong ngày, giúp bạn dễ ngủ hơn nếu đọc trước khi đi ngủ.</translation>
+    </message>
+</context>

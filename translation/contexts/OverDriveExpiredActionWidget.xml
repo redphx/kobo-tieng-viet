@@ -1,0 +1,15 @@
+<context>
+    <name>OverDriveExpiredActionWidget</name>
+    <message>
+        <source>Borrow</source>
+        <translation>Mượn</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Mua ngay</translation>
+    </message>
+    <message>
+        <source>Save preview</source>
+        <translation>Lưu bản xem trước</translation>
+    </message>
+</context>

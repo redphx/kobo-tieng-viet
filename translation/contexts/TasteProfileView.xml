@@ -1,0 +1,15 @@
+<context>
+    <name>TasteProfileView</name>
+    <message>
+        <source>0 results found.</source>
+        <translation>0 kết quả được tìm thấy.</translation>
+    </message>
+    <message>
+        <source>Please try a different search term.</source>
+        <translation>Vui lòng thử một cụm từ tìm kiếm khác.</translation>
+    </message>
+    <message>
+        <source>See another question</source>
+        <translation>Xem câu hỏi khác</translation>
+    </message>
+</context>

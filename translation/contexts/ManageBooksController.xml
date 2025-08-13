@@ -1,0 +1,37 @@
+<context>
+    <name>ManageBooksController</name>
+    <message numerus="yes">
+        <source>%n book(s) added to %1.</source>
+        <translation>
+            <numerusform>%n cuốn sách được thêm vào %1.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n book(s) marked as finished.</source>
+        <translation>
+            <numerusform>%n cuốn sách được đánh dấu là đã đọc.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n book(s) marked as unread.</source>
+        <translation>
+            <numerusform>%n cuốn sách được đánh dấu là chưa đọc.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n book(s) removed.</source>
+        <translation>
+            <numerusform>%n cuốn sách bị loại bỏ.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n download(s) removed.</source>
+        <translation>
+            <numerusform>%n file tải xuống bị loại bỏ.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Manage Books</source>
+        <translation>Quản lý sách</translation>
+    </message>
+</context>

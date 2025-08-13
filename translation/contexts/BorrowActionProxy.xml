@@ -1,0 +1,19 @@
+<context>
+    <name>BorrowActionProxy</name>
+    <message>
+        <source>Borrow</source>
+        <translation>Mượn</translation>
+    </message>
+    <message>
+        <source>Borrow Now</source>
+        <translation>Mượn ngay</translation>
+    </message>
+    <message>
+        <source>Borrow with OverDrive</source>
+        <translation>Mượn với OverDrive</translation>
+    </message>
+    <message>
+        <source>Request again</source>
+        <translation>Gửi lại yêu cầu</translation>
+    </message>
+</context>

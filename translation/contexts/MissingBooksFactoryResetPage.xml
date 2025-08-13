@@ -1,0 +1,15 @@
+<context>
+    <name>MissingBooksFactoryResetPage</name>
+    <message>
+        <source>Factory reset</source>
+        <translation>Khôi phục cài đặt gốc</translation>
+    </message>
+    <message>
+        <source>If syncing and repairing your account don't help, try resetting your eReader to its factory default state. After resetting, set up your eReader and sign in again for a fresh start.</source>
+        <translation>Nếu đồng bộ và sửa tài khoản không giúp được, hãy thử khôi phục máy đọc sách về trạng thái mặc định. Sau khi khôi phục, thiết lập lại máy và đăng nhập để bắt đầu mới.</translation>
+    </message>
+    <message>
+        <source>Step 4. Factory reset your eReader</source>
+        <translation>Bước 4. Khôi phục cài đặt gốc máy đọc sách</translation>
+    </message>
+</context>

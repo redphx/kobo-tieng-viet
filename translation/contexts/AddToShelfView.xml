@@ -1,0 +1,23 @@
+<context>
+    <name>AddToShelfView</name>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+    <message>
+        <source>Sort: Collection name</source>
+        <translation>Sắp xếp: Tên bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Sort: Date created</source>
+        <translation>Sắp xếp: Ngày tạo</translation>
+    </message>
+    <message>
+        <source>Sort: Number of books</source>
+        <translation>Sắp xếp: Số lượng sách</translation>
+    </message>
+    <message>
+        <source>Sort: Recent</source>
+        <translation>Sắp xếp: Gần đây</translation>
+    </message>
+</context>

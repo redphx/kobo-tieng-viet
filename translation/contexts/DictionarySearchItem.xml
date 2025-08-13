@@ -1,0 +1,19 @@
+<context>
+    <name>DictionarySearchItem</name>
+    <message>
+        <source>Manage dictionaries</source>
+        <translation>Quản lý từ điển</translation>
+    </message>
+    <message>
+        <source>No definition found.</source>
+        <translation>Không tìm thấy định nghĩa.</translation>
+    </message>
+    <message>
+        <source>Try another language or tap the search button to refine your term.</source>
+        <translation>Thử ngôn ngữ khác hoặc chọn nút tìm kiếm để nhập lại.</translation>
+    </message>
+    <message>
+        <source>You don't have the %1 dictionary installed. To add one to your eReader, tap Manage Dictionaries.</source>
+        <translation>Bạn chưa cài đặt từ điển %1. Để thêm từ điển, chọn Quản lý từ điển.</translation>
+    </message>
+</context>

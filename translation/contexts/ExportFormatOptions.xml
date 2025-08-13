@@ -1,0 +1,51 @@
+<context>
+    <name>ExportFormatOptions</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Xuất</translation>
+    </message>
+    <message>
+        <source>Export Notebook</source>
+        <translation>Xuất sổ tay</translation>
+    </message>
+    <message>
+        <source>Export Notebook Page</source>
+        <translation>Xuất trang sổ tay</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation>HTML</translation>
+    </message>
+    <message>
+        <source>JPEG</source>
+        <translation>JPEG</translation>
+    </message>
+    <message>
+        <source>JPEG (zipped folder)</source>
+        <translation>JPEG (thư mục nén)</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation>PDF</translation>
+    </message>
+    <message>
+        <source>PNG</source>
+        <translation>PNG</translation>
+    </message>
+    <message>
+        <source>PNG (zipped folder)</source>
+        <translation>PNG (thư mục nén)</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Văn bản</translation>
+    </message>
+    <message>
+        <source>Word (.docx)</source>
+        <translation>Word (.docx)</translation>
+    </message>
+</context>

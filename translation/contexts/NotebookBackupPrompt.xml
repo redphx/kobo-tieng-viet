@@ -1,0 +1,35 @@
+<context>
+    <name>NotebookBackupPrompt</name>
+    <message>
+        <source>Back up notebooks</source>
+        <translation>Sao lưu sổ tay</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Xác nhận</translation>
+    </message>
+    <message>
+        <source>Notebook Auto-Sync &amp; Backup</source>
+        <translation>Tự động đồng bộ và sao lưu sổ tay</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation>Tắt</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>You can also change this in Settings &gt; Syncing and Updates.</source>
+        <translation>Bạn cũng có thể thay đổi điều này trong Cài đặt &gt; Đồng bộ và cập nhật.</translation>
+    </message>
+    <message>
+        <source>Your notebooks can now automatically sync and backup to your account.</source>
+        <translation>Sổ tay của bạn giờ đây có thể tự động đồng bộ và sao lưu vào tài khoản của bạn.</translation>
+    </message>
+    <message>
+        <source>Your notebooks can now automatically sync and backup to your Kobo account.</source>
+        <translation>Sổ tay của bạn giờ đây có thể tự động đồng bộ và sao lưu vào tài khoản Kobo của bạn.</translation>
+    </message>
+</context>

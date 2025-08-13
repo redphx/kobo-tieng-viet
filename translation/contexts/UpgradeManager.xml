@@ -1,0 +1,63 @@
+<context>
+    <name>UpgradeManager</name>
+    <message>
+        <source>A new version of your eReader's software is ready to be installed.</source>
+        <translation>Phiên bản mới của phần mềm máy đọc sách đã sẵn sàng cài đặt.</translation>
+    </message>
+    <message>
+        <source>Battery too low to install update</source>
+        <translation>Pin quá yếu để cài đặt bản cập nhật</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Tải xuống</translation>
+    </message>
+    <message>
+        <source>In order to complete this sync, a new version of your eReader's software must be installed.</source>
+        <translation>Để hoàn tất đồng bộ, bạn phải cài đặt phiên bản mới của phần mềm máy đọc sách.</translation>
+    </message>
+    <message>
+        <source>In order to update your software, your battery must be above %1%. Please connect your eReader to a power source.</source>
+        <translation>Để cập nhật phần mềm của bạn, lượng pin phải trên %1%. Vui lòng kết nối máy đọc sách với nguồn điện.</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Please remove some books or dictionaries to make space for this update to complete.</source>
+        <translation>Vui lòng xóa một số sách hoặc từ điển để đủ chỗ cho bản cập nhật này hoàn tất.</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation>Bỏ qua</translation>
+    </message>
+    <message>
+        <source>Unable to complete update</source>
+        <translation>Không thể hoàn thành cập nhật</translation>
+    </message>
+    <message>
+        <source>Update available</source>
+        <translation>Có bản cập nhật</translation>
+    </message>
+    <message>
+        <source>Update later</source>
+        <translation>Cập nhật sau</translation>
+    </message>
+    <message>
+        <source>Update now</source>
+        <translation>Cập nhật ngay</translation>
+    </message>
+    <message>
+        <source>Update ready</source>
+        <translation>Cập nhật sẵn sàng</translation>
+    </message>
+    <message>
+        <source>Update required</source>
+        <translation>Cần cập nhật</translation>
+    </message>
+    <message>
+        <source>Your %1 eReader works best when software is up to date. Find out &lt;i&gt;&lt;a href='openReleaseNotes'&gt;What's New&lt;/a&gt;&lt;/i&gt;.</source>
+        <translation>Máy đọc sách %1 của bạn hoạt động tốt nhất khi phần mềm được cập nhật. Tìm hiểu &lt;i&gt;&lt;a href='openReleaseNotes'&gt;Có gì mới&lt;/a&gt;&lt;/i&gt;.</translation>
+    </message>
+</context>

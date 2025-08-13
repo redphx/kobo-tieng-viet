@@ -1,0 +1,11 @@
+<context>
+    <name>BookReviewAndRatingWidget</name>
+    <message>
+        <source>Did you enjoy reading?</source>
+        <translation>Bạn thích sách này chứ?</translation>
+    </message>
+    <message>
+        <source>Write a review</source>
+        <translation>Viết đánh giá</translation>
+    </message>
+</context>

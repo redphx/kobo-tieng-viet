@@ -1,0 +1,23 @@
+<context>
+    <name>ReturnActionProxy</name>
+    <message>
+        <source>Not now</source>
+        <translation>Không phải bây giờ</translation>
+    </message>
+    <message>
+        <source>Return</source>
+        <translation>Trả lại</translation>
+    </message>
+    <message>
+        <source>Return early?</source>
+        <translation>Trả lại sớm?</translation>
+    </message>
+    <message>
+        <source>Return this item early to make it available for other readers, or to make room if you've reached your checkout limit.</source>
+        <translation>Trả lại mục này sớm để người đọc khác có thể sử dụng hoặc để giải phóng chỗ nếu bạn đã đạt giới hạn mượn sách.</translation>
+    </message>
+    <message>
+        <source>Thank you for returning this item.</source>
+        <translation>Cảm ơn bạn đã trả lại mục này.</translation>
+    </message>
+</context>

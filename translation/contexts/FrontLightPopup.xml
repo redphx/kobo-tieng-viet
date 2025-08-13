@@ -1,0 +1,23 @@
+<context>
+    <name>FrontLightPopup</name>
+    <message>
+        <source>Auto</source>
+        <translation>Tự động</translation>
+    </message>
+    <message>
+        <source>Bedtime:</source>
+        <translation>Giờ đi ngủ:</translation>
+    </message>
+    <message>
+        <source>Brightness</source>
+        <translation>Độ sáng</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>Natural light</source>
+        <translation>Ánh sáng tự nhiên</translation>
+    </message>
+</context>

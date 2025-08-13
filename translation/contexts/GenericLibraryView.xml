@@ -1,0 +1,15 @@
+<context>
+    <name>GenericLibraryView</name>
+    <message>
+        <source>%1 - %2 of %L3 items</source>
+        <translation>%1 - %2 của %L3 file</translation>
+    </message>
+    <message>
+        <source>%L1 items</source>
+        <translation>%L1 file</translation>
+    </message>
+    <message>
+        <source>1 item</source>
+        <translation>1 file</translation>
+    </message>
+</context>

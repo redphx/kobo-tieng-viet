@@ -1,0 +1,23 @@
+<context>
+    <name>NewN3EndOfBookView</name>
+    <message>
+        <source>Avg. minutes per session</source>
+        <translation>Số phút trung bình mỗi phần</translation>
+    </message>
+    <message>
+        <source>Avg. pages per minute</source>
+        <translation>Số trang trung bình mỗi phút</translation>
+    </message>
+    <message>
+        <source>Hours of reading</source>
+        <translation>Số giờ đọc</translation>
+    </message>
+    <message>
+        <source>Reading Settings</source>
+        <translation>Cài đặt lúc đọc</translation>
+    </message>
+    <message>
+        <source>You've Finished</source>
+        <translation>Bạn đã hoàn thành</translation>
+    </message>
+</context>

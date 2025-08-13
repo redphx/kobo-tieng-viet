@@ -1,0 +1,73 @@
+<context>
+    <name>N3SettingsLibraryView</name>
+    <message numerus="yes">
+        <source>%n ITEM(S)</source>
+        <translation>
+            <numerusform>%n MỤC</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>ARTICLE MANAGEMENT</source>
+        <translation>QUẢN LÝ BÀI VIẾT</translation>
+    </message>
+    <message>
+        <source>BOOK MANAGEMENT</source>
+        <translation>QUẢN LÝ SÁCH</translation>
+    </message>
+    <message>
+        <source>Downloaded %1 books</source>
+        <translation>Đã tải xuống %1 sách</translation>
+    </message>
+    <message>
+        <source>Downloaded Dropbox books</source>
+        <translation>Sách đã tải xuống từ Dropbox</translation>
+    </message>
+    <message>
+        <source>Downloaded Google Drive books</source>
+        <translation>Sách đã tải xuống từ Google Drive</translation>
+    </message>
+    <message>
+        <source>Downloaded Kobo books</source>
+        <translation>Sách đã tải xuống từ Kobo</translation>
+    </message>
+    <message>
+        <source>Downloaded Pocket articles</source>
+        <translation>Bài viết đã tải xuống từ Pocket</translation>
+    </message>
+    <message>
+        <source>Downloaded previews</source>
+        <translation>Xem trước được tải xuống</translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation>Biểu mẫu</translation>
+    </message>
+    <message>
+        <source>Imported items</source>
+        <translation>Các mục đã nhập</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>Once you’ve marked a %1 book as finished, remove the download from your eReader to free up space:</source>
+        <translation>Sau khi bạn đánh dấu cuốn sách %1 là đã hoàn tất, hãy xóa bản tải xuống khỏi máy đọc sách của bạn để giải phóng dung lượng:</translation>
+    </message>
+    <message>
+        <source>Once you’ve marked a Kobo book as finished, remove the download from your eReader to free up space:</source>
+        <translation>Sau khi bạn đánh dấu sách Kobo là đã hoàn tất, hãy xóa nội dung tải xuống khỏi máy đọc sách của bạn để giải phóng dung lượng:</translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation>Xóa tất cả</translation>
+    </message>
+    <message>
+        <source>Remove Pocket articles from this eReader when you archive them:</source>
+        <translation>Xóa các bài viết trên Pocket khỏi eReader này khi bạn lưu trữ chúng:</translation>
+    </message>
+    <message>
+        <source>Sketches</source>
+        <translation>Bản phác thảo</translation>
+    </message>
+</context>

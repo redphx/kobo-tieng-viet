@@ -1,0 +1,15 @@
+<context>
+    <name>MissingBooksRepairPage</name>
+    <message>
+        <source>If you're signed into the correct account and the issue persists, try repairing it. This refreshes all of your books. If you have a lot of books, this may take a while.</source>
+        <translation>Nếu bạn đã đăng nhập đúng tài khoản và sự cố vẫn tiếp diễn, hãy thử sửa chữa. Điều này làm mới tất cả sách của bạn. Nếu bạn có nhiều sách, quá trình này có thể mất thời gian.</translation>
+    </message>
+    <message>
+        <source>Repair account</source>
+        <translation>Sửa tài khoản</translation>
+    </message>
+    <message>
+        <source>Step 3. Repair your account</source>
+        <translation>Bước 3. Sửa tài khoản của bạn</translation>
+    </message>
+</context>

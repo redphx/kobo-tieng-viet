@@ -1,0 +1,19 @@
+<context>
+    <name>AnnotationDetailsController</name>
+    <message>
+        <source>%1 · %2% INTO CHAPTER · %3</source>
+        <translation>%1 · %2% TRONG CHƯƠNG · %3</translation>
+    </message>
+    <message>
+        <source>Bookmark: %1% into chapter</source>
+        <translation>Dấu trang: %1% trong chương</translation>
+    </message>
+    <message>
+        <source>Created: %1</source>
+        <translation>Đã tạo: %1</translation>
+    </message>
+    <message>
+        <source>Updated: %1</source>
+        <translation>Đã cập nhật: %1</translation>
+    </message>
+</context>

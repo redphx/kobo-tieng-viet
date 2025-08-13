@@ -1,0 +1,87 @@
+<context>
+    <name>WirelessWorkflowManager</name>
+    <message>
+        <source>Can't connect</source>
+        <translation>Không thể kết nối</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Cancel Sync?</source>
+        <translation>Hủy đồng bộ?</translation>
+    </message>
+    <message>
+        <source>Connect</source>
+        <translation>Kết nối</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Go back</source>
+        <translation>Quay lại</translation>
+    </message>
+    <message>
+        <source>Hotspot detected</source>
+        <translation>Phát hiện điểm truy cập</translation>
+    </message>
+    <message>
+        <source>It looks like kobo.com or your Internet connection is currently unavailable.&lt;br&gt;&lt;br&gt;Would you like to retry?</source>
+        <translation>Có vẻ như kobo.com hoặc kết nối Internet của bạn hiện không khả dụng.&lt;br&gt;&lt;br&gt;Bạn có muốn thử lại không?</translation>
+    </message>
+    <message>
+        <source>It looks like the network you have selected is a public hotspot.
+
+Would you like to continue?</source>
+        <translation>Có vẻ mạng bạn chọn là điểm phát sóng công cộng.
+
+Bạn có muốn tiếp tục không?</translation>
+    </message>
+    <message>
+        <source>Low Battery</source>
+        <translation>Pin yếu</translation>
+    </message>
+    <message>
+        <source>Network Error</source>
+        <translation>Lỗi mạng</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>ĐỒNG Ý</translation>
+    </message>
+    <message>
+        <source>Oops, something happened to your internet connection. Please check your connection and try again.</source>
+        <translation>Rất tiếc, kết nối Internet của bạn gặp sự cố. Vui lòng kiểm tra và thử lại.</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>Thử lại</translation>
+    </message>
+    <message>
+        <source>Turning off Wi-Fi will stop your eReader from syncing. Do you want to continue?</source>
+        <translation>Tắt Wi-Fi sẽ ngăn thiết bị đồng bộ. Bạn có muốn tiếp tục không?</translation>
+    </message>
+    <message>
+        <source>Wi Fi is currently disabled</source>
+        <translation>Wi-Fi hiện đang tắt</translation>
+    </message>
+    <message>
+        <source>Would you like to enable Wi Fi and connect to the Internet?</source>
+        <translation>Bạn có muốn bật Wi-Fi và kết nối Internet không?</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+    <message>
+        <source>Your eReader is low on power and can't connect to wireless networks at this time. Please recharge your eReader and try again.</source>
+        <translation>Máy đọc sách của bạn sắp hết pin và không thể kết nối mạng không dây lúc này. Vui lòng sạc máy và thử lại.</translation>
+    </message>
+</context>

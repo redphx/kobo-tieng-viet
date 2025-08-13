@@ -1,0 +1,47 @@
+<context>
+    <name>N3SettingsOverDriveView</name>
+    <message>
+        <source>ACCOUNT</source>
+        <translation>TÀI KHOẢN</translation>
+    </message>
+    <message>
+        <source>Add a library card</source>
+        <translation>Thêm một thẻ thư viện</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Chỉnh sửa</translation>
+    </message>
+    <message>
+        <source>Get started</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>If you can't remember your library card number or PIN, or you're having trouble signing in, please contact your library directly for support.</source>
+        <translation>Nếu bạn không thể nhớ số thẻ thư viện hoặc mã PIN của mình hoặc bạn gặp sự cố khi đăng nhập, vui lòng liên hệ trực tiếp với thư viện của bạn để được hỗ trợ.</translation>
+    </message>
+    <message>
+        <source>Not signed in to OverDrive</source>
+        <translation>Chưa đăng nhập vào OverDrive</translation>
+    </message>
+    <message>
+        <source>OVERDRIVE ACCOUNT</source>
+        <translation>TÀI KHOẢN OVERDRIVE</translation>
+    </message>
+    <message>
+        <source>PREFERENCES</source>
+        <translation>TÙY CHỌN</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation>Đăng xuất</translation>
+    </message>
+    <message>
+        <source>With OverDrive, you can borrow books from your public library directly from your %1.</source>
+        <translation>Với OverDrive, bạn có thể mượn sách từ thư viện công cộng của mình trực tiếp từ %1.</translation>
+    </message>
+</context>

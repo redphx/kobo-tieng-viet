@@ -1,0 +1,11 @@
+<context>
+    <name>BTBSimilarLibraryView</name>
+    <message>
+        <source>Loading...</source>
+        <translation>Đang tải...</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+</context>

@@ -1,0 +1,11 @@
+<context>
+    <name>GDriveFileWidget</name>
+    <message>
+        <source>Pending</source>
+        <translation>Chưa giải quyết</translation>
+    </message>
+    <message>
+        <source>Sync</source>
+        <translation>Đồng bộ</translation>
+    </message>
+</context>

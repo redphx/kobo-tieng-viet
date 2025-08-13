@@ -1,0 +1,19 @@
+<context>
+    <name>SslExceptionRequestor</name>
+    <message>
+        <source>Certificate is not trusted</source>
+        <translation>Chứng chỉ không đáng tin cậy</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Go Back</source>
+        <translation>Quay lại</translation>
+    </message>
+    <message>
+        <source>The host %1:%2 uses an invalid security certificate. We cannot guarantee that your connection is secure. This may be caused by a server misconfiguration or something more serious like another site trying to impersonate %1.</source>
+        <translation>Máy chủ %1:%2 sử dụng chứng chỉ bảo mật không hợp lệ. Chúng tôi không thể đảm bảo kết nối của bạn an toàn. Nguyên nhân có thể do cấu hình máy chủ sai hoặc trường hợp nghiêm trọng hơn như trang web khác cố gắng mạo danh %1.</translation>
+    </message>
+</context>

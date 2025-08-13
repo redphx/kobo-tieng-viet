@@ -1,0 +1,27 @@
+<context>
+    <name>SeriesBooksSortMenuController</name>
+    <message>
+        <source>Book number</source>
+        <translation>Số thứ tự sách</translation>
+    </message>
+    <message>
+        <source>Date added</source>
+        <translation>Ngày thêm</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation>Kích thước file</translation>
+    </message>
+    <message>
+        <source>File type</source>
+        <translation>Loại file</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Gần đây</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Tựa đề</translation>
+    </message>
+</context>

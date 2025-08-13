@@ -1,0 +1,15 @@
+<context>
+    <name>LibraryFinderView</name>
+    <message>
+        <source>Before setting up your OverDrive account, please select the library you'd like to borrow from.</source>
+        <translation>Trước khi cài đặt tài khoản OverDrive của bạn, hãy chọn thư viện bạn muốn mượn sách.</translation>
+    </message>
+    <message>
+        <source>City, region, or library</source>
+        <translation>Thành phố, vùng hoặc thư viện</translation>
+    </message>
+    <message>
+        <source>SUGGESTED LIBRARIES</source>
+        <translation>CÁC THƯ VIỆN ĐƯỢC ĐỀ XUẤT</translation>
+    </message>
+</context>

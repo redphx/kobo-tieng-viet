@@ -1,0 +1,23 @@
+<context>
+    <name>VIPActionProxy</name>
+    <message>
+        <source>Now </source>
+        <translation>Bây giờ </translation>
+    </message>
+    <message>
+        <source>Save %1 with VIP</source>
+        <translation>Tiết kiệm %1 với VIP</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP</source>
+        <translation>Nâng cấp lên VIP</translation>
+    </message>
+    <message>
+        <source>VIP PRICE: %0</source>
+        <translation>GIÁ VIP: %0</translation>
+    </message>
+    <message>
+        <source>WAS &lt;a style='text-decoration:line-through;'&gt;%0&lt;/a&gt; ∙ YOU SAVE: %1</source>
+        <translation>ĐÃ &lt;a style='text-decoration:line-through;'&gt;%0&lt;/a&gt; ∙ BẠN TIẾT KIỆM: %1</translation>
+    </message>
+</context>

@@ -1,0 +1,63 @@
+<context>
+    <name>HighlightMenuController</name>
+    <message>
+        <source>Add note</source>
+        <translation>Thêm ghi chú</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this markup?</source>
+        <translation>Bạn có chắc muốn xóa chú giải này?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Tiếp tục</translation>
+    </message>
+    <message>
+        <source>Delete annotation</source>
+        <translation>Xóa chú thích</translation>
+    </message>
+    <message>
+        <source>Edit note</source>
+        <translation>Sửa ghi chú</translation>
+    </message>
+    <message>
+        <source>Remove annotation</source>
+        <translation>Loại bỏ chú thích</translation>
+    </message>
+    <message>
+        <source>Remove bookmark</source>
+        <translation>Loại bỏ dấu trang</translation>
+    </message>
+    <message>
+        <source>Remove highlight</source>
+        <translation>Loại bỏ đánh dấu</translation>
+    </message>
+    <message>
+        <source>Remove markup</source>
+        <translation>Loại bỏ chú giải</translation>
+    </message>
+    <message>
+        <source>Share on Facebook</source>
+        <translation>Chia sẻ lên Facebook</translation>
+    </message>
+    <message>
+        <source>Show in book</source>
+        <translation>Hiển thị trong sách</translation>
+    </message>
+    <message>
+        <source>This bookmark has a note attached to it. Are you sure you want to delete it?</source>
+        <translation>Dấu trang này có một ghi chú đính kèm với nó. Bạn có chắc muốn xóa nó?</translation>
+    </message>
+    <message>
+        <source>This highlight has a note attached to it. Are you sure you want to delete it?</source>
+        <translation>Đánh dấu này có một ghi chú đính kèm với nó. Bạn có chắc muốn xóa nó?</translation>
+    </message>
+    <message>
+        <source>View details</source>
+        <translation>Xem chi tiết</translation>
+    </message>
+</context>

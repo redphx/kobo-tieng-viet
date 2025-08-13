@@ -1,0 +1,15 @@
+<context>
+    <name>FolderItemMenuController</name>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>Di chuyển</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Đổi tên</translation>
+    </message>
+</context>

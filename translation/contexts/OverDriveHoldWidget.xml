@@ -1,0 +1,51 @@
+<context>
+    <name>OverDriveHoldWidget</name>
+    <message numerus="yes">
+        <source>%n day(s) left</source>
+        <translation>
+            <numerusform>Còn %n ngày</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) left</source>
+        <translation>
+            <numerusform>Còn %n giờ</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n min(s) left</source>
+        <translation>
+            <numerusform>Còn %n phút</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n sec(s) left</source>
+        <translation>
+            <numerusform>Còn %n giây</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Available in %n day(s)</source>
+        <translation>
+            <numerusform>Có sẵn sau %n ngày</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Available in %n week(s)</source>
+        <translation>
+            <numerusform>Có sẵn sau %n tuần</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Available soon</source>
+        <translation>Sắp ra mắt</translation>
+    </message>
+    <message>
+        <source>Borrow</source>
+        <translation>Mượn</translation>
+    </message>
+    <message>
+        <source>Remove hold</source>
+        <translation>Xóa giữ</translation>
+    </message>
+</context>

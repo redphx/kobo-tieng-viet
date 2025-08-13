@@ -1,0 +1,149 @@
+<context>
+    <name>ReadingView</name>
+    <message>
+        <source>%1 %2 and %3.</source>
+        <translation>%1 %2 và %3.</translation>
+    </message>
+    <message>
+        <source>%1 %2, %3 and %4.</source>
+        <translation>%1 %2, %3 và %4.</translation>
+    </message>
+    <message>
+        <source>%1 %2, %3, %4 and %5.</source>
+        <translation>%1 %2, %3, %4 và %5.</translation>
+    </message>
+    <message>
+        <source>%1 %2.</source>
+        <translation>%1 %2.</translation>
+    </message>
+    <message>
+        <source>%1 and %2 have been turned on as supplementary fonts for this book.</source>
+        <translation>%1 và %2 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+    </message>
+    <message>
+        <source>%1 has been turned on as a supplementary font for this book.</source>
+        <translation>%1 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+    </message>
+    <message>
+        <source>%1 hours to go</source>
+        <translation>%1 giờ còn lại</translation>
+    </message>
+    <message>
+        <source>%1 OF %2</source>
+        <translation>%1 TRÊN %2</translation>
+    </message>
+    <message>
+        <source>%1% READ</source>
+        <translation>ĐÃ ĐỌC %1%</translation>
+    </message>
+    <message>
+        <source>%1% THROUGH BOOK</source>
+        <translation>ĐÃ ĐỌC %1%</translation>
+    </message>
+    <message>
+        <source>%1, %2 and %3 have been turned on as supplementary fonts for this book.</source>
+        <translation>%1, %2 và %3 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+    </message>
+    <message>
+        <source>%1, %2, %3 and %4 have been turned on as supplementary fonts for this book.</source>
+        <translation>%1, %2, %3 và %4 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+    </message>
+    <message>
+        <source>%1&lt;br/&gt;&lt;br/&gt;This is a link to an external web page.  Do you want to open it in our experimental browser or save it to Pocket for later?</source>
+        <translation>%1&lt;br/&gt;&lt;br/&gt;Đây là liên kết tới trang web bên ngoài. Bạn muốn mở trình duyệt thử nghiệm hay lưu vào Pocket để đọc sau?</translation>
+    </message>
+    <message>
+        <source>%1&lt;br/&gt;&lt;br/&gt;This is a link to an external web page.  Do you want to open it in our experimental browser?</source>
+        <translation>%1&lt;br/&gt;&lt;br/&gt;Đây là liên kết tới trang web bên ngoài. Bạn có muốn mở bằng trình duyệt thử nghiệm không?</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n min(s) to go</source>
+        <translation>
+            <numerusform>Còn %n phút nữa</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Error loading reader!</source>
+        <translation>Lỗi tải trình đọc!</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Bỏ qua</translation>
+    </message>
+    <message>
+        <source>Keep reminding me</source>
+        <translation>Nhắc tôi thường xuyên</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Để sau</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation>Đang tải</translation>
+    </message>
+    <message>
+        <source>Missing letters or numbers</source>
+        <translation>Thiếu chữ cái hoặc số</translation>
+    </message>
+    <message>
+        <source>Open browser</source>
+        <translation>Mở trình duyệt</translation>
+    </message>
+    <message>
+        <source>Open browser?</source>
+        <translation>Mở trình duyệt?</translation>
+    </message>
+    <message>
+        <source>Parental Controls ON</source>
+        <translation>Kiểm soát của phụ huynh BẬT</translation>
+    </message>
+    <message>
+        <source>Reading</source>
+        <translation>Đang đọc</translation>
+    </message>
+    <message>
+        <source>Save to Pocket</source>
+        <translation>Lưu vào Pocket</translation>
+    </message>
+    <message>
+        <source>Sorry, we couldn't find a reader for this type of content.</source>
+        <translation>Rất tiếc, chúng tôi không tìm được trình đọc cho loại nội dung này.</translation>
+    </message>
+    <message>
+        <source>Store and web access is blocked.</source>
+        <translation>Truy cập cửa hàng và web bị chặn.</translation>
+    </message>
+    <message>
+        <source>Stylus not supported for this format.</source>
+        <translation>Stylus không hỗ trợ định dạng này.</translation>
+    </message>
+    <message>
+        <source>Sync</source>
+        <translation>Đồng bộ</translation>
+    </message>
+    <message>
+        <source>Syncing fonts...</source>
+        <translation>Đang đồng bộ font...</translation>
+    </message>
+    <message>
+        <source>The fonts available on your eReader might not support all characters in this book.&lt;br&gt;&lt;br&gt;Tip: To add your own fonts to your eReader, connect your eReader to your computer with the USB cable, then copy over your font files.</source>
+        <translation>Font trên máy đọc sách có thể không hỗ trợ hết ký tự trong sách này.&lt;br&gt;&lt;br&gt;Mẹo: Để thêm font, kết nối máy đọc sách với máy tính qua cáp USB rồi sao chép các file font vào.</translation>
+    </message>
+    <message>
+        <source>This file format cannot currently be marked up with the %1 Stylus.</source>
+        <translation>Định dạng file này hiện không thể đánh dấu bằng stylus %1.</translation>
+    </message>
+    <message>
+        <source>To support some missing characters in this book, sync now to download</source>
+        <translation>Để hỗ trợ một số ký tự thiếu trong sách, đồng bộ ngay để tải xuống</translation>
+    </message>
+</context>

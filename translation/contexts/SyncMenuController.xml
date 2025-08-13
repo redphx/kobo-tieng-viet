@@ -1,0 +1,19 @@
+<context>
+    <name>SyncMenuController</name>
+    <message>
+        <source>Hopefully this solved the issue you were experiencing. If it didn't, please visit the Help section for more suggestions.</source>
+        <translation>Hy vọng điều này đã giải quyết vấn đề bạn gặp phải. Nếu chưa, hãy vào phần Trợ giúp để tìm thêm cách xử lý.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Repair complete</source>
+        <translation>Đã sửa xong</translation>
+    </message>
+    <message>
+        <source>Your eReader is up to date!</source>
+        <translation>Máy đọc sách của bạn đã được cập nhật!</translation>
+    </message>
+</context>

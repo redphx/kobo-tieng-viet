@@ -1,0 +1,15 @@
+<context>
+    <name>StorefrontCategoriesView</name>
+    <message>
+        <source>+%1 more</source>
+        <translation>+%1 nữa</translation>
+    </message>
+    <message>
+        <source>eBook Categories</source>
+        <translation>Danh mục eBook</translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation>Biểu mẫu</translation>
+    </message>
+</context>

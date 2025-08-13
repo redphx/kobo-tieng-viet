@@ -1,0 +1,15 @@
+<context>
+    <name>Stylus2ActivationFinishPage</name>
+    <message>
+        <source>Activate your %1</source>
+        <translation>Kích hoạt %1 của bạn</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>Hoàn tất</translation>
+    </message>
+    <message>
+        <source>Your stylus has been successfully activated.</source>
+        <translation>Stylus của bạn đã được kích hoạt thành công.</translation>
+    </message>
+</context>

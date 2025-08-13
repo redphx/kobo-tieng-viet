@@ -1,0 +1,15 @@
+<context>
+    <name>ComicsReader</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Oops! This document couldn't be opened.</source>
+        <translation>Oops! This document couldn't be opened.</translation>
+    </message>
+    <message>
+        <source>There might be a problem with the file.</source>
+        <translation>There might be a problem with the file.</translation>
+    </message>
+</context>

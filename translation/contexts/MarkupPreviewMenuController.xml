@@ -1,0 +1,11 @@
+<context>
+    <name>MarkupPreviewMenuController</name>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Revert to these settings</source>
+        <translation>Hoàn nguyên về các cài đặt này</translation>
+    </message>
+</context>

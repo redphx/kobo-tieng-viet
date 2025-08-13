@@ -1,0 +1,23 @@
+<context>
+    <name>SearchResultsView</name>
+    <message>
+        <source>0 results found.&lt;br&gt;Please try a different search term.</source>
+        <translation>Không tìm thấy kết quả nào.&lt;br&gt;Vui lòng thử cụm từ tìm kiếm khác.</translation>
+    </message>
+    <message>
+        <source>OTHER SUGGESTIONS</source>
+        <translation>GỢI Ý KHÁC</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>Search results</source>
+        <translation>Kết quả tìm kiếm</translation>
+    </message>
+    <message>
+        <source>Searching. Please wait...</source>
+        <translation>Đang tìm kiếm. Vui lòng đợi...</translation>
+    </message>
+</context>

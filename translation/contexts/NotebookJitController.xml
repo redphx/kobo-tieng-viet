@@ -1,0 +1,39 @@
+<context>
+    <name>NotebookJitController</name>
+    <message>
+        <source>Convert your handwriting to text with a double tap of your finger.</source>
+        <translation>Chuyển đổi chữ viết tay của bạn thành văn bản bằng cách nhấn đúp ngón tay.</translation>
+    </message>
+    <message>
+        <source>Create diagrams</source>
+        <translation>Tạo sơ đồ</translation>
+    </message>
+    <message>
+        <source>Create formulas or calculations</source>
+        <translation>Tạo công thức hoặc phép tính</translation>
+    </message>
+    <message>
+        <source>Double tap to convert to text</source>
+        <translation>Nhấn đúp để chuyển đổi thành văn bản</translation>
+    </message>
+    <message>
+        <source>Double tap to edit text</source>
+        <translation>Nhấn đúp để chỉnh sửa văn bản</translation>
+    </message>
+    <message>
+        <source>Draw shapes, arrows, and text, then double tap to convert into diagram blocks that you can resize and arrange.</source>
+        <translation>Vẽ hình, mũi tên và văn bản, sau đó nhấn đúp để chuyển đổi thành các khối sơ đồ mà bạn có thể đổi kích thước và sắp xếp.</translation>
+    </message>
+    <message>
+        <source>Effortless editing</source>
+        <translation>Chỉnh sửa dễ dàng</translation>
+    </message>
+    <message>
+        <source>Enlarge text with a double tap so that it’s easy to edit with the %1 Stylus.</source>
+        <translation>Nhấn đúp để phóng to văn bản, giúp dễ chỉnh sửa bằng stylus %1.</translation>
+    </message>
+    <message>
+        <source>Write an equation, then double tap to convert it to formatted text.&lt;br&gt;&lt;br&gt;Tip: You can also use this section as a calculator. Write calculations naturally,  include an equals sign (=), then double tap to convert and show the answer.</source>
+        <translation>Viết một phương trình, sau đó nhấn đúp để chuyển đổi phương trình đó thành văn bản có định dạng.&lt;br&gt;&lt;br&gt;Mẹo: Bạn cũng có thể sử dụng phần này làm máy tính. Viết các phép tính một cách tự nhiên, bao gồm dấu bằng (=), sau đó nhấn đúp để chuyển đổi và hiển thị câu trả lời.</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>OverDriveHoldView</name>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message>
+        <source>You don't have any holds.</source>
+        <translation>Bạn không có mục giữ nào.</translation>
+    </message>
+    <message>
+        <source>Your Holds</source>
+        <translation>Khoản giữ của bạn</translation>
+    </message>
+</context>

@@ -1,0 +1,23 @@
+<context>
+    <name>BookstoreListViewBase</name>
+    <message>
+        <source>Please wait...</source>
+        <translation>Vui lòng chờ...</translation>
+    </message>
+    <message>
+        <source>Shop Kobo</source>
+        <translation>Mua sắm Kobo</translation>
+    </message>
+    <message>
+        <source>Sort: Bestsellers</source>
+        <translation>Sắp xếp: Bán chạy nhất</translation>
+    </message>
+    <message>
+        <source>Sort: Most popular</source>
+        <translation>Sắp xếp: Phổ biến nhất</translation>
+    </message>
+    <message>
+        <source>Sort: What's new</source>
+        <translation>Sắp xếp: Mới nhất</translation>
+    </message>
+</context>

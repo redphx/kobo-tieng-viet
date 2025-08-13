@@ -1,0 +1,11 @@
+<context>
+    <name>DictionarySortMenuController</name>
+    <message>
+        <source>A-Z</source>
+        <translation>A-Z</translation>
+    </message>
+    <message>
+        <source>Recently Added</source>
+        <translation>Được thêm gần đây</translation>
+    </message>
+</context>

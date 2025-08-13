@@ -1,0 +1,59 @@
+<context>
+    <name>DetailedReviewView</name>
+    <message>
+        <source>%0 of %1 people found this helpful</source>
+        <translation>%0 trong %1 người thấy điều này hữu ích</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to report this review for inappropriate content?</source>
+        <translation>Bạn có chắc muốn báo cáo bài đánh giá này về nội dung không phù hợp không?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>Helpful?</source>
+        <translation>Hữu ích?</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Không</translation>
+    </message>
+    <message>
+        <source>Page %0 of %1</source>
+        <translation>Trang thứ %0 trong tổng số %1</translation>
+    </message>
+    <message>
+        <source>Report</source>
+        <translation>Báo cáo</translation>
+    </message>
+    <message>
+        <source>Reported</source>
+        <translation>Đã báo cáo</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Chia sẻ</translation>
+    </message>
+    <message>
+        <source>Thanks for your feedback</source>
+        <translation>Cám ơn phản hồi của bạn</translation>
+    </message>
+    <message>
+        <source>This review has been reported</source>
+        <translation>Đánh giá này đã được báo cáo</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Có</translation>
+    </message>
+    <message>
+        <source>you</source>
+        <translation>bạn</translation>
+    </message>
+</context>

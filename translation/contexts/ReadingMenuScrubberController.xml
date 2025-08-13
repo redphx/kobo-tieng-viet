@@ -1,0 +1,27 @@
+<context>
+    <name>ReadingMenuScrubberController</name>
+    <message>
+        <source>Archived</source>
+        <translation>Đã lưu trữ</translation>
+    </message>
+    <message>
+        <source>Back to page %1</source>
+        <translation>Quay về trang %1</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation>Đang tải...</translation>
+    </message>
+    <message>
+        <source>Page %1 of %2</source>
+        <translation>Trang %1 trên %2</translation>
+    </message>
+    <message>
+        <source>Re-added to list</source>
+        <translation>Đã thêm lại vào danh sách</translation>
+    </message>
+    <message>
+        <source>Untitled Chapter</source>
+        <translation>Chương chưa đặt tên</translation>
+    </message>
+</context>

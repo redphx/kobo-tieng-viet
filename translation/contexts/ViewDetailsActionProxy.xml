@@ -1,0 +1,15 @@
+<context>
+    <name>ViewDetailsActionProxy</name>
+    <message>
+        <source>DETAILS</source>
+        <translation>CHI TIẾT</translation>
+    </message>
+    <message>
+        <source>FREE</source>
+        <translation>MIỄN PHÍ</translation>
+    </message>
+    <message>
+        <source>View Details</source>
+        <translation>Xem chi tiết</translation>
+    </message>
+</context>

@@ -1,0 +1,31 @@
+<context>
+    <name>AboutStylusDialogView</name>
+    <message>
+        <source>%1 is compatible with Kobo Libra Colour, Kobo Sage, Kobo Elipsa, and Kobo Elipsa 2E.</source>
+        <translation>%1 tương thích với Kobo Libra Colour, Kobo Sage, Kobo Elipsa và Kobo Elipsa 2E.</translation>
+    </message>
+    <message>
+        <source>About %1</source>
+        <translation>Về %1</translation>
+    </message>
+    <message>
+        <source>Compatible eReaders</source>
+        <translation>Máy đọc sách tương thích</translation>
+    </message>
+    <message>
+        <source>Mark up eBooks and PDFs with ease. Press the button to activate the highlighter, and wipe away mistakes with the eraser.</source>
+        <translation>Đánh dấu eBook và PDF dễ dàng. Nhấn nút để kích hoạt bút đánh dấu và tẩy bỏ lỗi bằng tẩy.</translation>
+    </message>
+    <message>
+        <source>Purchase %1</source>
+        <translation>Mua %1</translation>
+    </message>
+    <message>
+        <source>Recharge %1 through a USB-C power source. Includes 2 spare replacement tips.</source>
+        <translation>Sạc %1 qua nguồn điện USB-C. Đi kèm 2 đầu thay thế dự phòng.</translation>
+    </message>
+    <message>
+        <source>Scan the QR code below or visit %1.</source>
+        <translation>Quét mã QR bên dưới hoặc truy cập %1.</translation>
+    </message>
+</context>

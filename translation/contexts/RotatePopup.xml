@@ -1,0 +1,15 @@
+<context>
+    <name>RotatePopup</name>
+    <message>
+        <source>Auto rotate</source>
+        <translation>Tự động xoay</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation>Chiều ngang</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation>Chiều dọc</translation>
+    </message>
+</context>

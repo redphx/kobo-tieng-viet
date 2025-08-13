@@ -1,0 +1,11 @@
+<context>
+    <name>WishlistHomeWidget</name>
+    <message>
+        <source>%0 BOOKS</source>
+        <translation>%0 CUỐN SÁCH</translation>
+    </message>
+    <message>
+        <source>Wishlist</source>
+        <translation>Danh sách mong muốn</translation>
+    </message>
+</context>

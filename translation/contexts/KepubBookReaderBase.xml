@@ -1,0 +1,7 @@
+<context>
+    <name>KepubBookReaderBase</name>
+    <message>
+        <source>Loading %1</source>
+        <translation>Đang tải %1</translation>
+    </message>
+</context>

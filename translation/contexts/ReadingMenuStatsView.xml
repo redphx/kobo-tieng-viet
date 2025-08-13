@@ -1,0 +1,63 @@
+<context>
+    <name>ReadingMenuStatsView</name>
+    <message>
+        <source>%1%</source>
+        <translation>%1%</translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation>--</translation>
+    </message>
+    <message>
+        <source>hours
+to go</source>
+        <translation>giờ
+nữa</translation>
+    </message>
+    <message>
+        <source>hours
+to read</source>
+        <translation>giờ
+đọc</translation>
+    </message>
+    <message>
+        <source>minutes
+to go</source>
+        <translation>phút
+nữa</translation>
+    </message>
+    <message>
+        <source>minutes
+to read</source>
+        <translation>phút
+đọc</translation>
+    </message>
+    <message>
+        <source>Next Chapter</source>
+        <translation>Chương tiếp theo</translation>
+    </message>
+    <message>
+        <source>read</source>
+        <translation>đã đọc</translation>
+    </message>
+    <message>
+        <source>seconds
+to go</source>
+        <translation>giây
+nữa</translation>
+    </message>
+    <message>
+        <source>seconds
+to read</source>
+        <translation>giây
+đọc</translation>
+    </message>
+    <message>
+        <source>This Book</source>
+        <translation>Cuốn sách này</translation>
+    </message>
+    <message>
+        <source>This Chapter</source>
+        <translation>Chương này</translation>
+    </message>
+</context>

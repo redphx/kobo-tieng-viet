@@ -1,0 +1,11 @@
+<context>
+    <name>ReadABookLookUpWordPage</name>
+    <message>
+        <source>Look up a word</source>
+        <translation>Tra cứu từ</translation>
+    </message>
+    <message>
+        <source>Press and hold a word to see its definition.</source>
+        <translation>Nhấn giữ một từ để xem định nghĩa.</translation>
+    </message>
+</context>

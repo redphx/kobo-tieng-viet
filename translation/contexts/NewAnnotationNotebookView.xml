@@ -1,0 +1,11 @@
+<context>
+    <name>NewAnnotationNotebookView</name>
+    <message>
+        <source>%1</source>
+        <translation>%1</translation>
+    </message>
+    <message>
+        <source>Bookmark • %1% into chapter</source>
+        <translation>Dấu trang • %1% trong chương</translation>
+    </message>
+</context>

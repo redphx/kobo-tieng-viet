@@ -1,0 +1,33 @@
+<context>
+    <name>BookInfoWidgetController</name>
+    <message numerus="yes">
+        <source>Also available for %n credit(s)</source>
+        <translation>
+            <numerusform>Cũng có sẵn với %n tín dụng</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Book Title</source>
+        <translation>Tựa sách</translation>
+    </message>
+    <message>
+        <source>Included with Kobo Plus</source>
+        <translation>Đi kèm với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>Gia hạn</translation>
+    </message>
+    <message>
+        <source>Start free trial</source>
+        <translation>Bắt đầu dùng thử miễn phí</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Nâng cấp</translation>
+    </message>
+</context>

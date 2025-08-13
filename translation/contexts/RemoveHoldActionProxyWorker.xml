@@ -1,0 +1,15 @@
+<context>
+    <name>RemoveHoldActionProxyWorker</name>
+    <message>
+        <source>Please contact %1 directly for more details.</source>
+        <translation>Vui lòng liên hệ trực tiếp với %1 để biết thêm chi tiết.</translation>
+    </message>
+    <message>
+        <source>There seems to be a problem with your library card</source>
+        <translation>Có vẻ như có sự cố với thẻ thư viện của bạn</translation>
+    </message>
+    <message>
+        <source>This book is not currently available from your library</source>
+        <translation>Cuốn sách này hiện không có sẵn tại thư viện của bạn</translation>
+    </message>
+</context>

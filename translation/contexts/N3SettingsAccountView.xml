@@ -1,0 +1,151 @@
+<context>
+    <name>N3SettingsAccountView</name>
+    <message>
+        <source>%1 eReader</source>
+        <translation>Máy đọc eBook %1</translation>
+    </message>
+    <message>
+        <source>%1 pts</source>
+        <translation>%1 điểm</translation>
+    </message>
+    <message>
+        <source>Add eBooks and documents to your eReader with a free Dropbox account.</source>
+        <translation>Thêm eBook và tài liệu vào máy đọc sách bằng tài khoản Dropbox miễn phí.</translation>
+    </message>
+    <message>
+        <source>Add eBooks and documents to your eReader with a free Google Drive account.</source>
+        <translation>Thêm eBook và tài liệu vào máy đọc sách bằng tài khoản Google Drive miễn phí.</translation>
+    </message>
+    <message>
+        <source>ADOBE</source>
+        <translation>ADOBE</translation>
+    </message>
+    <message>
+        <source>Block store and web access</source>
+        <translation>Chặn truy cập cửa hàng và web</translation>
+    </message>
+    <message>
+        <source>Deauthorize</source>
+        <translation>Hủy cấp phép</translation>
+    </message>
+    <message>
+        <source>DROPBOX</source>
+        <translation>DROPBOX</translation>
+    </message>
+    <message>
+        <source>eBooks and documents in your Rakuten Kobo folder on Dropbox will be synced to this eReader and will appear in My Dropbox.</source>
+        <translation>eBook và tài liệu trong thư mục Rakuten Kobo trên Dropbox của bạn sẽ được đồng bộ với máy đọc sách này và xuất hiện trong Dropbox của tôi.</translation>
+    </message>
+    <message>
+        <source>eBooks and documents in your Rakuten Kobo folder on Google Drive will be synced to this eReader and will appear in My Google Drive.</source>
+        <translation>eBook và tài liệu trong thư mục Rakuten Kobo trên Google Drive của bạn sẽ được đồng bộ với máy đọc sách này và xuất hiện trong Google Drive của tôi.</translation>
+    </message>
+    <message>
+        <source>FACEBOOK</source>
+        <translation>FACEBOOK</translation>
+    </message>
+    <message>
+        <source>Get Started</source>
+        <translation>Bắt đầu</translation>
+    </message>
+    <message>
+        <source>Google Drive</source>
+        <translation>Google Drive</translation>
+    </message>
+    <message>
+        <source>Not authorized with Adobe Digital Editions</source>
+        <translation>Chưa cấp phép với Adobe Digital Editions</translation>
+    </message>
+    <message>
+        <source>Not signed in to Facebook</source>
+        <translation>Chưa đăng nhập Facebook</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation>Tắt</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>PARENTAL CONTROLS</source>
+        <translation>KIỂM SOÁT CỦA PHỤ HUYNH</translation>
+    </message>
+    <message>
+        <source>POCKET</source>
+        <translation>POCKET</translation>
+    </message>
+    <message>
+        <source>Redeem</source>
+        <translation>Đổi thưởng</translation>
+    </message>
+    <message>
+        <source>Redeem a Digital Card</source>
+        <translation>Nhập thẻ nạp</translation>
+    </message>
+    <message>
+        <source>Save and read articles from the web with a free Pocket account.</source>
+        <translation>Lưu và đọc bài viết web với tài khoản Pocket miễn phí.</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>Sign In</source>
+        <translation>Đăng nhập</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Đăng nhập</translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation>Đăng xuất</translation>
+    </message>
+    <message>
+        <source>Signed in to Dropbox</source>
+        <translation>Đã đăng nhập Dropbox</translation>
+    </message>
+    <message>
+        <source>Signed in to Google Drive</source>
+        <translation>Đã đăng nhập Google Drive</translation>
+    </message>
+    <message>
+        <source>Sync eBooks and documents to your eReader with a free Dropbox account.</source>
+        <translation>Đồng bộ eBook và tài liệu với máy đọc sách của bạn bằng tài khoản Dropbox miễn phí.</translation>
+    </message>
+    <message>
+        <source>Sync eBooks and documents to your eReader with a free Google Drive account.</source>
+        <translation>Đồng bộ eBook và tài liệu với máy đọc sách của bạn bằng tài khoản Google Drive miễn phí.</translation>
+    </message>
+    <message>
+        <source>To view or change your account settings or payment info, please sign in to www.kobo.com and select My Account.</source>
+        <translation>Để xem hoặc thay đổi cài đặt tài khoản hoặc thông tin thanh toán, vui lòng đăng nhập www.kobo.com và chọn Tài khoản của tôi.</translation>
+    </message>
+    <message>
+        <source>USER</source>
+        <translation>NGƯỜI DÙNG</translation>
+    </message>
+    <message>
+        <source>View details</source>
+        <translation>Xem chi tiết</translation>
+    </message>
+    <message>
+        <source>You can set a 4-digit PIN that must be entered to access the store and web browser on your eReader.</source>
+        <translation>Bạn có thể đặt mã PIN 4 chữ số để truy cập cửa hàng và trình duyệt web trên máy đọc sách.</translation>
+    </message>
+    <message>
+        <source>You're not signed in to Dropbox</source>
+        <translation>Bạn chưa đăng nhập Dropbox</translation>
+    </message>
+    <message>
+        <source>You're not signed in to Google Drive</source>
+        <translation>Bạn chưa đăng nhập Google Drive</translation>
+    </message>
+    <message>
+        <source>You're not signed in to Pocket</source>
+        <translation>Bạn chưa đăng nhập Pocket</translation>
+    </message>
+</context>

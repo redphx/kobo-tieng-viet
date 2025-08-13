@@ -1,0 +1,19 @@
+<context>
+    <name>DemoModeManager</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Demo slideshow not found</source>
+        <translation>Không tìm thấy trình chiếu demo</translation>
+    </message>
+    <message>
+        <source>Factory reset</source>
+        <translation>Khôi phục cài đặt gốc</translation>
+    </message>
+    <message>
+        <source>The slideshow images for demo mode have been removed from the eReader. Please factory reset to restore them. Warning: this will erase your books, documents, and custom settings.</source>
+        <translation>Hình ảnh trình chiếu cho chế độ demo đã bị xóa khỏi máy đọc sách. Vui lòng khôi phục cài đặt gốc để khôi phục chúng. Cảnh báo: thao tác này sẽ xóa sách, tài liệu và cài đặt tùy chỉnh của bạn.</translation>
+    </message>
+</context>

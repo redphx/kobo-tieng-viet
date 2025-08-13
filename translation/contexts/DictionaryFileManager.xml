@@ -1,0 +1,11 @@
+<context>
+    <name>DictionaryFileManager</name>
+    <message>
+        <source>%1 (Custom)</source>
+        <translation>%1 (Tùy chỉnh)</translation>
+    </message>
+    <message>
+        <source>Source: Merriam-Webster's %1 Dictionary</source>
+        <translation>Nguồn: Từ diển %1 của Merriam-Webster</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>GDriveViewMenuController</name>
+    <message>
+        <source>Cancel all downloads</source>
+        <translation>Hủy tất cả các lượt tải xuống</translation>
+    </message>
+    <message>
+        <source>Download all</source>
+        <translation>Tải xuống tất cả</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Làm mới</translation>
+    </message>
+</context>

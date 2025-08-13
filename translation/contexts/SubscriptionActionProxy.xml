@@ -1,0 +1,15 @@
+<context>
+    <name>SubscriptionActionProxy</name>
+    <message>
+        <source>Listen with Kobo Plus</source>
+        <translation>Nghe với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Read with Kobo Plus</source>
+        <translation>Đọc với Kobo Plus</translation>
+    </message>
+    <message>
+        <source>Renew Kobo Plus subscription</source>
+        <translation>Gia hạn gói Kobo Plus</translation>
+    </message>
+</context>

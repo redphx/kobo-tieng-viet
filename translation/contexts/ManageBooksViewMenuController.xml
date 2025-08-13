@@ -1,0 +1,11 @@
+<context>
+    <name>ManageBooksViewMenuController</name>
+    <message>
+        <source>Clear selection</source>
+        <translation>Bỏ lựa chọn</translation>
+    </message>
+    <message>
+        <source>Select all</source>
+        <translation>Lựa chọn tất cả</translation>
+    </message>
+</context>

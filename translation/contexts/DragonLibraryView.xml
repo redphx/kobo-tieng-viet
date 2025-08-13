@@ -1,0 +1,105 @@
+<context>
+    <name>DragonLibraryView</name>
+    <message>
+        <source>Add books</source>
+        <translation>Thêm sách</translation>
+    </message>
+    <message>
+        <source>Add eBooks from your computer by connecting with the USB cable.</source>
+        <translation>Thêm eBook từ máy tính của bạn bằng cách kết nối với cáp USB.</translation>
+    </message>
+    <message>
+        <source>Books</source>
+        <translation>Sách</translation>
+    </message>
+    <message>
+        <source>Collection</source>
+        <translation>Bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Collections</source>
+        <translation>Các bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Filter: %0</source>
+        <translation>Lọc: %0</translation>
+    </message>
+    <message>
+        <source>Good news!</source>
+        <translation>Tin tốt!</translation>
+    </message>
+    <message>
+        <source>Here’s where you’ll find all of your books. Looking for something to read?</source>
+        <translation>Đây là nơi bạn sẽ tìm thấy tất cả sách của mình. Bạn đang tìm gì đó để đọc?</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Thông tin thêm</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Thư viện</translation>
+    </message>
+    <message>
+        <source>More by this author</source>
+        <translation>Cùng tác giả</translation>
+    </message>
+    <message>
+        <source>More in this series</source>
+        <translation>Cùng bộ sách</translation>
+    </message>
+    <message>
+        <source>Show all books</source>
+        <translation>Hiển thị tất cả sách</translation>
+    </message>
+    <message>
+        <source>Sort: %0</source>
+        <translation>Sắp xếp: %0</translation>
+    </message>
+    <message>
+        <source>Sort: Recent</source>
+        <translation>Sắp xếp: Gần đây</translation>
+    </message>
+    <message numerus="yes">
+        <source>We found %n previews for titles included with your Kobo Plus subscription. You have full access to these books now.</source>
+        <translation>
+            <numerusform>Chúng tôi tìm thấy %n bản xem trước cho các tựa sách trong gói Kobo Plus của bạn. Bạn có quyền truy cập đầy đủ ngay bây giờ.</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>You are not currently reading any books in this collection</source>
+        <translation>Bạn chưa đọc cuốn sách nào trong bộ sưu tập này</translation>
+    </message>
+    <message>
+        <source>You have no books in this collection</source>
+        <translation>Bạn chưa có cuốn sách nào trong bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>You have no books yet</source>
+        <translation>Bạn chưa có cuốn sách nào</translation>
+    </message>
+    <message>
+        <source>You have no finished books in this collection</source>
+        <translation>Bạn chưa hoàn thành cuốn sách nào trong bộ sưu tập này</translation>
+    </message>
+    <message>
+        <source>You have no imported books in this collection</source>
+        <translation>Bạn chưa có cuốn sách đã nhập nào trong bộ sưu tập này</translation>
+    </message>
+    <message>
+        <source>You have no Kobo Plus books in this collection</source>
+        <translation>Bạn chưa có cuốn sách Kobo Plus nào trong bộ sưu tập này</translation>
+    </message>
+    <message>
+        <source>You have no previews in this collection</source>
+        <translation>Bạn chưa có bản xem trước nào trong bộ sưu tập này</translation>
+    </message>
+    <message>
+        <source>You have no purchased books in this collection</source>
+        <translation>Bạn chưa có cuốn sách được mua nào trong bộ sưu tập này</translation>
+    </message>
+    <message>
+        <source>You have no unread books in this collection</source>
+        <translation>Bạn không có cuốn sách chưa đọc nào trong bộ sưu tập này</translation>
+    </message>
+</context>

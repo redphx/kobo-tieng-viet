@@ -1,0 +1,35 @@
+<context>
+    <name>DragonQuiltedView</name>
+    <message>
+        <source>%1% complete</source>
+        <translation>Hoàn thành %1%</translation>
+    </message>
+    <message>
+        <source>Connected and charged</source>
+        <translation>Đã kết nối và sạc đầy</translation>
+    </message>
+    <message>
+        <source>Connected and charging</source>
+        <translation>Đã kết nối và đang sạc</translation>
+    </message>
+    <message>
+        <source>Importing content</source>
+        <translation>Đang nhập nội dung</translation>
+    </message>
+    <message>
+        <source>Please charge your eReader</source>
+        <translation>Vui lòng sạc thiết bị của bạn</translation>
+    </message>
+    <message>
+        <source>Please don't forget to eject your eReader before unplugging the USB cable.</source>
+        <translation>Đừng quên ngắt kết nối thiết bị trước khi tháo dây USB.</translation>
+    </message>
+    <message>
+        <source>To recharge your eReader, connect it to a power source.</source>
+        <translation>Để sạc thiết bị, hãy kết nối với nguồn điện.</translation>
+    </message>
+    <message>
+        <source>Use the USB cable, that was included in the box, to connect your eReader to your computer.</source>
+        <translation>Sử dụng cáp USB trong hộp để kết nối thiết bị với máy tính của bạn.</translation>
+    </message>
+</context>

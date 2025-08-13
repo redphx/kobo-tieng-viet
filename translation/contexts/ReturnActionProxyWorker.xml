@@ -1,0 +1,23 @@
+<context>
+    <name>ReturnActionProxyWorker</name>
+    <message>
+        <source>A book can't be returned early if you've downloaded a copy directly from your public library's website. It will be automatically returned at the end of the lending period.</source>
+        <translation>Không thể trả sách sớm nếu bạn đã tải bản sao trực tiếp từ trang web thư viện công cộng của mình. Nó sẽ tự động được trả vào cuối thời gian mượn.</translation>
+    </message>
+    <message>
+        <source>Please contact %1 directly for more details.</source>
+        <translation>Vui lòng liên hệ trực tiếp %1 để biết thêm chi tiết.</translation>
+    </message>
+    <message>
+        <source>There seems to be a problem with your library card</source>
+        <translation>Có vẻ như có sự cố với thẻ thư viện của bạn</translation>
+    </message>
+    <message>
+        <source>This book can't be returned early</source>
+        <translation>Cuốn sách này không thể trả lại sớm</translation>
+    </message>
+    <message>
+        <source>This book is not currently available from your library</source>
+        <translation>Cuốn sách này hiện không có sẵn từ thư viện của bạn</translation>
+    </message>
+</context>

@@ -1,0 +1,15 @@
+<context>
+    <name>BookstoreSortMenuController</name>
+    <message>
+        <source>Bestsellers</source>
+        <translation>Bán chạy nhất</translation>
+    </message>
+    <message>
+        <source>Most Popular</source>
+        <translation>Phổ biến nhất</translation>
+    </message>
+    <message>
+        <source>What's New</source>
+        <translation>Mới nhất</translation>
+    </message>
+</context>

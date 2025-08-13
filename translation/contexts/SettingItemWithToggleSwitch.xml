@@ -1,0 +1,11 @@
+<context>
+    <name>SettingItemWithToggleSwitch</name>
+    <message>
+        <source>Off</source>
+        <translation>Tắt</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>Bật</translation>
+    </message>
+</context>

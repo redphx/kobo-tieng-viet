@@ -1,0 +1,11 @@
+<context>
+    <name>FacebookShareController</name>
+    <message>
+        <source>Post</source>
+        <translation>Đăng</translation>
+    </message>
+    <message>
+        <source>Post to your timeline</source>
+        <translation>Đăng lên tường nhà của bạn</translation>
+    </message>
+</context>

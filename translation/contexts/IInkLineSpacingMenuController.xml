@@ -1,0 +1,15 @@
+<context>
+    <name>IInkLineSpacingMenuController</name>
+    <message>
+        <source>Default</source>
+        <translation>Mặc định</translation>
+    </message>
+    <message>
+        <source>Narrow</source>
+        <translation>Hẹp</translation>
+    </message>
+    <message>
+        <source>Wide</source>
+        <translation>Rộng</translation>
+    </message>
+</context>

@@ -1,0 +1,19 @@
+<context>
+    <name>GDriveLoginCompleteView</name>
+    <message>
+        <source>eBooks and documents in your Google Drive folder will also now appear on your eReader under More &gt; My Google Drive. Once you download an item from My Google Drive, you'll find it under My Books.</source>
+        <translation>Sách điện tử và tài liệu trong thư mục Google Drive giờ cũng sẽ xuất hiện trên máy đọc sách của bạn trong phần Thêm &gt; Google Drive của tôi. Sau khi tải xuống một mục từ Google Drive của tôi, bạn sẽ tìm thấy mục đó trong Sách của tôi.</translation>
+    </message>
+    <message>
+        <source>If you make annotations in PDFs, we’ll sync them back to Google Drive.</source>
+        <translation>Nếu bạn tạo chú thích trong PDF, chúng tôi sẽ đồng bộ chúng trở lại Google Drive.</translation>
+    </message>
+    <message>
+        <source>You can now export notebooks from your eReader to Google Drive.</source>
+        <translation>Bây giờ bạn có thể xuất sổ tay từ máy đọc sách của mình sang Google Drive.</translation>
+    </message>
+    <message>
+        <source>Your Kobo eReader is now linked with Google Drive</source>
+        <translation>Máy đọc sách Kobo của bạn hiện đã được liên kết với Google Drive</translation>
+    </message>
+</context>

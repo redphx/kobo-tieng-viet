@@ -1,0 +1,107 @@
+<context>
+    <name>KoboLoveDashboardView</name>
+    <message>
+        <source>%0 pts</source>
+        <translation>%0 pts</translation>
+    </message>
+    <message>
+        <source>BALANCE</source>
+        <translation>SỐ DƯ</translation>
+    </message>
+    <message>
+        <source>Become a Kobo Super Points Member for free with your first purchase.</source>
+        <translation>Trở thành thành viên Kobo Super Points để được miễn phí lần mua hàng đầu tiên.</translation>
+    </message>
+    <message>
+        <source>Earn %0 points for every %1 you spend on eBooks</source>
+        <translation>Kiếm được %0 điểm cho mỗi %1 bạn chi tiêu</translation>
+    </message>
+    <message>
+        <source>Earn extra points on Bonus Days</source>
+        <translation>Nhận thêm điểm vào Ngày thưởng</translation>
+    </message>
+    <message>
+        <source>ENJOY MEMBERSHIP UNTIL: %0</source>
+        <translation>THÀNH VIÊN ĐẾN: %0</translation>
+    </message>
+    <message>
+        <source>Get %0% off an exclusive list of over 1 million titles, anytime</source>
+        <translation>Nhận %0% giảm giá trong danh sách đặc biệt với hơn 1 triệu tựa sách, bất cứ khi nào</translation>
+    </message>
+    <message>
+        <source>Get an additional %0% off on select Kobo promotions</source>
+        <translation>Nhận thêm %0% giảm giá khi lựa chọn khuyến mãi của Kobo</translation>
+    </message>
+    <message>
+        <source>Get one free eBook every year from one of your favourite genres</source>
+        <translation>Nhận miễn phí một eBook mỗi năm trong các thể loại bạn yêu thích</translation>
+    </message>
+    <message>
+        <source>Kobo Super Points Member</source>
+        <translation>Thành viên Kobo Super Points</translation>
+    </message>
+    <message>
+        <source>Kobo VIP Member</source>
+        <translation>Thành viên Kobo VIP</translation>
+    </message>
+    <message>
+        <source>Learn More</source>
+        <translation>Đọc thêm</translation>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Đọc thêm</translation>
+    </message>
+    <message>
+        <source>Membership Benefits</source>
+        <translation>Các quyền lợi thành viên</translation>
+    </message>
+    <message>
+        <source>or </source>
+        <translation>hoặc </translation>
+    </message>
+    <message>
+        <source>PLEASE ALLOW UP TO 24 HOURS FOR YOUR POINTS BALANCE TO UPDATE.</source>
+        <translation>CÓ THỂ MẤT 24 GIỜ ĐỂ ĐIỂM CỦA BẠN ĐƯỢC CẬP NHẬT.</translation>
+    </message>
+    <message>
+        <source>PLEASE ALLOW UP TO 24 HOURS FOR YOUR POINTS BALANCE TO UPDATE. LAST SYNC: %0.</source>
+        <translation>CÓ THỂ MẤT 24 GIỜ ĐỂ ĐIỂM CỦA BẠN ĐƯỢC CẬP NHẬT. ĐỒNG BỘ LẦN CUỐI: %0.</translation>
+    </message>
+    <message>
+        <source>Redeem %0 Kobo Super Points</source>
+        <translation>Nhận %0 Kobo Super Points</translation>
+    </message>
+    <message>
+        <source>Redeem from over 1 million books starting from %0 points</source>
+        <translation>Nhận thưởng từ hơn 1 triệu cuốn sách bắt đầu từ %0 điểm</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>STATUS</source>
+        <translation>TRẠNG THÁI</translation>
+    </message>
+    <message>
+        <source>Upgrade %0/year</source>
+        <translation>Nâng cấp %0/năm</translation>
+    </message>
+    <message>
+        <source>Upgrade to a Kobo VIP Membership to earn more, save more and get rewarded faster.</source>
+        <translation>Nâng cấp lên tài khoản VIP để nhận các phần thưởng nhiều hơn và nhanh hơn.</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP Membership</source>
+        <translation>Nâng cấp thành tài khoản VIP</translation>
+    </message>
+    <message>
+        <source>VIP Membership Benefits</source>
+        <translation>Quyền lợi thành viên VIP</translation>
+    </message>
+    <message>
+        <source>∙</source>
+        <translation>∙</translation>
+    </message>
+</context>

@@ -1,0 +1,35 @@
+<context>
+    <name>Nickel3Application</name>
+    <message>
+        <source>Critical Error</source>
+        <translation>Lỗi nghiêm trọng</translation>
+    </message>
+    <message>
+        <source>Ok, got it</source>
+        <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>Please recharge the stylus battery soon.</source>
+        <translation>Vui lòng sạc lại pin của stylus sớm.</translation>
+    </message>
+    <message>
+        <source>Please recharge/replace the battery soon.</source>
+        <translation>Vui lòng sạc/thay pin sớm.</translation>
+    </message>
+    <message>
+        <source>Please replace the stylus battery soon.</source>
+        <translation>Hãy thay pin của stylus sớm.</translation>
+    </message>
+    <message>
+        <source>Replace your stylus tip</source>
+        <translation>Thay đầu bút stylus của bạn</translation>
+    </message>
+    <message>
+        <source>Stylus battery is low</source>
+        <translation>Pin của stylus sắp hết</translation>
+    </message>
+    <message>
+        <source>Your stylus tip has worn out and should be replaced.</source>
+        <translation>Đầu bút stylus của bạn đã bị mòn và cần được thay thế.</translation>
+    </message>
+</context>

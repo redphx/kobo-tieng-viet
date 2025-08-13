@@ -1,0 +1,11 @@
+<context>
+    <name>SideLoadingPage</name>
+    <message>
+        <source>1. Connect the USB cable to your eReader and computer.&lt;br&gt;&lt;br&gt;2. Drag eBooks from your computer into the %1 eReader’ drive. Supported eBook file formats include: EPUB, PDF, MOBI, CBZ, and CBR.&lt;br&gt;&lt;br&gt;3. Eject your eReader.</source>
+        <translation>1. Kết nối cáp USB với máy đọc sách và máy tính của bạn.&lt;br&gt;&lt;br&gt;2. Kéo eBook từ máy tính vào ổ đĩa máy đọc sách %1. Các định dạng eBook hỗ trợ bao gồm: EPUB, PDF, MOBI, CBZ và CBR.&lt;br&gt;&lt;br&gt;3. Tháo máy đọc sách của bạn.</translation>
+    </message>
+    <message>
+        <source>Adding eBooks from your computer</source>
+        <translation>Thêm eBook từ máy tính của bạn</translation>
+    </message>
+</context>

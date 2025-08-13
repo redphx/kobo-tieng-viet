@@ -1,0 +1,19 @@
+<context>
+    <name>ParentalControlPinCodeController</name>
+    <message>
+        <source>&lt;center&gt;Parental Controls are now turned off.&lt;br&gt;&lt;br&gt;To turn it back on, go to Settings and select Accounts.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Tính năng Kiểm soát của cha mẹ hiện đã bị tắt.&lt;br&gt;&lt;br&gt;Để bật lại tính năng này, hãy đi tới Cài đặt và chọn Tài khoản.&lt;/center&gt;</translation>
+    </message>
+    <message>
+        <source>Don't forget to keep your PIN safe. If you forget it, you'll need to sign out, and may lose your recent bookmarks or annotations.</source>
+        <translation>Đừng quên giữ mã PIN an toàn. Nếu quên, bạn sẽ phải đăng xuất và có thể mất dấu trang hoặc chú thích gần đây.</translation>
+    </message>
+    <message>
+        <source>Parental Controls</source>
+        <translation>Kiểm soát của phụ huynh</translation>
+    </message>
+    <message>
+        <source>Parental Controls enabled</source>
+        <translation>Đã bật Kiểm soát của phụ huynh</translation>
+    </message>
+</context>

@@ -1,0 +1,27 @@
+<context>
+    <name>PocketWorkflowManager</name>
+    <message>
+        <source>A problem with your network connection prevented Pocket from being updated.
+
+Please check your connection and try again.</source>
+        <translation>Sự cố kết nối mạng khiến Pocket không thể cập nhật.
+
+Vui lòng kiểm tra kết nối mạng và thử lại.</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation>Đang tải</translation>
+    </message>
+    <message>
+        <source>No Network Connection</source>
+        <translation>Không có kết nối mạng</translation>
+    </message>
+    <message>
+        <source>Pocket Update Error</source>
+        <translation>Lỗi cập nhật Pocket</translation>
+    </message>
+    <message>
+        <source>Sorry, something is preventing Pocket from being updated right now. Please try again later.</source>
+        <translation>Rất tiếc, có sự cố ngăn Pocket cập nhật lúc này. Vui lòng thử lại sau.</translation>
+    </message>
+</context>

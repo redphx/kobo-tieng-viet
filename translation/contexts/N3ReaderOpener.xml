@@ -1,0 +1,31 @@
+<context>
+    <name>N3ReaderOpener</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Please try again.</source>
+        <translation>Vui lòng thử lại.</translation>
+    </message>
+    <message>
+        <source>Sync failed</source>
+        <translation>Đồng bộ thất bại</translation>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation>Đồng bộ ngay</translation>
+    </message>
+    <message>
+        <source>Sync required</source>
+        <translation>Yêu cầu đồng bộ</translation>
+    </message>
+    <message>
+        <source>Sync your device to download the required handwriting recognition resources.</source>
+        <translation>Đồng bộ thiết bị để tải tài nguyên nhận dạng chữ viết tay cần thiết.</translation>
+    </message>
+    <message>
+        <source>Syncing recognition resources...</source>
+        <translation>Đang đồng bộ tài nguyên nhận dạng...</translation>
+    </message>
+</context>

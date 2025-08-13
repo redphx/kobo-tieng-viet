@@ -1,0 +1,39 @@
+<context>
+    <name>ExportLocationOptions</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Export Notebook</source>
+        <translation>Xuất sổ tay</translation>
+    </message>
+    <message>
+        <source>Export to Computer</source>
+        <translation>Xuất đến máy tính</translation>
+    </message>
+    <message>
+        <source>Export to Dropbox</source>
+        <translation>Xuất đến Dropbox</translation>
+    </message>
+    <message>
+        <source>Export to Google Drive</source>
+        <translation>Xuất đến Google Drive</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Tiếp theo</translation>
+    </message>
+    <message>
+        <source>You can access this file by connecting your eReader to your computer with a USB cable.</source>
+        <translation>Bạn có thể truy cập file này bằng cách kết nối máy đọc sách với máy tính bằng cáp USB.</translation>
+    </message>
+    <message>
+        <source>You can access this file in the Rakuten Kobo folder of your Dropbox account.</source>
+        <translation>Bạn có thể truy cập file này trong thư mục Rakuten Kobo của tài khoản Dropbox của mình.</translation>
+    </message>
+    <message>
+        <source>You can access this file in the Rakuten Kobo folder of your Google Drive account.</source>
+        <translation>Bạn có thể truy cập file này trong thư mục Rakuten Kobo của tài khoản Google Drive của mình.</translation>
+    </message>
+</context>

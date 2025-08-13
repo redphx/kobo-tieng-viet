@@ -1,0 +1,15 @@
+<context>
+    <name>TasteProfileDoneView</name>
+    <message>
+        <source>Thank you!</source>
+        <translation>Cảm ơn!</translation>
+    </message>
+    <message>
+        <source>View recommendations</source>
+        <translation>Xem đề xuất</translation>
+    </message>
+    <message>
+        <source>We have some personalized recommendations for you. As you read and review books from Kobo, we’ll suggest more books we think you’ll enjoy.</source>
+        <translation>Chúng tôi có một số đề xuất cá nhân hóa cho bạn. Khi bạn đọc và đánh giá sách trên Kobo, chúng tôi sẽ đề xuất thêm những cuốn sách mà bạn có thể thích.</translation>
+    </message>
+</context>

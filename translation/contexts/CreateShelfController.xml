@@ -1,0 +1,31 @@
+<context>
+    <name>CreateShelfController</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy</translation>
+    </message>
+    <message>
+        <source>Collection name</source>
+        <translation>Tên bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Create new collection</source>
+        <translation>Tạo bộ sưu tập mới</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Tiếp</translation>
+    </message>
+    <message>
+        <source>Rename collection</source>
+        <translation>Đổi tên bộ sưu tập</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Lưu</translation>
+    </message>
+    <message>
+        <source>Sorry. A collection with this name already exists.</source>
+        <translation>Xin lỗi. Đã có bộ sưu tập trùng tên.</translation>
+    </message>
+</context>

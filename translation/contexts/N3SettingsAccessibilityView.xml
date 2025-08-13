@@ -1,0 +1,23 @@
+<context>
+    <name>N3SettingsAccessibilityView</name>
+    <message>
+        <source>A system update is required for early access to optional features like Read Aloud (text-to-speech), Display &amp; Text Size (large print), and Screen Reader.</source>
+        <translation>Bạn cần cập nhật hệ thống để có quyền truy cập sớm vào các tính năng tùy chọn như Đọc to (chuyển văn bản thành giọng nói), Hiển thị &amp; Cỡ chữ (chữ lớn) và Trình đọc màn hình.</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Bật</translation>
+    </message>
+    <message>
+        <source>SETTINGS</source>
+        <translation>CÀI ĐẶT</translation>
+    </message>
+    <message>
+        <source>SYSTEM UPDATE REQUIRED</source>
+        <translation>YÊU CẦU CẬP NHẬT HỆ THỐNG</translation>
+    </message>
+    <message>
+        <source>Update to enable accessibility features</source>
+        <translation>Cập nhật để bật các tính năng Hỗ trợ tiếp cận</translation>
+    </message>
+</context>

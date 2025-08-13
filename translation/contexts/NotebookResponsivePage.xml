@@ -1,0 +1,15 @@
+<context>
+    <name>NotebookResponsivePage</name>
+    <message>
+        <source>Add, move, or resize content as needed. Even your handwritten notes reflow automatically.</source>
+        <translation>Thêm, di chuyển hoặc thay đổi kích thước nội dung theo nhu cầu. Ngay cả ghi chú viết tay của bạn cũng tự động sắp xếp lại.</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>Xong</translation>
+    </message>
+    <message>
+        <source>Your notebook is responsive</source>
+        <translation>Sổ tay của bạn có khả năng tự điều chỉnh</translation>
+    </message>
+</context>

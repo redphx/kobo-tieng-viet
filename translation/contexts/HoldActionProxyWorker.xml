@@ -1,0 +1,31 @@
+<context>
+    <name>HoldActionProxyWorker</name>
+    <message>
+        <source>Please contact %1 directly for more details.</source>
+        <translation>Vui lòng liên hệ trực tiếp %1 để biết thêm chi tiết.</translation>
+    </message>
+    <message>
+        <source>Sorry, you can't place any more holds right now</source>
+        <translation>Rất tiếc, bạn không thể đặt thêm chỗ vào lúc này</translation>
+    </message>
+    <message>
+        <source>There seems to be a problem with your library card</source>
+        <translation>Có vấn đề với thẻ thư viện của bạn</translation>
+    </message>
+    <message>
+        <source>This book is not currently available from your library</source>
+        <translation>Cuốn sách này hiện không có tại thư viện của bạn</translation>
+    </message>
+    <message>
+        <source>You're on the wait list and you'll receive an email when it becomes available</source>
+        <translation>Bạn đang trong hàng chờ và sẽ nhận được email khi sách có sẵn</translation>
+    </message>
+    <message>
+        <source>You've already placed a hold on this book</source>
+        <translation>Bạn đã đặt chỗ cuốn sách này</translation>
+    </message>
+    <message>
+        <source>You've reached the maximum number of items that you can place on hold at a time. Please contact %1 directly for more details.</source>
+        <translation>Bạn đã đạt giới hạn đặt chỗ tối đa. Vui lòng liên hệ %1 để biết thêm chi tiết.</translation>
+    </message>
+</context>

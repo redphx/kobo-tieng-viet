@@ -1,0 +1,15 @@
+<context>
+    <name>N3DatePicker</name>
+    <message>
+        <source>Day</source>
+        <translation>Ngày</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation>Tháng</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Năm</translation>
+    </message>
+</context>

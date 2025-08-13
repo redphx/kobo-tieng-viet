@@ -1,0 +1,27 @@
+<context>
+    <name>WirelessAddNetworkController</name>
+    <message>
+        <source>Add a Wi Fi network</source>
+        <translation>Thêm mạng Wi-Fi</translation>
+    </message>
+    <message>
+        <source>Connecting to "%1"</source>
+        <translation>Đang kết nối với "%1"</translation>
+    </message>
+    <message>
+        <source>Join</source>
+        <translation>Kết nối</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Mở</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>Thử lại</translation>
+    </message>
+    <message>
+        <source>Unable to join "%1". Please try again.</source>
+        <translation>Không thể kết nối với "%1". Hãy thử lại.</translation>
+    </message>
+</context>

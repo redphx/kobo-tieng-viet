@@ -1,0 +1,11 @@
+<context>
+    <name>MissingBooksIntroPage</name>
+    <message>
+        <source>If you think there are purchased books missing from your My Books section, please try the following steps in order. Swipe to the next page to get started.</source>
+        <translation>Nếu bạn nghĩ có sách đã mua bị thiếu trong phần Sách của tôi, vui lòng thực hiện các bước sau theo thứ tự. Vuốt sang trang tiếp theo để bắt đầu.</translation>
+    </message>
+    <message>
+        <source>Troubleshooting missing books</source>
+        <translation>Khắc phục sự cố sách bị thiếu</translation>
+    </message>
+</context>

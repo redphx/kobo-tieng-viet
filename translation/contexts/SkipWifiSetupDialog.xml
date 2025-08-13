@@ -1,0 +1,23 @@
+<context>
+    <name>SkipWifiSetupDialog</name>
+    <message>
+        <source>Can't connect</source>
+        <translation>Không thể kết nối</translation>
+    </message>
+    <message>
+        <source>Go back</source>
+        <translation>Quay lại</translation>
+    </message>
+    <message>
+        <source>It looks like kobo.com or your Internet connection is currently unavailable.&lt;br&gt;&lt;br&gt;You can skip setup, but some features like Store and Sync support will not be available until you sign in. You can sign in later in More &gt; Settings &gt; Accounts.</source>
+        <translation>Có vẻ như kobo.com hoặc kết nối Internet của bạn hiện không khả dụng.&lt;br&gt;&lt;br&gt;Bạn có thể bỏ qua thiết lập, nhưng một số tính năng như Cửa hàng và Đồng bộ sẽ không dùng được cho đến khi bạn đăng nhập. Bạn có thể đăng nhập sau trong Thêm &gt; Cài đặt &gt; Tài khoản.</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>Thử lại</translation>
+    </message>
+    <message>
+        <source>Skip Wi Fi Setup</source>
+        <translation>Bỏ qua thiết lập Wi-Fi</translation>
+    </message>
+</context>
