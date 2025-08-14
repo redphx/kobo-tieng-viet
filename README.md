@@ -34,10 +34,11 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 
 ***Đã cài đặt thành công trên:***
 
-| Thiết bị          | 4.42.23296 |
-| ----------------- |:----------:|
-| Kobo Clara BW     | ✓          |
-| Kobo Libra Colour | ✓          |
+| Thiết bị     | 4.42.23296 | 4.38.23171 |
+| ------------ |:----------:|:----------:|
+| Clara BW     | ✓          |            |
+| Libra Colour | ✓          |            |
+| Libra 2      |            | ✓          |
 
 ### Các bước cài đặt
 > Khả năng bản cài đặt làm hỏng máy là rất rất thấp, nhưng rủi ro là điều không thể tránh khỏi. Trong trường hợp xấu nhất, bạn sẽ chỉ phải cài lại máy (máy không thể hỏng hoàn toàn). Mình không chịu trách nhiệm nếu bản cài đặt gây hư hỏng máy của bạn.
@@ -77,6 +78,9 @@ Nếu không thích các font này, bạn có thể thay chúng bằng cách c�
 
 - Tôi có thể sử dụng bản cài đặt cho Kobo phiên bản nào?
   > Theo lý thuyết thì bản cài đặt tương thích với mọi dòng máy và firmware
+
+- Tôi đã cài bản [lelinhtinh/kobo-tieng-viet](https://github.com/lelinhtinh/kobo-tieng-viet), giờ có thể cài thêm bản này không?
+  > Hoàn toàn được, không lỗi lầm gì. Bạn chỉ cần làm theo hướng dẫn ở trên.
 
 - Sau khi cập nhật firmware mới cho Kobo tôi có phải cài đặt lại tiếng Việt không?
   > Có, vì firmware mới sẽ ghi đè các font sửa lỗi tiếng Việt
