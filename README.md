@@ -41,7 +41,6 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 | Libra 2      |            | ✓          |
 
 ### Các bước cài đặt
-> Khả năng bản cài đặt làm hỏng máy là rất rất thấp, nhưng rủi ro là điều không thể tránh khỏi. Trong trường hợp xấu nhất, bạn sẽ chỉ phải cài lại máy (máy không thể hỏng hoàn toàn). Mình không chịu trách nhiệm nếu bản cài đặt gây hư hỏng máy của bạn.
 
 1. [Tải file `KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
 2. Kết nối Kobo với máy tính qua cổng USB
