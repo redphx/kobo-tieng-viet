@@ -44,7 +44,7 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 
 1. [Tải file `KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
 2. Kết nối Kobo với máy tính qua cổng USB
-3. Chép file `KoboRoot.tgz` vừa tải vào thư mục `.kobo` trên Kobo (để nguyên, không giải nén)
+3. Chép file `KoboRoot.tgz` vừa tải vào thư mục `.kobo` trên Kobo. Để nguyên, không giải nén, tên file phải là `KoboRoot.tgz`.
   > Nếu bạn dùng macOS và không thấy thư mục `.kobo`, nhấn tổ hợp phím `Cmd + Shift + .` để hiện thư mục ẩn trong Finder
 4. Dùng chức năng `Tháo/Eject USB` trên máy tính để ngắt kết nối an toàn, tránh mất dữ liệu
 5. Nếu làm đúng, Kobo sẽ tự động cập nhật và khởi động lại. Quá trình này chỉ mất tầm 3 phút. ***Không tắt nguồn khi máy đang cập nhật***.
