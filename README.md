@@ -39,6 +39,7 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 | Clara BW     | ✓          |            |
 | Libra Colour | ✓          |            |
 | Libra 2      |            | ✓          |
+| Clara HD     |            | ✓          |
 
 ### Các bước cài đặt
 
