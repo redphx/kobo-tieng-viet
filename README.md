@@ -37,9 +37,9 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 | Thiết bị     | 4.42.23296 | 4.38.23171 |
 | ------------ |:----------:|:----------:|
 | Clara BW     | ✓          |            |
-| Libra Colour | ✓          |            |
-| Libra 2      |            | ✓          |
 | Clara HD     |            | ✓          |
+| Libra 2      |            | ✓          |
+| Libra Colour | ✓          |            |
 
 ### Các bước cài đặt
 
