@@ -9,6 +9,9 @@ Dự án này được tạo ra để khắc phục hai vấn đề trên.
 
 Bản cài đặt *hoàn toàn miễn phí* này cung cấp giao diện tiếng Việt và sửa lỗi hiển thị tiếng Việt trên các máy đọc sách Kobo.
 
+> [!NOTE]
+> *🇬🇧 If you want to create a new language pack for your language, check [redphx/kobo-language-pack](https://github.com/redphx/kobo-language-pack)*
+
 ## 🔥 1. Chức năng của bản cài đặt
 - Cung cấp giao diện tiếng Việt cho máy, hơn 3000 câu được dịch, tỉ lệ > 98%
 - Sửa lỗi hiển thị tiếng Việt
