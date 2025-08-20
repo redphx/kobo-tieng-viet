@@ -13,7 +13,7 @@ Bản cài đặt *hoàn toàn miễn phí* này cung cấp giao diện tiếng 
 > *🇬🇧 If you want to create a new language pack for your language, check [redphx/kobo-language-pack](https://github.com/redphx/kobo-language-pack)*
 
 ## 🔥 1. Chức năng của bản cài đặt
-- Cung cấp giao diện tiếng Việt cho máy, hơn 3000 câu được dịch, tỉ lệ > 98%
+- Thêm ngôn ngữ tiếng Việt cho máy, hơn 3000 câu được dịch, tỉ lệ > 98% (thêm mới, không ghi đè ngôn ngữ hệ thống)
 - Sửa lỗi hiển thị tiếng Việt
 - Sửa lỗi không hiển thị chính xác font monospace
 - Dễ cài đặt, kích thước nhỏ gọn (bé hơn 10MB)
@@ -39,12 +39,16 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 
 | Thiết bị     | 4.42.23296 | 4.38.23171 |
 | ------------ |:----------:|:----------:|
+| Clara 2E     |            | ✓          |
 | Clara BW     | ✓          |            |
 | Clara HD     |            | ✓          |
 | Libra 2      |            | ✓          |
 | Libra Colour | ✓          |            |
 
 ### Các bước cài đặt
+
+> [!NOTE]
+> Nên đọc mục ***4. Các câu hỏi thường gặp*** trước khi cài đặt.
 
 1. [Tải file `KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
 2. Kết nối Kobo với máy tính qua cổng USB
@@ -80,16 +84,19 @@ Nếu không thích các font này, bạn có thể thay chúng bằng cách c�
 - **Cài đặt cái này có làm hư máy không?**  
   > Bản cài đặt chỉ cập nhật font và thêm file ngôn ngữ tiếng Việt cho giao diện, không chỉnh sửa file hệ thống nên khả năng làm hư máy là gần như không có
 
-- Tôi có thể sử dụng bản cài đặt cho Kobo phiên bản nào?
+- **Tôi có thể sử dụng bản cài đặt cho Kobo phiên bản nào?**
   > Theo lý thuyết thì bản cài đặt tương thích với mọi dòng máy và firmware
 
-- Tôi đã cài bản [lelinhtinh/kobo-tieng-viet](https://github.com/lelinhtinh/kobo-tieng-viet), giờ có thể cài thêm bản này không?
+- **Tôi đã cài bản [lelinhtinh/kobo-tieng-viet](https://github.com/lelinhtinh/kobo-tieng-viet), giờ có thể cài thêm bản này không?**
   > Hoàn toàn được, không lỗi lầm gì. Bạn chỉ cần làm theo hướng dẫn ở trên.
 
-- Sau khi cập nhật firmware mới cho Kobo tôi có phải cài đặt lại tiếng Việt không?
+- **Tôi đã cài bản bản patch tiếng Việt của người khác làm, giờ có thể cài thêm bản này không?**
+  > Mình không rõ các bản đó đã thay đổi những gì nên có thể sẽ không thể sử dụng chung được. Tốt nhất bạn nên reset về firmware gốc của máy, sau đó cài đặt lại bản này.
+
+- **Sau khi cập nhật firmware mới cho Kobo tôi có phải cài đặt lại tiếng Việt không?**
   > Có, vì firmware mới sẽ ghi đè các font sửa lỗi tiếng Việt
 
-- Làm sao để biết được phiên bản tiếng Việt đang cài đặt?
+- **Làm sao để biết được phiên bản tiếng Việt đang cài đặt?**
   > Xem tại `Thêm > Cài đặt > Về Kobo`
 
 ## 👩‍💻 5. Việc cần làm
