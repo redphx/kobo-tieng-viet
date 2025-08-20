@@ -37,49 +37,35 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 
 ***Đã cài đặt thành công trên:***
 
-| Thiết bị     | 4.42.23296 | 4.38.23171 |
-| ------------ |:----------:|:----------:|
-| Clara 2E     |            | ✓          |
-| Clara BW     | ✓          |            |
-| Clara HD     |            | ✓          |
-| Libra 2      |            | ✓          |
-| Libra Colour | ✓          |            |
+| Kobo         | 4.42.x | 4.38.x |
+| ------------ |:------:|:------:|
+| Clara BW     | ✓      |        |
+| Clara Colour | ✓      |        |
+| Libra Colour | ✓      |        |
+| Clara 2E     |        | ✓      |
+| Clara HD     |        | ✓      |
+| Libra 2      |        | ✓      |
+
 
 ### Các bước cài đặt
 
 > [!NOTE]
-> Nên đọc mục ***4. Các câu hỏi thường gặp*** trước khi cài đặt.
+> Nên đọc mục ***3. Các câu hỏi thường gặp*** trước khi cài đặt.
 
-1. [Tải file `KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
-2. Kết nối Kobo với máy tính qua cổng USB
-3. Chép file `KoboRoot.tgz` vừa tải vào thư mục `.kobo` trên Kobo. Để nguyên, không giải nén, tên file phải là `KoboRoot.tgz`.
+1. Tải file [`KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
+2. Kết nối Kobo với máy tính qua cổng USB, chép file `KoboRoot.tgz` vừa tải vào thư mục `.kobo` trên Kobo. Để nguyên, không giải nén, tên file phải là `KoboRoot.tgz`.
   > Nếu bạn dùng macOS và không thấy thư mục `.kobo`, nhấn tổ hợp phím `Cmd + Shift + .` để hiện thư mục ẩn trong Finder
-4. Dùng chức năng `Tháo/Eject USB` trên máy tính để ngắt kết nối an toàn, tránh mất dữ liệu
-5. Nếu làm đúng, Kobo sẽ tự động cập nhật và khởi động lại. Quá trình này chỉ mất tầm 3 phút. ***Không tắt nguồn khi máy đang cập nhật***.
-6. Máy sẽ tự động chuyển sang giao diện tiếng Việt. Nếu không, bạn có thể tự bật bằng cách:  
+3. Dùng chức năng `Tháo/Eject USB` trên máy tính để ngắt kết nối an toàn, tránh mất dữ liệu
+4. Nếu làm đúng, Kobo sẽ tự động cập nhật và khởi động lại. Quá trình này chỉ mất tầm 3 phút. ***Không tắt nguồn khi máy đang cập nhật***.
+5. Máy sẽ tự động chuyển sang giao diện tiếng Việt. Nếu không, bạn có thể tự bật bằng cách:  
     `More > Settings > Language and dictionaries > Select your Language > Extra: vi`
-7. ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt Lạc Việt/TFlat 170 ngàn từ tại [redphx/tudien](https://github.com/redphx/tudien)
-8. Tặng ⭐️ cho dự án, và giới thiệu bạn bè, người thân về dự án này 🥰
-9. Hoàn tất
+6. ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt Lạc Việt/TFlat 170 ngàn từ tại [redphx/tudien](https://github.com/redphx/tudien)
+7. Tặng ⭐️ cho dự án, và giới thiệu bạn bè, người thân về dự án này 🥰
+8. Hoàn tất
 
-Khi muốn cập nhật bản cài đặt phiên bản mới, bạn chỉ cần thực hiện lại các bước trên.
+Khi muốn cập nhật phiên bản mới, bạn chỉ cần thực hiện lại các bước trên.
 
-## 📖 3. Thông tin font
-
-Bản cài đặt này sẽ thay đổi các font mặc định của máy (không hỗ trợ tiếng Việt) thành các font khác (hỗ trợ tiếng Việt).
-
-|                       | Font hệ thống                             | Font mới                                                             |
-| ---------------------:| ----------------------------------------- | -------------------------------------------------------------------- |
-| **Serif**             | Rakuten Serif<br>Georgia (firmware cũ)    | [Aleo](https://fonts.google.com/specimen/Aleo)                       |
-| **Sans Serif**        | Rakuten Sans<br>Avenir Next (firmware cũ) | [Roboto](https://fonts.google.com/specimen/Roboto)                   |
-| **Monospace**         | Không hỗ trợ (*)                          | [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) |
-| **Hỗ trợ tiếng Việt** | ✗                                         | ✓                                                                    |
-
-> (*) Khi một ePub dùng `font-family: monospace`, Kobo sẽ tìm một font hệ thống/tùy chọn bắt đầu bằng `Courier `. Tuy nhiên, Kobo không có font nào đáp ứng được tiêu chí trên nên việc hiển thị các chữ `monospace` bị sai. Để sửa lỗi này, bộ cài đặt sẽ chép các font cần thiết vào thư mục font tùy chọn `/fonts`.
-
-Nếu không thích các font này, bạn có thể thay chúng bằng cách cập nhật font mới trong thư mục `fonts` (vẫn giữ nguyên tên), rồi làm theo hướng dẫn bên dưới để tạo lại bản cài đặt.
-
-## 🙋 4. Các câu hỏi thường gặp
+## 🙋 3. Các câu hỏi thường gặp
 
 - **Cài đặt cái này có làm hư máy không?**  
   > Bản cài đặt chỉ cập nhật font và thêm file ngôn ngữ tiếng Việt cho giao diện, không chỉnh sửa file hệ thống nên khả năng làm hư máy là gần như không có
@@ -98,6 +84,21 @@ Nếu không thích các font này, bạn có thể thay chúng bằng cách c�
 
 - **Làm sao để biết được phiên bản tiếng Việt đang cài đặt?**
   > Xem tại `Thêm > Cài đặt > Về Kobo`
+
+## 📖 4. Thông tin font
+
+Bản cài đặt này sẽ thay đổi các font mặc định của máy (không hỗ trợ tiếng Việt) thành các font khác (hỗ trợ tiếng Việt).
+
+|                       | Font hệ thống                             | Font mới                                                             |
+| ---------------------:| ----------------------------------------- | -------------------------------------------------------------------- |
+| **Serif**             | Rakuten Serif<br>Georgia (firmware cũ)    | [Aleo](https://fonts.google.com/specimen/Aleo)                       |
+| **Sans Serif**        | Rakuten Sans<br>Avenir Next (firmware cũ) | [Roboto](https://fonts.google.com/specimen/Roboto)                   |
+| **Monospace**         | Không hỗ trợ (*)                          | [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) |
+| **Hỗ trợ tiếng Việt** | ✗                                         | ✓                                                                    |
+
+> (*) Khi một ePub dùng `font-family: monospace`, Kobo sẽ tìm một font hệ thống/tùy chọn bắt đầu bằng `Courier `. Tuy nhiên, Kobo không có font nào đáp ứng được tiêu chí trên nên việc hiển thị các chữ `monospace` bị sai. Để sửa lỗi này, bộ cài đặt sẽ chép các font cần thiết vào thư mục font tùy chọn `/fonts`.
+
+Nếu không thích các font này, bạn có thể thay chúng bằng cách cập nhật font mới trong thư mục `fonts` (vẫn giữ nguyên tên), rồi làm theo hướng dẫn bên dưới để tạo lại bản cài đặt.
 
 ## 👩‍💻 5. Việc cần làm
 
@@ -145,7 +146,7 @@ Sau khi có được file `lrelease`, cấu hình đường dẫn của nó tron
 
 4. Cài file trên vào Kobo để thử nghiệm
 
-## 🤝 6. Lời cảm ơn
+## 🤝 7. Lời cảm ơn
 - ChatGPT đã hỗ trợ dịch
 - [lelinhtinh/kobo-tieng-viet](https://github.com/lelinhtinh/kobo-tieng-viet) vì các thông tin về cách sửa lỗi font tiếng Việt
 - [pipcat/kobo](https://github.com/pipcat/kobo) về tool để xuất file ngôn ngữ hệ thống từ firmware
