@@ -16,7 +16,7 @@ Bản cài đặt *hoàn toàn miễn phí* này cung cấp giao diện tiếng 
 - Thêm ngôn ngữ tiếng Việt cho máy, hơn 3000 câu được dịch, tỉ lệ > 98% (thêm mới, không ghi đè ngôn ngữ hệ thống)
 - Sửa lỗi hiển thị tiếng Việt
 - Sửa lỗi không hiển thị chính xác font monospace
-- Dễ cài đặt, kích thước nhỏ gọn (bé hơn 10MB)
+- Dễ cài đặt, kích thước nhỏ gọn (bé hơn 3 MB)
 - Hỗ trợ nhiều dòng máy, không phân biệt firmware
 - ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt Lạc Việt/TFlat 170 ngàn từ cho Kobo/Kindle tại [redphx/tudien](https://github.com/redphx/tudien)
 
@@ -39,9 +39,9 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 
 | Kobo         | 4.42.x | 4.38.x |
 | ------------ |:------:|:------:|
-| Clara BW     | ✓      |        |
-| Clara Colour | ✓      |        |
-| Libra Colour | ✓      |        |
+| Clara BW     | ✓      | ✓      |
+| Clara Colour | ✓      | ✓      |
+| Libra Colour | ✓      | ✓      |
 | Clara 2E     |        | ✓      |
 | Clara HD     |        | ✓      |
 | Libra 2      |        | ✓      |
