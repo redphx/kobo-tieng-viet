@@ -1,5 +1,8 @@
 # 🇻🇳 Dự án Kobo tiếng Việt
 
+> [!IMPORTANT]
+> Vui lòng chỉ chia sẻ link đến dự án thay vì tự ý upload lại bản cài đặt ở nơi khác. Cám ơn.
+
 Có hai vấn đề chính khi sử dụng máy đọc sách Kobo tại Việt Nam:  
 
 1. Máy đọc được eBook tiếng Việt nhưng gặp lỗi hiển thị các phần như tiêu đề, mục lục...
