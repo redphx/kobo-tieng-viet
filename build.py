@@ -194,7 +194,8 @@ def generate_tgz(version: str):
             if '.DS_Store' in arcname:
                 continue
 
-            tar.add(pth, arcname=arcname)
+            print('  -', arcname)
+            tar.add(pth, arcname=arcname, recursive=False)
 
     # Create dist/VERSION
     with open(dist_path / 'VERSION', 'w') as fp:
