@@ -231,7 +231,14 @@ def main():
     copy_fonts()
     generate_tgz(version)
 
-    print('Đã build thành công!')
+    YELLOW = '\033[33m'
+    GREEN = '\033[32m'
+    RESET = '\033[0m'
+
+    print(
+        'Đã build thành công:',
+        f'{GREEN if build == 'release' else YELLOW}{version}{RESET}',
+    )
 
 
 if __name__ == '__main__':
