@@ -40,14 +40,14 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 
 ***Đã cài đặt thành công trên:***
 
-| Kobo         | 4.42.x | 4.38.x |
-| ------------ |:------:|:------:|
-| Clara BW     | ✓      | ✓      |
-| Clara Colour | ✓      | ✓      |
-| Libra Colour | ✓      | ✓      |
-| Clara 2E     |        | ✓      |
-| Clara HD     |        | ✓      |
-| Libra 2      |        | ✓      |
+| Kobo         | Firmware 4.x |
+| ------------ |:------------:|
+| Clara BW     |  ✓           |
+| Clara Colour |  ✓           |
+| Libra Colour |  ✓           |
+| Clara 2E     |  ✓           |
+| Clara HD     |  ✓           |
+| Libra 2      |  ✓           |
 
 
 ### Các bước cài đặt
