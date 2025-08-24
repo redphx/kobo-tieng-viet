@@ -1,7 +1,8 @@
 # 🇻🇳 Dự án Kobo tiếng Việt
-
 > [!IMPORTANT]
 > Vui lòng chỉ chia sẻ link đến dự án thay vì tự ý upload lại bản cài đặt ở nơi khác. Cám ơn.
+
+***Theo dõi Facebook của dự án: https://www.facebook.com/getsachxy***
 
 Có hai vấn đề chính khi sử dụng máy đọc sách Kobo tại Việt Nam:  
 
@@ -63,7 +64,7 @@ Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều 
 5. Máy sẽ tự động chuyển sang giao diện tiếng Việt. Nếu không, bạn có thể tự bật bằng cách:  
     `More > Settings > Language and dictionaries > Select your Language > Extra: vi`
 6. ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt Lạc Việt/TFlat 170 ngàn từ tại [redphx/tudien](https://github.com/redphx/tudien)
-7. Tặng ⭐️ cho dự án, và giới thiệu bạn bè, người thân về dự án này 🥰
+7. Theo dõi [Facebook page của dự án](https://www.facebook.com/getsachxy) để biết thêm thông tin về bản cập nhật mới
 8. Hoàn tất
 
 Khi muốn cập nhật phiên bản mới, bạn chỉ cần thực hiện lại các bước trên.
