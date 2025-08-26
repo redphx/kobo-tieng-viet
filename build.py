@@ -68,8 +68,8 @@ FONTS = {
 }
 
 
-def copy_fonts():
-    FONTS_SOURCE_DIR = './fonts'
+def copy_fonts(fonts_dir: str):
+    FONTS_SOURCE_DIR = fonts_dir or './fonts'
     FONTS_TROLLTECH_DIR = (
         Path(KOBOROOT_DIR)
         / 'usr'
@@ -120,7 +120,7 @@ def copy_fonts():
 
                 font.save(output_path)
 
-    print(f'- Đã chép font vào thư mục {FONTS_TROLLTECH_DIR}')
+    print(f'- Đã chép font từ "{FONTS_SOURCE_DIR}" đến {FONTS_TROLLTECH_DIR}')
 
 
 def inject_about_page(source: str, version: str):
@@ -213,6 +213,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--build', type=str, default='dev', choices=['release', 'dev'])
     parser.add_argument('--version', type=str, help='Version in YYYYMMDD format')
+    parser.add_argument('--fonts', type=str, help='Path to fonts dir')
     args = parser.parse_args()
 
     build = args.build
@@ -228,7 +229,7 @@ def main():
 
     # Start building
     combine_translations(version)
-    copy_fonts()
+    copy_fonts(args.fonts)
     generate_tgz(version)
 
     YELLOW = '\033[33m'
