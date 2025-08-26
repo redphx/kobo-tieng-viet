@@ -37,12 +37,13 @@ Xin cảm ơn ♥️
 
 ## 🤓 2. Hướng dẫn cài đặt
 
-Theo lý thuyết thì bản cài đặt có thể dùng được trên nhiều dòng máy, không phân biệt firmware.
+Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy firmware từ 4.x trở lên. Có thể cài trên 3.x nhưng chưa được kiểm nghiệm.
 
 ***Đã cài đặt thành công trên:***
 
 | Kobo         | Firmware 4.x |
 | ------------ |:------------:|
+| Aura (2013)  |  ✓           |
 | Clara BW     |  ✓           |
 | Clara Colour |  ✓           |
 | Libra Colour |  ✓           |
