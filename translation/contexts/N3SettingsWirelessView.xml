@@ -5,6 +5,14 @@
         <translation>Kết nối</translation>
     </message>
     <message>
+        <source>Delete Wi Fi networks:</source>
+        <translation>Xóa mạng Wi-Fi:</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
         <source>Disabling Wi Fi prevents your eReader from connecting to the Internet automatically.</source>
         <translation>Việc tắt Wi-Fi sẽ ngăn máy đọc sách của bạn tự động kết nối với Internet.</translation>
     </message>
