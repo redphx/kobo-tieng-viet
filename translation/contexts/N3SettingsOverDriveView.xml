@@ -9,6 +9,16 @@
         <translation>Thêm một thẻ thư viện</translation>
     </message>
     <message>
+        <source>CARD DETAILS</source>
+        <translation>THÔNG TIN THẺ</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>COMMUNICATION</source>
+        <translation>GIAO TIẾP</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Edit</source>
         <translation>Chỉnh sửa</translation>
     </message>
@@ -21,6 +31,11 @@
         <translation>Nếu bạn không thể nhớ số thẻ thư viện hoặc mã PIN của mình hoặc bạn gặp sự cố khi đăng nhập, vui lòng liên hệ trực tiếp với thư viện của bạn để được hỗ trợ.</translation>
     </message>
     <message>
+        <source>Library card added</source>
+        <translation>Đã thêm thẻ thư viện</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Not signed in to OverDrive</source>
         <translation>Chưa đăng nhập vào OverDrive</translation>
     </message>
@@ -31,6 +46,11 @@
     <message>
         <source>PREFERENCES</source>
         <translation>TÙY CHỌN</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Xóa</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>SETTINGS</source>

@@ -53,6 +53,11 @@
         <translation>Google Drive</translation>
     </message>
     <message>
+        <source>INSTAPAPER</source>
+        <translation>INSTAPAPER</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Not authorized with Adobe Digital Editions</source>
         <translation>Chưa cấp phép với Adobe Digital Editions</translation>
     </message>
@@ -85,8 +90,13 @@
         <translation>Nhập thẻ nạp</translation>
     </message>
     <message>
+        <source>Save and read articles from the web with a free Instapaper account.</source>
+        <translation>Lưu và đọc bài viết từ web với tài khoản Instapaper miễn phí.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Save and read articles from the web with a free Pocket account.</source>
-        <translation>Lưu và đọc bài viết web với tài khoản Pocket miễn phí.</translation>
+        <translation>Lưu và đọc bài viết từ web với tài khoản Pocket miễn phí.</translation>
     </message>
     <message>
         <source>SETTINGS</source>
@@ -143,6 +153,11 @@
     <message>
         <source>You're not signed in to Google Drive</source>
         <translation>Bạn chưa đăng nhập Google Drive</translation>
+    </message>
+    <message>
+        <source>You're not signed in to Instapaper</source>
+        <translation>Bạn chưa đăng nhập Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>You're not signed in to Pocket</source>

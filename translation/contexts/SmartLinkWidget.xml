@@ -67,12 +67,22 @@
         <translation>Bắt đầu với sách nói trên máy đọc sách của bạn</translation>
     </message>
     <message>
+        <source>Get started with audiobooks on your eReader</source>
+        <translation>Bắt đầu với sách nói trên máy đọc sách của bạn</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Get to know your %0</source>
         <translation>Tìm hiểu về %0 của bạn</translation>
     </message>
     <message>
         <source>GETTING STARTED</source>
         <translation>BẮT ĐẦU</translation>
+    </message>
+    <message>
+        <source>INSTAPAPER</source>
+        <translation>INSTAPAPER</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>KOBO PLUS</source>

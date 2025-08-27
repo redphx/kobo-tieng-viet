@@ -9,8 +9,18 @@
         <translation>Không có mạng Wi-Fi?</translation>
     </message>
     <message>
+        <source>Let's get started</source>
+        <translation>Bắt đầu thôi</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>No Wi-Fi? Set up eReader later.</source>
         <translation>Không có Wi-Fi? Thiết lập máy đọc sách sau.</translation>
+    </message>
+    <message>
+        <source>No WiFi? Set up eReader later.</source>
+        <translation>Không có Wi-Fi? Thiết lập máy đọc sách sau.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Set up over Wi Fi</source>

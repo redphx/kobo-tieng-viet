@@ -1,0 +1,23 @@
+<context>
+    <name>InstapaperEmptyState</name>
+    <message>
+        <source>Find something you want to view later? Save it in Instapaper and enjoy it on your Kobo eReader, phone, tablet and computer whenever you're ready - even offline.</source>
+        <translation>Tìm thấy nội dung muốn xem sau? Lưu nó vào Instapaper và thưởng thức trên máy đọc sách Kobo, điện thoại, máy tính bảng và máy tính bất cứ khi nào bạn sẵn sàng - ngay cả khi không có mạng.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Learn more</source>
+        <translation>Tìm hiểu thêm</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Link with Instapaper</source>
+        <translation>Liên kết với Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Read articles on your eReader with Instapaper</source>
+        <translation>Đọc các bài viết trên máy đọc sách của bạn với Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+</context>

@@ -1,0 +1,13 @@
+<context>
+    <name>InstapaperFinishedMenuController</name>
+    <message>
+        <source>Archived</source>
+        <translation>Đã lưu trữ</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Re-added to list</source>
+        <translation>Đã thêm lại vào danh sách</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+</context>

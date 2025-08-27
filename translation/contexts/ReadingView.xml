@@ -49,6 +49,11 @@
         <translation>%1, %2, %3 và %4 đã được bật làm font bổ sung cho cuốn sách này.</translation>
     </message>
     <message>
+        <source>%1&lt;br/&gt;&lt;br/&gt;This is a link to an external web page.  Do you want to open it in our experimental browser or save it to Instapaper for later?</source>
+        <translation>%1&lt;br/&gt;&lt;br/&gt;Đây là liên kết tới trang web bên ngoài. Bạn muốn mở trình duyệt thử nghiệm hay lưu vào Instapaper để đọc sau?</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>%1&lt;br/&gt;&lt;br/&gt;This is a link to an external web page.  Do you want to open it in our experimental browser or save it to Pocket for later?</source>
         <translation>%1&lt;br/&gt;&lt;br/&gt;Đây là liên kết tới trang web bên ngoài. Bạn muốn mở trình duyệt thử nghiệm hay lưu vào Pocket để đọc sau?</translation>
     </message>
@@ -111,6 +116,11 @@
         <translation>Đang đọc</translation>
     </message>
     <message>
+        <source>Save to Instapaper</source>
+        <translation>Save to Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Save to Pocket</source>
         <translation>Lưu vào Pocket</translation>
     </message>
@@ -141,6 +151,11 @@
     <message>
         <source>This file format cannot currently be marked up with the %1 Stylus.</source>
         <translation>Định dạng file này hiện không thể đánh dấu bằng stylus %1.</translation>
+    </message>
+    <message>
+        <source>This file format cannot currently be marked up with the %1.</source>
+        <translation>This file format cannot currently be marked up with the %1.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>To support some missing characters in this book, sync now to download</source>

@@ -13,7 +13,17 @@
         <translation>&lt;p style="font-family: Georgia;"&gt;Bây giờ, bạn có thể xuất sổ tay từ máy đọc sách của mình sang Dropbox.&lt;/p&gt;</translation>
     </message>
     <message>
+        <source>eBooks and documents in your Dropbox folder will also now appear on your eReader under More &gt; My Dropbox. Once you download an item from My Dropbox, you'll find it under My Books. </source>
+        <translation>Sách điện tử và tài liệu trong thư mục Dropbox của bạn giờ đây cũng sẽ xuất hiện trên máy đọc sách của bạn trong phần Thêm &gt; Dropbox của tôi. Sau khi tải xuống một mục từ Dropbox của tôi, bạn sẽ tìm thấy mục đó trong Sách của tôi. </translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>If you make annotations in PDFs, we’ll sync them back to Dropbox.&lt;/p&gt;</source>
         <translation>Nếu bạn tạo chú thích trong PDF, chúng tôi sẽ đồng bộ chúng trở lại Dropbox.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>You can now export notebooks from your eReader to Dropbox.&lt;/p&gt;</source>
+        <translation>Từ nay bạn có thể xuất sổ tay từ máy đọc sách sang Dropbox.&lt;/p&gt;</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
 </context>

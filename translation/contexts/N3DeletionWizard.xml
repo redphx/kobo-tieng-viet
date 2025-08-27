@@ -77,6 +77,11 @@
         <translation>Mục sẽ bị xóa vĩnh viễn.</translation>
     </message>
     <message>
+        <source>This article will be deleted from your Instapaper account.</source>
+        <translation>Bài viết sẽ bị xóa khỏi tài khoản Instapaper của bạn.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>This article will be deleted from your Pocket account.</source>
         <translation>Bài viết sẽ bị xóa khỏi tài khoản Pocket của bạn.</translation>
     </message>

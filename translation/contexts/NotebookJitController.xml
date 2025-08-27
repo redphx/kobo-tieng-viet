@@ -30,7 +30,12 @@
     </message>
     <message>
         <source>Enlarge text with a double tap so that it’s easy to edit with the %1 Stylus.</source>
-        <translation>Nhấn đúp để phóng to văn bản, giúp dễ chỉnh sửa bằng stylus %1.</translation>
+        <translation>Phóng to văn bản bằng cách chạm hai lần để dễ chỉnh sửa với stylus %1.</translation>
+    </message>
+    <message>
+        <source>Enlarge text with a double tap so that it’s easy to edit with the %1.</source>
+        <translation>Phóng to văn bản bằng cách chạm hai lần để dễ chỉnh sửa với %1.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Write an equation, then double tap to convert it to formatted text.&lt;br&gt;&lt;br&gt;Tip: You can also use this section as a calculator. Write calculations naturally,  include an equals sign (=), then double tap to convert and show the answer.</source>

@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>It looks like kobo.com or your Internet connection is currently unavailable.&lt;br&gt;&lt;br&gt;Would you like to retry?</source>
-        <translation>Có vẻ như kobo.com hoặc kết nối Internet của bạn hiện không khả dụng.&lt;br&gt;&lt;br&gt;Bạn có muốn thử lại không?</translation>
+        <translation>Có vẻ như kobo.com hoặc kết nối Internet của bạn hiện không vào được.&lt;br&gt;&lt;br&gt;Bạn có muốn thử lại không?</translation>
     </message>
     <message>
         <source>It looks like the network you have selected is a public hotspot.
@@ -39,6 +39,11 @@ Would you like to continue?</source>
         <translation>Có vẻ mạng bạn chọn là điểm phát sóng công cộng.
 
 Bạn có muốn tiếp tục không?</translation>
+    </message>
+    <message>
+        <source>It looks like your Internet connection is currently unavailable.&lt;br&gt;&lt;br&gt;Would you like to retry?</source>
+        <translation>Có vẻ như kết nối Internet của bạn hiện không vào được.&lt;br&gt;&lt;br&gt;Bạn có muốn thử lại không?</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Low Battery</source>

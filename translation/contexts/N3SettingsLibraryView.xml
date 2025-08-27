@@ -27,6 +27,11 @@
         <translation>Sách đã tải xuống từ Google Drive</translation>
     </message>
     <message>
+        <source>Downloaded Instapaper articles</source>
+        <translation>Bài viết đã tải xuống từ Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Downloaded Kobo books</source>
         <translation>Sách đã tải xuống từ Kobo</translation>
     </message>
@@ -61,6 +66,11 @@
     <message>
         <source>Remove all</source>
         <translation>Xóa tất cả</translation>
+    </message>
+    <message>
+        <source>Remove Instapaper articles from this eReader when you archive them:</source>
+        <translation>Xóa các bài viết trên Instapaper khỏi eReader này khi bạn lưu trữ chúng:</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Remove Pocket articles from this eReader when you archive them:</source>

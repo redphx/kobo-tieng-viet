@@ -8,4 +8,9 @@
         <source>Use the %1 Stylus to underline, circle words, or write notes in the margins. %2 saves all your annotations, even if you change the size or style of your text.</source>
         <translation>Sử dụng stylus %1 để gạch chân, khoanh tròn từ hoặc viết ghi chú bên lề. %2 lưu tất cả chú thích của bạn, ngay cả khi thay đổi kích thước hoặc kiểu chữ.</translation>
     </message>
+    <message>
+        <source>Use the %1 to underline, circle words, or write notes in the margins. %2 saves all your annotations, even if you change the size or style of your text.</source>
+        <translation>Sử dụng %1 để gạch chân, khoanh tròn từ hoặc viết ghi chú bên lề. %2 lưu tất cả chú thích của bạn, ngay cả khi thay đổi kích thước hoặc kiểu chữ.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
 </context>

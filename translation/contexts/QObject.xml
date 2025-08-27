@@ -111,6 +111,10 @@
         <translation>Nếu các bước trước đó không giải quyết được vấn đề của bạn, vui lòng truy cập &lt;b&gt;%1&lt;/b&gt; để có thêm đề xuất hoặc liên hệ với bộ phận Chăm sóc khách hàng.</translation>
     </message>
     <message>
+        <source>INSTAPAPER ARTICLE</source>
+        <translation>BÀI VIẾT INSTAPAPER</translation>
+    <extracomment>4.43.23418</extracomment></message>
+    <message>
         <source>Invalid protocol operation</source>
         <translation>Giao thức hoạt động không hợp lệ</translation>
     </message>

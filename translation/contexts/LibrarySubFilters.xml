@@ -41,6 +41,11 @@
         <translation>Đã nhập</translation>
     </message>
     <message>
+        <source>Liked</source>
+        <translation>Đã thích</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>My List</source>
         <translation>Danh sách của tôi</translation>
     </message>

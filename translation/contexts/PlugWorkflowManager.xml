@@ -15,6 +15,11 @@
         <translation>Hủy</translation>
     </message>
     <message>
+        <source>Changing the VCOM number is only recommended during display or motherboard repairs.</source>
+        <translation>Chỉ nên thay đổi số VCOM khi sửa màn hình hoặc bo mạch chủ.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Computer detected</source>
         <translation>Phát hiện máy tính</translation>
     </message>
@@ -27,6 +32,26 @@
         <translation>Lỗi nghiêm trọng</translation>
     </message>
     <message>
+        <source>If the motherboard's stored VCOM number doesn't match the VCOM number associated with the connected E-ink display, you might see ghosting or a fuzzy / unclear picture.</source>
+        <translation>Nếu số VCOM lưu trên bo mạch chủ không khớp với số VCOM của màn hình E-ink được kết nối, bạn có thể thấy bóng mờ hoặc hình ảnh mờ / không rõ.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>If the VCOM numbers stay mismatched for long periods of time, this may result in permanent damage to the E-ink display.</source>
+        <translation>Nếu số VCOM không khớp trong thời gian dài, điều này có thể gây hư hại vĩnh viễn cho màn hình E-ink.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Invalid VCOM</source>
+        <translation>VCOM không hợp lệ</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Invalid VCOM value %1, please try again.</source>
+        <translation>Giá trị VCOM %1 không hợp lệ, vui lòng thử lại.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Micro SD Card Removed</source>
         <translation>Thẻ Micro SD đã bị tháo</translation>
     </message>
@@ -37,6 +62,16 @@
     <message>
         <source>To read Adobe DRM books, you'll need to use Adobe Digital Editions (ADE) to import them to your eReader. Please visit %1 for more information.</source>
         <translation>Để đọc sách Adobe DRM, bạn phải dùng Adobe Digital Editions (ADE) để nhập sách vào máy đọc. Vui lòng truy cập %1 để biết thêm chi tiết.</translation>
+    </message>
+    <message>
+        <source>Update VCOM?</source>
+        <translation>Cập nhật VCOM?</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>VCOM: %1 mV detected, update? The device will be restarted.</source>
+        <translation>VCOM: %1 mV được phát hiện, có muốn cập nhật không? Thiết bị sẽ được khởi động lại.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>We couldn't recognize your Micro SD card. Please format it to FAT32 and try again.</source>

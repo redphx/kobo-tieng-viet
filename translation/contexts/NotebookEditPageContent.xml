@@ -17,8 +17,18 @@
         <translation>Vuốt xuống bằng stylus %1 để tạo khoảng cách giữa các ký tự hoặc dòng mới</translation>
     </message>
     <message>
+        <source>Swipe down with the %1 to create a space between characters or a new line</source>
+        <translation>Vuốt xuống bằng %1 để tạo khoảng cách giữa các ký tự hoặc dòng mới</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Swipe down with the Kobo Stylus to create a space between characters or a new line</source>
         <translation>Vuốt xuống bằng stylus Kobo để tạo khoảng cách giữa các ký tự hoặc dòng mới</translation>
+    </message>
+    <message>
+        <source>Swipe up with the %1 to join a space between characters or join two separate lines</source>
+        <translation>Vuốt lên bằng %1 để kết nối khoảng trắng giữa các ký tự hoặc nối hai dòng riêng biệt</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Swipe up with the Kobo Stylus to join a space between characters or join two separate lines</source>

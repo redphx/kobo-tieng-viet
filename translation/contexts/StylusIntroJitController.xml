@@ -1,12 +1,42 @@
 <context>
     <name>StylusIntroJitController</name>
     <message>
+        <source>About %1</source>
+        <translation>Về %1</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Activate %1</source>
+        <translation>Kích hoạt %1</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Activate %1 for full notebook access</source>
+        <translation>Kích hoạt %1 để truy cập toàn bộ sổ tay</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Create and organize notebooks easily. Use %1 to write directly in your notebooks, eBooks, or documents.</source>
+        <translation>Tạo và sắp xếp sổ tay dễ dàng. Sử dụng %1 để viết trực tiếp trong sổ tay, sách điện tử hoặc tài liệu của bạn.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Create Notebooks with the %1</source>
+        <translation>Tạo sổ tay với %1</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Create Notebooks with the %1 Stylus</source>
         <translation>Tạo sổ tay với stylus %1</translation>
     </message>
     <message>
         <source>OK, got it</source>
         <translation>Đã hiểu</translation>
+    </message>
+    <message>
+        <source>The %1 allows you to handwrite in notebooks and export as needed. Try the Advanced Notebook to convert to typed text, edit, calculate and more.</source>
+        <translation>%1 cho phép bạn viết tay trong sổ tay và xuất khi cần. Thử Sổ tay nâng cao để chuyển thành văn bản đánh máy, chỉnh sửa, tính toán và hơn thế nữa.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>The %1 Stylus allows you to handwrite in notebooks and export as needed. Try the Advanced Notebook to convert to typed text, edit, calculate and more.</source>

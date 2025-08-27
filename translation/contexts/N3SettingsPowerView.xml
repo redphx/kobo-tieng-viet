@@ -136,4 +136,9 @@
         <source>To access your privacy settings, please visit: %1</source>
         <translation>Để truy cập cài đặt riêng tư của bạn, vui lòng truy cập: %1</translation>
     </message>
+    <message>
+        <source>Wake up device with page turn button:</source>
+        <translation>Đánh thức thiết bị bằng nút lật trang:</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
 </context>

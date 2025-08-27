@@ -9,6 +9,11 @@
         <translation>OverDrive</translation>
     </message>
     <message>
+        <source>Remove OverDrive library card?</source>
+        <translation>Xóa thẻ thư viện OverDrive?</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Sign out</source>
         <translation>Đăng xuất</translation>
     </message>

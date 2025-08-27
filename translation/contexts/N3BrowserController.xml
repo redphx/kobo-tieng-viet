@@ -1,12 +1,22 @@
 <context>
     <name>N3BrowserController</name>
     <message>
+        <source>Adding to Instapaper</source>
+        <translation>Đang thêm vào Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Adding to Pocket</source>
         <translation>Đang thêm vào Pocket</translation>
     </message>
     <message>
         <source>Enter</source>
         <translation>Nhập</translation>
+    </message>
+    <message>
+        <source>Failed to add to Instapaper</source>
+        <translation>Không thể thêm vào Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Failed to add to Pocket</source>

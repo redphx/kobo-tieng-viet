@@ -13,6 +13,11 @@
         <translation>Yêu thích</translation>
     </message>
     <message>
+        <source>Like</source>
+        <translation>Thích</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Re-add to list</source>
         <translation>Thêm lại vào danh sách</translation>
     </message>

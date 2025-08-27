@@ -17,6 +17,11 @@
         <translation>Tất cả sách, tài liệu và cài đặt tùy chỉnh sẽ bị xóa khỏi thiết bị.&lt;br/&gt;&lt;br/&gt;Phiên bản phần mềm sẽ vẫn được cập nhật.</translation>
     </message>
     <message>
+        <source>All of your Instapaper articles will be removed from your eReader, but they’ll remain in your Instapaper account.</source>
+        <translation>Tất cả bài viết Instapaper sẽ bị xóa khỏi máy đọc sách, nhưng vẫn còn trên tài khoản Instapaper của bạn.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>All of your Pocket articles will be removed from your eReader, but they’ll remain in your Pocket account.</source>
         <translation>Tất cả bài viết Pocket sẽ bị xóa khỏi máy đọc sách, nhưng vẫn còn trên tài khoản Pocket của bạn.</translation>
     </message>
@@ -83,6 +88,11 @@
     <message>
         <source>Redeem a Digital Card</source>
         <translation>Nhập thẻ nạp</translation>
+    </message>
+    <message>
+        <source>Removing Instapaper content. This may take a minute.</source>
+        <translation>Đang xóa nội dung Instapaper. Có thể mất một chút thời gian.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Removing Pocket content. This may take a minute.</source>

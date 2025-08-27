@@ -47,6 +47,11 @@
         <translation>Dạng ngang</translation>
     </message>
     <message>
+        <source>Note: May slow performance or blur images</source>
+        <translation>Lưu ý: Có thể làm chậm máy hoặc làm mờ hình ảnh</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Note: some books will not be able to display chapter progress. Book progress will be used instead.</source>
         <translation>Lưu ý: một số sách sẽ không thể hiển thị tiến trình của chương. Tiến trình sách sẽ được sử dụng thay thế.</translation>
     </message>
@@ -105,6 +110,11 @@
     <message>
         <source>Reading Settings</source>
         <translation>Cài đặt lúc đọc</translation>
+    </message>
+    <message>
+        <source>Reduce rainbow effect:</source>
+        <translation>Giảm hiệu ứng cầu vồng:</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Refresh the screen every:</source>

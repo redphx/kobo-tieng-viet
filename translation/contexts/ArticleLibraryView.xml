@@ -1,12 +1,22 @@
 <context>
     <name>ArticleLibraryView</name>
     <message>
+        <source>Add articles to your Instapaper account and sync your eReader to start reading.</source>
+        <translation>Thêm bài viết từ tài khoản Instapaper của bạn và đồng bộ máy đọc sách để bắt đầu đọc.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Add articles to your Pocket and sync your eReader to start reading.</source>
         <translation>Thêm bài viết từ tài khoản Pocket của bạn và đồng bộ máy đọc sách để bắt đầu đọc.</translation>
     </message>
     <message>
+        <source>Articles from Instapaper</source>
+        <translation>Bài viết từ Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Articles from Pocket</source>
-        <translation>Bài viết của tôi từ Pocket</translation>
+        <translation>Bài viết từ Pocket</translation>
     </message>
     <message>
         <source>Filter: %0</source>
@@ -35,6 +45,16 @@
     <message>
         <source>You haven’t favourited any articles</source>
         <translation>Bạn không có bài viết yêu thích nào</translation>
+    </message>
+    <message>
+        <source>You haven’t liked any articles</source>
+        <translation>Bạn chưa thích bài viết nào</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Your Instapaper account is empty</source>
+        <translation>Tài khoản Instapaper của bạn đang trống</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Your Pocket is empty</source>

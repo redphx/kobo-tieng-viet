@@ -37,6 +37,11 @@
         <translation>Loại khỏi trang chủ</translation>
     </message>
     <message>
+        <source>Remove from Instapaper</source>
+        <translation>Loại khỏi Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Remove from My Books</source>
         <translation>Loại khỏi Sách của tôi</translation>
     </message>
@@ -59,6 +64,11 @@
     <message>
         <source>You'll need to re-import this item to your eReader to read it again.</source>
         <translation>Bạn cần nhập lại mục này vào máy đọc sách để đọc lại.</translation>
+    </message>
+    <message>
+        <source>You'll no longer see this item anywhere you use Instapaper.</source>
+        <translation>Bạn sẽ không còn thấy mục này khi sử dụng Instapaper ở bất cứ đâu.</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>You'll no longer see this item anywhere you use Pocket.</source>

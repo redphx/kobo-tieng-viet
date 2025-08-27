@@ -29,6 +29,11 @@
         <translation>Yêu thích</translation>
     </message>
     <message>
+        <source>Like</source>
+        <translation>Thích</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Move</source>
         <translation>Di chuyển</translation>
     </message>
@@ -51,5 +56,10 @@
     <message>
         <source>Unfavourite</source>
         <translation>Bỏ yêu thích</translation>
+    </message>
+    <message>
+        <source>Unlike</source>
+        <translation>Bỏ thích</translation>
+        <extracomment>4.43.23418</extracomment>
     </message>
 </context>

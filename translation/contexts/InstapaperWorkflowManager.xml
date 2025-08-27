@@ -1,0 +1,32 @@
+<context>
+    <name>InstapaperWorkflowManager</name>
+    <message>
+        <source>A problem with your network connection prevented Instapaper from being updated.
+
+Please check your connection and try again.</source>
+        <translation>Sự cố kết nối mạng khiến Instapaper không thể cập nhật.
+
+Vui lòng kiểm tra kết nối mạng và thử lại.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Instapaper Update Error</source>
+        <translation>Lỗi cập nhật Instapaper</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation>Đang tải</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>No Network Connection</source>
+        <translation>Không có kết nối mạng</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Sorry, something is preventing Instapaper from being updated right now. Please try again later.</source>
+        <translation>Rất tiếc, có sự cố ngăn Instapaper cập nhật lúc này. Vui lòng thử lại sau.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+</context>

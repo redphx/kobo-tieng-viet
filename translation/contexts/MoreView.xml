@@ -33,6 +33,11 @@
         <translation>Sổ tay của tôi</translation>
     </message>
     <message>
+        <source>My Notebooks (View only)</source>
+        <translation>Sổ tay của tôi (Chỉ xem)</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>My Wishlist</source>
         <translation>Danh sách mong muốn</translation>
     </message>

@@ -5,6 +5,11 @@
         <translation>Về %1</translation>
     </message>
     <message>
+        <source>Accessibility</source>
+        <translation>Hỗ trợ tiếp cận</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>Accounts</source>
         <translation>Tài khoản</translation>
     </message>

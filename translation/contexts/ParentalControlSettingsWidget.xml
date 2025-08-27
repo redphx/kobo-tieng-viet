@@ -25,6 +25,11 @@
         <translation>Đọc thêm</translation>
     </message>
     <message>
+        <source>This feature will hide the store and web browser, prevent sideloading, and block access to Instapaper, OverDrive, Dropbox, and Google Drive. You can activate parental controls by setting a 4-digit PIN.</source>
+        <translation>Tính năng này sẽ ẩn cửa hàng và trình duyệt web, ngăn chặn việc cài đặt bên ngoài, và chặn truy cập vào Instapaper, OverDrive, Dropbox, và Google Drive. Bạn có thể kích hoạt kiểm soát của phụ huynh bằng cách đặt mã PIN 4 chữ số.</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
         <source>This feature will hide the store and web browser, prevent sideloading, and block access to Pocket, OverDrive, Dropbox, and Google Drive. You can activate parental controls by setting a 4-digit PIN.</source>
         <translation>Tính năng này sẽ ẩn cửa hàng và trình duyệt web, ngăn chặn việc cài đặt bên ngoài, và chặn truy cập vào Pocket, OverDrive, Dropbox, và Google Drive. Bạn có thể kích hoạt kiểm soát của phụ huynh bằng cách đặt mã PIN 4 chữ số.</translation>
     </message>

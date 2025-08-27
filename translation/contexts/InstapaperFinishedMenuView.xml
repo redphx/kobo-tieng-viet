@@ -1,0 +1,38 @@
+<context>
+    <name>InstapaperFinishedMenuView</name>
+    <message>
+        <source>Archive</source>
+        <translation>Lưu trữ</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Xóa</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>End of article</source>
+        <translation>Cuối bài viết</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Like</source>
+        <translation>Thích</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Re-add to list</source>
+        <translation>Thêm lại vào danh sách</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Return to Articles</source>
+        <translation>Quay về Bài viết</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+    <message>
+        <source>Unlike</source>
+        <translation>Bỏ thích</translation>
+        <extracomment>4.43.23418</extracomment>
+    </message>
+</context>
