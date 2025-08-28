@@ -115,7 +115,33 @@ Nếu không thích các font này, bạn có thể thay chúng bằng cách c�
 
 ## 🛠️ 6. Thông tin dành cho dev
 
-### Cài đặt `lrelease` của Qt
+### Hướng dẫn cách build
+
+<details>
+<summary>Build bản cài đặt chỉ có font</summary>
+
+### Các bước để build
+
+1. Cài [uv](https://docs.astral.sh/uv/) cho Python 3
+2. Chạy lệnh để cài các package cần thiết:
+
+    ```bash
+    uv sync
+    ```
+
+3. Chạy lệnh để build file `dist/KoboRoot.tgz`:
+
+    ```bash
+    uv run python build.py --include fonts
+    ```
+
+4. Cài file trên vào Kobo để thử nghiệm
+</details>
+
+<details>
+<summary>Build bản cài đặt có cả bản dịch và font</summary>
+
+### Chuẩn bị `lrelease`
 
 Yêu cầu phải có tool `lrelease` của Qt để chuyển file dịch `.ts` sang `.qm`.  
 Đã dùng thành công với [qt@5 trên macOS](https://formulae.brew.sh/formula/qt@5).
@@ -137,7 +163,7 @@ Yêu cầu phải có tool `lrelease` của Qt để chuyển file dịch `.ts` 
 
 Sau khi có được file `lrelease`, cấu hình đường dẫn của nó trong file `.env`
 
-### Hướng dẫn cách build
+### Các bước để build
 
 1. Cài [uv](https://docs.astral.sh/uv/) cho Python 3
 2. Chạy lệnh để cài các package cần thiết:
@@ -153,6 +179,7 @@ Sau khi có được file `lrelease`, cấu hình đường dẫn của nó tron
     ```
 
 4. Cài file trên vào Kobo để thử nghiệm
+</details>
 
 ## 🤝 7. Lời cảm ơn
 - ChatGPT đã hỗ trợ dịch
