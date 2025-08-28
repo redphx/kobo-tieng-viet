@@ -17,7 +17,7 @@ Bản cài đặt *hoàn toàn miễn phí* này cung cấp giao diện tiếng 
 > *🇬🇧 If you want to create a new language pack for your language, check [redphx/kobo-language-pack](https://github.com/redphx/kobo-language-pack)*
 
 ## 🔥 1. Chức năng của bản cài đặt
-- Thêm ngôn ngữ tiếng Việt cho máy, hơn 3000 câu được dịch, tỉ lệ > 98% (thêm mới, không ghi đè ngôn ngữ hệ thống)
+- Thêm ngôn ngữ tiếng Việt cho máy (vẫn có thể quay về giao diện tiếng Anh nếu muốn)
 - Sửa lỗi hiển thị tiếng Việt
 - Sửa lỗi không hiển thị chính xác font monospace
 - Dễ cài đặt, kích thước nhỏ gọn (bé hơn 3 MB)
@@ -46,10 +46,10 @@ Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy fir
 | Aura (2013)  |  ✓           |
 | Clara BW     |  ✓           |
 | Clara Colour |  ✓           |
+| Libra 2      |  ✓           |
 | Libra Colour |  ✓           |
 | Clara 2E     |  ✓           |
 | Clara HD     |  ✓           |
-| Libra 2      |  ✓           |
 
 
 ### Các bước cài đặt
@@ -76,12 +76,15 @@ Khi muốn cập nhật phiên bản mới, bạn chỉ cần thực hiện lạ
   > Bản cài đặt chỉ cập nhật font và thêm file ngôn ngữ tiếng Việt cho giao diện, không chỉnh sửa file hệ thống nên khả năng làm hư máy là gần như không có
 
 - **Tôi có thể sử dụng bản cài đặt cho Kobo phiên bản nào?**
-  > Theo lý thuyết thì bản cài đặt tương thích với mọi dòng máy và firmware
+  > Theo lý thuyết thì bản cài đặt tương thích với mọi dòng máy và firmware (nhưng chỉ mới được kiểm nghiệm trên firmware 4.x)
+
+- **Bản cài đặt có hỗ trợ các firmware phát hành sau này không?**
+  > Bản cài đặt sẽ tự động hỗ trợ các firmware phát hành sau này
 
 - **Tôi đã cài bản [lelinhtinh/kobo-tieng-viet](https://github.com/lelinhtinh/kobo-tieng-viet), giờ có thể cài thêm bản này không?**
   > Hoàn toàn được, không lỗi lầm gì. Bạn chỉ cần làm theo hướng dẫn ở trên.
 
-- **Tôi đã cài bản bản patch tiếng Việt của người khác làm, giờ có thể cài thêm bản này không?**
+- **Tôi đã cài bản patch tiếng Việt của người khác làm, giờ có thể cài thêm bản này không?**
   > Mình không rõ các bản đó đã thay đổi những gì nên có thể sẽ không thể sử dụng chung được. Tốt nhất bạn nên reset về firmware gốc của máy, sau đó cài đặt lại bản này.
 
 - **Sau khi cập nhật firmware mới cho Kobo tôi có phải cài đặt lại tiếng Việt không?**
