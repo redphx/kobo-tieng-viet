@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>Reducing your exposure to blue light at night can help you relax and sleep better, but during the day, blue light is actually a good thing! It helps to keep you awake, alert, and focused. With the Auto switch turned on, we’ll make sure you get the perfect amount of blue light no matter the time of day.</source>
-        <translation>Giảm tiếp xúc với ánh sáng xanh vào ban đêm có thể giúp bạn thư giãn và ngủ ngon hơn, nhưng vào ban ngày, ánh sáng xanh thực sự có lợi! Nó giúp bạn tỉnh táo, minh mẫn và tập trung. Khi bật công tắc tự động, chúng tôi sẽ đảm bảo bạn nhận đủ lượng ánh sáng xanh phù hợp bất kể thời gian trong ngày.</translation>
+        <translation>Giảm tiếp xúc với ánh sáng xanh vào ban đêm có thể giúp bạn thư giãn và ngủ ngon hơn, nhưng vào ban ngày, ánh sáng xanh thực sự có lợi! Nó giúp bạn tỉnh táo, minh mẫn và tập trung. Khi bật công tắc Tự động, chúng tôi sẽ đảm bảo bạn nhận đủ lượng ánh sáng xanh phù hợp bất kể thời gian trong ngày.</translation>
     </message>
     <message>
         <source>Sunlight</source>
@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>What is the Auto switch for?</source>
-        <translation>Công tắc tự động để làm gì?</translation>
+        <translation>Công tắc Tự động để làm gì?</translation>
     </message>
     <message>
         <source>Why does blue light matter?</source>

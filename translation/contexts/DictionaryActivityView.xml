@@ -6,7 +6,7 @@
     </message>
     <message>
         <source>&lt;div class="dividerLine"&gt;&lt;/div&gt;&lt;div class="btnAddedFrom"&gt;&lt;span style="color: #666666;"&gt;Added from &lt;/span&gt;%1&lt;/div&gt;</source>
-        <translation>&lt;div class="dividerLine"&gt;&lt;/div&gt;&lt;div class="btnAddedFrom"&gt;&lt;span style="color: #666666;"&gt;Được thêm từ&lt;/span&gt;%1&lt;/div&gt;</translation>
+        <translation>&lt;div class="dividerLine"&gt;&lt;/div&gt;&lt;div class="btnAddedFrom"&gt;&lt;span style="color: #666666;"&gt;Được thêm từ &lt;/span&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
         <source>Activity</source>
