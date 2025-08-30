@@ -2,10 +2,10 @@
     <name>InstantPreviewActionProxy</name>
     <message>
         <source>Preview now</source>
-        <translation>Xem trước bây giờ</translation>
+        <translation>Xem trước</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation>Đọc bây giờ</translation>
+        <translation>Đọc ngay</translation>
     </message>
 </context>

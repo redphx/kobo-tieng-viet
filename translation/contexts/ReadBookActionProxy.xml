@@ -2,14 +2,14 @@
     <name>ReadBookActionProxy</name>
     <message>
         <source>Play now</source>
-        <translation>Bắt đầu chơi</translation>
+        <translation>Nghe ngay</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation>Đọc bây giờ</translation>
+        <translation>Đọc ngay</translation>
     </message>
     <message>
         <source>Read preview</source>
-        <translation>Đọc xem trước</translation>
+        <translation>Đọc bản xem trước</translation>
     </message>
 </context>

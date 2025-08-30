@@ -244,11 +244,11 @@
     </message>
     <message>
         <source>There might be a problem with the file. Try syncing your eReader. If you still can't open it please contact %1 Customer Care at %2</source>
-        <translation>Có thể có vấn đề với file. Hãy thử đồng bộ máy đọc sách của bạn. Nếu bạn vẫn không mở được, vui lòng liên hệ bộ phận Chăm sóc khách hàng %1 theo số %2</translation>
+        <translation>Có thể có vấn đề với file. Hãy thử đồng bộ máy đọc sách của bạn. Nếu vẫn không mở được, vui lòng liên hệ bộ phận Chăm sóc khách hàng %1 tại %2</translation>
     </message>
     <message>
         <source>There might be a problem with the file. Try syncing your eReader. If you still can't open it please contact Customer Care at %1</source>
-        <translation>Có thể có vấn đề với file. Thử đồng bộ máy đọc sách của bạn. Nếu vẫn không mở được, vui lòng liên hệ với bộ phận Chăm sóc khách hàng tại %1</translation>
+        <translation>Có thể có vấn đề với file. Hãy thử đồng bộ máy đọc sách của bạn. Nếu vẫn không mở được, vui lòng liên hệ với bộ phận Chăm sóc khách hàng tại %1</translation>
     </message>
     <message>
         <source>This Week</source>
