@@ -1,0 +1,18 @@
+services:
+  builder:
+    container_name: kobo-tieng-viet-builder
+    image: kobo-tieng-viet-builder:latest
+    build:
+      context: .
+      dockerfile: dockerfile
+    env_file:
+      - .env
+    environment:
+      - LRELEASE=${LRELEASE}
+      - BUILD=${BUILD}
+      - VERSION=${VERSION}
+      - FONTS_DIR=${FONTS_DIR}       
+    volumes:
+      - ./dist:/app/dist
+      - ./KoboRoot:/app/KoboRoot
+    entrypoint: ["/bin/sh", "run_builder.sh"]
