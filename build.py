@@ -207,12 +207,14 @@ def combine_translations(version: str):
     print(f'- Đã tạo file {qm_path} thành công')
 
 
-def generate_tgz(version: str):
+def generate_tgz(version: str, name: str):
     dist_path = Path(CURRENT_DIR) / 'dist'
     os.makedirs(dist_path, exist_ok=True)
 
+    tgz_name = f'KoboRoot-{name}.tgz' if name else 'KoboRoot.tgz'
+
     # Create dist/KoboRoot.tgz
-    with tarfile.open(dist_path / 'KoboRoot.tgz', 'w:gz') as tar:
+    with tarfile.open(dist_path / tgz_name, 'w:gz') as tar:
         for pth in KOBOROOT_DIR.rglob('*'):
             arcname = str(pth).replace(str(KOBOROOT_DIR), '')
             if '.DS_Store' in arcname:
@@ -225,7 +227,7 @@ def generate_tgz(version: str):
     with open(dist_path / 'VERSION', 'w') as fp:
         fp.write(version)
 
-    print('Đã tạo file dist/KoboRoot.tgz thành công!')
+    print(f'Đã tạo file dist/{tgz_name} thành công!')
 
 
 def main():
@@ -238,6 +240,7 @@ def main():
     parser.add_argument('--build', type=str, default='dev', choices=['release', 'dev'])
     parser.add_argument('--version', type=str, help='Version in YYYYMMDD format')
     parser.add_argument('--fonts', type=str, help='Path to fonts dir')
+    parser.add_argument('--name', type=str, help='KoboRoot-{name}.tgz')
     args = parser.parse_args()
 
     build = args.build
@@ -254,7 +257,7 @@ def main():
     # Start building
     combine_translations(version)
     copy_fonts(args.fonts)
-    generate_tgz(version)
+    generate_tgz(version, args.name)
 
     YELLOW = '\033[33m'
     GREEN = '\033[32m'
