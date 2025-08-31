@@ -54,12 +54,12 @@ jobs:
           docker compose build builder
 
           # Tag + push theo version (ngày)
-          docker tag ${GH_REPO}_builder:latest $IMAGE:$VERSION
+          docker tag ${GH_REPO}-builder:latest $IMAGE:$VERSION
           docker push $IMAGE:$VERSION
 
           # Optional: gắn latest + commit hash
-          docker tag ${GH_REPO}_builder:latest $IMAGE:latest
+          docker tag ${GH_REPO}-builder:latest $IMAGE:latest
           docker push $IMAGE:latest
 
-          docker tag ${GH_REPO}_builder:latest $IMAGE:$SHA
+          docker tag ${GH_REPO}-builder:latest $IMAGE:$SHA
           docker push $IMAGE:$SHA
