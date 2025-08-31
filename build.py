@@ -22,6 +22,13 @@ FONT_WEIGHT_MAP = {
     'bold-italic': 'BoldItalic',
 }
 
+FONT_PANOSE_MAP = {
+    'regular': {'weight': 5, 'letter_form': 2},
+    'italic': {'weight': 5, 'letter_form': 3},
+    'bold': {'weight': 7, 'letter_form': 2},
+    'bold-italic': {'weight': 7, 'letter_form': 3},
+}
+
 FONTS = {
     'sans': {
         'Avenir Next': {
@@ -68,6 +75,41 @@ FONTS = {
 }
 
 
+def fix_font(font_path: Path, family_name: str, font_info: list, font_style: str):
+    # Edit font metadata
+    font = TTFont(font_path)
+    name_table = font['name']
+
+    for record in name_table.names:
+        if record.nameID == 1:  # Font Family Name
+            record.string = family_name
+        elif record.nameID == 2:  # Style
+            if len(font_info) >= 3:
+                record.string = font_info[2]
+        elif record.nameID == 4:  # Name for Humans
+            record.string = (family_name + ' ' + FONT_WEIGHT_MAP[font_style]).strip()
+        elif record.nameID == 6:  # Font name
+            record.string = font_info[1]
+
+    # Check & fix panose weight
+    panose = getattr(font.get('OS/2'), 'panose', None)
+    if panose:
+        expected_panose = FONT_PANOSE_MAP[font_style]
+        if panose.bWeight != expected_panose['weight']:
+            print(
+                f'✅ [{family_name}-{font_style}] PANOSE.weight: {panose.bWeight} -> {expected_panose['weight']}'
+            )
+            panose.bWeight = expected_panose['weight']
+
+        if panose.bLetterForm != expected_panose['letter_form']:
+            print(
+                f'✅ [{family_name}-{font_style}] PANOSE.letterForm: {panose.bLetterForm} -> {expected_panose['letter_form']}'
+            )
+            panose.bLetterForm = expected_panose['letter_form']
+
+    font.save(font_path)
+
+
 def copy_fonts(fonts_dir: str):
     FONTS_SOURCE_DIR = fonts_dir or './fonts'
     FONTS_TROLLTECH_DIR = (
@@ -100,25 +142,7 @@ def copy_fonts(fonts_dir: str):
                     output_path = Path(FONTS_TROLLTECH_DIR) / f'{info[0]}.ttf'
 
                 shutil.copy(source_path, output_path)
-
-                # Edit font metadata
-                font = TTFont(output_path)
-                name_table = font['name']
-
-                for record in name_table.names:
-                    if record.nameID == 1:  # Font Family Name
-                        record.string = family_name
-                    elif record.nameID == 2:  # Style
-                        if len(info) >= 3:
-                            record.string = info[2]
-                    elif record.nameID == 4:  # Name for Humans
-                        record.string = (
-                            family_name + ' ' + FONT_WEIGHT_MAP[style]
-                        ).strip()
-                    elif record.nameID == 6:  # Font name
-                        record.string = info[1]
-
-                font.save(output_path)
+                fix_font(output_path, family_name, info, style)
 
     print(f'- Đã chép font từ "{FONTS_SOURCE_DIR}" đến {FONTS_TROLLTECH_DIR}')
 
