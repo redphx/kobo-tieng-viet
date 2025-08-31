@@ -1,0 +1,65 @@
+name: Docker Publish
+
+on:
+  push:
+    tags:
+      - "v*"   # chỉ build khi push tag, ví dụ: v20250829
+
+env:
+  GH_OWNER: ${{ github.repository_owner }}
+  GH_REPO: ${{ github.event.repository.name }}
+  REGISTRY: ghcr.io
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Extract version
+        id: vars
+        run: |
+          # Lấy version từ tag (bỏ chữ "v")
+          VERSION="${GITHUB_REF#refs/tags/v}"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "sha_short=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_OUTPUT
+
+      - name: Build & push Docker image
+        run: |
+          IMAGE=${{ env.REGISTRY }}/${{ env.GH_OWNER }}/${{ env.GH_REPO }}
+          VERSION=${{ steps.vars.outputs.version }}
+          SHA=${{ steps.vars.outputs.sha_short }}
+
+          echo "📦 Building image: $IMAGE"
+          echo "🔖 Version: $VERSION"
+          echo "🔖 Commit: $SHA"
+
+          # build bằng docker-compose (cần service tên "app" trong docker-compose.yml)
+          docker-compose build builder
+
+          # Tag + push theo version (ngày)
+          docker tag ${GH_REPO}_builder:latest $IMAGE:$VERSION
+          docker push $IMAGE:$VERSION
+
+          # Optional: gắn latest + commit hash
+          docker tag ${GH_REPO}_builder:latest $IMAGE:latest
+          docker push $IMAGE:latest
+
+          docker tag ${GH_REPO}_builder:latest $IMAGE:$SHA
+          docker push $IMAGE:$SHA
