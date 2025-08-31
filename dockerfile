@@ -15,3 +15,9 @@ WORKDIR /app
 COPY pyproject.toml .
 RUN uv venv && uv sync
 COPY . .
+
+# chương trình chính cố định
+ENTRYPOINT ["uv", "run", "python", "build.py"]
+
+# tham số mặc định (có thể override bởi docker-compose.yml hoặc docker run)
+CMD ["--build", "dev", "--version", "", "--fonts", "./fonts"]
