@@ -50,8 +50,8 @@ jobs:
           echo "🔖 Version: $VERSION"
           echo "🔖 Commit: $SHA"
 
-          # build bằng docker-compose (cần service tên "app" trong docker-compose.yml)
-          docker-compose build builder
+          # build bằng docker-compose
+          docker compose build builder
 
           # Tag + push theo version (ngày)
           docker tag ${GH_REPO}_builder:latest $IMAGE:$VERSION
