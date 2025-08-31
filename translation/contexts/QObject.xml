@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>Background request not allowed</source>
-        <translation>Yêu cầu nền không được phép</translation>
+        <translation>Yêu cầu chạy nền không được phép</translation>
     </message>
     <message>
         <source>BASIC NOTEBOOK</source>
@@ -113,7 +113,8 @@
     <message>
         <source>INSTAPAPER ARTICLE</source>
         <translation>BÀI VIẾT INSTAPAPER</translation>
-    <extracomment>4.43.23418</extracomment></message>
+        <extracomment>4.43.23418</extracomment>
+    </message>
     <message>
         <source>Invalid protocol operation</source>
         <translation>Giao thức hoạt động không hợp lệ</translation>
@@ -136,7 +137,7 @@
     </message>
     <message>
         <source>Kobo Store</source>
-        <translation>Mua sắm Kobo</translation>
+        <translation>Cửa hàng Kobo</translation>
     </message>
     <message>
         <source>Mark as finished</source>
@@ -248,7 +249,7 @@
     </message>
     <message>
         <source>There might be a problem with the file. Try syncing your eReader. If you still can't open it please contact Customer Care at %1</source>
-        <translation>Có thể có vấn đề với file. Hãy thử đồng bộ máy đọc sách của bạn. Nếu vẫn không mở được, vui lòng liên hệ với bộ phận Chăm sóc khách hàng tại %1</translation>
+        <translation>Có thể có vấn đề với file. Hãy thử đồng bộ máy đọc sách của bạn. Nếu vẫn không mở được, vui lòng liên hệ bộ phận Chăm sóc khách hàng tại %1</translation>
     </message>
     <message>
         <source>This Week</source>
@@ -288,15 +289,15 @@
     </message>
     <message>
         <source>Visit %1 if you need more help, or contact Customer Care.</source>
-        <translation>Truy cập %1 nếu bạn cần thêm trợ giúp hoặc liên hệ với bộ phận Chăm sóc khách hàng.</translation>
+        <translation>Truy cập %1 nếu bạn cần thêm trợ giúp hoặc liên hệ bộ phận Chăm sóc khách hàng.</translation>
     </message>
     <message>
         <source>Would you like to mark this audiobook as finished? When you re-open the audiobook, you’ll start over at the beginning.</source>
-        <translation>Bạn có muốn đánh dấu sách nói này là hoàn thành không? Khi mở lại, bạn sẽ nghe từ đầu.</translation>
+        <translation>Bạn có muốn đánh dấu sách nói này là hoàn thành không? Khi mở lại, bạn sẽ nghe lại từ đầu.</translation>
     </message>
     <message>
         <source>Would you like to mark this book as finished? When you re-open the book, you'll start over at the beginning.</source>
-        <translation>Bạn có muốn đánh dấu cuốn sách này là hoàn thành không? Khi mở lại, bạn sẽ bắt đầu từ đầu.</translation>
+        <translation>Bạn có muốn đánh dấu cuốn sách này là hoàn thành không? Khi mở lại, bạn sẽ đọc lại từ đầu.</translation>
     </message>
     <message>
         <source>Yes</source>
