@@ -2,7 +2,7 @@
     <name>SearchAutoCompleteController</name>
     <message>
         <source>look up a term</source>
-        <translation>Tra cứu thuật ngữ</translation>
+        <translation>tra cứu một thuật ngữ</translation>
     </message>
     <message>
         <source>Search</source>

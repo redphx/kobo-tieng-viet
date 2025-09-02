@@ -22,6 +22,13 @@ FONT_WEIGHT_MAP = {
     'bold-italic': 'BoldItalic',
 }
 
+FONT_PANOSE_MAP = {
+    'regular': {'weight': 5, 'letter_form': 2},
+    'italic': {'weight': 5, 'letter_form': 3},
+    'bold': {'weight': 7, 'letter_form': 2},
+    'bold-italic': {'weight': 7, 'letter_form': 3},
+}
+
 FONTS = {
     'sans': {
         'Avenir Next': {
@@ -68,6 +75,41 @@ FONTS = {
 }
 
 
+def fix_font(font_path: Path, family_name: str, font_info: list, font_style: str):
+    # Edit font metadata
+    font = TTFont(font_path)
+    name_table = font['name']
+
+    for record in name_table.names:
+        if record.nameID == 1:  # Font Family Name
+            record.string = family_name
+        elif record.nameID == 2:  # Style
+            if len(font_info) >= 3:
+                record.string = font_info[2]
+        elif record.nameID == 4:  # Name for Humans
+            record.string = (family_name + ' ' + FONT_WEIGHT_MAP[font_style]).strip()
+        elif record.nameID == 6:  # Font name
+            record.string = font_info[1]
+
+    # Check & fix panose weight
+    panose = getattr(font.get('OS/2'), 'panose', None)
+    if panose:
+        expected_panose = FONT_PANOSE_MAP[font_style]
+        if panose.bWeight != expected_panose['weight']:
+            print(
+                f'✅ [{family_name}-{font_style}] PANOSE.weight: {panose.bWeight} -> {expected_panose['weight']}'
+            )
+            panose.bWeight = expected_panose['weight']
+
+        if panose.bLetterForm != expected_panose['letter_form']:
+            print(
+                f'✅ [{family_name}-{font_style}] PANOSE.letterForm: {panose.bLetterForm} -> {expected_panose['letter_form']}'
+            )
+            panose.bLetterForm = expected_panose['letter_form']
+
+    font.save(font_path)
+
+
 def copy_fonts(fonts_dir: str):
     FONTS_SOURCE_DIR = fonts_dir or './fonts'
     FONTS_TROLLTECH_DIR = (
@@ -100,25 +142,7 @@ def copy_fonts(fonts_dir: str):
                     output_path = Path(FONTS_TROLLTECH_DIR) / f'{info[0]}.ttf'
 
                 shutil.copy(source_path, output_path)
-
-                # Edit font metadata
-                font = TTFont(output_path)
-                name_table = font['name']
-
-                for record in name_table.names:
-                    if record.nameID == 1:  # Font Family Name
-                        record.string = family_name
-                    elif record.nameID == 2:  # Style
-                        if len(info) >= 3:
-                            record.string = info[2]
-                    elif record.nameID == 4:  # Name for Humans
-                        record.string = (
-                            family_name + ' ' + FONT_WEIGHT_MAP[style]
-                        ).strip()
-                    elif record.nameID == 6:  # Font name
-                        record.string = info[1]
-
-                font.save(output_path)
+                fix_font(output_path, family_name, info, style)
 
     print(f'- Đã chép font từ "{FONTS_SOURCE_DIR}" đến {FONTS_TROLLTECH_DIR}')
 
@@ -183,12 +207,14 @@ def combine_translations(version: str):
     print(f'- Đã tạo file {qm_path} thành công')
 
 
-def generate_tgz(version: str):
+def generate_tgz(version: str, name: str):
     dist_path = Path(CURRENT_DIR) / 'dist'
     os.makedirs(dist_path, exist_ok=True)
 
+    tgz_name = f'KoboRoot-{name}.tgz' if name else 'KoboRoot.tgz'
+
     # Create dist/KoboRoot.tgz
-    with tarfile.open(dist_path / 'KoboRoot.tgz', 'w:gz') as tar:
+    with tarfile.open(dist_path / tgz_name, 'w:gz') as tar:
         for pth in KOBOROOT_DIR.rglob('*'):
             arcname = str(pth).replace(str(KOBOROOT_DIR), '')
             if '.DS_Store' in arcname:
@@ -201,7 +227,7 @@ def generate_tgz(version: str):
     with open(dist_path / 'VERSION', 'w') as fp:
         fp.write(version)
 
-    print('Đã tạo file dist/KoboRoot.tgz thành công!')
+    print(f'Đã tạo file dist/{tgz_name} thành công!')
 
 
 def main():
@@ -214,6 +240,7 @@ def main():
     parser.add_argument('--build', type=str, default='dev', choices=['release', 'dev'])
     parser.add_argument('--version', type=str, help='Version in YYYYMMDD format')
     parser.add_argument('--fonts', type=str, help='Path to fonts dir')
+    parser.add_argument('--name', type=str, help='KoboRoot-{name}.tgz')
     args = parser.parse_args()
 
     build = args.build
@@ -230,7 +257,7 @@ def main():
     # Start building
     combine_translations(version)
     copy_fonts(args.fonts)
-    generate_tgz(version)
+    generate_tgz(version, args.name)
 
     YELLOW = '\033[33m'
     GREEN = '\033[32m'
