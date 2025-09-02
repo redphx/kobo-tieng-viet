@@ -1,8 +1,6 @@
 services:
   builder:
-    build:
-      context: .
-      dockerfile: dockerfile
+    image: ghcr.io/${GH_OWNER}/${GH_REPO}:${APP_VERSION} 
     env_file:
       - .env
     environment:

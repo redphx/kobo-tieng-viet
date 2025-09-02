@@ -6,8 +6,6 @@ on:
       - "v*"   # chỉ build khi push tag, ví dụ: v20250829
 
 env:
-  GH_OWNER: ${{ github.repository_owner }}
-  GH_REPO: ${{ github.event.repository.name }}
   REGISTRY: ghcr.io
 
 jobs:
@@ -21,6 +19,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Free disk space
+        run: |
+          echo "Before cleanup:"
+          df -h
+          docker system prune -af
+          docker volume prune -f
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf "/usr/local/share/boost"
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+          echo "After cleanup:"
+          df -h
 
       - name: Log in to GitHub Container Registry
         uses: docker/login-action@v3
@@ -38,28 +49,19 @@ jobs:
           # Lấy version từ tag (bỏ chữ "v")
           VERSION="${GITHUB_REF#refs/tags/v}"
           echo "version=$VERSION" >> $GITHUB_OUTPUT
-          echo "sha_short=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_OUTPUT
+          # echo "sha_short=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_OUTPUT
 
-      - name: Build & push Docker image
-        run: |
-          IMAGE=${{ env.REGISTRY }}/${{ env.GH_OWNER }}/${{ env.GH_REPO }}
-          VERSION=${{ steps.vars.outputs.version }}
-          SHA=${{ steps.vars.outputs.sha_short }}
-
-          echo "📦 Building image: $IMAGE"
-          echo "🔖 Version: $VERSION"
-          echo "🔖 Commit: $SHA"
-
-          # build bằng docker-compose
-          docker compose build builder
-
-          # Tag + push theo version (ngày)
-          docker tag ${GH_REPO}-builder:latest $IMAGE:$VERSION
-          docker push $IMAGE:$VERSION
-
-          # Optional: gắn latest + commit hash
-          docker tag ${GH_REPO}-builder:latest $IMAGE:latest
-          docker push $IMAGE:latest
-
-          docker tag ${GH_REPO}-builder:latest $IMAGE:$SHA
-          docker push $IMAGE:$SHA
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./dockerfile  
+          push: true
+          platforms: linux/amd64   # thêm linux/arm64 nếu cần đa kiến trúc
+          tags: |
+            ${{ env.REGISTRY }}/${{ github.repository }}:${{ steps.vars.outputs.version }}
+            ${{ env.REGISTRY }}/${{ github.repository }}:latest
+            # ${{ env.REGISTRY }}/${{ github.repository }}:${{ steps.vars.outputs.sha_short }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+          outputs: type=image,compression=zstd
