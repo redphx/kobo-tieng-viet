@@ -20,4 +20,4 @@ COPY . .
 ENTRYPOINT ["uv", "run", "python", "build.py"]
 
 # tham số mặc định (có thể override bởi docker-compose.yml hoặc docker run)
-CMD ["--build", "dev", "--version", "", "--fonts", "./fonts", "--name", "KoboRoot.tgz"]
+CMD ["--build", "dev", "--version", "20250902", "--fonts", "./fonts", "--name", "20250902-dev"]
