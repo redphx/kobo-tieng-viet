@@ -1,5 +1,6 @@
 services:
   builder:
+    image: ${IMAGE_NAME}:${APP_VERSION}
     build:
       context: .
       dockerfile: dockerfile

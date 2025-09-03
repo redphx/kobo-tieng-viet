@@ -8,11 +8,14 @@ build:
 # thư mục app/dist sẽ mount với ./dist khi chạy lệnh trong thư mục dự án
 # cấu hình mount volume thể hiện trong file docker-compose.yml
 # các thư mục ./dist ./KoboRoot ./fonts, phải có sẵn trước khi chạy lệnh này
+IMAGE_NAME ?= kobo-tieng-viet
+APP_VERSION ?= latest
 build-tgz:
+	@IMAGE_NAME=$(IMAGE_NAME) APP_VERSION=$(APP_VERSION) \
 	docker compose -f docker-compose.yml up
 
 APP_VERSION ?= latest
-GH_OWNER    ?= username 		# cấu hình github username
+GH_OWNER    ?= username		# cấu hình github username
 GH_REPO     ?= kobo-tieng-viet
 
 GREEN=\033[32m
