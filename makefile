@@ -30,7 +30,7 @@ RESET=\033[0m
 build-tgz-prod:
 	@echo "➡️ Deploying ghcr.io/$(GH_OWNER)/$(GH_REPO):$(APP_VERSION)"
 	@APP_VERSION=$(APP_VERSION) GH_OWNER=$(GH_OWNER) GH_REPO=$(GH_REPO) \
-	docker compose -f docker-compose-prod.yml up -d
+	docker compose -f docker-compose-prod.yml up
 	@mkdir -p ./savedist
 	@CID=$$(docker compose -f docker-compose-prod.yml ps -a -q builder | cut -c1-12) && \
 	echo "➡️ Copying /app/dist from containerid ${GREEN}$$CID${RESET} to ./savedist" && \
