@@ -7,7 +7,6 @@ services:
     env_file:
       - .env
     volumes:
-      - ${DIST_DIR}:/app/dist
-      - ${KOBOROOT_DIR}:/app/KoboRoot
+      - ./dist:/app/dist
       - ${FONTS_DIR}:/app/fonts 
-    command: ["--build", "${BUILD}", "--version", "${VERSION}", "--fonts", "${FONTS_DIR}", "--name", "${TGZ_NAME}"]
+    command: ["--build", "${BUILD}", "--version", "${VERSION}", "--name", "${TGZ_NAME}"]

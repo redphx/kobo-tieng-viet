@@ -5,10 +5,9 @@ build:
 	docker buildx build --load -t $(IMAGE_NAME):$(APP_VERSION) .
 
 # gõ: make build-tgz -để build .tgz file ở local, 
-# thư mục app/dist sẽ mount với ./dist khi chạy lệnh trong thư mục dự án
-# cấu hình mặc định được thể hiện trong file docker-compose.yml
-# các thư mục ./dist ./KoboRoot ./fonts, phải có sẵn trước khi chạy lệnh này
-# nếu muốn mount thư mục khác, cầu hình lại trong file .env
+# cấu hình runtime mặc định được ghi trong file docker-compose.yml
+# các thư mục muốn mount từ host như ./dist ./fonts, phải có sẵn trước khi chạy lệnh này
+# nếu cần mount thư mục khác, cấu hình lại trong file .env và docker-compose.yml
 IMAGE_NAME ?= kobo-tieng-viet
 APP_VERSION ?= latest
 build-tgz:
@@ -24,9 +23,9 @@ RESET=\033[0m
 
 # gõ: make build-tgz-prod - để build .tgz file từ publish image
 # yêu cầu: github actions: docker-publish build và publish image thành công
-# cấu hình mặc định được thể hiện trong file docker-compose-prod.yml
-# các thư mục ./dist ./KoboRoot ./fonts, phải có sẵn trước khi chạy lệnh này
-# nếu muốn mount thư mục khác, cầu hình lại trong file .env
+# cấu hình runtime mặc định được ghi trong file docker-compose-prod.yml
+# các thư mục muốn mount từ host như ./dist ./fonts, phải có sẵn trước khi chạy lệnh này
+# nếu cần mount thư mục khác, cấu hình lại trong file .env và docker-compose-prod.yml
 build-tgz-prod:
 	@echo "➡️ Deploying ghcr.io/$(GH_OWNER)/$(GH_REPO):$(APP_VERSION)"
 	@APP_VERSION=$(APP_VERSION) GH_OWNER=$(GH_OWNER) GH_REPO=$(GH_REPO) \

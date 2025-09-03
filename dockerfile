@@ -20,4 +20,6 @@ COPY . .
 ENTRYPOINT ["uv", "run", "python", "build.py"]
 
 # tham số mặc định (có thể override bởi docker-compose.yml hoặc docker run)
-CMD ["--build", "dev", "--version", "20250902", "--fonts", "./fonts", "--name", "20250902-dev"]
+# param --font không cần thiết, vì container không thể đọc trực tiếp nếu thư mục ở host
+# nên mount thư mục font ở host vào thưc mục mặc định /app/fonts, cấu hình ở docker-compose.yml lúc runtime
+CMD ["--build", "dev", "--version", "20250902", "--name", "20250902-dev"]
