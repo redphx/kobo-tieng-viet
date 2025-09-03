@@ -6,14 +6,8 @@ services:
       dockerfile: dockerfile
     env_file:
       - .env
-    environment:
-      - LRELEASE=${LRELEASE}
-      - BUILD=${BUILD}
-      - VERSION=${VERSION}
-      - FONTS_DIR=${FONTS_DIR}
-      - TGZ_NAME=${TGZ_NAME}       
     volumes:
-      - ./dist:/app/dist
-      - ./KoboRoot:/app/KoboRoot
-      - ./fonts:/app/fonts 
+      - ${DIST_DIR}:/app/dist
+      - ${KOBOROOT_DIR}:/app/KoboRoot
+      - ${FONTS_DIR}:/app/fonts 
     command: ["--build", "${BUILD}", "--version", "${VERSION}", "--fonts", "${FONTS_DIR}", "--name", "${TGZ_NAME}"]
