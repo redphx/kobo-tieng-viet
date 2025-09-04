@@ -37,7 +37,7 @@ build-tgz-dev:
 	docker compose -f docker-compose.dev.yml up
 
 APP_VERSION ?= latest
-GH_OWNER    ?= rinlevan # cấu hình github username
+GH_OWNER    ?= username # cấu hình github username
 GH_REPO     ?= kobo-tieng-viet
 
 GREEN=\033[32m
