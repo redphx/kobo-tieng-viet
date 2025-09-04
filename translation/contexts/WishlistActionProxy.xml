@@ -18,14 +18,14 @@
     </message>
     <message>
         <source>We've added this book to your Wishlist.</source>
-        <translation>Chúng tôi đã thêm cuốn sách này vào Danh sách mong muốn của bạn.</translation>
+        <translation>Đã thêm cuốn sách này vào Danh sách mong muốn của bạn.</translation>
     </message>
     <message>
         <source>We've removed this book from your Wishlist.</source>
-        <translation>Chúng tôi đã loại bỏ cuốn sách này khỏi Danh sách mong muốn của bạn.</translation>
+        <translation>Đã bỏ cuốn sách này khỏi Danh sách mong muốn của bạn.</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation>Danh sách mong muốn</translation>
+        <translation>Mong muốn</translation>
     </message>
 </context>

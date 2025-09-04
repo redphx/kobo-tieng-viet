@@ -154,9 +154,9 @@ def inject_about_page(source: str, version: str):
     index = source.index('<translation>', index) + 13
 
     info = [
-        f'<p><b>Dự án Kobo tiếng Việt</b> ({version})</p>',
-        '<p><i>github.com/redphx/kobo-tieng-viet</i></p>',
-        '<br>',
+        '<p>',
+        '<b>Dự án Kobo tiếng Việt</b> ∙ <i>sachxy.github.io</i> ∙ phiên bản {version}',
+        '</p>',
     ]
 
     # Inject project's info
