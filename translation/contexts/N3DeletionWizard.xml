@@ -2,7 +2,7 @@
     <name>N3DeletionWizard</name>
     <message>
         <source>"%1" will be completely removed from your library.</source>
-        <translation>"%1" sẽ bị loại bỏ hoàn toàn khỏi thư viện.</translation>
+        <translation>"%1" sẽ bị xóa hoàn toàn khỏi thư viện.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the collection named "%1" from your account?</source>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove all of your annotations for this book? This will remove all notes, highlights, and bookmarks.</source>
-        <translation>Bạn có chắc muốn xóa toàn bộ chú thích cho cuốn sách này? Thao tác sẽ xóa hết ghi chú, đánh dấu và dấu trang.</translation>
+        <translation>Bạn có chắc muốn xóa toàn bộ chú thích của cuốn sách này? Thao tác này sẽ xóa hết ghi chú, đánh dấu và dấu trang.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>Delete Notebook</source>
-        <translation>Xóa sổ tay</translation>
+        <translation>Xóa Sổ tay</translation>
     </message>
     <message>
         <source>Delete picture from Library</source>
@@ -54,11 +54,11 @@
     </message>
     <message>
         <source>Remove article(s) from eReader?</source>
-        <translation>Xóa bài viết khỏi thiết bị?</translation>
+        <translation>Xóa bài viết khỏi máy?</translation>
     </message>
     <message>
         <source>Remove book(s) from eReader?</source>
-        <translation>Xóa sách khỏi thiết bị?</translation>
+        <translation>Xóa sách khỏi máy?</translation>
     </message>
     <message>
         <source>Remove Download</source>
@@ -66,15 +66,15 @@
     </message>
     <message>
         <source>Remove imported item(s) from eReader?</source>
-        <translation>Xóa mục nhập khỏi thiết bị?</translation>
+        <translation>Xóa mục đã nhập khỏi máy?</translation>
     </message>
     <message>
         <source>Remove preview(s) from eReader?</source>
-        <translation>Xóa bản xem trước khỏi thiết bị?</translation>
+        <translation>Xóa bản xem trước khỏi máy?</translation>
     </message>
     <message>
         <source>The item will be permanently deleted.</source>
-        <translation>Mục sẽ bị xóa vĩnh viễn.</translation>
+        <translation>Mục này sẽ bị xóa vĩnh viễn.</translation>
     </message>
     <message>
         <source>This article will be deleted from your Instapaper account.</source>
