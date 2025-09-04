@@ -34,10 +34,10 @@ IMAGE_NAME ?= kobo-tieng-viet
 APP_VERSION ?= latest
 build-tgz-dev:
 	@IMAGE_NAME=$(IMAGE_NAME) APP_VERSION=$(APP_VERSION) \
-	docker compose -f docker-compose.yml up
+	docker compose -f docker-compose.dev.yml up
 
 APP_VERSION ?= latest
-GH_OWNER    ?= username # cấu hình github username
+GH_OWNER    ?= rinlevan # cấu hình github username
 GH_REPO     ?= kobo-tieng-viet
 
 GREEN=\033[32m
@@ -51,8 +51,8 @@ RESET=\033[0m
 build-tgz-prod:
 	@echo "➡️ Deploying ghcr.io/$(GH_OWNER)/$(GH_REPO):$(APP_VERSION)"
 	@APP_VERSION=$(APP_VERSION) GH_OWNER=$(GH_OWNER) GH_REPO=$(GH_REPO) \
-	docker compose -f docker-compose-prod.yml up
+	docker compose -f docker-compose.prod.yml up
 	@mkdir -p ./savedist
-	@CID=$$(docker compose -f docker-compose-prod.yml ps -a -q builder | cut -c1-12) && \
+	@CID=$$(docker compose -f docker-compose.prod.yml ps -a -q builder | cut -c1-12) && \
 	echo "➡️ Copying /app/dist from containerid ${GREEN}$$CID${RESET} to ./savedist" && \
 	docker cp $$CID:/app/dist ./savedist
