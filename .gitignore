@@ -22,3 +22,4 @@ KoboRoot/mnt/
 KoboRoot/usr/
 translation/*.ts
 translation/*.qm
+savedist/
