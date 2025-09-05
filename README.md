@@ -41,15 +41,11 @@ Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy fir
 
 ***Đã cài đặt thành công trên:***
 
-| Kobo         | Firmware 4.x |
-| ------------ |:------------:|
-| Aura (2013)  |  ✓           |
-| Clara BW     |  ✓           |
-| Clara Colour |  ✓           |
-| Libra 2      |  ✓           |
-| Libra Colour |  ✓           |
-| Clara 2E     |  ✓           |
-| Clara HD     |  ✓           |
+| Kobo                        | Firmware 4.x |
+| --------------------------- |:------------:|
+| Aura (2013)                 |  ✓           |
+| Clara 2E, BW, Colour, HD... |  ✓           |
+| Libra 2, Colour...          |  ✓           |
 
 
 ### Các bước cài đặt
@@ -64,16 +60,15 @@ Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy fir
 4. Nếu làm đúng, Kobo sẽ tự động cập nhật và khởi động lại. Quá trình này chỉ mất tầm 3 phút. ***Không tắt nguồn khi máy đang cập nhật***.
 5. Máy sẽ tự động chuyển sang giao diện tiếng Việt. Nếu không, bạn có thể tự bật bằng cách:  
     `More > Settings > Language and dictionaries > Select your Language > Extra: vi`
-6. ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt Lạc Việt/TFlat 170 ngàn từ tại [redphx/tudien](https://github.com/redphx/tudien)
-7. Theo dõi [Facebook page của dự án](https://www.facebook.com/getsachxy) để biết thêm thông tin về bản cập nhật mới
-8. Hoàn tất
+6. ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt tổng hợp 170 ngàn từ tại [redphx/tudien](https://github.com/redphx/tudien)
+7. Hoàn tất
 
 Khi muốn cập nhật phiên bản mới, bạn chỉ cần thực hiện lại các bước trên.
 
 ## 🙋 3. Các câu hỏi thường gặp
 
-- **Cài đặt cái này có làm hư máy không?**  
-  > Bản cài đặt chỉ cập nhật font và thêm file ngôn ngữ tiếng Việt cho giao diện, không chỉnh sửa file hệ thống nên khả năng làm hư máy là gần như không có
+- **Cài đặt cái này có làm hư máy hay chậm máy không?**  
+  > Bản cài đặt chỉ cập nhật font và thêm file ngôn ngữ tiếng Việt cho giao diện, không chỉnh sửa file hệ thống nên khả năng làm hư máy là gần như không có, và sẽ không làm máy chậm đi
 
 - **Tôi có thể sử dụng bản cài đặt cho Kobo phiên bản nào?**
   > Theo lý thuyết thì bản cài đặt tương thích với mọi dòng máy và firmware (nhưng chỉ mới được kiểm nghiệm trên firmware 4.x)
@@ -81,14 +76,14 @@ Khi muốn cập nhật phiên bản mới, bạn chỉ cần thực hiện lạ
 - **Bản cài đặt có hỗ trợ các firmware phát hành sau này không?**
   > Bản cài đặt sẽ tự động hỗ trợ các firmware phát hành sau này
 
+- **Sau khi cập nhật firmware mới cho Kobo tôi có phải cài đặt lại tiếng Việt không?**
+  > Có, vì firmware mới sẽ ghi đè các font sửa lỗi tiếng Việt
+
 - **Tôi đã cài bản [lelinhtinh/kobo-tieng-viet](https://github.com/lelinhtinh/kobo-tieng-viet), giờ có thể cài thêm bản này không?**
   > Hoàn toàn được, không lỗi lầm gì. Bạn chỉ cần làm theo hướng dẫn ở trên.
 
 - **Tôi đã cài bản patch tiếng Việt của người khác làm, giờ có thể cài thêm bản này không?**
   > Mình không rõ các bản đó đã thay đổi những gì nên có thể sẽ không thể sử dụng chung được. Tốt nhất bạn nên reset về firmware gốc của máy, sau đó cài đặt lại bản này.
-
-- **Sau khi cập nhật firmware mới cho Kobo tôi có phải cài đặt lại tiếng Việt không?**
-  > Có, vì firmware mới sẽ ghi đè các font sửa lỗi tiếng Việt
 
 - **Làm sao để biết được phiên bản tiếng Việt đang cài đặt?**
   > Xem tại `Thêm > Cài đặt > Về Kobo`
