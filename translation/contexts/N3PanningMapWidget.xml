@@ -2,7 +2,7 @@
     <name>N3PanningMapWidget</name>
     <message>
         <source>Page: %1 of %2</source>
-        <translation>Trang: %1 trên %2</translation>
+        <translation>Trang: %1/%2</translation>
     </message>
     <message>
         <source>Zoom: %1%</source>

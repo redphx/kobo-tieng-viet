@@ -6,11 +6,11 @@
     </message>
     <message>
         <source>Article %1 of %2</source>
-        <translation>Bài viết %1 trên %2</translation>
+        <translation>Bài viết %1/%2</translation>
     </message>
     <message>
         <source>Book %1 of %2</source>
-        <translation>Sách %1 trên %2</translation>
+        <translation>Sách %1/%2</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -62,7 +62,7 @@
     </message>
     <message>
         <source>Notebook %1 of %2</source>
-        <translation>Sổ tay %1 trên %2</translation>
+        <translation>Sổ tay %1/%2</translation>
     </message>
     <message>
         <source>Preparing device for sync...</source>

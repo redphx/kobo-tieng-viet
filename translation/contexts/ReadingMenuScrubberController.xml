@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Page %1 of %2</source>
-        <translation>Trang %1 trên %2</translation>
+        <translation>Trang %1/%2</translation>
     </message>
     <message>
         <source>Re-added to list</source>
