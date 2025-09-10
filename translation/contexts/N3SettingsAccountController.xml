@@ -104,15 +104,15 @@
     </message>
     <message>
         <source>Reset now</source>
-        <translation>Reset ngay</translation>
+        <translation>Khôi phục ngay</translation>
     </message>
     <message>
         <source>Resetting device...</source>
-        <translation>Đang reset lại thiết bị...</translation>
+        <translation>Đang khôi phục lại thiết bị...</translation>
     </message>
     <message>
         <source>Resetting your eReader to its factory default state erases your books, documents and custom settings.</source>
-        <translation>Đặt lại máy đọc sách về trạng thái gốc sẽ xóa sách, tài liệu và cài đặt tùy chỉnh.</translation>
+        <translation>Khôi phục máy đọc sách về trạng thái ban đầu sẽ xóa sách, tài liệu và cài đặt tùy chỉnh.</translation>
     </message>
     <message>
         <source>Sign out</source>
