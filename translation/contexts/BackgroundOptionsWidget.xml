@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Guitar Tabs</source>
-        <translation>Tab guitar</translation>
+        <translation>Hợp âm guitar</translation>
     </message>
     <message>
         <source>Handwriting Mi Zi</source>
@@ -70,11 +70,11 @@
     </message>
     <message>
         <source>Isometric Dot</source>
-        <translation>Chấm đẳng cự</translation>
+        <translation>Chấm isometric</translation>
     </message>
     <message>
         <source>Isometric Grid</source>
-        <translation>Lưới đẳng cự</translation>
+        <translation>Lưới isometric</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Music</source>
-        <translation>Âm nhạc</translation>
+        <translation>Khuông nhạc</translation>
     </message>
     <message>
         <source>None</source>
@@ -130,19 +130,19 @@
     </message>
     <message>
         <source>Storyboard App</source>
-        <translation>Ứng dụng bảng phân cảnh</translation>
+        <translation>Storyboard ứng dụng</translation>
     </message>
     <message>
         <source>Storyboard x1</source>
-        <translation>Kịch bản x1</translation>
+        <translation>Storyboard x1</translation>
     </message>
     <message>
         <source>Storyboard x2</source>
-        <translation>Kịch bản x2</translation>
+        <translation>Storyboard x2</translation>
     </message>
     <message>
         <source>Storyboard x4</source>
-        <translation>Kịch bản x4</translation>
+        <translation>Storyboard x4</translation>
     </message>
     <message>
         <source>To Do</source>
