@@ -2,7 +2,7 @@
     <name>N3SettingsPowerView</name>
     <message>
         <source>"intelligent" protection case</source>
-        <translation>Ốp bảo vệ "thông minh"</translation>
+        <translation>ốp bảo vệ "thông minh"</translation>
     </message>
     <message>
         <source>10 mins</source>
@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>Ask for PIN on wake up or power on:</source>
-        <translation>Yêu cầu mã PIN khi thức dậy hoặc mở nguồn:</translation>
+        <translation>Hỏi mã PIN khi bật nguồn/đánh thức máy:</translation>
     </message>
     <message>
         <source>Automatically go to sleep after:</source>
@@ -54,15 +54,15 @@
     </message>
     <message>
         <source>Change PIN</source>
-        <translation>Thay đổi mã PIN</translation>
+        <translation>Đổi mã PIN</translation>
     </message>
     <message>
         <source>Change your 4-digit PIN:</source>
-        <translation>Thay đổi mã PIN 4 chữ số của bạn:</translation>
+        <translation>Đổi mã PIN 4 chữ số của bạn:</translation>
     </message>
     <message>
         <source>Discover Tab</source>
-        <translation>Thẻ khám phá</translation>
+        <translation>Tab Khám phá</translation>
     </message>
     <message>
         <source>Enabling PIN lock helps protect your content and information by requiring a 4-digit PIN to use your eReader.</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>To access your privacy settings, please visit: %1</source>
-        <translation>Để truy cập cài đặt riêng tư của bạn, vui lòng truy cập: %1</translation>
+        <translation>Để thay đổi cài đặt riêng tư của bạn, vui lòng truy cập: %1</translation>
     </message>
     <message>
         <source>Wake up device with page turn button:</source>
