@@ -155,7 +155,7 @@ def inject_about_page(source: str, version: str):
 
     info = [
         '<p>',
-        '<b>Dự án Kobo tiếng Việt</b> ∙ <i>sachxy.github.io</i> ∙ phiên bản {version}',
+        f'<b>Dự án Kobo tiếng Việt</b> ∙ <i>sachxy.github.io</i> ∙ phiên bản {version}',
         '</p>',
     ]
 
