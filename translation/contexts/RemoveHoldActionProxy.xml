@@ -2,7 +2,7 @@
     <name>RemoveHoldActionProxy</name>
     <message>
         <source>Are you sure you want to remove this hold &lt;i&gt;%0&lt;/i&gt;?</source>
-        <translation>Bạn có chắc muốn xóa đặt chỗ này &lt;i&gt;%0&lt;/i&gt;?</translation>
+        <translation>Bạn có chắc muốn hủy đặt chỗ cho &lt;i&gt;%0&lt;/i&gt;?</translation>
     </message>
     <message>
         <source>No</source>
@@ -10,15 +10,15 @@
     </message>
     <message>
         <source>Remove hold</source>
-        <translation>Xóa đặt chỗ</translation>
+        <translation>Hủy đặt chỗ</translation>
     </message>
     <message>
         <source>Remove hold with OverDrive</source>
-        <translation>Xóa đặt chỗ với OverDrive</translation>
+        <translation>Hủy đặt chỗ với OverDrive</translation>
     </message>
     <message>
         <source>Remove hold?</source>
-        <translation>Xóa đặt chỗ?</translation>
+        <translation>Hủy đặt chỗ?</translation>
     </message>
     <message>
         <source>Yes</source>

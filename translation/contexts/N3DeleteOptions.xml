@@ -14,40 +14,40 @@
     </message>
     <message>
         <source>Delete Notebook?</source>
-        <translation>Xóa sổ tay?</translation>
+        <translation>Xóa Sổ tay?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Loại bỏ</translation>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>Remove download</source>
-        <translation>Loại bỏ tải xuống</translation>
+        <translation>Xóa tải xuống</translation>
     </message>
     <message>
         <source>Remove from apps and devices</source>
-        <translation>Loại khỏi ứng dụng và thiết bị</translation>
+        <translation>Xóa khỏi ứng dụng và thiết bị</translation>
     </message>
     <message>
         <source>Remove from collection</source>
-        <translation>Loại khỏi bộ sưu tập</translation>
+        <translation>Xóa khỏi bộ sưu tập</translation>
     </message>
     <message>
         <source>Remove from Home</source>
-        <translation>Loại khỏi trang chủ</translation>
+        <translation>Xóa khỏi Trang chủ</translation>
     </message>
     <message>
         <source>Remove from Instapaper</source>
-        <translation>Loại khỏi Instapaper</translation>
+        <translation>Xóa khỏi Instapaper</translation>
         <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Remove from My Books</source>
-        <translation>Loại khỏi Sách của tôi</translation>
+        <translation>Xóa khỏi Sách của tôi</translation>
     </message>
     <message>
         <source>Remove from Pocket</source>
-        <translation>Loại khỏi Pocket</translation>
+        <translation>Xóa khỏi Pocket</translation>
     </message>
     <message>
         <source>You can re-download this item any time.</source>

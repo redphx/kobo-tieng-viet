@@ -6,7 +6,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Loại bỏ</translation>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>Remove downloads</source>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Remove from My Books</source>
-        <translation>Loại bỏ khỏi Sách của tôi</translation>
+        <translation>Xóa khỏi Sách của tôi</translation>
     </message>
     <message>
         <source>You can re-download these items any time.</source>

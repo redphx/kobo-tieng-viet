@@ -2,7 +2,7 @@
     <name>N3BrowserFavouritesView</name>
     <message>
         <source>Are you sure you want to remove %1?</source>
-        <translation>Bạn có chắc muốn loại bỏ %1?</translation>
+        <translation>Bạn có chắc muốn xóa %1?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -22,6 +22,6 @@
     </message>
     <message>
         <source>Remove favourite</source>
-        <translation>Loại bỏ yêu thích</translation>
+        <translation>Bỏ yêu thích</translation>
     </message>
 </context>
