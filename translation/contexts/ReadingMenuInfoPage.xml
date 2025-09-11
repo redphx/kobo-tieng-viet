@@ -2,7 +2,7 @@
     <name>ReadingMenuInfoPage</name>
     <message>
         <source>Access other tools and settings</source>
-        <translation>Truy cập các công cụ và cài đặt khác</translation>
+        <translation>Các công cụ và cài đặt khác</translation>
     </message>
     <message>
         <source>Annotations</source>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Change the font size or style</source>
-        <translation>Thay đổi kích thước hoặc kiểu font</translation>
+        <translation>Đổi kích thước hoặc kiểu font</translation>
     </message>
     <message>
         <source>Chapter Skip</source>

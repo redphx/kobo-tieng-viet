@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Got a Digital Card as a gift? To redeem, go to www.kobo.com/redeem.</source>
-        <translation>Nhận được quà là thẻ nạp? Đổi quà tại www.kobo.com/redeem.</translation>
+        <translation>Nhận được quà là thẻ kỹ thuật số? Nhập thẻ tại www.kobo.com/redeem.</translation>
     </message>
     <message>
         <source>Kobo Plus Listen</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Kobo Plus Read &amp; Listen</source>
-        <translation>Kobo Plus đọc và nghe</translation>
+        <translation>Kobo Plus Đọc và Nghe</translation>
     </message>
     <message>
         <source>Learn more</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Redeem a Digital Card</source>
-        <translation>Nhập thẻ nạp</translation>
+        <translation>Nhập thẻ kỹ thuật số</translation>
     </message>
     <message>
         <source>Removing Instapaper content. This may take a minute.</source>
