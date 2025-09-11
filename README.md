@@ -94,7 +94,7 @@ Bản cài đặt này sẽ thay đổi các font mặc định của máy (khô
 
 |                       | Font hệ thống                             | Font mới                                                             |
 | ---------------------:| ----------------------------------------- | -------------------------------------------------------------------- |
-| **Serif**             | Rakuten Serif<br>Georgia (firmware cũ)    | [Aleo](https://fonts.google.com/specimen/Aleo)                       |
+| **Serif**             | Rakuten Serif<br>Georgia (firmware cũ)    | [Bitter](https://fonts.google.com/specimen/Bitter)                   |
 | **Sans Serif**        | Rakuten Sans<br>Avenir Next (firmware cũ) | [Roboto](https://fonts.google.com/specimen/Roboto)                   |
 | **Monospace**         | Không hỗ trợ (*)                          | [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) |
 | **Hỗ trợ tiếng Việt** | ✗                                         | ✓                                                                    |
