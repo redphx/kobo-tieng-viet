@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>Disabling this feature may allow droplets on your screen to cause unexpected actions while reading.</source>
-        <translation>Việc tắt tính năng này có thể khiến các giọt nước trên màn hình của bạn gây ra các hành động không mong muốn trong khi đọc.</translation>
+        <translation>Việc tắt tính năng này có thể khiến các giọt nước trên màn hình gây ra các thao tác không mong muốn trong khi đọc.</translation>
     </message>
     <message>
         <source>Footer:</source>
@@ -142,11 +142,11 @@
     </message>
     <message>
         <source>Time remaining in book</source>
-        <translation>Ước tính thời gian còn lại của cuốn sách</translation>
+        <translation>Thời gian còn lại của cuốn sách</translation>
     </message>
     <message>
         <source>Time remaining in chapter</source>
-        <translation>Ước tính thời gian còn lại của chương</translation>
+        <translation>Thời gian còn lại của chương</translation>
     </message>
     <message>
         <source>Try to exclude end matter from progress:</source>

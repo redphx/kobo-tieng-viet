@@ -2,7 +2,7 @@
     <name>N3SettingsAccountController</name>
     <message>
         <source>%1 eReader</source>
-        <translation>Máy đọc eBook %1</translation>
+        <translation>Máy đọc sách %1</translation>
     </message>
     <message>
         <source>Accounts</source>

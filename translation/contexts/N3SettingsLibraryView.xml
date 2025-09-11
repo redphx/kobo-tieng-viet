@@ -16,32 +16,32 @@
     </message>
     <message>
         <source>Downloaded %1 books</source>
-        <translation>Đã tải xuống %1 sách</translation>
+        <translation>Sách đã tải từ %1</translation>
     </message>
     <message>
         <source>Downloaded Dropbox books</source>
-        <translation>Sách đã tải xuống từ Dropbox</translation>
+        <translation>Sách đã tải từ Dropbox</translation>
     </message>
     <message>
         <source>Downloaded Google Drive books</source>
-        <translation>Sách đã tải xuống từ Google Drive</translation>
+        <translation>Sách đã tải từ Google Drive</translation>
     </message>
     <message>
         <source>Downloaded Instapaper articles</source>
-        <translation>Bài viết đã tải xuống từ Instapaper</translation>
+        <translation>Bài viết đã tải từ Instapaper</translation>
         <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>Downloaded Kobo books</source>
-        <translation>Sách đã tải xuống từ Kobo</translation>
+        <translation>Sách đã tải từ Kobo</translation>
     </message>
     <message>
         <source>Downloaded Pocket articles</source>
-        <translation>Bài viết đã tải xuống từ Pocket</translation>
+        <translation>Bài viết đã tải từ Pocket</translation>
     </message>
     <message>
         <source>Downloaded previews</source>
-        <translation>Xem trước được tải xuống</translation>
+        <translation>Bản xem trước đã tải xuống</translation>
     </message>
     <message>
         <source>Form</source>
