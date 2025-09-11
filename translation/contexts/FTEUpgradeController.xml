@@ -39,7 +39,7 @@
     <message numerus="yes">
         <source>Please be patient. About %n minute(s) remaining.</source>
         <translation>
-            <numerusform>Xin hãy chờ. Còn khoảng %n phút nữa.</numerusform>
+            <numerusform>Vui lòng chịu khó chờ. Còn khoảng %n phút nữa.</numerusform>
         </translation>
     </message>
     <message>
@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>Please be patient. This may take a moment.</source>
-        <translation>Xin hãy kiên nhẫn. Quá trình có thể mất một chút thời gian.</translation>
+        <translation>Vui lòng chịu khó chờ. Quá trình có thể mất một chút thời gian.</translation>
     </message>
     <message>
         <source>Preparing update</source>

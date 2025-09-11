@@ -10,6 +10,6 @@
     </message>
     <message>
         <source>Unable to join "%1". Please try another network.</source>
-        <translation>Không thể kết nối với "%1". Hãy thử một mạng khác.</translation>
+        <translation>Không thể kết nối với "%1". Vui lòng thử một mạng khác.</translation>
     </message>
 </context>

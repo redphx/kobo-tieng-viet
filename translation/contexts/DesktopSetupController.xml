@@ -2,7 +2,7 @@
     <name>DesktopSetupController</name>
     <message>
         <source>&lt;html&gt;&lt;body&gt;Use a browser to visit kobo.com/desktop and download our free desktop app.&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body&gt;Hãy dùng trình duyệt để truy cập kobo.com/desktop và tải xuống ứng dụng miễn phí dành cho máy tính.&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;Dùng trình duyệt để truy cập kobo.com/desktop và tải xuống ứng dụng miễn phí dành cho máy tính.&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Download Kobo Desktop</source>

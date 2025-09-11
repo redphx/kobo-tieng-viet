@@ -22,6 +22,6 @@
     </message>
     <message>
         <source>Unable to join "%1". Please try again.</source>
-        <translation>Không thể kết nối với "%1". Hãy thử lại.</translation>
+        <translation>Không thể kết nối với "%1". Vui lòng thử lại.</translation>
     </message>
 </context>
