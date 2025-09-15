@@ -1,9 +1,6 @@
 name: Docker Publish
 
-on:
-  push:
-    tags:
-      - "v*"   # chỉ build khi push tag, ví dụ: v20250829
+on: { push: { tags: ["v*"] } }
 
 env:
   REGISTRY: ghcr.io
