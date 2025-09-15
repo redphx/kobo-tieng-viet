@@ -3,10 +3,13 @@ on: [workflow_dispatch]
 
 jobs:
   build:
-    name: kobo-tieng-viet
     runs-on: ubuntu-latest
     container: ghcr.io/rinlevan/kobo-tieng-viet:latest
     steps:
+    - name: Install git
+      run: |
+        apt-get update
+        apt-get install -y git
     - name: Checkout
       uses: actions/checkout@v5
       with:
