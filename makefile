@@ -56,3 +56,12 @@ build-tgz-prod:
 	@CID=$$(docker compose -f docker-compose.prod.yml ps -a -q builder | cut -c1-12) && \
 	echo "➡️ Copying /app/dist from containerid ${GREEN}$$CID${RESET} to ./savedist" && \
 	docker cp $$CID:/app/dist ./savedist
+
+BUILD 		:= release
+VERSION 	:= $(shell date +%Y%m%d)
+FONTS		:= ./fonts
+LRELEASE=/usr/bin/lrelease
+export LRELEASE
+all:
+	uv run python build.py --build $(BUILD) --version $(VERSION) --fonts $(FONTS)
+
