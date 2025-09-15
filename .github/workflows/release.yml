@@ -1,0 +1,42 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    container: ghcr.io/rinlevan/kobo-tieng-viet:latest
+    steps:
+    - name: Install git and make
+      run: |
+        apt-get update
+        apt-get install -y git make
+
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        submodules: true
+
+    - name: Build
+      run: make all
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: kobo-tieng-viet
+        path: ./dist/KoboRoot.tgz
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v2
+      with:
+        name: "Kobo Tiếng Việt ${{ github.ref_name }}"
+        body: |
+         ## 📖 Kobo Tiếng Việt
+         Release cho bản **${{ github.ref_name }}**
+
+         - Bao gồm file `KoboRoot.tgz`
+         - Cài đặt bằng cách copy vào `.kobo/` của thiết bị
+        files: ./dist/KoboRoot.tgz
