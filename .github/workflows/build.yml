@@ -4,7 +4,7 @@ on: [workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: ghcr.io/rinlevan/kobo-tieng-viet:latest
+    container: ghcr.io/${{ github.repository_owner }}/kobo-tieng-viet:latest
     steps:
     - name: Install git and make
       run: |
