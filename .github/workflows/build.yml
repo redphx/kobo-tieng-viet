@@ -6,10 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/rinlevan/kobo-tieng-viet:latest
     steps:
-    - name: Install git
+    - name: Install git and make
       run: |
         apt-get update
-        apt-get install -y git
+        apt-get install -y git make
     - name: Checkout
       uses: actions/checkout@v5
       with:
