@@ -27,7 +27,6 @@ jobs:
       with:
         name: "Kobo Tiếng Việt ${{ github.ref_name }}"
         body: |
-         ## 📖 Kobo Tiếng Việt
          Release cho bản **${{ github.ref_name }}**
 
          - Bao gồm file `KoboRoot.tgz`
