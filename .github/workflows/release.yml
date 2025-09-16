@@ -6,7 +6,7 @@ on: { push: { tags: ["v*"] } }
 jobs:
   release:
     runs-on: ubuntu-latest
-    container: ghcr.io/${{ github.repository_owner }}/kobo-tieng-viet:latest
+    container: ghcr.io/${{ github.repository_owner }}/kobo-tieng-viet:base
     steps:
     - name: Install git and make
       run: |
