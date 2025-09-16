@@ -50,7 +50,7 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           context: .
-          file: ./dockerfile  
+          file: ./dockerfile.base  
           push: true
           platforms: linux/amd64   # thêm linux/arm64 nếu cần đa kiến trúc
           tags: |
