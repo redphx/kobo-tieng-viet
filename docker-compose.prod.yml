@@ -1,9 +1,0 @@
-services:
-  builder:
-    image: ghcr.io/${GH_OWNER}/${GH_REPO}:${APP_VERSION}
-    pull_policy: always 
-    env_file:
-      - .env
-    volumes:
-      - ${FONTS_DIR}:/app/fonts 
-    command: ["--build", "${BUILD}", "--version", "${VERSION}", "--name", "${TGZ_NAME}"]

@@ -26,7 +26,7 @@ APP_VERSION ?= latest
 build-image:
 	docker buildx build --load -t $(IMAGE_NAME):$(APP_VERSION) .
 
-# gõ: make build-tgz-dev -để build .tgz file ở local, 
+# gõ: make build-tgz-dev -để build .tgz file ở local (môi trường docker)
 # cấu hình runtime mặc định được ghi trong file docker-compose.dev.yml
 # các thư mục muốn mount từ host như ./dist ./fonts, phải có sẵn trước khi chạy lệnh này
 # nếu cần mount thư mục khác, cấu hình lại trong file .env và docker-compose.dev.yml
@@ -36,32 +36,14 @@ build-tgz-dev:
 	@IMAGE_NAME=$(IMAGE_NAME) APP_VERSION=$(APP_VERSION) \
 	docker compose -f docker-compose.dev.yml up
 
-APP_VERSION ?= latest
-GH_OWNER    ?= username # cấu hình github username
-GH_REPO     ?= kobo-tieng-viet
-
-GREEN=\033[32m
-RESET=\033[0m
-
-# gõ: make build-tgz-prod - để build .tgz file từ publish image
-# yêu cầu: github actions: docker-publish build và publish image thành công
-# cấu hình runtime mặc định được ghi trong file docker-compose.prod.yml
-# các thư mục muốn mount từ host như ./dist ./fonts, phải có sẵn trước khi chạy lệnh này
-# nếu cần mount thư mục khác, cấu hình lại trong file .env và docker-compose.prod.yml
-build-tgz-prod:
-	@echo "➡️ Deploying ghcr.io/$(GH_OWNER)/$(GH_REPO):$(APP_VERSION)"
-	@APP_VERSION=$(APP_VERSION) GH_OWNER=$(GH_OWNER) GH_REPO=$(GH_REPO) \
-	docker compose -f docker-compose.prod.yml up
-	@mkdir -p ./savedist
-	@CID=$$(docker compose -f docker-compose.prod.yml ps -a -q builder | cut -c1-12) && \
-	echo "➡️ Copying /app/dist from containerid ${GREEN}$$CID${RESET} to ./savedist" && \
-	docker cp $$CID:/app/dist ./savedist
-
+# make all được dùng trong build và release flow
 BUILD 		:= release
 VERSION 	:= $(shell date +%Y%m%d)
 FONTS		:= ./fonts
 LRELEASE=/usr/bin/lrelease
+UV_LINK_MODE=copy
 export LRELEASE
+export UV_LINK_MODE
 all:
 	uv run python build.py --build $(BUILD) --version $(VERSION) --fonts $(FONTS)
 
