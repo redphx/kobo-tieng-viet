@@ -43,7 +43,7 @@ jobs:
       - name: Extract version
         id: vars
         run: |
-          VERSION="$(shell date +%Y%m%d)"
+          VERSION="$(date +%Y%m%d)"
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Build and push Docker image
