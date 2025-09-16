@@ -8,11 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/${{ github.repository_owner }}/kobo-tieng-viet:base
     steps:
-    - name: Install git and make
-      run: |
-        apt-get update
-        apt-get install -y git make
-
     - name: Checkout
       uses: actions/checkout@v5
       with:
@@ -24,7 +19,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: kobo-tieng-viet
+        name: KoboRoot.tgz
         path: ./dist/KoboRoot.tgz
 
     - name: Create GitHub Release
