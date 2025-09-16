@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>You're on the wait list and you'll receive an email when it becomes available</source>
-        <translation>Bạn đang trong hàng chờ và sẽ nhận được email khi sách có sẵn</translation>
+        <translation>Bạn đang trong hàng chờ và sẽ nhận được email khi sách có thể mượn</translation>
     </message>
     <message>
         <source>You've already placed a hold on this book</source>
@@ -26,6 +26,6 @@
     </message>
     <message>
         <source>You've reached the maximum number of items that you can place on hold at a time. Please contact %1 directly for more details.</source>
-        <translation>Bạn đã đạt giới hạn đặt chỗ tối đa. Vui lòng liên hệ %1 để biết thêm chi tiết.</translation>
+        <translation>Đã đạt giới hạn đối đa số lượng giữ chỗ cùng một lúc. Vui lòng liên hệ %1 để biết thêm chi tiết.</translation>
     </message>
 </context>

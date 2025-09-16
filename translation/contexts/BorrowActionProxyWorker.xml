@@ -26,6 +26,6 @@
     </message>
     <message>
         <source>You've reached the maximum number of items that you can borrow at a time. Please contact %1 directly for more details.</source>
-        <translation>Bạn đã đạt giới hạn số sách có thể mượn cùng lúc. Vui lòng liên hệ trực tiếp với %1 để biết thêm chi tiết.</translation>
+        <translation>Đã đạt giới hạn đối đa số lượng giữ chỗ cùng một lúc. Vui lòng liên hệ trực tiếp %1 để biết thêm chi tiết.</translation>
     </message>
 </context>

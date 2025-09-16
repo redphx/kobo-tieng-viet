@@ -2,7 +2,7 @@
     <name>SyncNotificationProvider</name>
     <message>
         <source>"%1" at %2 is ready to borrow. Get it while you're still first on the list.</source>
-        <translation>"%1" tại %2 đã sẵn sàng để mượn. Lấy nó khi bạn vẫn ở đầu danh sách.</translation>
+        <translation>"%1" tại %2 đã sẵn sàng. Mượn ngay khi bạn vẫn còn ở đầu danh sách.</translation>
     </message>
     <message>
         <source>Article %1 of %2</source>
@@ -130,6 +130,6 @@
     </message>
     <message>
         <source>Your holds at %1 are ready to borrow. Get them while you're still first on the list.</source>
-        <translation>Khoản giữ chỗ của bạn tại %1 đã sẵn sàng để mượn. Lấy chúng khi bạn vẫn ở đầu danh sách.</translation>
+        <translation>Các tựa sách bạn đặt chỗ tại %1 đã sẵn sàng. Mượn ngay khi bạn vẫn còn ở đầu danh sách.</translation>
     </message>
 </context>
