@@ -34,19 +34,19 @@
     </message>
     <message>
         <source>Downloading Notebook</source>
-        <translation>Đang tải sổ tay xuống</translation>
+        <translation>Đang tải Sổ tay</translation>
     </message>
     <message>
         <source>Downloading...</source>
-        <translation>Đang tải xuống...</translation>
+        <translation>Đang tải...</translation>
     </message>
     <message>
         <source>Downloading: %1%</source>
-        <translation>Đang tải xuống: %1%</translation>
+        <translation>Đang tải: %1%</translation>
     </message>
     <message>
         <source>Finished downloading</source>
-        <translation>Đã hoàn thành tải xuống</translation>
+        <translation>Đã tải xuống xong</translation>
     </message>
     <message>
         <source>Finished uploading</source>
@@ -114,19 +114,19 @@
     </message>
     <message>
         <source>Uploading Dropbox files</source>
-        <translation>Đang tải file Dropbox lên</translation>
+        <translation>Đang gửi file lên Dropbox</translation>
     </message>
     <message>
         <source>Uploading Google Drive files</source>
-        <translation>Đang tải file Google Drive lên</translation>
+        <translation>Đang gửi file lên Google Drive</translation>
     </message>
     <message>
         <source>Uploading Notebook</source>
-        <translation>Đang tải sổ tay lên</translation>
+        <translation>Đang gửi Sổ tay lên</translation>
     </message>
     <message>
         <source>Uploading notebooks</source>
-        <translation>Đang tải sổ tay lên</translation>
+        <translation>Đang gửi sổ tay lên</translation>
     </message>
     <message>
         <source>Your holds at %1 are ready to borrow. Get them while you're still first on the list.</source>

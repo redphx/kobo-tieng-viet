@@ -22,10 +22,10 @@
     </message>
     <message>
         <source>Sync your device to download the required handwriting recognition resources.</source>
-        <translation>Đồng bộ thiết bị để tải tài nguyên nhận dạng chữ viết tay cần thiết.</translation>
+        <translation>Đồng bộ thiết bị để tải dữ liệu nhận dạng chữ viết tay cần thiết.</translation>
     </message>
     <message>
         <source>Syncing recognition resources...</source>
-        <translation>Đang đồng bộ tài nguyên nhận dạng...</translation>
+        <translation>Đang đồng bộ dữ liệu nhận dạng...</translation>
     </message>
 </context>
