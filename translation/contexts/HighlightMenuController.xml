@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>This bookmark has a note attached to it. Are you sure you want to delete it?</source>
-        <translation>Dấu trang này có một ghi chú đính kèm với nó. Bạn có chắc muốn xóa nó?</translation>
+        <translation>Dấu trang này có một ghi chú kèm theo. Bạn có chắc muốn xóa nó?</translation>
     </message>
     <message>
         <source>This highlight has a note attached to it. Are you sure you want to delete it?</source>
-        <translation>Đánh dấu này có một ghi chú đính kèm với nó. Bạn có chắc muốn xóa nó?</translation>
+        <translation>Đánh dấu này có một ghi chú kèm theo. Bạn có chắc muốn xóa nó?</translation>
     </message>
     <message>
         <source>View details</source>
