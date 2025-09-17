@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Disabling Wi Fi prevents your eReader from connecting to the Internet automatically.</source>
-        <translation>Việc tắt Wi-Fi sẽ ngăn máy đọc sách của bạn tự động kết nối với Internet.</translation>
+        <translation>Việc tắt Wi-Fi sẽ ngăn máy đọc sách tự động kết nối Internet.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Whenever you connect to a network, it becomes a known network. These networks are automatically used to connect to the Internet when they are in range.</source>
-        <translation>Bất cứ khi nào bạn kết nối với một mạng, nó sẽ trở thành một mạng đã biết. Các mạng này tự động được sử dụng để kết nối Internet khi chúng ở trong phạm vi phủ sóng.</translation>
+        <translation>Mỗi khi bạn kết nối với một mạng, nó sẽ trở thành mạng đã biết. Máy sẽ tự động dùng các mạng này để kết nối Internet khi nằm trong phạm vi phủ sóng.</translation>
     </message>
     <message>
         <source>Wi Fi:</source>

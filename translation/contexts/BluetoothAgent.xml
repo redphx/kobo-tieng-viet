@@ -2,7 +2,7 @@
     <name>BluetoothAgent</name>
     <message>
         <source>"%0" wants to pair with your eReader.</source>
-        <translation>"%0" muốn ghép đôi với máy đọc sách của bạn.</translation>
+        <translation>"%0" muốn ghép đôi với máy đọc sách này.</translation>
     </message>
     <message>
         <source>%0 wants to authorize a service (%1)</source>

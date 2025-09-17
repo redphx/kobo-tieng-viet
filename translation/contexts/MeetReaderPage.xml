@@ -2,11 +2,11 @@
     <name>MeetReaderPage</name>
     <message>
         <source>Locate the controls</source>
-        <translation>Xác định vị trí điều khiển</translation>
+        <translation>Xác định các nút điều khiển</translation>
     </message>
     <message>
         <source>Meet your eReader</source>
-        <translation>Gặp gỡ máy đọc sách của bạn</translation>
+        <translation>Khám phá máy đọc sách của bạn</translation>
     </message>
     <message>
         <source>Welcome to %1! We'd like to show you the basics of your new eReader so that you can get the most out of your reading experience. Let's get started...</source>

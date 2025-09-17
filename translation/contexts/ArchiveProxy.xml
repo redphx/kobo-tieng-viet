@@ -6,11 +6,11 @@
     </message>
     <message>
         <source>If you cancel downloading "%1", you won't be able to listen to it on your eReader.</source>
-        <translation>Nếu bạn hủy tải xuống "%1", bạn sẽ không thể nghe nó trên máy đọc sách của bạn.</translation>
+        <translation>Nếu bạn hủy tải xuống "%1", bạn sẽ không thể nghe nó trên máy đọc sách này.</translation>
     </message>
     <message>
         <source>If you cancel downloading "%1", you won't be able to read it on your eReader.</source>
-        <translation>Nếu bạn hủy tải xuống "%1", bạn sẽ không thể đọc nó trên máy đọc sách của bạn.</translation>
+        <translation>Nếu bạn hủy tải xuống "%1", bạn sẽ không thể đọc nó trên máy đọc sác này.</translation>
     </message>
     <message>
         <source>No</source>
