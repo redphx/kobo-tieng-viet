@@ -1,0 +1,12 @@
+services:
+  builder:
+    image: ${IMAGE_NAME}:${APP_VERSION}
+    build:
+      context: .
+      dockerfile: dockerfile
+    env_file:
+      - .env
+    volumes:
+      - ./dist:/app/dist
+      - ${FONTS_DIR}:/app/fonts 
+    command: ["--build", "${BUILD}", "--version", "${VERSION}", "--name", "${TGZ_NAME}"]
