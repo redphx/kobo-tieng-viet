@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>Scanning...&lt;br/&gt;&lt;br/&gt;Please ensure your bluetooth device is in pairing mode.</source>
-        <translation>Đang quét...&lt;br/&gt;&lt;br/&gt;Vui lòng đảm bảo thiết bị Bluetooth của bạn đang ở chế độ ghép đôi.</translation>
+        <translation>Đang quét...&lt;br/&gt;&lt;br/&gt;Đảm bảo thiết bị Bluetooth của bạn đang ở chế độ ghép đôi.</translation>
     </message>
     <message>
         <source>Sort: %0</source>

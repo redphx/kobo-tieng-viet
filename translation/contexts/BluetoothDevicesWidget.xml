@@ -14,11 +14,11 @@
     </message>
     <message>
         <source>Connected As Audio</source>
-        <translation>Đã kết nối âm thanh</translation>
+        <translation>Đã kết nối thiết bị âm thanh</translation>
     </message>
     <message>
         <source>Connecting To Audio...</source>
-        <translation>Đang kết nối âm thanh...</translation>
+        <translation>Đang kết nối thiết bị âm thanh...</translation>
     </message>
     <message>
         <source>Connecting...</source>
@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>Could Not Connect To Audio</source>
-        <translation>Không thể kết nối với âm thanh</translation>
+        <translation>Không kết nối dược với thiết bị âm thanh</translation>
     </message>
     <message>
         <source>Disconnecting...</source>
@@ -46,6 +46,6 @@
     </message>
     <message>
         <source>Saved, Available</source>
-        <translation>Đã lưu, Khả dụng</translation>
+        <translation>Đã lưu, có thể kết nối</translation>
     </message>
 </context>

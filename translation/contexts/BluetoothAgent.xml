@@ -30,10 +30,10 @@
     </message>
     <message>
         <source>Please confirm that %0 is the code shown on "%1".</source>
-        <translation>Vui lòng xác nhận rằng %0 là mã hiển thị trên "%1".</translation>
+        <translation>Vui lòng xác nhận rằng %0 là mã được hiển thị trên "%1".</translation>
     </message>
     <message>
         <source>Please type %0 on "%1", followed by the return or enter key.</source>
-        <translation>Vui lòng nhập %0 trên "%1", sau đó nhấn phím trả lời hoặc enter.</translation>
+        <translation>Vui lòng nhập %0 trên "%1", sau đó nhấn phím Return hoặc Enter.</translation>
     </message>
 </context>

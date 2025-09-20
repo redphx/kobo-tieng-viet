@@ -2,7 +2,7 @@
     <name>BluetoothAliasView</name>
     <message>
         <source>Your %1 eReader will be discoverable over Bluetooth using this name:</source>
-        <translation>Máy đọc sách %1 của bạn sẽ có thể được tìm thấy qua Bluetooth bằng tên này:</translation>
+        <translation>Máy %1 của bạn sẽ có thể được tìm thấy qua Bluetooth bằng tên này:</translation>
     </message>
     <message>
         <source>Your device name</source>

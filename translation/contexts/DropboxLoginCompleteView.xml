@@ -2,7 +2,7 @@
     <name>DropboxLoginCompleteView</name>
     <message>
         <source>&lt;h2&gt;Your %1 eReader is now linked with Dropbox&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Máy đọc sách %1 của bạn hiện đã được liên kết với Dropbox&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;Máy %1 của bạn hiện đã được liên kết với Dropbox&lt;/h2&gt;</translation>
     </message>
     <message>
         <source>&lt;p style="font-family: Georgia;"&gt;eBooks and documents in your Dropbox folder will also now appear on your eReader under More &gt; My Dropbox. Once you download an item from My Dropbox, you'll find it under My Books. </source>
