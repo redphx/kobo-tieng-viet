@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Oops, something happened to your internet connection and we couldn't finish your update. Please check your connection and try again.</source>
-        <translation>Xảy ra vấn đề với kết nối Internet và chúng tôi không thể hoàn thành cập nhật. Vui lòng kiểm tra kết nối của bạn và thử lại.</translation>
+        <translation>Không thể hoàn thành cập nhật vì lỗi kết nối Internet. Vui lòng kiểm tra kết nối và thử lại.</translation>
     </message>
     <message>
         <source>Try again</source>

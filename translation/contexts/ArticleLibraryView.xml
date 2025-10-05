@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>How to add articles</source>
-        <translation>Cách để thêm bài viết</translation>
+        <translation>Cách thêm bài viết</translation>
     </message>
     <message>
         <source>My Articles</source>
@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>Please wait while we sync your articles...</source>
-        <translation>Vui lòng chờ trong khi chúng tôi đồng bộ các bài viết của bạn...</translation>
+        <translation>Đang đồng bộ bài viết, vui lòng chờ...</translation>
     </message>
     <message>
         <source>Sort: %0</source>
