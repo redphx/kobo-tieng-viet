@@ -21,7 +21,7 @@ Bản cài đặt *hoàn toàn miễn phí* này cung cấp giao diện tiếng 
 - Sửa lỗi hiển thị tiếng Việt
 - Sửa lỗi không hiển thị chính xác font monospace
 - Dễ cài đặt, kích thước nhỏ gọn (bé hơn 3 MB)
-- Hỗ trợ nhiều dòng máy, không phân biệt firmware
+- Hỗ trợ mọi dòng máy chạy firmware 4.x
 - ***Tùy chọn:*** cài đặt thêm từ điển Anh-Việt Lạc Việt/TFlat 170 ngàn từ cho Kobo/Kindle tại [redphx/tudien](https://github.com/redphx/tudien)
 
 Giao diện được dịch dựa trên bản dịch từ ChatGPT, sau đó được chỉnh sửa thủ công cho phù hợp.  
@@ -37,7 +37,7 @@ Xin cảm ơn ♥️
 
 ## 🤓 2. Hướng dẫn cài đặt
 
-Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy firmware từ 4.x trở lên. Có thể cài trên 3.x nhưng chưa được kiểm nghiệm.
+Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy firmware 4.x. Có thể cài trên 3.x nhưng chưa được kiểm nghiệm. Không hỗ trợ firmware 5.x.
 
 ***Đã cài đặt thành công trên:***
 
@@ -54,7 +54,7 @@ Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy fir
 > Nên đọc mục ***3. Các câu hỏi thường gặp*** trước khi cài đặt.
 
 1. Tải file [`KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
-2. Kết nối Kobo với máy tính qua cổng USB, chép file `KoboRoot.tgz` vừa tải vào thư mục `.kobo` trên Kobo. Để nguyên, không giải nén, tên file phải là `KoboRoot.tgz`.
+2. Kết nối Kobo với máy tính qua cổng USB, chép file `KoboRoot.tgz` vừa tải vào thư mục ẩn `.kobo` trên Kobo. Để nguyên, không giải nén, tên file phải là `KoboRoot.tgz`.
   > Nếu bạn dùng macOS và không thấy thư mục `.kobo`, nhấn tổ hợp phím `Cmd + Shift + .` để hiện thư mục ẩn trong Finder
 3. Dùng chức năng `Tháo/Eject USB` trên máy tính để ngắt kết nối an toàn, tránh mất dữ liệu
 4. Nếu làm đúng, Kobo sẽ tự động cập nhật và khởi động lại. Quá trình này chỉ mất tầm 3 phút. ***Không tắt nguồn khi máy đang cập nhật***.
