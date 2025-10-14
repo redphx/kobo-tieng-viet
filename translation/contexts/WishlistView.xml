@@ -45,7 +45,7 @@
     <message numerus="yes">
         <source>There are %n books in your Wishlist that are included with your Kobo Plus subscription. Add them to your books to get full access.</source>
         <translation>
-            <numerusform>Có %n cuốn sách trong Danh sách mong muốn của bạn đi kèm với đăng ký Kobo Plus. Thêm chúng vào sách của bạn để truy cập đầy đủ.</numerusform>
+            <numerusform>Có %n cuốn sách trong Danh sách mong muốn của bạn đi kèm với gói Kobo Plus. Thêm chúng vào sách của bạn để truy cập đầy đủ.</numerusform>
         </translation>
     </message>
     <message>

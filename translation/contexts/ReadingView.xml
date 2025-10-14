@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>The fonts available on your eReader might not support all characters in this book.&lt;br&gt;&lt;br&gt;Tip: To add your own fonts to your eReader, connect your eReader to your computer with the USB cable, then copy over your font files.</source>
-        <translation>Font trên máy đọc sách có thể không hỗ trợ hết ký tự trong sách này.&lt;br&gt;&lt;br&gt;Mẹo: Để thêm font, kết nối máy đọc sách với máy tính qua cáp USB rồi sao chép các file font vào.</translation>
+        <translation>Font trên máy đọc sách có thể không hỗ trợ hết ký tự trong sách này.&lt;br&gt;&lt;br&gt;Mẹo: Để thêm font, kết nối máy đọc sách với máy tính qua cáp USB rồi chép các file font vào.</translation>
     </message>
     <message>
         <source>This file format cannot currently be marked up with the %1 Stylus.</source>
