@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>BACKGROUND SYNC</source>
-        <translation>ĐỒNG BỘ TRONG NỀN</translation>
+        <translation>ĐỒNG BỘ NGẦM</translation>
     </message>
     <message>
         <source>Evening</source>
@@ -42,11 +42,11 @@
     </message>
     <message>
         <source>Reading Settings</source>
-        <translation>Cài đặt đọc</translation>
+        <translation>Cài đặt lúc đọc</translation>
     </message>
     <message>
         <source>Sync My Notebooks:</source>
-        <translation>Đồng bộ sổ tay của tôi:</translation>
+        <translation>Đồng bộ Sổ tay của tôi:</translation>
     </message>
     <message>
         <source>Sync time:</source>
