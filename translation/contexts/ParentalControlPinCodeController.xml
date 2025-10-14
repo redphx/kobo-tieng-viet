@@ -2,20 +2,20 @@
     <name>ParentalControlPinCodeController</name>
     <message>
         <source>&lt;center&gt;&lt;b&gt;Parental Controls are now turned off.&lt;/b&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;b&gt;Kiểm soát của phụ huynh đã được tắt.&lt;/b&gt;&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;&lt;b&gt;Tính năng Kiểm soát của phụ huynh đã được tắt.&lt;/b&gt;&lt;/center&gt;</translation>
         <extracomment>4.43.23418</extracomment>
     </message>
     <message>
         <source>&lt;center&gt;Parental Controls are now turned off.&lt;br&gt;&lt;br&gt;To turn it back on, go to Settings and select Accounts.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Tính năng Kiểm soát của cha mẹ hiện đã bị tắt.&lt;br&gt;&lt;br&gt;Để bật lại tính năng này, hãy đi tới Cài đặt và chọn Tài khoản.&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;Tính năng Kiểm soát của phụ huynh đã được tắt.&lt;br&gt;&lt;br&gt;Để bật lại, hãy tới mục Cài đặt và chọn Tài khoản.&lt;/center&gt;</translation>
     </message>
     <message>
         <source>Don't forget to keep your PIN safe. If you forget it, you'll need to sign out, and may lose your recent bookmarks or annotations.</source>
-        <translation>Đừng quên giữ mã PIN an toàn. Nếu quên, bạn sẽ phải đăng xuất và có thể mất dấu trang hoặc chú thích gần đây.</translation>
+        <translation>Đừng quên mã PIN của bạn. Nếu quên, bạn sẽ phải đăng xuất và có thể mất dấu trang hoặc chú thích gần đây.</translation>
     </message>
     <message>
         <source>Don't forget to keep your PIN safe. Please note, parental controls won't prevent your eReader from syncing.</source>
-        <translation>Đừng quên giữ mã PIN an toàn. Lưu ý rằng, chức năng kiểm soát của phụ huynh sẽ không ngăn máy đọc sách của bạn đồng bộ.</translation>
+        <translation>Đừng quên mã PIN của bạn. Lưu ý: tính năng Kiểm soát của phụ huynh sẽ không ngăn máy đọc sách của bạn đồng bộ.</translation>
         <extracomment>4.43.23418</extracomment>
     </message>
     <message>
