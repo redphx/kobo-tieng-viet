@@ -13,6 +13,11 @@
         <translation>3.</translation>
     </message>
     <message>
+        <source>4.</source>
+        <translation>4.</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
         <source>Bluetooth Help</source>
         <translation>Trợ giúp Bluetooth</translation>
     </message>
@@ -29,7 +34,17 @@
         <translation>Nếu thiết bị Bluetooth của bạn đã từng kết nối với thiết bị khác, ví dụ như laptop hoặc điện thoại, hãy thử ngắt kết nối nó khỏi các thiết bị đó. </translation>
     </message>
     <message>
+        <source>Make sure Wi Fi is enabled on your eReader under Settings &gt; Wi Fi connection.</source>
+        <translation>Make sure Wi Fi is enabled on your eReader under Settings &gt; Wi Fi connection.</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
         <source>Put your Bluetooth device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</source>
         <translation>Đặt thiết bị Bluetooth của bạn vào chế độ ghép đôi. Để biết cách đặt thiết bị vào chế độ ghép đôi, hãy làm theo hướng dẫn đi kèm thiết bị đó.</translation>
+    </message>
+    <message>
+        <source>Put your device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</source>
+        <translation>Put your device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</translation>
+        <extracomment>4.44.23552</extracomment>
     </message>
 </context>

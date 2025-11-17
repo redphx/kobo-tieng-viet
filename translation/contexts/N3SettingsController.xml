@@ -9,6 +9,11 @@
         <translation>&lt;br /&gt;&lt;br /&gt;&lt;table class="limits"&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;FCC/IC 1g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N428&lt;/td&gt;&lt;td&gt;1.6&lt;/td&gt;&lt;td&gt;1.16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;EU/ACMA/NBTC 10g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N428&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;td&gt;1.17&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br&gt;</translation>
     </message>
     <message>
+        <source>&lt;br /&gt;&lt;br /&gt;&lt;table class="limits"&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;FCC/IC 1g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N428B&lt;/td&gt;&lt;td&gt;1.6&lt;/td&gt;&lt;td&gt;1.19&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;EU/ACMA 10g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N428B&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;td&gt;0.67&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br&gt;</source>
+        <translation>&lt;br /&gt;&lt;br /&gt;&lt;table class="limits"&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;FCC/IC 1g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N428B&lt;/td&gt;&lt;td&gt;1.6&lt;/td&gt;&lt;td&gt;1.19&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;EU/ACMA 10g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N428B&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;td&gt;0.67&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br&gt;</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
         <source>&lt;br /&gt;&lt;br /&gt;&lt;table class="limits"&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;FCC/IC 1g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N605&lt;/td&gt;&lt;td&gt;1.6&lt;/td&gt;&lt;td&gt;1.16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;EU/ACMA/NBTC 10g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N605&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;td&gt;1.39&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br&gt;</source>
         <translation>&lt;br /&gt;&lt;br /&gt;&lt;table class="limits"&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;FCC/IC 1g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N605&lt;/td&gt;&lt;td&gt;1.6&lt;/td&gt;&lt;td&gt;1.16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Device Model&lt;/td&gt;&lt;td&gt;EU/ACMA/NBTC 10g SAR Limit&lt;/td&gt;&lt;td&gt;Highest Reported Body (0 mm Gap) Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;N605&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;td&gt;1.39&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br&gt;</translation>
     </message>
@@ -95,6 +100,11 @@
     <message>
         <source>&lt;p&gt;The frequency and maximum transmitted power in EU are listed as below:&lt;br&gt;2.412 - 2.472 GHz: 19.51 dBm&lt;br&gt;5.18 - 5.24 GHz: 21.31 dBm&lt;br&gt;2.402 - 2.48 GHz: 6.5 dBm (BT-EDR), 6.08 dBm (BT-LE)&lt;/p&gt;</source>
         <translation>&lt;p&gt;The frequency and maximum transmitted power in EU are listed as below:&lt;br&gt;2.412 - 2.472 GHz: 19.51 dBm&lt;br&gt;5.18 - 5.24 GHz: 21.31 dBm&lt;br&gt;2.402 - 2.48 GHz: 6.5 dBm (BT-EDR), 6.08 dBm (BT-LE)&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;The frequency and maximum transmitted power in EU are listed as below:&lt;br&gt;2.412 - 2.472 GHz: 19.79 dBm&lt;br&gt;5.18 - 5.24 GHz: 20.7 dBm&lt;br&gt;2.402 - 2.480 GHz: 7.1 dBm (BT-EDR), 6.82 dBm (BT-LE)&lt;/p&gt;</source>
+        <translation>&lt;p&gt;The frequency and maximum transmitted power in EU are listed as below:&lt;br&gt;2.412 - 2.472 GHz: 19.79 dBm&lt;br&gt;5.18 - 5.24 GHz: 20.7 dBm&lt;br&gt;2.402 - 2.480 GHz: 7.1 dBm (BT-EDR), 6.82 dBm (BT-LE)&lt;/p&gt;</translation>
+        <extracomment>4.44.23552</extracomment>
     </message>
     <message>
         <source>&lt;p&gt;The frequency and maximum transmitted power in EU are listed as below:&lt;br&gt;2.412 - 2.472 GHz: 19.91 dBm&lt;/p&gt;</source>

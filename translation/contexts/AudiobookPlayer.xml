@@ -1,11 +1,31 @@
 <context>
     <name>AudiobookPlayer</name>
     <message>
+        <source>Bluetooth is disabled</source>
+        <translation>Bluetooth is disabled</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
         <source>Connecting...</source>
         <translation>Đang kết nối...</translation>
     </message>
     <message>
+        <source>Enable</source>
+        <translation>Enable</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
         <source>No Bluetooth Connected</source>
         <translation>Không có kết nối Bluetooth</translation>
+    </message>
+    <message>
+        <source>To play your audiobook, Bluetooth needs to be enabled. Would you like to do this now?</source>
+        <translation>To play your audiobook, Bluetooth needs to be enabled. Would you like to do this now?</translation>
+        <extracomment>4.44.23552</extracomment>
     </message>
 </context>

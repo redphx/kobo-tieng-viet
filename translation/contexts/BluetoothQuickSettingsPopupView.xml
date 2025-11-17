@@ -1,0 +1,23 @@
+<context>
+    <name>BluetoothQuickSettingsPopupView</name>
+    <message>
+        <source>Bluetooth Settings</source>
+        <translation>Bluetooth Settings</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
+        <source>Bluetooth ® %1</source>
+        <translation>Bluetooth ® %1</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
+        <source>DISABLED</source>
+        <translation>DISABLED</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+    <message>
+        <source>ENABLED</source>
+        <translation>ENABLED</translation>
+        <extracomment>4.44.23552</extracomment>
+    </message>
+</context>
