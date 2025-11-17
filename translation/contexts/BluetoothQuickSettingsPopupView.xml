@@ -2,7 +2,7 @@
     <name>BluetoothQuickSettingsPopupView</name>
     <message>
         <source>Bluetooth Settings</source>
-        <translation>Bluetooth Settings</translation>
+        <translation>Cài đặt Bluetooth</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
     <message>
@@ -12,12 +12,12 @@
     </message>
     <message>
         <source>DISABLED</source>
-        <translation>DISABLED</translation>
+        <translation>ĐANG TẮT</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
     <message>
         <source>ENABLED</source>
-        <translation>ENABLED</translation>
+        <translation>ĐANG BẬT</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
 </context>

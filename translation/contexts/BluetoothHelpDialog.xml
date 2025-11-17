@@ -35,16 +35,16 @@
     </message>
     <message>
         <source>Make sure Wi Fi is enabled on your eReader under Settings &gt; Wi Fi connection.</source>
-        <translation>Make sure Wi Fi is enabled on your eReader under Settings &gt; Wi Fi connection.</translation>
+        <translation>Đảm bảo bạn đã bật Wi-Fi trên máy đọc sách tại Cài đặt &gt; Kết nối Wi-Fi.</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
     <message>
         <source>Put your Bluetooth device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</source>
-        <translation>Đặt thiết bị Bluetooth của bạn vào chế độ ghép đôi. Để biết cách đặt thiết bị vào chế độ ghép đôi, hãy làm theo hướng dẫn đi kèm thiết bị đó.</translation>
+        <translation>Bật chế độ ghép đôi trên thiết bị Bluetooth của bạn. Nếu không rõ cách làm, hãy xem tài liệu hướng dẫn của thiết bị.</translation>
     </message>
     <message>
         <source>Put your device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</source>
-        <translation>Put your device into pairing mode. For support on how to set your device to pairing mode, follow the instructions that came with that device.</translation>
+        <translation>Bật chế độ ghép đôi trên thiết bị của bạn. Nếu không rõ cách làm, hãy xem tài liệu hướng dẫn của thiết bị.</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
 </context>

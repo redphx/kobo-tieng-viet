@@ -2,12 +2,12 @@
     <name>AudiobookPlayer</name>
     <message>
         <source>Bluetooth is disabled</source>
-        <translation>Bluetooth is disabled</translation>
+        <translation>Bluetooth đang tắt</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation>Hủy</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
     <message>
@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>Enable</source>
-        <translation>Enable</translation>
+        <translation>Bật</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
     <message>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>To play your audiobook, Bluetooth needs to be enabled. Would you like to do this now?</source>
-        <translation>To play your audiobook, Bluetooth needs to be enabled. Would you like to do this now?</translation>
+        <translation>Cần bật Bluetooth để nghe được sách nói. Bạn có muốn bật nó không?</translation>
         <extracomment>4.44.23552</extracomment>
     </message>
 </context>
