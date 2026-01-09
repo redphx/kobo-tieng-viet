@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > Vui lòng chỉ chia sẻ link đến dự án thay vì tự ý upload lại bản cài đặt ở nơi khác. Cám ơn.
 
-***Theo dõi Facebook của dự án: https://www.facebook.com/getsachxy***
+***Theo dõi Facebook của dự án: https://fb.me/sachxy***
 
 Có hai vấn đề chính khi sử dụng máy đọc sách Kobo tại Việt Nam:  
 
