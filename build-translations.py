@@ -213,6 +213,12 @@ def generate_tgz(version: str, name: str):
 
     tgz_name = f'KoboRoot-{name}.tgz' if name else 'KoboRoot.tgz'
 
+    # Copy base KobotRoot.tgz to dist/KoboRoot.tgz if exists
+    if Path('KoboRoot.tgz').is_file():
+        print('✨ Tạo file KoboRoot.tgz có plugin')
+        with tarfile.open('KoboRoot.tgz', 'r:gz') as tar:
+            tar.extractall(path='./KoboRoot')
+
     # Create dist/KoboRoot.tgz
     with tarfile.open(dist_path / tgz_name, 'w:gz') as tar:
         for pth in KOBOROOT_DIR.rglob('*'):
@@ -224,7 +230,7 @@ def generate_tgz(version: str, name: str):
             tar.add(pth, arcname=arcname, recursive=False)
 
     # Create dist/VERSION
-    with open(dist_path / 'VERSION', 'w') as fp:
+    with open(dist_path / 'VERSION.txt', 'w') as fp:
         fp.write(version)
 
     print(f'Đã tạo file dist/{tgz_name} thành công!')

@@ -127,7 +127,7 @@ Nếu không thích các font này, bạn có thể thay chúng bằng cách c�
 3. Chạy lệnh để build file `dist/KoboRoot.tgz`:
 
     ```bash
-    uv run python build.py --include fonts
+    uv run python build-translations.py --include fonts
     ```
 
 4. Cài file trên vào Kobo để thử nghiệm
@@ -170,7 +170,7 @@ Sau khi có được file `lrelease`, cấu hình đường dẫn của nó tron
 3. Chạy lệnh để build file `dist/KoboRoot.tgz`:
 
     ```bash
-    uv run python build.py
+    uv run python build-translations.py
     ```
 
 4. Cài file trên vào Kobo để thử nghiệm
