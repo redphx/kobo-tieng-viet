@@ -22,3 +22,8 @@ KoboRoot/mnt/
 KoboRoot/usr/
 translation/*.ts
 translation/*.qm
+KoboRoot.tgz
+libtiengviet.so
+*.so
+*.moc
+*.o
