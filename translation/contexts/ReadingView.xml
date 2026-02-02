@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>%1 and %2 have been turned on as supplementary fonts for this book.</source>
-        <translation>%1 và %2 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+        <translation>%1 và %2 đã được chọn làm font bổ sung cho cuốn sách này.</translation>
     </message>
     <message>
         <source>%1 has been turned on as a supplementary font for this book.</source>
-        <translation>%1 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+        <translation>%1 đã được chọn làm font bổ sung cho cuốn sách này.</translation>
     </message>
     <message>
         <source>%1 hours to go</source>
@@ -42,11 +42,11 @@
     </message>
     <message>
         <source>%1, %2 and %3 have been turned on as supplementary fonts for this book.</source>
-        <translation>%1, %2 và %3 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+        <translation>%1, %2 và %3 đã được chọn làm font bổ sung cho cuốn sách này.</translation>
     </message>
     <message>
         <source>%1, %2, %3 and %4 have been turned on as supplementary fonts for this book.</source>
-        <translation>%1, %2, %3 và %4 đã được bật làm font bổ sung cho cuốn sách này.</translation>
+        <translation>%1, %2, %3 và %4 đã được chọn làm font bổ sung cho cuốn sách này.</translation>
     </message>
     <message>
         <source>%1&lt;br/&gt;&lt;br/&gt;This is a link to an external web page.  Do you want to open it in our experimental browser or save it to Instapaper for later?</source>
