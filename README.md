@@ -1,23 +1,23 @@
+> [!NOTE]
+> *🇬🇧 If you want to create a new language pack for your language, check [redphx/kobo-language-pack](https://github.com/redphx/kobo-language-pack)*
+
 # 🇻🇳 Dự án Kobo tiếng Việt
 > [!IMPORTANT]
 > Vui lòng chỉ chia sẻ link đến dự án thay vì tự ý upload lại bản cài đặt ở nơi khác. Cám ơn.
 
-***Theo dõi Facebook của dự án: https://fb.me/sachxy***
+***Theo dõi Facebook của dự án: [fb.me/sachxy](https://fb.me/sachxy)***
 
-Có hai vấn đề chính khi sử dụng máy đọc sách Kobo tại Việt Nam:  
+Có ba vấn đề chính khi sử dụng máy đọc sách Kobo tại Việt Nam:  
 
 1. Máy đọc được eBook tiếng Việt nhưng gặp lỗi hiển thị các phần như tiêu đề, mục lục...
-2. Máy không hỗ trợ giao diện tiếng Việt (nếu người dùng cần)
+2. Bàn phím không đủ ký tự tiếng Việt có dấu
+3. Máy không hỗ trợ giao diện tiếng Việt (nếu người dùng cần)
 
-Dự án này được tạo ra để khắc phục hai vấn đề trên.  
+Bản cài đặt ***hoàn toàn miễn phí*** này cung cấp giao diện tiếng Việt, thêm khả năng gõ tiếng Việt cho bàn phím và sửa lỗi hiển thị tiếng Việt trên các máy đọc sách Kobo.
 
-Bản cài đặt *hoàn toàn miễn phí* này cung cấp giao diện tiếng Việt và sửa lỗi hiển thị tiếng Việt trên các máy đọc sách Kobo.
-
-> [!NOTE]
-> *🇬🇧 If you want to create a new language pack for your language, check [redphx/kobo-language-pack](https://github.com/redphx/kobo-language-pack)*
-
-## 🔥 1. Chức năng của bản cài đặt
+## 🔥 1. Các tính năng của bản cài đặt
 - Thêm ngôn ngữ tiếng Việt cho máy (vẫn có thể quay về giao diện tiếng Anh nếu muốn)
+- Thêm khả năng gõ tiếng Việt cho bàn phím
 - Sửa lỗi hiển thị tiếng Việt
 - Sửa lỗi không hiển thị chính xác font monospace
 - Dễ cài đặt, kích thước nhỏ gọn (bé hơn 3 MB)
@@ -29,23 +29,21 @@ Bạn có thể đóng góp cho dự án bằng cách báo lỗi hoặc đề xu
 
 Xin cảm ơn ♥️
 
-| Trang chủ | Hoạt động | Mục lục |
+| Trang chủ | Bàn phím tiếng Việt | Mục lục |
 |:---------:|:---------:|:-------:|
-| [![Trang chủ](docs/images/screenshot-home.png)](docs/images/screenshot-home.png) | [![Hoạt động](docs/images/screenshot-activity.png)](docs/images/screenshot-activity.png) | [![Hoạt động](docs/images/screenshot-toc.png)](docs/images/screenshot-toc.png) |
+| [![Trang chủ](docs/images/screenshot-home.png)](docs/images/screenshot-home.png) | [![Bàn phím tiếng Việt](docs/images/screenshot-keyboard.png)](docs/images/screenshot-activity.png) | [![Hoạt động](docs/images/screenshot-toc.png)](docs/images/screenshot-toc.png) |
 | [redphx/tudien](https://github.com/redphx/tudien) | Font monospace | Chọn ngôn ngữ |
 | [![Từ điển](docs/images/screenshot-dict.png)](docs/images/screenshot-dict.png) | [![Font monospace](docs/images/screenshot-monospace.png)](docs/images/screenshot-monospace.png) | [![Chọn ngôn ngữ](docs/images/screenshot-language.png)](docs/images/screenshot-language.png) |
 
 ## 🤓 2. Hướng dẫn cài đặt
 
-Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy chạy firmware 4.x. Có thể cài trên 3.x nhưng chưa được kiểm nghiệm. Không hỗ trợ firmware 5.x.
+Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy Kobo chạy firmware 4.x. Không hỗ trợ firmware 3.x và 5.x.
 
-***Đã cài đặt thành công trên:***
+***Đã xác nhận cài đặt thành công trên:***
 
-| Kobo                        | Firmware 4.x |
-| --------------------------- |:------------:|
-| Aura (2013)                 |  ✓           |
-| Clara 2E, BW, Colour, HD... |  ✓           |
-| Libra 2, Colour...          |  ✓           |
+- Aura (2013)  
+- Clara 2E, BW, Colour, HD...  
+- Libra 2, Colour...  
 
 
 ### Các bước cài đặt
@@ -127,7 +125,7 @@ Nếu không thích các font này, bạn có thể thay chúng bằng cách c�
 3. Chạy lệnh để build file `dist/KoboRoot.tgz`:
 
     ```bash
-    uv run python build.py --include fonts
+    uv run python build-translations.py --include fonts
     ```
 
 4. Cài file trên vào Kobo để thử nghiệm
@@ -170,7 +168,7 @@ Sau khi có được file `lrelease`, cấu hình đường dẫn của nó tron
 3. Chạy lệnh để build file `dist/KoboRoot.tgz`:
 
     ```bash
-    uv run python build.py
+    uv run python build-translations.py
     ```
 
 4. Cài file trên vào Kobo để thử nghiệm
