@@ -1,23 +1,23 @@
 <context>
     <name>ElabelViewer</name>
     <message>
-        <source>Error while parsing eLabel content!</source>
-        <translation>Có lỗi khi đọc nội dung eLabel!</translation>
-        <extracomment>4.45.23640</extracomment></message>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation>Đang tải</translation>
-        <extracomment>4.45.23640</extracomment></message>
-    </message>
-    <message>
         <source>Certification resources are missing, please sync to download and try again.</source>
         <translation>Thiếu nguồn tài nguyên xác thực, vui lòng đồng bộ để tải về và thử lại.</translation>
-        <extracomment>4.45.23640</extracomment></message>
+        <extracomment>4.45.23640</extracomment>
     </message>
     <message>
         <source>eLabel</source>
         <translation>eLabel</translation>
-        <extracomment>4.45.23640</extracomment></message>
+        <extracomment>4.45.23640</extracomment>
+    </message>
+    <message>
+        <source>Error while parsing eLabel content!</source>
+        <translation>Có lỗi khi đọc nội dung eLabel!</translation>
+        <extracomment>4.45.23640</extracomment>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation>Đang tải</translation>
+        <extracomment>4.45.23640</extracomment>
     </message>
 </context>
