@@ -48,4 +48,9 @@
         <source>Undo Highlight</source>
         <translation>Hoàn tác đánh dấu</translation>
     </message>
+    <message>
+        <source>Search the web</source>
+        <translation>Tìm kiếm trên web</translation>
+        <extracomment>4.45.23640</extracomment>
+    </message>
 </context>
