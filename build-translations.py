@@ -122,10 +122,17 @@ def copy_fonts(fonts_dir: str):
         / 'fonts'
     )
     FONTS_ONBOARD_DIR = Path(KOBOROOT_DIR) / 'mnt' / 'onboard' / 'fonts'
+    FONTS_TIENGVIET_DIR = (
+        Path(KOBOROOT_DIR) / 'mnt' / 'onboard' / '.adds' / 'tiengviet' / 'fonts'
+    )
 
     # Generate font dirs
     os.makedirs(FONTS_TROLLTECH_DIR, exist_ok=True)
     os.makedirs(FONTS_ONBOARD_DIR, exist_ok=True)
+    os.makedirs(FONTS_TIENGVIET_DIR, exist_ok=True)
+
+    with open(FONTS_TIENGVIET_DIR / '_chu_y.txt', 'w') as fp:
+        fp.write('Không xóa file trong thư mục này!')
 
     # Copy fonts
     for font_class in FONTS:
@@ -143,6 +150,9 @@ def copy_fonts(fonts_dir: str):
 
                 shutil.copy(source_path, output_path)
                 fix_font(output_path, family_name, info, style)
+
+                if font_class != 'mono':
+                    shutil.copy(output_path, FONTS_TIENGVIET_DIR)
 
     print(f'- Đã chép font từ "{FONTS_SOURCE_DIR}" đến {FONTS_TROLLTECH_DIR}')
 
