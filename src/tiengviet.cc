@@ -20,7 +20,7 @@ int pluginInit() {
     return 0;
 }
 
-bool pluginInstall() {
+bool pluginUninstall() {
     return true;
 }
 
@@ -77,7 +77,7 @@ NickelHook(
     .info      = &PluginInfo,
     .hook      = PluginHook,
     .dlsym     = PluginsDlsym,
-    .uninstall = &pluginInstall,
+    .uninstall = &UniluginInstall,
 );
 
 QPointer<QWidget> globalPopupKeyboardController = nullptr;
