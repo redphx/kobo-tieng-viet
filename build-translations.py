@@ -112,24 +112,18 @@ def fix_font(font_path: Path, family_name: str, font_info: list, font_style: str
 
 def copy_fonts(fonts_dir: str):
     FONTS_SOURCE_DIR = fonts_dir or './fonts'
-    FONTS_TROLLTECH_DIR = (
-        Path(KOBOROOT_DIR)
-        / 'usr'
-        / 'local'
-        / 'Trolltech'
-        / 'QtEmbedded-4.6.2-arm'
-        / 'lib'
-        / 'fonts'
-    )
     FONTS_ONBOARD_DIR = Path(KOBOROOT_DIR) / 'mnt' / 'onboard' / 'fonts'
-    FONTS_TIENGVIET_DIR = (
-        Path(KOBOROOT_DIR) / 'mnt' / 'onboard' / '.adds' / 'tiengviet' / 'fonts'
-    )
+
+    TIENGVIET_DIR = Path(KOBOROOT_DIR) / 'mnt' / 'onboard' / '.adds' / 'tiengviet'
+    FONTS_TIENGVIET_DIR = TIENGVIET_DIR / 'fonts'
 
     # Generate font dirs
-    os.makedirs(FONTS_TROLLTECH_DIR, exist_ok=True)
     os.makedirs(FONTS_ONBOARD_DIR, exist_ok=True)
     os.makedirs(FONTS_TIENGVIET_DIR, exist_ok=True)
+
+    # Add install.txt file
+    with open(TIENGVIET_DIR / 'install.txt', 'w') as fp:
+        pass
 
     with open(FONTS_TIENGVIET_DIR / '_chu_y.txt', 'w') as fp:
         fp.write('Không xóa file trong thư mục này!')
@@ -146,15 +140,12 @@ def copy_fonts(fonts_dir: str):
                 if font_class == 'mono':
                     output_path = Path(FONTS_ONBOARD_DIR) / f'{info[0]}.ttf'
                 else:
-                    output_path = Path(FONTS_TROLLTECH_DIR) / f'{info[0]}.ttf'
+                    output_path = Path(FONTS_TIENGVIET_DIR) / f'{info[0]}.ttf'
 
                 shutil.copy(source_path, output_path)
                 fix_font(output_path, family_name, info, style)
 
-                if font_class != 'mono':
-                    shutil.copy(output_path, FONTS_TIENGVIET_DIR)
-
-    print(f'- Đã chép font từ "{FONTS_SOURCE_DIR}" đến {FONTS_TROLLTECH_DIR}')
+    print(f'- Đã chép font từ "{FONTS_SOURCE_DIR}" đến {FONTS_TIENGVIET_DIR}')
 
 
 def inject_about_page(source: str, version: str):
