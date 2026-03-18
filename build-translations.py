@@ -126,7 +126,9 @@ def copy_fonts(fonts_dir: str):
         pass
 
     with open(FONTS_TIENGVIET_DIR / '_chu_y.txt', 'w') as fp:
-        fp.write('Không xóa file trong thư mục này!')
+        fp.write(
+            'Không xóa file trong thư mục này nếu vẫn đang sử dụng Kobo Tiếng Việt!'
+        )
 
     # Copy fonts
     for font_class in FONTS:
