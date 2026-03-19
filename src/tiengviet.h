@@ -27,6 +27,7 @@ VirtualKey* (*SearchKeyboardController_newKey)(SearchKeyboardController* self, c
 NickelTouchMenu* (*PopupKeyboardController_menu)(PopupKeyboardController* self);
 int (*VirtualKey_text)(VirtualKey* self);
 QSize* (*VirtualKeyboard_keySize)(VirtualKeyboard* self);
+void (*ConfirmationDialogFactory_showOKDialog)(const QString& title, const QString& body);
 
 using KeyRow = std::vector<const char*>;
 using KeyRows = std::vector<KeyRow>;

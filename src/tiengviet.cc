@@ -2,25 +2,117 @@
 #include <NickelHook.h>
 
 #include <QString>
+#include <QDir>
+#include <QFile>
 #include <QVector>
 #include <QLocale>
 #include <QPointer>
 #include <QVBoxLayout>
 #include <QHBoxLayout>
+#include <QTimer>
 
 struct nh_info PluginInfo = {
     .name = "TiengViet",
     .desc = "Vietnamese keyboard",
     .uninstall_flag = DELETE_FILE_PATH,
-    // .uninstall_xflag = NULL,
-    // .failsafe_delay = 3,
+    .uninstall_xflag = NULL,
+    .failsafe_delay = 10,
 };
 
+bool isEncryptedFont(const QString &filePath) {
+    QFileInfo fileInfo(filePath);
+    if (!fileInfo.exists() || !fileInfo.isReadable()) {
+        nh_log("Can't read font file");
+        return false;
+    }
+
+    QFile file(filePath);
+    if (!file.open(QIODevice::ReadOnly)) {
+        nh_log("Can't read font file");
+        return false;
+    }
+
+    QByteArray header = file.read(3);
+    file.close();
+
+    return (header == "QTD");
+}
+
+
 int pluginInit() {
+    QString backupFontsPath = QStringLiteral("/mnt/onboard/.adds/tiengviet/fonts/");
+    QString systemFontsPath = QStringLiteral("/usr/local/Trolltech/QtEmbedded-4.6.2-arm/lib/fonts/");
+    QDir systemFontsDir(systemFontsPath);
+    bool patched = false;
+
+    // Force reinstall if the install.txt file exists
+    QFile installFile(QStringLiteral("/mnt/onboard/.adds/tiengviet/install.txt"));
+
+    if (installFile.exists() || isEncryptedFont(systemFontsPath + "RakutenSansUIApp-Regular.ttf") || isEncryptedFont(systemFontsPath + "georgia.ttf")) {
+        patched = true;
+
+        // Delete install.txt file
+        if (installFile.exists()) {
+            installFile.remove();
+        }
+
+        QStringList filesToCopy = {
+            // New
+            QStringLiteral("RakutenSansUIApp-Bold.ttf"),
+            QStringLiteral("RakutenSansUIApp-BoldItalic.ttf"),
+            QStringLiteral("RakutenSansUIApp-Italic.ttf"),
+            QStringLiteral("RakutenSansUIApp-Regular.ttf"),
+            QStringLiteral("RakutenSerifApp-Bold.ttf"),
+            QStringLiteral("RakutenSerifApp-BoldItalic.ttf"),
+            QStringLiteral("RakutenSerifApp-Italic.ttf"),
+            QStringLiteral("RakutenSerifApp-Regular.ttf"),
+
+            // Legacy
+            QStringLiteral("Avenir-Bold.ttf"),
+            QStringLiteral("Avenir-BoldItalic.ttf"),
+            QStringLiteral("Avenir-Italic.ttf"),
+            QStringLiteral("Avenir.ttf"),
+            QStringLiteral("georgia.ttf"),
+            QStringLiteral("georgiab.ttf"),
+            QStringLiteral("georgiai.ttf"),
+            QStringLiteral("georgiaz.ttf"),
+        };
+
+        // Copy fonts
+        for (QString& fileName : filesToCopy) {
+            QString src = backupFontsPath + fileName;
+            QString dst = systemFontsPath + fileName;
+
+            // Only copy if the target font exists
+            QFile srcFile(src);
+            QFile dstFile(dst);
+            if (!srcFile.exists() || !dstFile.exists()) {
+                continue;
+            }
+
+            // Remove old font
+            if (!dstFile.remove()) {
+                nh_log("Can't delete font");
+                continue;
+            }
+
+            // Copy over
+            srcFile.copy(dst);
+        }
+    } else {
+        nh_log("System fonts not found");
+    }
+
+    if (patched && ConfirmationDialogFactory_showOKDialog) {
+        QTimer::singleShot(5000, []() {
+            ConfirmationDialogFactory_showOKDialog(QStringLiteral("Kobo Tieng Viet"), QStringLiteral("Da sua loi tieng Viet thanh cong. Vui long khoi dong lai may."));
+        });
+    }
+
     return 0;
 }
 
-bool pluginInstall() {
+bool pluginUninstall() {
     return true;
 }
 
@@ -69,6 +161,12 @@ struct nh_dlsym PluginsDlsym[] = {
         .desc     = "VirtualKeyboard::keySize()",
         .optional = true,
     },
+    {
+        .name     = "_ZN25ConfirmationDialogFactory12showOKDialogERK7QStringS2_",
+        .out      = nh_symoutptr(ConfirmationDialogFactory_showOKDialog),
+        .desc     = "ConfirmationDialogFactory::showOKDialog()",
+        .optional = true,
+    },
 	{0}
 };
 
@@ -77,7 +175,7 @@ NickelHook(
     .info      = &PluginInfo,
     .hook      = PluginHook,
     .dlsym     = PluginsDlsym,
-    .uninstall = &pluginInstall,
+    .uninstall = &pluginUninstall,
 );
 
 QPointer<QWidget> globalPopupKeyboardController = nullptr;
