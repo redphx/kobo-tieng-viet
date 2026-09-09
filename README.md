@@ -50,6 +50,9 @@ Theo lý thuyết, bản cài đặt có thể dùng trên mọi máy Kobo chạ
 > [!NOTE]
 > Nên đọc mục ***3. Các câu hỏi thường gặp*** trước khi cài đặt.
 
+> [!WARNING]
+> Dùng Safari tải file sẽ bị lỗi. Chỉ nên dùng Firefox, Chrome hoặc các trình duyệt tương tự.
+
 1. Tải file [`KoboRoot.tgz`](https://github.com/redphx/kobo-tieng-viet/releases/latest) về máy
 2. Kết nối Kobo với máy tính qua cổng USB, chép file `KoboRoot.tgz` vừa tải vào thư mục ẩn `.kobo` trên Kobo. Để nguyên, không giải nén, tên file phải là `KoboRoot.tgz`.
     > Nếu bạn dùng macOS và không thấy thư mục `.kobo`, nhấn tổ hợp phím `Cmd + Shift + .` để hiện thư mục ẩn trong Finder
