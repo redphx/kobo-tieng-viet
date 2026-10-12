@@ -1,0 +1,19 @@
+name: Build
+on: [workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: ghcr.io/${{ github.repository_owner }}/kobo-tieng-viet:base
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        submodules: true
+    - name: Build
+      run: make all
+    - name: Upload
+      uses: actions/upload-artifact@v4
+      with:
+        name: KoboRoot.tgz
+        path: ./dist/KoboRoot.tgz
