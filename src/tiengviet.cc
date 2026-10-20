@@ -4,6 +4,7 @@
 #include <QString>
 #include <QDir>
 #include <QFile>
+#include <QFont>
 #include <QVector>
 #include <QLocale>
 #include <QPointer>
@@ -40,6 +41,11 @@ bool isEncryptedFont(const QString &filePath) {
 
 
 int pluginInit() {
+    // Nickel 4.39+ requests the non-existent "Rakuten Sans UI" family for the
+    // sleep screen charging label. Without this alias Qt falls back to Atkinson
+    // Hyperlegible, which has no Vietnamese precomposed glyphs (e.g. "ạ").
+    QFont::insertSubstitution(QStringLiteral("Rakuten Sans UI"), QStringLiteral("Rakuten Sans"));
+
     QString backupFontsPath = QStringLiteral("/mnt/onboard/.adds/tiengviet/fonts/");
     QString systemFontsPath = QStringLiteral("/usr/local/Trolltech/QtEmbedded-4.6.2-arm/lib/fonts/");
     QDir systemFontsDir(systemFontsPath);
